@@ -1,0 +1,2077 @@
+[
+    {
+        "age_ratings": [
+            75460
+        ], 
+        "category": 0, 
+        "checksum": "012d9ebe-c70f-d7b0-f63a-156489acc297", 
+        "cover": 47662, 
+        "created_at": 1499152853, 
+        "external_games": [
+            52728, 
+            137947, 
+            1876306
+        ], 
+        "first_release_date": 1208476800, 
+        "genres": [
+            14, 
+            15, 
+            16
+        ], 
+        "id": 43428, 
+        "keywords": [
+            622, 
+            1166, 
+            3171
+        ], 
+        "name": "World Championship Cards", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89445
+        ], 
+        "similar_games": [
+            11407, 
+            13196, 
+            32510, 
+            36258, 
+            56135, 
+            60693, 
+            64902, 
+            80213, 
+            102057, 
+            116353
+        ], 
+        "slug": "world-championship-cards", 
+        "summary": "Compete in 28 summer sporting events to be crowned the world's best athlete.", 
+        "tags": [
+            268435470, 
+            268435471, 
+            268435472, 
+            536871534, 
+            536872078, 
+            536874083
+        ], 
+        "updated_at": 1670952141, 
+        "url": "https://www.igdb.com/games/world-championship-cards", 
+        "websites": [
+            362760
+        ]
+    }, 
+    {
+        "alternative_names": [
+            71543
+        ], 
+        "category": 0, 
+        "checksum": "321981c0-82ac-6664-5b86-de1f93be2437", 
+        "collection": 4122, 
+        "cover": 168857, 
+        "created_at": 1499433904, 
+        "external_games": [
+            52845, 
+            1955809
+        ], 
+        "first_release_date": 1200182400, 
+        "franchises": [
+            2166
+        ], 
+        "game_localizations": [
+            7635
+        ], 
+        "genres": [
+            12, 
+            16, 
+            31
+        ], 
+        "id": 44671, 
+        "involved_companies": [
+            145805
+        ], 
+        "name": "Spectral Gene", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            305766
+        ], 
+        "screenshots": [
+            594819
+        ], 
+        "similar_games": [
+            13196, 
+            81249, 
+            96217, 
+            103232, 
+            105049, 
+            106987, 
+            112191, 
+            113402, 
+            115280, 
+            115653
+        ], 
+        "slug": "spectral-gene", 
+        "summary": "Spectral Gene is a Role-Playing game, developed and published by Idea Factory, which was released in Japan in 2007.", 
+        "tags": [
+            268435468, 
+            268435472, 
+            268435487
+        ], 
+        "updated_at": 1671555738, 
+        "url": "https://www.igdb.com/games/spectral-gene", 
+        "websites": [
+            413106
+        ]
+    }, 
+    {
+        "age_ratings": [
+            69313
+        ], 
+        "alternative_names": [
+            5530, 
+            5531
+        ], 
+        "category": 8, 
+        "checksum": "9f264ed5-fdee-7975-aa64-c679687694a4", 
+        "collection": 194, 
+        "cover": 220407, 
+        "created_at": 1444687816, 
+        "external_games": [
+            51770, 
+            141456, 
+            1920274
+        ], 
+        "first_release_date": 987552000, 
+        "franchises": [
+            458
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            15, 
+            16
+        ], 
+        "id": 13459, 
+        "involved_companies": [
+            27078, 
+            27079
+        ], 
+        "keywords": [
+            16, 
+            96, 
+            147, 
+            211, 
+            226, 
+            227, 
+            296, 
+            332, 
+            592, 
+            594, 
+            1026, 
+            1181, 
+            1299, 
+            1320, 
+            1559, 
+            1716, 
+            2066, 
+            2488, 
+            3222, 
+            3782, 
+            3918, 
+            4130, 
+            4248, 
+            4353, 
+            4359, 
+            4392, 
+            4407, 
+            4613, 
+            4863, 
+            4866, 
+            4958, 
+            5029, 
+            5095, 
+            5098, 
+            5124, 
+            5487, 
+            5820, 
+            6510, 
+            7445, 
+            9174, 
+            9652, 
+            9733, 
+            9822, 
+            9833, 
+            10269
+        ], 
+        "name": "Heroes of Might and Magic: Quest for the Dragon Bone Staff", 
+        "parent_game": 9613, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            38729, 
+            38730
+        ], 
+        "screenshots": [
+            15118, 
+            15119, 
+            15120, 
+            15121, 
+            15122
+        ], 
+        "similar_games": [
+            660, 
+            1593, 
+            2365, 
+            5652, 
+            7615, 
+            9613, 
+            9834, 
+            9938, 
+            10388, 
+            14394
+        ], 
+        "slug": "heroes-of-might-and-magic-quest-for-the-dragon-bone-staff", 
+        "summary": "Heroes of Might and Magic: Quest for the Dragon Bone Staff is a 2001 video game released on the PlayStation 2. Though 3DO did not advertise it as such, the game is an enhanced remake of King's Bounty.", 
+        "tags": [
+            17, 
+            268435471, 
+            268435472, 
+            536870928, 
+            536871008, 
+            536871059, 
+            536871123, 
+            536871138, 
+            536871139, 
+            536871208, 
+            536871244, 
+            536871504, 
+            536871506, 
+            536871938, 
+            536872093, 
+            536872211, 
+            536872232, 
+            536872471, 
+            536872628, 
+            536872978, 
+            536873400, 
+            536874134, 
+            536874694, 
+            536874830, 
+            536875042, 
+            536875160, 
+            536875265, 
+            536875271, 
+            536875304, 
+            536875319, 
+            536875525, 
+            536875775, 
+            536875778, 
+            536875870, 
+            536875941, 
+            536876007, 
+            536876010, 
+            536876036, 
+            536876399, 
+            536876732, 
+            536877422, 
+            536878357, 
+            536880086, 
+            536880564, 
+            536880645, 
+            536880734, 
+            536880745, 
+            536881181
+        ], 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1670972170, 
+        "url": "https://www.igdb.com/games/heroes-of-might-and-magic-quest-for-the-dragon-bone-staff", 
+        "videos": [
+            5855
+        ], 
+        "websites": [
+            394545
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "fa2c987e-eb1f-a5ff-ac19-6b5704d0e807", 
+        "collection": 3257, 
+        "cover": 199118, 
+        "created_at": 1499091982, 
+        "external_games": [
+            53055, 
+            128654, 
+            1458726
+        ], 
+        "first_release_date": 1115424000, 
+        "genres": [
+            15, 
+            16
+        ], 
+        "id": 43240, 
+        "keywords": [
+            78, 
+            167, 
+            970, 
+            1188, 
+            3171, 
+            3782, 
+            4141, 
+            4142, 
+            4250, 
+            8983, 
+            9322, 
+            9538, 
+            10883, 
+            11061, 
+            11386
+        ], 
+        "name": "Mobile Suit Gundam: The One Year War", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            386056
+        ], 
+        "similar_games": [
+            1877, 
+            13200, 
+            13660, 
+            19301, 
+            24620, 
+            25311, 
+            32510, 
+            34823, 
+            47870, 
+            79013
+        ], 
+        "slug": "mobile-suit-gundam-the-one-year-war", 
+        "summary": "Mobile Suit Gundam: The One Year War is an Action game, developed by Namco and published by Bandai, which was released in Japan in 2005.", 
+        "tags": [
+            1, 
+            18, 
+            268435471, 
+            268435472, 
+            536870990, 
+            536871079, 
+            536871882, 
+            536872100, 
+            536874083, 
+            536874694, 
+            536875053, 
+            536875054, 
+            536875162, 
+            536879895, 
+            536880234, 
+            536880450, 
+            536881795, 
+            536881973, 
+            536882298
+        ], 
+        "themes": [
+            1, 
+            18
+        ], 
+        "updated_at": 1670944714, 
+        "url": "https://www.igdb.com/games/mobile-suit-gundam-the-one-year-war", 
+        "websites": [
+            350177
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "43713a30-ca22-e604-a512-c1ae0bfc0b52", 
+        "cover": 93230, 
+        "created_at": 1515268830, 
+        "external_games": [
+            132059, 
+            1187152
+        ], 
+        "first_release_date": 1117065600, 
+        "follows": 1, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            15, 
+            16
+        ], 
+        "id": 80578, 
+        "involved_companies": [
+            93473, 
+            93474
+        ], 
+        "keywords": [
+            4560
+        ], 
+        "name": "Tear Ring Saga: Berwick Saga", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            189401
+        ], 
+        "screenshots": [
+            373887, 
+            373888, 
+            373889, 
+            373890, 
+            373891, 
+            373892, 
+            373893, 
+            373894, 
+            373895, 
+            373896
+        ], 
+        "similar_games": [
+            13196, 
+            25311, 
+            32510, 
+            34024, 
+            36258, 
+            56967, 
+            95340, 
+            113201, 
+            119156, 
+            119171
+        ], 
+        "slug": "tear-ring-saga-berwick-saga", 
+        "summary": "TearRing Saga Series: Berwick Saga, subtitled Lazberia Chronicle Chapter 174, is a game for the PlayStation 2 console. While it is officially the sequel to the original TearRing Saga: Utna Heroes Saga, the games are not significantly related by plot, and the Berwick Saga battle and skill systems borrow significantly less from Fire Emblem than the Utna Heroes Saga battle and skill system did; because of this, the two games barely resemble each other in terms of gameplay.", 
+        "tags": [
+            1, 
+            268435471, 
+            268435472, 
+            536875472
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670941983, 
+        "url": "https://www.igdb.com/games/tear-ring-saga-berwick-saga", 
+        "websites": [
+            344931
+        ]
+    }, 
+    {
+        "alternative_names": [
+            99129
+        ], 
+        "category": 0, 
+        "checksum": "b5777835-0cd5-f6ea-0cf3-5da6dbe9fea5", 
+        "collection": 8198, 
+        "created_at": 1661842627, 
+        "external_games": [
+            2534468
+        ], 
+        "first_release_date": 1039046400, 
+        "game_localizations": [
+            18065
+        ], 
+        "genres": [
+            16
+        ], 
+        "id": 214917, 
+        "involved_companies": [
+            185371, 
+            185372
+        ], 
+        "keywords": [
+            67
+        ], 
+        "name": "Kikou Heidan J-Phoenix: Cobalt Shoutai-hen", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            384646
+        ], 
+        "similar_games": [
+            90444, 
+            90922, 
+            94487, 
+            98171, 
+            106104, 
+            106805, 
+            122275, 
+            186639, 
+            194311, 
+            203080
+        ], 
+        "slug": "kikou-heidan-j-phoenix-cobalt-shoutai-hen", 
+        "summary": "Kikou Heidan J-Phoenix: Cobalt Shoutai-hen is a simulation game on Playstation 2 published by Takara, in 2002. In the previous series, they were action games, but this game incorporates a time and turn-based system. There is no conversion system in this game.", 
+        "tags": [
+            39, 
+            268435472, 
+            536870979
+        ], 
+        "themes": [
+            39
+        ], 
+        "updated_at": 1671020135, 
+        "url": "https://www.igdb.com/games/kikou-heidan-j-phoenix-cobalt-shoutai-hen", 
+        "websites": [
+            501568
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "d0890c29-3821-d050-800f-b5fa43213fdc", 
+        "collection": 4274, 
+        "cover": 50166, 
+        "created_at": 1506518885, 
+        "external_games": [
+            133854, 
+            1878378
+        ], 
+        "first_release_date": 1155513600, 
+        "genres": [
+            16
+        ], 
+        "id": 69146, 
+        "keywords": [
+            78, 
+            3171, 
+            4679, 
+            8269
+        ], 
+        "name": "Wrestle Angels: Survivor", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            429770
+        ], 
+        "screenshots": [
+            946578, 
+            946579, 
+            946580, 
+            946581
+        ], 
+        "similar_games": [
+            24959, 
+            32510, 
+            56135, 
+            60693, 
+            61439, 
+            64902, 
+            65394, 
+            80120, 
+            80213, 
+            81457
+        ], 
+        "slug": "wrestle-angels-survivor", 
+        "summary": "Wrestle Angel Survivor is similar to previous Wrestle Angels games in that it features a card battling system, all-female wrestlers, and a mode in which you manage a Wrestling company.", 
+        "tags": [
+            268435472, 
+            536870990, 
+            536874083, 
+            536875591, 
+            536879181
+        ], 
+        "updated_at": 1670952956, 
+        "url": "https://www.igdb.com/games/wrestle-angels-survivor", 
+        "websites": [
+            364709
+        ]
+    }, 
+    {
+        "alternative_names": [
+            31428, 
+            31429
+        ], 
+        "category": 0, 
+        "checksum": "28c2c28d-ea83-ba4d-7469-ae75a78719c1", 
+        "collection": 4392, 
+        "cover": 266252, 
+        "created_at": 1515285475, 
+        "external_games": [
+            126557, 
+            1894834
+        ], 
+        "first_release_date": 1101945600, 
+        "game_localizations": [
+            10126
+        ], 
+        "genres": [
+            16
+        ], 
+        "id": 80800, 
+        "keywords": [
+            78, 
+            296, 
+            3171, 
+            4142, 
+            4475
+        ], 
+        "name": "Cardcaptor Sakura: Sakura-Chan to Asobo!", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            192566
+        ], 
+        "similar_games": [
+            24959, 
+            27209, 
+            28018, 
+            32510, 
+            50834, 
+            56135, 
+            57296, 
+            60693, 
+            64902, 
+            80213
+        ], 
+        "slug": "cardcaptor-sakura-sakura-chan-to-asobo", 
+        "summary": "A Cardcaptor Sakura game for PlayStation 2 utilizing the Eye-Toy camera.", 
+        "tags": [
+            268435472, 
+            536870990, 
+            536871208, 
+            536874083, 
+            536875054, 
+            536875387
+        ], 
+        "updated_at": 1671638793, 
+        "url": "https://www.igdb.com/games/cardcaptor-sakura-sakura-chan-to-asobo", 
+        "websites": [
+            370024
+        ]
+    }, 
+    {
+        "alternative_names": [
+            71670
+        ], 
+        "category": 0, 
+        "checksum": "f651ca67-1466-aa58-61c5-9e867f84ec46", 
+        "cover": 290559, 
+        "created_at": 1507134521, 
+        "external_games": [
+            136372, 
+            1190689
+        ], 
+        "first_release_date": 1169078400, 
+        "game_localizations": [
+            9607
+        ], 
+        "genres": [
+            12, 
+            15, 
+            16
+        ], 
+        "id": 72814, 
+        "involved_companies": [
+            146119
+        ], 
+        "name": "Dragon Shadow Spell", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            306120
+        ], 
+        "screenshots": [
+            595280, 
+            595281, 
+            595282
+        ], 
+        "similar_games": [
+            7615, 
+            9472, 
+            13196, 
+            32510, 
+            36258, 
+            93694, 
+            103232, 
+            112191, 
+            113402, 
+            115653
+        ], 
+        "slug": "dragon-shadow-spell", 
+        "summary": "Dragon Shadow Spell is a strategy RPG from Flight Plan, better known as the developers of the Summon Night games until they went bankrupt in 2010. Dragon Shadow Spell was their first attempt at self-publishing a game, and I have long wanted to see what else Flight Plan could come up with apart from Summon Night", 
+        "tags": [
+            268435468, 
+            268435471, 
+            268435472
+        ], 
+        "updated_at": 1678068887, 
+        "url": "https://www.igdb.com/games/dragon-shadow-spell", 
+        "websites": [
+            347701
+        ]
+    }, 
+    {
+        "alternative_names": [
+            128273
+        ], 
+        "category": 10, 
+        "checksum": "e09fbbc1-787a-1121-5714-97630d29e717", 
+        "collection": 8644, 
+        "cover": 199122, 
+        "created_at": 1638271502, 
+        "external_games": [
+            2681223
+        ], 
+        "first_release_date": 1236211200, 
+        "franchises": [
+            820, 
+            2322
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            16
+        ], 
+        "id": 182490, 
+        "involved_companies": [
+            157526, 
+            174249
+        ], 
+        "language_supports": [
+            642666
+        ], 
+        "name": "Super Robot Taisen Z: Special Disc", 
+        "parent_game": 79342, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3, 
+            4
+        ], 
+        "release_dates": [
+            327257
+        ], 
+        "similar_games": [
+            13660, 
+            23297, 
+            23298, 
+            89550, 
+            102057, 
+            110011, 
+            111187, 
+            124329, 
+            178149, 
+            198441
+        ], 
+        "slug": "super-robot-taisen-z-special-disc", 
+        "summary": "Super Robot Taisen Z: Special Disc is a Strategy game, developed by Banpresto and published by Bandai Namco Games, which was released in Japan in 2009.", 
+        "tags": [
+            18, 
+            268435472
+        ], 
+        "themes": [
+            18
+        ], 
+        "updated_at": 1678086721, 
+        "url": "https://www.igdb.com/games/super-robot-taisen-z-special-disc"
+    }, 
+    {
+        "age_ratings": [
+            65763, 
+            128322
+        ], 
+        "aggregated_rating": 87.0, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            2039, 
+            42117, 
+            53992, 
+            128186
+        ], 
+        "artworks": [
+            3415, 
+            3416, 
+            3417, 
+            3418, 
+            3419, 
+            3420, 
+            3421, 
+            3422
+        ], 
+        "category": 0, 
+        "checksum": "f57c6878-b8be-6a55-3b0d-998372b28522", 
+        "collection": 8643, 
+        "cover": 154797, 
+        "created_at": 1399705011, 
+        "external_games": [
+            51281, 
+            150176, 
+            247441, 
+            403736
+        ], 
+        "first_release_date": 1012435200, 
+        "follows": 2, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            16
+        ], 
+        "id": 6760, 
+        "involved_companies": [
+            206337, 
+            206338, 
+            206339
+        ], 
+        "keywords": [
+            508, 
+            1512, 
+            17451, 
+            22683, 
+            22684
+        ], 
+        "name": "La Pucelle Tactics", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "ports": [
+            42741
+        ], 
+        "rating": 73.7431232903418, 
+        "rating_count": 6, 
+        "release_dates": [
+            16296, 
+            16297, 
+            16298, 
+            16299
+        ], 
+        "screenshots": [
+            1007295, 
+            1007296, 
+            1007297, 
+            1007298, 
+            1007299
+        ], 
+        "similar_games": [
+            7615, 
+            9472, 
+            13196, 
+            19404, 
+            26268, 
+            93694, 
+            99118, 
+            112191, 
+            115653, 
+            119171
+        ], 
+        "slug": "la-pucelle-tactics", 
+        "storyline": "La Pucelle takes place in a kingdom named Paprica. The story centers on a small church called the Church of the Holy Maiden, in the city of Pot a Feu. In addition to the normal roles and duties of a Church, they also have a group of trained Demon Hunters called La Pucelle. Two of La Pucelle's newest members are Prier, a sixteen-year-old girl, and her twelve-year-old brother Culotte.\n\nIt is said that the Dark Prince, favored servant of the fallen angel Calamity, will rise to scourge the land. But legend tells that when the Prince arises, a warrior known as the Maiden of Light will challenge him and restore the balance of Light and Dark. Prier hopes to be the Maiden of Light.\n\nThe game's story is broken up into chapters. Each chapter has a number of endings, depending on the information La Pucelle discovers before reaching the chapter's end.", 
+        "summary": "Prier and her brother Culotte are novices with the demon-hunting organization, La Pucelle. They've just passed their final exams and are ready to do real work fighting demons and zombies, but quickly find themselves embroiled in a series of plots orchestrated by a rival church with dark intentions. The gameplay is played on a tactical map, as teams up to six characters work to clear boards of enemies and dark energy. The unique \"purify\" command allows players to recruit monsters to their team and execute complex \"miracle\" energy attacks.\n\nThe game was ported to the PlayStation Portable in Japan on November 26, 2009 as La Pucelle Ragnarok.", 
+        "tags": [
+            17, 
+            268435468, 
+            268435471, 
+            268435472, 
+            536871420, 
+            536872424, 
+            536888363, 
+            536893595, 
+            536893596
+        ], 
+        "themes": [
+            17
+        ], 
+        "total_rating": 80.3715616451709, 
+        "total_rating_count": 8, 
+        "updated_at": 1678089310, 
+        "url": "https://www.igdb.com/games/la-pucelle-tactics", 
+        "videos": [
+            85491, 
+            85492
+        ], 
+        "websites": [
+            165950, 
+            334628, 
+            535337
+        ]
+    }, 
+    {
+        "alternative_names": [
+            46795, 
+            46796, 
+            46797, 
+            90329
+        ], 
+        "category": 0, 
+        "checksum": "0eafbe22-df74-82d8-bd0e-0b183f72a778", 
+        "collection": 818, 
+        "cover": 269876, 
+        "created_at": 1394980784, 
+        "external_games": [
+            52981, 
+            128741, 
+            1922043
+        ], 
+        "first_release_date": 1182988800, 
+        "game_modes": [
+            1, 
+            3
+        ], 
+        "genres": [
+            15, 
+            16
+        ], 
+        "id": 5582, 
+        "involved_companies": [
+            173428, 
+            173429
+        ], 
+        "keywords": [
+            415, 
+            805
+        ], 
+        "name": "Global Defence Force: Tactics", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            13522
+        ], 
+        "screenshots": [
+            4495, 
+            4496
+        ], 
+        "similar_games": [
+            9760, 
+            13196, 
+            26845, 
+            32510, 
+            34024, 
+            36258, 
+            55029, 
+            80961, 
+            102057, 
+            115659
+        ], 
+        "slug": "global-defence-force-tactics", 
+        "summary": "Players assume the role of GDF Commander and control GDF units in turn-based missions against the giant bug menace. Missions take place on 2D hex-maps, with attacks depicted by brief animated cutscenes.", 
+        "tags": [
+            39, 
+            268435471, 
+            268435472, 
+            536871327, 
+            536871717
+        ], 
+        "themes": [
+            39
+        ], 
+        "updated_at": 1670972976, 
+        "url": "https://www.igdb.com/games/global-defence-force-tactics", 
+        "videos": [
+            2022
+        ], 
+        "websites": [
+            396224
+        ]
+    }, 
+    {
+        "age_ratings": [
+            17820
+        ], 
+        "alternative_names": [
+            90518, 
+            90634, 
+            90636
+        ], 
+        "category": 0, 
+        "checksum": "d8fb7792-97a1-eaee-a7c0-747ad084d475", 
+        "cover": 225187, 
+        "created_at": 1507193793, 
+        "external_games": [
+            136954, 
+            1187997
+        ], 
+        "first_release_date": 965865600, 
+        "game_localizations": [
+            9614
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            16
+        ], 
+        "id": 72937, 
+        "involved_companies": [
+            76150, 
+            173737
+        ], 
+        "keywords": [
+            970, 
+            1026
+        ], 
+        "name": "Robot Warlords", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            385029
+        ], 
+        "screenshots": [
+            295342, 
+            295343, 
+            295344
+        ], 
+        "similar_games": [
+            1877, 
+            7615, 
+            13200, 
+            13660, 
+            17130, 
+            24620, 
+            25300, 
+            55038, 
+            66822, 
+            102057
+        ], 
+        "slug": "robot-warlords", 
+        "summary": "Robot Warlords is a Sci-fi turn based strategy game that was released on the PS2 back on December 14th 2001. It didn't get very good reviews, or sales and, hence, is very very rare.", 
+        "tags": [
+            18, 
+            268435472, 
+            536871882, 
+            536871938
+        ], 
+        "themes": [
+            18
+        ], 
+        "updated_at": 1671631940, 
+        "url": "https://www.igdb.com/games/robot-warlords", 
+        "videos": [
+            25715
+        ], 
+        "websites": [
+            345631
+        ]
+    }, 
+    {
+        "age_ratings": [
+            71459
+        ], 
+        "aggregated_rating": 80.0, 
+        "aggregated_rating_count": 1, 
+        "alternative_names": [
+            45394
+        ], 
+        "category": 0, 
+        "checksum": "de1f5ca8-6d8a-f4d8-6369-824875faf3dd", 
+        "cover": 86154, 
+        "created_at": 1469303597, 
+        "external_games": [
+            51738, 
+            136359, 
+            1876983
+        ], 
+        "first_release_date": 1226361600, 
+        "follows": 1, 
+        "genres": [
+            12, 
+            15, 
+            16
+        ], 
+        "id": 21334, 
+        "involved_companies": [
+            145883, 
+            145884, 
+            145885
+        ], 
+        "name": "Eternal Poison", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            60795
+        ], 
+        "screenshots": [
+            28728
+        ], 
+        "similar_games": [
+            7615, 
+            9472, 
+            13196, 
+            32510, 
+            36258, 
+            93694, 
+            103232, 
+            112191, 
+            113402, 
+            115653
+        ], 
+        "slug": "eternal-poison", 
+        "summary": "Eternal Poison begins in the Kingdom of Valdia where the demonic realm of Besek has suddenly appeared. This realm is home to demons called the Majin who have captured Valdia's Princess. The King of Valdia then issues a decree for her rescue which brings upon numerous adventurers of dissimilar intentions, the story of game is told from multiple perspectives of five key parties as they journey their way through the realm of Besek to rescue the princess.", 
+        "tags": [
+            268435468, 
+            268435471, 
+            268435472
+        ], 
+        "total_rating": 80.0, 
+        "total_rating_count": 1, 
+        "updated_at": 1670952431, 
+        "url": "https://www.igdb.com/games/eternal-poison", 
+        "videos": [
+            31527
+        ], 
+        "websites": [
+            125924, 
+            125925, 
+            363392
+        ]
+    }, 
+    {
+        "alternative_names": [
+            72067
+        ], 
+        "category": 0, 
+        "checksum": "5c6432a9-d3e5-5557-0dc0-c92452c11589", 
+        "cover": 175146, 
+        "created_at": 1630515379, 
+        "external_games": [
+            2115488
+        ], 
+        "first_release_date": 1108598400, 
+        "franchises": [
+            2969
+        ], 
+        "game_localizations": [
+            15601
+        ], 
+        "genres": [
+            15, 
+            16, 
+            24
+        ], 
+        "id": 165911, 
+        "involved_companies": [
+            147067, 
+            147068
+        ], 
+        "name": "Shinseiki Yuusha Taisen", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            308115
+        ], 
+        "similar_games": [
+            9760, 
+            13196, 
+            26845, 
+            32510, 
+            34024, 
+            36258, 
+            102057, 
+            116201, 
+            176432, 
+            181238
+        ], 
+        "slug": "shinseiki-yuusha-taisen", 
+        "summary": "Shinseiki Yuusha Taisen is a Strategy game, developed by WinkySoft and published by Atlus, which was released in Japan in 2005.", 
+        "tags": [
+            39, 
+            268435471, 
+            268435472, 
+            268435480
+        ], 
+        "themes": [
+            39
+        ], 
+        "updated_at": 1673343060, 
+        "url": "https://www.igdb.com/games/shinseiki-yuusha-taisen", 
+        "websites": [
+            466959
+        ]
+    }, 
+    {
+        "alternative_names": [
+            33175, 
+            36321, 
+            36322
+        ], 
+        "artworks": [
+            3049, 
+            3050
+        ], 
+        "category": 0, 
+        "checksum": "c0045656-5feb-a1b1-f1a2-bc222e632a8d", 
+        "collection": 312, 
+        "cover": 151945, 
+        "created_at": 1349722447, 
+        "external_games": [
+            52142, 
+            144697, 
+            251693
+        ], 
+        "first_release_date": 1135814400, 
+        "follows": 2, 
+        "franchises": [
+            1293
+        ], 
+        "game_localizations": [
+            3229
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            16, 
+            24
+        ], 
+        "id": 1506, 
+        "involved_companies": [
+            101954, 
+            101955
+        ], 
+        "keywords": [
+            18, 
+            167, 
+            1541, 
+            2639, 
+            25495, 
+            25538
+        ], 
+        "name": "Front Mission 5: Scars of the War", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            200277
+        ], 
+        "screenshots": [
+            1523, 
+            1524, 
+            1525, 
+            1526
+        ], 
+        "similar_games": [
+            8422, 
+            13196, 
+            25311, 
+            26845, 
+            28182, 
+            36258, 
+            90099, 
+            102057, 
+            105269, 
+            119171
+        ], 
+        "slug": "front-mission-5-scars-of-the-war", 
+        "storyline": "The plot of Scars of the War revolves around USN soldier Walter Feng. When Huffman Island is deemed ready for colonization by the United Nations in 2065, Feng becomes one of the island's first immigrants. Living in Freedom City, Walter befriends two other children - Randy O'Neill and Glen Duval. The three boys experience first-hand the realities of war during the outbreak of the 1st Huffman Conflict in 2070; Walter and Glen are literally scarred by shell casings during a battle in Freedom City. The three boys were separated at the end of the war when the USN forcefully repatriates Walter and Randy, and Glen is forcefully repatriated by the OCU. The three reunites during a peacekeeping operation as soldiers for their respective armies during the Huffman Crisis in 2086. Upon seeing Glen pilot a wanzer, Walter and Randy sign up for the USN Army's wanzer training program. As tensions between the OCU and USN elevate to a new high from the Larcus Incident, the two men qualify as wanzer pilots.\n\nHowever, on the same day they qualify, Walter and Randy are sent off to fight in the 2nd Huffman Conflict. During the invasion of Freedom City, they encounter Glen in the suburbs of city and defeat him. Feng and O'Neill visit Duval before he is shipped off to a POW camp. A year later, the three face off again on the battlefield - this time, Glen easily defeats his friends. However, instead of showing mercy, Glen kills Randy inside his cockpit block. A ceasefire between the OCU and the USN is declared shortly after he escapes. Traumatized by the experience, Walter cleans up Randy's quarters in an attempt to move on with life. Seeing an application form for the Strike Wyverns assault unit, Feng signs the form and undergoes intensive training. He passes the test and joins the unit, where he meets his old friend Edward Collins and new commanding officer Lynn Wenwright (who happens to be his childhood sweetheart).\n\nOver the next few years, Walter participates in numerous military operations and begins to take an interest in the conflicts he gets involved with. From Zaftra's struggles involving natural resources to pro-independence movements in the OCU, Feng gets drawn into a global war between nationalism and globalization that has been on-going for decades. At the heart of this conflict is the Grimnir - a terrorist organization aimed at destabilizing the supranational unions and return to a world governed by nation-states.", 
+        "summary": "Front Mission 5: Scars of the War is the fifth in Square's Front Mission tactical RPG series. It brings the player back to a gritty futuristic world in which conflicts are waged between five world powers: the U.S.N., O.C.U., E.C., O.A.C., and the Republic of Zaftra. Such conflicts are waged with the wanzer, Front Mission-speak for mecha.\n\nGameplay-wise, the game is a true return to Front Mission 2 roots while incorporating various features from Front Mission 1, 3, and 4. The player takes part in turn-based missions, which pit their group of wanzers against enemy forces. Old features that have returned include the ability to upgrade parts and mission branching. New features to Front Mission 5 include friendly fire and the ability to recruit new pilots.", 
+        "tags": [
+            1, 
+            18, 
+            39, 
+            268435468, 
+            268435471, 
+            268435472, 
+            268435480, 
+            536870930, 
+            536871079, 
+            536872453, 
+            536873551, 
+            536896407, 
+            536896450
+        ], 
+        "themes": [
+            1, 
+            18, 
+            39
+        ], 
+        "updated_at": 1670936808, 
+        "url": "https://www.igdb.com/games/front-mission-5-scars-of-the-war", 
+        "videos": [
+            37389
+        ], 
+        "websites": [
+            135929, 
+            144254, 
+            338751
+        ]
+    }, 
+    {
+        "age_ratings": [
+            18700, 
+            65494
+        ], 
+        "alternative_names": [
+            129331
+        ], 
+        "category": 0, 
+        "checksum": "c074c0ec-70c2-a1be-b037-250e71946327", 
+        "collection": 941, 
+        "cover": 78857, 
+        "created_at": 1400592957, 
+        "external_games": [
+            51191, 
+            145542, 
+            402164, 
+            1193557
+        ], 
+        "first_release_date": 1056585600, 
+        "franchise": 126, 
+        "franchises": [
+            126
+        ], 
+        "game_localizations": [
+            25618
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            4, 
+            12, 
+            15, 
+            16
+        ], 
+        "id": 6843, 
+        "involved_companies": [
+            16209
+        ], 
+        "keywords": [
+            227, 
+            623, 
+            1923, 
+            2561, 
+            3782, 
+            4284, 
+            4392, 
+            4548, 
+            4613, 
+            4891, 
+            5040, 
+            5144, 
+            6091, 
+            9893, 
+            17215, 
+            17463, 
+            20426, 
+            20427
+        ], 
+        "name": "Dynasty Tactics 2", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            459266, 
+            459267
+        ], 
+        "similar_games": [
+            2365, 
+            6842, 
+            7615, 
+            13196, 
+            14394, 
+            19404, 
+            21642, 
+            26841, 
+            26845, 
+            28182
+        ], 
+        "slug": "dynasty-tactics-2", 
+        "summary": "The sequel to Dynasty Tactics gives the player more tactics to choose from, and introduces some new characters and features.\n\nLike in the first game, the player assumes the role of 3 important leaders in ancient China: Cao Cao, Liu Bei and Sun Ce. A new choice is the warrior Lu Bu. The characters have their own, unique story paths, which are affected by choices and outcomes occurring during the chapters the game is divided into. The player organizes and moves his officers and armies over the map while engaging others, trying to fulfill certain objectives during a turn limit.\n\nFor battles, the game switches from the map to a dedicated screen showing the battlefield. The battle system is a bit like chess: the player moves the units around the battlefield in a turn-based fashion, mostly trying to bring them in a position to pull off special tactics. Ideally, this results in effective combos, that may not only defeat enemy units, but also capture the leading officers, which may join the player (there are over 200 in the game).\n\nMorale and terrain need to be taken into consideration as well. Units have different abilities depending on their type and position in the army, Engineers may build useful installments like supply depots for example. Army strategists can use the link command retained from the previous game for pinning down enemy units and helping to rack up higher combos, in addition, they may order chains now. These allow individual officers to perform multiple tactics (provided the conditions are met for each of them), but cost morale.\n\nThe game also contains a two player versus mode, which consists of random battles.", 
+        "tags": [
+            39, 
+            268435460, 
+            268435468, 
+            268435471, 
+            268435472, 
+            536871139, 
+            536871535, 
+            536872835, 
+            536873473, 
+            536874694, 
+            536875196, 
+            536875304, 
+            536875460, 
+            536875525, 
+            536875803, 
+            536875952, 
+            536876056, 
+            536877003, 
+            536880805, 
+            536888127, 
+            536888375, 
+            536891338, 
+            536891339
+        ], 
+        "themes": [
+            39
+        ], 
+        "updated_at": 1678367890, 
+        "url": "https://www.igdb.com/games/dynasty-tactics-2", 
+        "websites": [
+            349717, 
+            536714, 
+            536715
+        ]
+    }, 
+    {
+        "age_ratings": [
+            58162
+        ], 
+        "alternative_names": [
+            129330
+        ], 
+        "category": 0, 
+        "checksum": "59c89373-a69b-4002-974d-888ba5f7ca36", 
+        "collection": 941, 
+        "cover": 197608, 
+        "created_at": 1400592562, 
+        "external_games": [
+            51190, 
+            143012, 
+            1192165
+        ], 
+        "first_release_date": 1013644800, 
+        "follows": 1, 
+        "franchise": 126, 
+        "franchises": [
+            126
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            16
+        ], 
+        "id": 6842, 
+        "involved_companies": [
+            16208
+        ], 
+        "keywords": [
+            227, 
+            415, 
+            623, 
+            1026, 
+            1923, 
+            2561, 
+            3782, 
+            4155, 
+            4284, 
+            4392, 
+            4543, 
+            4548, 
+            5040, 
+            5144, 
+            6091, 
+            13117
+        ], 
+        "name": "Dynasty Tactics", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            459264, 
+            459265
+        ], 
+        "similar_games": [
+            2365, 
+            6985, 
+            7027, 
+            7615, 
+            10297, 
+            14394, 
+            19404, 
+            26841, 
+            26845, 
+            27092
+        ], 
+        "slug": "dynasty-tactics", 
+        "summary": "A tactical strategy game set in feudal China, Dynasty Tactics is an offshoot of the Dynasty Warrior series. The game puts the player in the shoes of one of 3 military leaders. Through strategy, acquired military might, and diplomacy, the player must strive to conquer the game's 60 cities.\n\nBattles take place on a 3D grid, in a turn-based format. Through deft use of battlefield tactics, including a deep combo attack system, players must meet certain requirements to win the battle. Multiple paths through the game (including multiple endings) will keep armchair military generals coming back.", 
+        "tags": [
+            17, 
+            22, 
+            39, 
+            268435468, 
+            268435471, 
+            268435472, 
+            536871139, 
+            536871327, 
+            536871535, 
+            536871938, 
+            536872835, 
+            536873473, 
+            536874694, 
+            536875067, 
+            536875196, 
+            536875304, 
+            536875455, 
+            536875460, 
+            536875952, 
+            536876056, 
+            536877003, 
+            536884029
+        ], 
+        "themes": [
+            17, 
+            22, 
+            39
+        ], 
+        "updated_at": 1678367904, 
+        "url": "https://www.igdb.com/games/dynasty-tactics", 
+        "websites": [
+            348747, 
+            536713, 
+            536716
+        ]
+    }, 
+    {
+        "age_ratings": [
+            71167
+        ], 
+        "category": 0, 
+        "checksum": "41b3d59c-890f-65ce-8e8f-38eae34908d5", 
+        "collection": 1350, 
+        "cover": 78919, 
+        "created_at": 1430942372, 
+        "external_games": [
+            51270, 
+            146958, 
+            253434
+        ], 
+        "first_release_date": 952128000, 
+        "follows": 2, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            15, 
+            16, 
+            24
+        ], 
+        "id": 10092, 
+        "involved_companies": [
+            23932, 
+            23933
+        ], 
+        "keywords": [
+            164, 
+            226, 
+            227, 
+            396, 
+            623, 
+            805, 
+            1107, 
+            1923, 
+            2679, 
+            3782, 
+            4353, 
+            4359, 
+            4392, 
+            4495, 
+            4523, 
+            4851, 
+            6061, 
+            8874, 
+            8888, 
+            9447, 
+            9890, 
+            9931, 
+            13544
+        ], 
+        "name": "Kessen", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "rating": 50.7494328450148, 
+        "rating_count": 6, 
+        "release_dates": [
+            29519, 
+            29520, 
+            29521
+        ], 
+        "similar_games": [
+            2365, 
+            5652, 
+            9059, 
+            10388, 
+            14394, 
+            26841, 
+            26845, 
+            30229, 
+            31480, 
+            55036
+        ], 
+        "slug": "kessen", 
+        "summary": "The ancient storied battlefield lies before you. At your command are 100,000 troops including archers, infantry, riflemen, and the powerful cavalry. Kessenis a real time strategy game that gives players strategic command and control over huge armies during epic battle sequences from the Warring States period of seventeenth century Japan. Key features include more than 100 movie segments, battlefields with full 3D terrain, separate animation routines for every character, and three different camera views. Known best because it is the very first PlayStation 2 game to ship using the DVD format.", 
+        "tags": [
+            22, 
+            39, 
+            268435471, 
+            268435472, 
+            268435480, 
+            536871076, 
+            536871138, 
+            536871139, 
+            536871308, 
+            536871535, 
+            536871717, 
+            536872019, 
+            536872835, 
+            536873591, 
+            536874694, 
+            536875265, 
+            536875271, 
+            536875304, 
+            536875407, 
+            536875435, 
+            536875763, 
+            536876973, 
+            536879786, 
+            536879800, 
+            536880359, 
+            536880802, 
+            536880843, 
+            536884456
+        ], 
+        "themes": [
+            22, 
+            39
+        ], 
+        "total_rating": 50.7494328450148, 
+        "total_rating_count": 6, 
+        "updated_at": 1670938330, 
+        "url": "https://www.igdb.com/games/kessen", 
+        "videos": [
+            6798, 
+            6799
+        ], 
+        "websites": [
+            3455, 
+            340428
+        ]
+    }, 
+    {
+        "age_ratings": [
+            6536, 
+            33418
+        ], 
+        "aggregated_rating": 90.0, 
+        "aggregated_rating_count": 5, 
+        "alternative_names": [
+            4746, 
+            18011, 
+            25220, 
+            25221, 
+            41488, 
+            41489, 
+            41490, 
+            115168
+        ], 
+        "artworks": [
+            3768, 
+            3769, 
+            3770, 
+            3771, 
+            3772, 
+            3773, 
+            3774
+        ], 
+        "category": 0, 
+        "checksum": "2f241ac5-aacb-d9dc-bc45-42d22f255b34", 
+        "collection": 552, 
+        "cover": 262662, 
+        "created_at": 1428770122, 
+        "expanded_games": [
+            11416, 
+            11437
+        ], 
+        "external_games": [
+            52137, 
+            152947, 
+            248429
+        ], 
+        "first_release_date": 1152748800, 
+        "follows": 28, 
+        "franchises": [
+            538, 
+            592
+        ], 
+        "game_localizations": [
+            2700
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            13, 
+            16, 
+            34
+        ], 
+        "id": 9577, 
+        "involved_companies": [
+            22955, 
+            22956, 
+            22957
+        ], 
+        "keywords": [
+            43, 
+            78, 
+            226, 
+            258, 
+            296, 
+            358, 
+            396, 
+            415, 
+            508, 
+            521, 
+            846, 
+            977, 
+            1026, 
+            1105, 
+            1244, 
+            2045, 
+            2071, 
+            2199, 
+            2951, 
+            4134, 
+            4163, 
+            4169, 
+            4241, 
+            4287, 
+            4330, 
+            4335, 
+            4338, 
+            4353, 
+            4363, 
+            4392, 
+            4414, 
+            4419, 
+            4428, 
+            4447, 
+            4468, 
+            4678, 
+            4709, 
+            4710, 
+            4711, 
+            4897, 
+            5184, 
+            5186, 
+            5329, 
+            5394, 
+            5399, 
+            5400, 
+            5405, 
+            5610, 
+            5659, 
+            5738, 
+            5810, 
+            5855, 
+            5963, 
+            6117, 
+            6326, 
+            6392, 
+            6461, 
+            6467, 
+            6468, 
+            6471, 
+            6705, 
+            7387, 
+            8299, 
+            9181, 
+            9182, 
+            9274, 
+            9275, 
+            9337, 
+            9356, 
+            10006, 
+            10538, 
+            13293, 
+            14729
+        ], 
+        "name": "Persona 3", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 92.71089111609881, 
+        "rating_count": 93, 
+        "release_dates": [
+            28474, 
+            28475, 
+            28476, 
+            28477
+        ], 
+        "screenshots": [
+            438099, 
+            438100, 
+            438101, 
+            438102, 
+            438103, 
+            438104, 
+            438105, 
+            438106, 
+            438107, 
+            438108, 
+            438109
+        ], 
+        "similar_games": [
+            660, 
+            7194, 
+            9927, 
+            10388, 
+            11292, 
+            11646, 
+            14394, 
+            22387, 
+            26841, 
+            36198
+        ], 
+        "slug": "persona-3", 
+        "summary": "Shin Megami Tensei: Persona 3 is a role-playing video game developed by Atlus. In the game, the player takes the role of a male high-school student who joins the Specialized Extracurricular Execution Squad (SEES), a group of students investigating the Dark Hour, a time period between one day and the next that few people are aware of. During the Dark Hour, the player enters Tartarus, a large tower containing Shadows, creatures that feed on the minds of humans. To fight the Shadows, each member of SEES is able to summon a Persona, a manifestation of a person's inner self. In addition to the standard elements of role-playing games, Persona 3 includes elements of simulation games, as the game's protagonist progresses day by day through a school year, making friends and forming relationships that improve the strength of his Personas in battle.", 
+        "tags": [
+            1, 
+            18, 
+            31, 
+            268435468, 
+            268435469, 
+            268435472, 
+            268435490, 
+            536870955, 
+            536870990, 
+            536871138, 
+            536871170, 
+            536871208, 
+            536871270, 
+            536871308, 
+            536871327, 
+            536871420, 
+            536871433, 
+            536871758, 
+            536871889, 
+            536871938, 
+            536872017, 
+            536872156, 
+            536872957, 
+            536872983, 
+            536873111, 
+            536873863, 
+            536875046, 
+            536875075, 
+            536875081, 
+            536875153, 
+            536875199, 
+            536875242, 
+            536875247, 
+            536875250, 
+            536875265, 
+            536875275, 
+            536875304, 
+            536875326, 
+            536875331, 
+            536875340, 
+            536875359, 
+            536875380, 
+            536875590, 
+            536875621, 
+            536875622, 
+            536875623, 
+            536875809, 
+            536876096, 
+            536876098, 
+            536876241, 
+            536876306, 
+            536876311, 
+            536876312, 
+            536876317, 
+            536876522, 
+            536876571, 
+            536876650, 
+            536876722, 
+            536876767, 
+            536876875, 
+            536877029, 
+            536877238, 
+            536877304, 
+            536877373, 
+            536877379, 
+            536877380, 
+            536877383, 
+            536877617, 
+            536878299, 
+            536879211, 
+            536880093, 
+            536880094, 
+            536880186, 
+            536880187, 
+            536880249, 
+            536880268, 
+            536880918, 
+            536881450, 
+            536884205, 
+            536885641
+        ], 
+        "themes": [
+            1, 
+            18, 
+            31
+        ], 
+        "total_rating": 91.35544555804941, 
+        "total_rating_count": 98, 
+        "updated_at": 1677977676, 
+        "url": "https://www.igdb.com/games/persona-3", 
+        "videos": [
+            3778, 
+            3779
+        ], 
+        "websites": [
+            111832, 
+            111833, 
+            111834, 
+            335595
+        ]
+    }, 
+    {
+        "category": 5, 
+        "checksum": "200f30c2-1fcc-e3c6-f74b-3f7f67a3c79c", 
+        "cover": 199876, 
+        "created_at": 1594221005, 
+        "first_release_date": 1509408000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            16
+        ], 
+        "id": 135678, 
+        "name": "Shin Megami Tensei: Nocturne - Hardtype", 
+        "parent_game": 9669, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            203735
+        ], 
+        "screenshots": [
+            392201, 
+            392202
+        ], 
+        "similar_games": [
+            13196, 
+            35737, 
+            49414, 
+            56036, 
+            87485, 
+            99118, 
+            111287, 
+            112191, 
+            115653, 
+            235026
+        ], 
+        "slug": "shin-megami-tensei-nocturne-hardtype", 
+        "summary": "Introducing Shin Megami Tensei: Nocturne - Hardtype! This is a hack of the original game designed with several primary goals in mind:\n\n1) Rebalance many aspects of the original game.\n2) Create a gameplay experience that is challenging to veterans of the SMT series.\n3) Add in some fresh new enemies and skills to revitalize the gameplay experience.\nThis hack is intended for people who have already played (and generally mastered) the original game, and is designed to be played on Hard mode. For those who don\u2019t fit this profile, or don\u2019t want a more challenging experience than the original, then feel free to play on Normal mode.", 
+        "tags": [
+            268435468, 
+            268435472
+        ], 
+        "updated_at": 1661849476, 
+        "url": "https://www.igdb.com/games/shin-megami-tensei-nocturne-hardtype"
+    }, 
+    {
+        "alternative_names": [
+            56527, 
+            56528
+        ], 
+        "category": 0, 
+        "checksum": "fe1c59e3-c533-c2f9-1580-f48afee33a00", 
+        "cover": 133637, 
+        "created_at": 1521139293, 
+        "external_games": [
+            132005, 
+            1879463
+        ], 
+        "first_release_date": 1025136000, 
+        "game_localizations": [
+            10578
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            16
+        ], 
+        "id": 91681, 
+        "involved_companies": [
+            121476, 
+            121477
+        ], 
+        "name": "Coloball 2002", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            233804
+        ], 
+        "similar_games": [
+            150677, 
+            174734, 
+            176185, 
+            183304, 
+            184444, 
+            186606, 
+            193894, 
+            196351, 
+            200795, 
+            234177
+        ], 
+        "slug": "coloball-2002", 
+        "summary": "Coloball 2002 is a turn-based strategy role-playing video game for the PlayStation 2. The game was developed by Vanpool and published by Enterbrain exclusively in Japan on June 27, 2002. The title Coloball is short for \"Colosseum Ball,\" and although the game is touted as a sports adventure game, it is most similar to an RPG board game.", 
+        "tags": [
+            268435472
+        ], 
+        "updated_at": 1671996689, 
+        "url": "https://www.igdb.com/games/coloball-2002", 
+        "websites": [
+            173338, 
+            173339, 
+            365731
+        ]
+    }
+]

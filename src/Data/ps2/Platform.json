@@ -1,0 +1,6308 @@
+[
+    {
+        "age_ratings": [
+            6630
+        ], 
+        "alternative_names": [
+            60174
+        ], 
+        "bundles": [
+            191405
+        ], 
+        "category": 0, 
+        "checksum": "8b977b98-28fb-6b9d-e8bf-086818bb8022", 
+        "collection": 740, 
+        "cover": 240990, 
+        "created_at": 1428899160, 
+        "external_games": [
+            150464, 
+            247251
+        ], 
+        "first_release_date": 985219200, 
+        "follows": 4, 
+        "franchises": [
+            768
+        ], 
+        "game_localizations": [
+            747, 
+            2579
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            14, 
+            31
+        ], 
+        "id": 9709, 
+        "involved_companies": [
+            160688
+        ], 
+        "keywords": [
+            78, 
+            296, 
+            394, 
+            535, 
+            589, 
+            637, 
+            1027, 
+            1059, 
+            1454, 
+            2049, 
+            3486, 
+            4161, 
+            4162, 
+            4176, 
+            4282, 
+            4297, 
+            4329, 
+            4386, 
+            4727, 
+            4903, 
+            4907, 
+            4943, 
+            5323, 
+            5331, 
+            5441, 
+            5645, 
+            6151, 
+            6382, 
+            6795, 
+            9714
+        ], 
+        "name": "Klonoa 2: Lunatea's Veil", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2, 
+            4
+        ], 
+        "rating": 78.6098803570277, 
+        "rating_count": 16, 
+        "release_dates": [
+            63628, 
+            63629, 
+            63630
+        ], 
+        "screenshots": [
+            488523, 
+            916270, 
+            916271, 
+            916272, 
+            916273
+        ], 
+        "similar_games": [
+            3222, 
+            17548, 
+            19150, 
+            20342, 
+            22387, 
+            24426, 
+            36198, 
+            37001, 
+            55199, 
+            56033
+        ], 
+        "slug": "klonoa-2-lunateas-veil--1", 
+        "summary": "Klonoa 2 puts players in the role of Klonoa, who, along with a new cast of friends, has stumbled into another adventure, this time to save the world of Lunatea and help unveil the mysteries of the enchanted world. The game features gameplay inspired by the original Klonoa with 2D side-scrolling in a 3D-rendered environment. Klonoa's equipped weapon is a crystal ring which contains the life of Lolo inside helping him.\n\nKlonoa, a long-eared creature, has stumbled on yet another mystical adventure. In Klonoa 2, a dark kingdom threatens the enchanted realm of Lunatea. Now it's up to Klonoa and his friends, Lolo and Popka, to prevent evil forces from bringing monsters and sickness into their world. Help Klonoa through 24 magical stages featuring hover-board gliding, perceptual changes, and new treacherous foes. On your adventure, you'll drop off waterfalls, get shot into the air by cannon, and gain special abilities from your defeated enemies.", 
+        "tags": [
+            1, 
+            17, 
+            35, 
+            268435464, 
+            268435470, 
+            268435487, 
+            536870990, 
+            536871208, 
+            536871306, 
+            536871447, 
+            536871501, 
+            536871549, 
+            536871939, 
+            536871971, 
+            536872366, 
+            536872961, 
+            536874398, 
+            536875073, 
+            536875074, 
+            536875088, 
+            536875194, 
+            536875209, 
+            536875241, 
+            536875298, 
+            536875639, 
+            536875815, 
+            536875819, 
+            536875855, 
+            536876235, 
+            536876243, 
+            536876353, 
+            536876557, 
+            536877063, 
+            536877294, 
+            536877707, 
+            536880626
+        ], 
+        "themes": [
+            1, 
+            17, 
+            35
+        ], 
+        "total_rating": 78.6098803570277, 
+        "total_rating_count": 16, 
+        "updated_at": 1677258902, 
+        "url": "https://www.igdb.com/games/klonoa-2-lunateas-veil--1", 
+        "videos": [
+            3885, 
+            48594
+        ], 
+        "websites": [
+            179566, 
+            179567, 
+            334443
+        ]
+    }, 
+    {
+        "age_ratings": [
+            89116, 
+            89117
+        ], 
+        "category": 3, 
+        "checksum": "9058e354-2b2e-0b1b-04db-ff95ec2ab39c", 
+        "cover": 248145, 
+        "created_at": 1649437032, 
+        "first_release_date": 1181606400, 
+        "franchises": [
+            1351
+        ], 
+        "game_modes": [
+            1, 
+            2, 
+            4
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 196663, 
+        "name": "Crash Bandicoot Action Pack", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            352349, 
+            352350
+        ], 
+        "similar_games": [
+            1188, 
+            5411, 
+            23556, 
+            28070, 
+            29032, 
+            63138, 
+            96452, 
+            100800, 
+            113895, 
+            120184
+        ], 
+        "slug": "crash-bandicoot-action-pack", 
+        "summary": "Crash Bandicoot Action Pack is a bundle containing Crash Nitro Kart, Crash Twinsanity, and Crash Tag Team Racing.", 
+        "tags": [
+            1, 
+            268435464
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1663894268, 
+        "url": "https://www.igdb.com/games/crash-bandicoot-action-pack"
+    }, 
+    {
+        "alternative_names": [
+            6403, 
+            6404
+        ], 
+        "category": 0, 
+        "checksum": "bf432399-0825-d5cf-bbfa-21ffe347d6ef", 
+        "collection": 2146, 
+        "cover": 15155, 
+        "created_at": 1461105894, 
+        "external_games": [
+            1975621
+        ], 
+        "first_release_date": 1152144000, 
+        "franchises": [
+            802
+        ], 
+        "game_localizations": [
+            5515
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9, 
+            12, 
+            31
+        ], 
+        "id": 18824, 
+        "involved_companies": [
+            202681
+        ], 
+        "keywords": [
+            78, 
+            250, 
+            1286, 
+            1538
+        ], 
+        "name": "Brave Story: Wataru's Adventure", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            49897
+        ], 
+        "similar_games": [
+            24426, 
+            28010, 
+            28070, 
+            55199, 
+            81249, 
+            89597, 
+            96217, 
+            103303, 
+            105049, 
+            106987
+        ], 
+        "slug": "brave-story-watarus-adventure", 
+        "storyline": "\"On a day that starts out like any other, an 11-year-old boy's life is changed forever when his friend Miki suddenly collapses from an unknown illness. Without the means to save her, he grows increasingly distraught when suddenly, a strange voice offers him a second chance: \"Beyond the door you can change your destiny!\" He soon leaves the real world and journeys to the world of Vision, where, as a novice \"Traveler,\" he will surmount myriad ordeals in hopes of ultimately meeting with the Goddess of Fortune to have a single wish granted.\"", 
+        "tags": [
+            1, 
+            17, 
+            268435464, 
+            268435465, 
+            268435468, 
+            268435487, 
+            536870990, 
+            536871162, 
+            536872198, 
+            536872450
+        ], 
+        "themes": [
+            1, 
+            17
+        ], 
+        "updated_at": 1675644339, 
+        "url": "https://www.igdb.com/games/brave-story-watarus-adventure", 
+        "websites": [
+            6939, 
+            432021
+        ]
+    }, 
+    {
+        "age_ratings": [
+            62312, 
+            62460, 
+            62461, 
+            62462, 
+            66136
+        ], 
+        "alternative_names": [
+            65228
+        ], 
+        "category": 0, 
+        "checksum": "d43afea3-7fd0-20e0-319f-6a604613d64c", 
+        "collection": 3114, 
+        "cover": 180937, 
+        "created_at": 1499157949, 
+        "external_games": [
+            51462, 
+            1990061
+        ], 
+        "first_release_date": 1193097600, 
+        "franchises": [
+            100
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            8, 
+            9, 
+            31
+        ], 
+        "id": 43647, 
+        "involved_companies": [
+            191086, 
+            191092
+        ], 
+        "keywords": [
+            38, 
+            202, 
+            778, 
+            1005, 
+            1025, 
+            1599, 
+            1821, 
+            2049, 
+            2361, 
+            2574, 
+            3007, 
+            3039, 
+            3792, 
+            4297, 
+            4320, 
+            4328, 
+            4379, 
+            4380, 
+            4577, 
+            4960, 
+            5108, 
+            5359, 
+            5604, 
+            7002, 
+            7616, 
+            8236, 
+            17397, 
+            23428, 
+            25864, 
+            25972, 
+            26965, 
+            32302, 
+            32478
+        ], 
+        "name": "SpongeBob's Atlantis Squarepantis", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            4
+        ], 
+        "ports": [
+            2773, 
+            43312, 
+            221834
+        ], 
+        "rating": 48.8205365402405, 
+        "rating_count": 5, 
+        "release_dates": [
+            348489, 
+            348498
+        ], 
+        "similar_games": [
+            2765, 
+            20342, 
+            24426, 
+            28070, 
+            55173, 
+            55190, 
+            56033, 
+            77529, 
+            89597, 
+            105049
+        ], 
+        "slug": "spongebobs-atlantis-squarepantis", 
+        "summary": "SpongeBob's Atlantis SquarePantis is a SpongeBob SquarePants video game based on the television series series and the Atlantis SquarePantis TV movie. This is the first SpongeBob game that is based on a made-for-TV movie.", 
+        "tags": [
+            1, 
+            35, 
+            268435461, 
+            268435464, 
+            268435465, 
+            268435487, 
+            536870950, 
+            536871114, 
+            536871690, 
+            536871917, 
+            536871937, 
+            536872511, 
+            536872733, 
+            536872961, 
+            536873273, 
+            536873486, 
+            536873919, 
+            536873951, 
+            536874704, 
+            536875209, 
+            536875232, 
+            536875240, 
+            536875291, 
+            536875292, 
+            536875489, 
+            536875872, 
+            536876020, 
+            536876271, 
+            536876516, 
+            536877914, 
+            536878528, 
+            536879148, 
+            536888309, 
+            536894340, 
+            536896776, 
+            536896884, 
+            536897877, 
+            536903214, 
+            536903390
+        ], 
+        "themes": [
+            1, 
+            35
+        ], 
+        "total_rating": 48.8205365402405, 
+        "total_rating_count": 5, 
+        "updated_at": 1675647172, 
+        "url": "https://www.igdb.com/games/spongebobs-atlantis-squarepantis", 
+        "websites": [
+            214940, 
+            270365, 
+            270366
+        ]
+    }, 
+    {
+        "age_ratings": [
+            44676
+        ], 
+        "category": 3, 
+        "checksum": "84ee5b46-3f8a-0598-a584-d8934cc60497", 
+        "collection": 1502, 
+        "cover": 164476, 
+        "created_at": 1500022112, 
+        "external_games": [
+            33736
+        ], 
+        "first_release_date": 1193097600, 
+        "franchises": [
+            133
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 49468, 
+        "name": "Harry Potter Collection", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            302314
+        ], 
+        "similar_games": [
+            28070, 
+            29032, 
+            76253, 
+            87622, 
+            96217, 
+            104008, 
+            105049, 
+            106987, 
+            111130, 
+            113360
+        ], 
+        "slug": "harry-potter-collection", 
+        "summary": "This compilation bundles 3 games in the Harry Potter series:\n- Harry Potter and the Chamber of Secrets\n- Harry Potter and the Prisoner of Azkaban\n- Harry Potter and the Goblet of Fire", 
+        "tags": [
+            1, 
+            268435464, 
+            268435487
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1664326962, 
+        "url": "https://www.igdb.com/games/harry-potter-collection"
+    }, 
+    {
+        "category": 0, 
+        "checksum": "3cb0fe91-ef79-76f1-6811-486e7b8ea72b", 
+        "collection": 4519, 
+        "cover": 49850, 
+        "created_at": 1505745043, 
+        "external_games": [
+            133015, 
+            1878914
+        ], 
+        "first_release_date": 1199059200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 68257, 
+        "involved_companies": [
+            81378, 
+            81379
+        ], 
+        "keywords": [
+            2049, 
+            4162, 
+            4368, 
+            4382
+        ], 
+        "name": "An American Tail", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            172363
+        ], 
+        "screenshots": [
+            952252, 
+            952253, 
+            952254, 
+            952255
+        ], 
+        "similar_games": [
+            19150, 
+            19241, 
+            19917, 
+            20342, 
+            55173, 
+            55190, 
+            57187, 
+            63138, 
+            77529, 
+            89597
+        ], 
+        "slug": "an-american-tail", 
+        "storyline": "Believing in the American dream, they head to New York City by boat because \"there are no cats in America, and the streets are paved with cheese.\" The hero, a little mouse named Fievel, is washed overboard in a storm, and his search for his family, who believe he is dead and therefore aren't looking for him, forms the bulk of the film. Once arriving in America, all mice immediately discover that there are indeed cats in America. They begin living in a typical late 19th century immigrant manner: working in a sweatshop, living in horrible conditions, being extorted by gangs and living in constant fear of being eaten.", 
+        "summary": "An American Tail is a game based on the animated movie of the same name. It consists of ten levels (six main ones, four bonus) based on scenes from the movie. Animated scenes from the film are used as cut-scenes. It tells the story how Fievel Mousekewitz and his family leave Russia for America. He becomes separated from his family when a storm hits the ship and eventually ends up in New York.", 
+        "tags": [
+            35, 
+            268435464, 
+            536872961, 
+            536875074, 
+            536875280, 
+            536875294
+        ], 
+        "themes": [
+            35
+        ], 
+        "updated_at": 1672730310, 
+        "url": "https://www.igdb.com/games/an-american-tail", 
+        "videos": [
+            81595
+        ], 
+        "websites": [
+            110757, 
+            110758, 
+            365221
+        ]
+    }, 
+    {
+        "age_ratings": [
+            87222
+        ], 
+        "alternative_names": [
+            78898
+        ], 
+        "category": 3, 
+        "checksum": "aa10c2a2-e326-4777-6feb-d603706f18ef", 
+        "collection": 4332, 
+        "cover": 236366, 
+        "created_at": 1513200770, 
+        "external_games": [
+            149950
+        ], 
+        "first_release_date": 1173312000, 
+        "franchises": [
+            2361
+        ], 
+        "game_localizations": [
+            9915
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            33
+        ], 
+        "id": 78047, 
+        "involved_companies": [
+            157577, 
+            157578
+        ], 
+        "keywords": [
+            477, 
+            3014
+        ], 
+        "name": "Sega Ages 2500 Vol. 29: Monster World Complete Collection", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            4
+        ], 
+        "release_dates": [
+            327412
+        ], 
+        "screenshots": [
+            853295
+        ], 
+        "similar_games": [
+            28070, 
+            29032, 
+            54775, 
+            68582, 
+            96217, 
+            103369, 
+            106987, 
+            110121, 
+            110503, 
+            120184
+        ], 
+        "slug": "sega-ages-2500-vol-29-monster-world-complete-collection", 
+        "summary": "This game is a compilation featuring a selection of Wonder Boy games, namely those released on Sega platforms. Though there are only six games in the series, various ports and international releases are included, bringing the total number of releases included to 16. Also included are artwork galleries, instruction manuals and Japanese/overseas variants (bar the English version of Wonder Boy in Monster Land). With the exception of both versions of Wonder Boy in Monster Land and Monster World IV all of the versions of the games included are playable in English or have a separate English release included for the same console (for example, the Game Gear releases and Wonder Boy in Monster World's Mega Drive release).\n\nInterestingly, the Sega Master System version of Wonder Boy III: The Dragon's Trap is included in this collection, despite never being released in Japan. The game nevertheless supports the FM Sound Unit add-on, meaning this is the first time the general public could hear this game with its FM soundtrack (without resorting to emulation).", 
+        "tags": [
+            1, 
+            17, 
+            268435464, 
+            268435489, 
+            536871389, 
+            536873926
+        ], 
+        "themes": [
+            1, 
+            17
+        ], 
+        "updated_at": 1673514596, 
+        "url": "https://www.igdb.com/games/sega-ages-2500-vol-29-monster-world-complete-collection", 
+        "websites": [
+            247336
+        ]
+    }, 
+    {
+        "age_ratings": [
+            33702, 
+            33703
+        ], 
+        "aggregated_rating": 96.6666666666667, 
+        "aggregated_rating_count": 3, 
+        "alternative_names": [
+            59925, 
+            98615
+        ], 
+        "category": 0, 
+        "checksum": "c4e1bb71-416e-31be-ffb2-3e8fdb535683", 
+        "cover": 175220, 
+        "created_at": 1401493429, 
+        "external_games": [
+            50820, 
+            72879, 
+            148240, 
+            245902, 
+            402804, 
+            1932892
+        ], 
+        "first_release_date": 1001289600, 
+        "follows": 98, 
+        "game_localizations": [
+            7, 
+            16, 
+            779
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9, 
+            31
+        ], 
+        "id": 7170, 
+        "involved_companies": [
+            121467, 
+            121468
+        ], 
+        "keywords": [
+            16, 
+            227, 
+            296, 
+            687, 
+            960, 
+            1033, 
+            1528, 
+            2152, 
+            2800, 
+            2875, 
+            3002, 
+            3267, 
+            4145, 
+            4350, 
+            4396, 
+            4522, 
+            4605, 
+            4726, 
+            4776, 
+            4918, 
+            4928, 
+            4958, 
+            5442, 
+            5533, 
+            5801, 
+            5802, 
+            5857, 
+            6135, 
+            7448, 
+            7473, 
+            7577, 
+            7591, 
+            7600, 
+            8680, 
+            9282, 
+            17215, 
+            17458, 
+            19530, 
+            21332
+        ], 
+        "multiplayer_modes": [
+            1864
+        ], 
+        "name": "Ico", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 84.7075949481618, 
+        "rating_count": 237, 
+        "release_dates": [
+            18130, 
+            18131, 
+            18132, 
+            18133
+        ], 
+        "remasters": [
+            144612
+        ], 
+        "screenshots": [
+            426385, 
+            426386, 
+            426387, 
+            426388, 
+            426389, 
+            426526
+        ], 
+        "similar_games": [
+            20329, 
+            20342, 
+            24426, 
+            28070, 
+            28168, 
+            36198, 
+            47823, 
+            55190, 
+            55984, 
+            56033
+        ], 
+        "slug": "ico", 
+        "storyline": "Ico, a horned boy, is taken by a group of warriors to an abandoned castle and locked inside a stone coffin to be sacrificed. A tremor topples the coffin and Ico escapes. As he searches the castle, he comes across Yorda (\u30e8\u30eb\u30c0 Yoruda?), a captive girl who speaks a different language. Ico helps Yorda escape and defends her from shadow-like creatures. The pair make their way through the castle and arrive at the bridge leading to land. As they cross, the Queen, ruler of the castle, appears and tells Yorda that as her daughter she cannot leave the castle. The Queen destroys part of the bridge; although Yorda tries to save him, Ico falls off the bridge and loses consciousness.\n\nIco awakens below the castle and makes his way back to the upper levels, finding a magic sword that dispels the shadow creatures. After discovering that Yorda has been turned to stone by the Queen. He confronts the Queen in her throne room, who reveals that she plans to restart her life anew by taking possession of Yorda's body. Ico slays the Queen with the magic sword, but with her death the castle begins to collapse around him; he is hit by falling debris, breaking his horns, and he falls unconscious. The Queen's spell on Yorda is broken, and a shadowy Yorda carries Ico safely out of the castle to a boat, sending him to drift to the shore alone. Ico awakens to find the distant castle in ruins, and Yorda, in her human form, washed up nearby. She stirs.", 
+        "summary": "An action-adventure game in which a boy is abandoned and taken to a massive castle by his people. After exploring it for a while, he meets a girl who speaks a different language than him, then decides to get both of them out of the castle grounds by leading her along, in order to escape the shadow-like creatures that frequently try to kidnap the girl.", 
+        "tags": [
+            1, 
+            17, 
+            31, 
+            268435464, 
+            268435465, 
+            268435487, 
+            536870928, 
+            536871139, 
+            536871208, 
+            536871599, 
+            536871872, 
+            536871945, 
+            536872440, 
+            536873064, 
+            536873712, 
+            536873787, 
+            536873914, 
+            536874179, 
+            536875057, 
+            536875262, 
+            536875308, 
+            536875434, 
+            536875517, 
+            536875638, 
+            536875688, 
+            536875830, 
+            536875840, 
+            536875870, 
+            536876354, 
+            536876445, 
+            536876713, 
+            536876714, 
+            536876769, 
+            536877047, 
+            536878360, 
+            536878385, 
+            536878489, 
+            536878503, 
+            536878512, 
+            536879592, 
+            536880194, 
+            536888127, 
+            536888370, 
+            536890442, 
+            536892244
+        ], 
+        "themes": [
+            1, 
+            17, 
+            31
+        ], 
+        "total_rating": 90.68713080741425, 
+        "total_rating_count": 240, 
+        "updated_at": 1678541243, 
+        "url": "https://www.igdb.com/games/ico", 
+        "videos": [
+            46558
+        ], 
+        "websites": [
+            6006, 
+            6007, 
+            333144
+        ]
+    }, 
+    {
+        "age_ratings": [
+            27376
+        ], 
+        "alternative_names": [
+            31003
+        ], 
+        "category": 0, 
+        "checksum": "7de2b78f-1f93-ada6-3b7f-fe4a5c08d036", 
+        "cover": 94374, 
+        "created_at": 1584361928, 
+        "external_games": [
+            1983065
+        ], 
+        "first_release_date": 1174003200, 
+        "franchises": [
+            1748
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 131862, 
+        "involved_companies": [
+            94185
+        ], 
+        "name": "Kirikou and the Wild Beasts", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            191122
+        ], 
+        "similar_games": [
+            28070, 
+            29032, 
+            212738, 
+            215446, 
+            216015, 
+            226425, 
+            228802, 
+            231083, 
+            231273, 
+            238286
+        ], 
+        "slug": "kirikou-and-the-wild-beasts", 
+        "summary": "Adapted from the famous movie by Michel Ocelot and Benedict Galup, Kirikou and the Wild Beasts puts you in the shoes of a hero who must face the dangers hanging over his people. Jump from platform to platform to protect the village from the wild animals of the savannah. But beware, Karaba the witch is never far away\u2026", 
+        "tags": [
+            268435464, 
+            268435487
+        ], 
+        "updated_at": 1670990093, 
+        "url": "https://www.igdb.com/games/kirikou-and-the-wild-beasts", 
+        "websites": [
+            439133
+        ]
+    }, 
+    {
+        "age_ratings": [
+            2516
+        ], 
+        "category": 0, 
+        "checksum": "840eb6b8-c8bb-2302-2e17-cc66aea6b14e", 
+        "collection": 4361, 
+        "cover": 127561, 
+        "created_at": 1391482806, 
+        "external_games": [
+            52210, 
+            137023, 
+            1920953
+        ], 
+        "first_release_date": 1057363200, 
+        "franchise": 299, 
+        "franchises": [
+            299
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 4865, 
+        "involved_companies": [
+            11708
+        ], 
+        "keywords": [
+            215, 
+            2049, 
+            4142, 
+            5782
+        ], 
+        "name": "Inspector Gadget: MAD Robots Invasion", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            11157
+        ], 
+        "similar_games": [
+            19150, 
+            20342, 
+            37001, 
+            55173, 
+            55190, 
+            56033, 
+            57187, 
+            63138, 
+            77529, 
+            89597
+        ], 
+        "slug": "inspector-gadget-mad-robots-invasion", 
+        "summary": "Dr. Claw continues his quest for world domination. He dreams of a world completely ruled by his super-powerful robots that are indestructible and fitted with highly advanced artificial intelligence!. To carry on his plan without interference, Dr. Claw has to first kidnap Penny and Brain to diver the attentions of Inspector Gadget. Now it is up to you! Become Inspector Gadget, free your friends and save the world from Dr. Claws evil clutches.", 
+        "tags": [
+            1, 
+            268435464, 
+            536871127, 
+            536872961, 
+            536875054, 
+            536876694
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670972509, 
+        "url": "https://www.igdb.com/games/inspector-gadget-mad-robots-invasion", 
+        "websites": [
+            313525, 
+            313526, 
+            395205
+        ]
+    }, 
+    {
+        "age_ratings": [
+            30496, 
+            30497
+        ], 
+        "aggregated_rating": 83.3333333333333, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            43877, 
+            50581
+        ], 
+        "artworks": [
+            4293, 
+            4294, 
+            4295, 
+            4296, 
+            4297, 
+            4298, 
+            4299
+        ], 
+        "category": 0, 
+        "checksum": "9351af3e-3ebd-68e7-6be5-78a907342f5d", 
+        "collection": 344, 
+        "cover": 79082, 
+        "created_at": 1352566133, 
+        "external_games": [
+            52507, 
+            142163, 
+            247543, 
+            402843
+        ], 
+        "first_release_date": 1127692800, 
+        "follows": 32, 
+        "franchises": [
+            2239
+        ], 
+        "game_engines": [
+            126
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 1800, 
+        "involved_companies": [
+            18325, 
+            191428
+        ], 
+        "keywords": [
+            4, 
+            79, 
+            132, 
+            274, 
+            284, 
+            332, 
+            350, 
+            394, 
+            598, 
+            603, 
+            1219, 
+            1309, 
+            1403, 
+            1423, 
+            1440, 
+            1523, 
+            1669, 
+            1834, 
+            2049, 
+            2184, 
+            2242, 
+            2280, 
+            2898, 
+            3061, 
+            3486, 
+            4145, 
+            4161, 
+            4162, 
+            4176, 
+            4183, 
+            4193, 
+            4239, 
+            4287, 
+            4297, 
+            4320, 
+            4352, 
+            4359, 
+            4371, 
+            4386, 
+            4484, 
+            4535, 
+            4537, 
+            4622, 
+            4678, 
+            4841, 
+            4907, 
+            4944, 
+            5151, 
+            5331, 
+            5349, 
+            5439, 
+            5517, 
+            5613, 
+            5672, 
+            5674, 
+            5896, 
+            5999, 
+            6035, 
+            6125, 
+            6141, 
+            6144, 
+            6145, 
+            6151, 
+            6263, 
+            6318, 
+            6372, 
+            6540, 
+            6731, 
+            6859, 
+            7470, 
+            7531, 
+            7593, 
+            7665, 
+            7670, 
+            7684, 
+            8847, 
+            8894, 
+            9529, 
+            9758, 
+            11951, 
+            13109, 
+            16716, 
+            21400, 
+            21401
+        ], 
+        "multiplayer_modes": [
+            12002
+        ], 
+        "name": "Sly 3: Honor Among Thieves", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 72.8776869355932, 
+        "rating_count": 85, 
+        "release_dates": [
+            166550, 
+            166551, 
+            166552
+        ], 
+        "remasters": [
+            222127
+        ], 
+        "screenshots": [
+            317510, 
+            403457, 
+            403458, 
+            403459, 
+            403460, 
+            403461
+        ], 
+        "similar_games": [
+            843, 
+            1185, 
+            1186, 
+            1289, 
+            1528, 
+            1577, 
+            1798, 
+            1799, 
+            1801, 
+            1864
+        ], 
+        "slug": "sly-3-honor-among-thieves", 
+        "storyline": "Set a year after the events of Band of Thieves, Sly Cooper, Bentley, Murray, and other unidentified characters attempt to open the Cooper Vault on Kaine Island. Unfortunately, they are intercepted by Dr. M, the owner of the island. Murray and Bentley escape, but a monster grabs Sly. During this scene, Sly's life flashes before his eyes, and the game flashes back.\n\nSly learned that the Cooper Vault was hidden on Kaine Island from one of his father's colleagues, Jim McSweeney. The vault contains the accumulated wealth of the Cooper Clan built up over the centuries. Sly went to find the vault, only to discover that M had built a fortress on the island in an attempt to get at the wealth hidden in the vault. Sly needed additional experts in order to get past Dr. M's extensive security; he needed the Cooper Gang back in action.\n\nFirst, Sly and Bentley seek Murray, who had left the team due to guilt for causing Bentley's leg injury, which would end up paralyzing him. They learn about a mob boss, Octavio, who operates in Venice, Italy, where Murray was. Sly finds Dimitri in a cell at the local police station. He agrees to find Murray if Sly helps him escape. Sly finds Murray, while evading Carmelita Fox, who had become more hateful towards crimes since their last encounter. Murray had become a trainee for a peace-loving figure known as the Guru in order to become more peaceful. Murray refuses to rejoin Sly and Bentley until the canals are clean, the task the Guru gave to him. Sly and Bentley take down Octavio, who had been polluting the canals with tar as part of a scheme to threaten the city into liking opera again. After putting together some plans, they destroy Octavio's comeback recital, but Octavio injures Bentley, making Murray so mad that he quits his training and battles Octavio and defeats him. Octavio is arrested, and Murray rejoins the team.", 
+        "summary": "In Sly 3: Honor Among Thieves, you follow Sly Cooper and his partners in crime as they plunder locations around the world and fight adversaries, both old and new. Sly 3 is a cell-shaded platform game involving vehicles, gadgets, and an assortment of minigames.", 
+        "tags": [
+            1, 
+            23, 
+            27, 
+            268435464, 
+            268435487, 
+            536870916, 
+            536870991, 
+            536871044, 
+            536871186, 
+            536871196, 
+            536871244, 
+            536871262, 
+            536871306, 
+            536871510, 
+            536871515, 
+            536872131, 
+            536872221, 
+            536872315, 
+            536872335, 
+            536872352, 
+            536872435, 
+            536872581, 
+            536872746, 
+            536872961, 
+            536873096, 
+            536873154, 
+            536873192, 
+            536873810, 
+            536873973, 
+            536874398, 
+            536875057, 
+            536875073, 
+            536875074, 
+            536875088, 
+            536875095, 
+            536875105, 
+            536875151, 
+            536875199, 
+            536875209, 
+            536875232, 
+            536875264, 
+            536875271, 
+            536875283, 
+            536875298, 
+            536875396, 
+            536875447, 
+            536875449, 
+            536875534, 
+            536875590, 
+            536875753, 
+            536875819, 
+            536875856, 
+            536876063, 
+            536876243, 
+            536876261, 
+            536876351, 
+            536876429, 
+            536876525, 
+            536876584, 
+            536876586, 
+            536876808, 
+            536876911, 
+            536876947, 
+            536877037, 
+            536877053, 
+            536877056, 
+            536877057, 
+            536877063, 
+            536877175, 
+            536877230, 
+            536877284, 
+            536877452, 
+            536877643, 
+            536877771, 
+            536878382, 
+            536878443, 
+            536878505, 
+            536878577, 
+            536878582, 
+            536878596, 
+            536879759, 
+            536879806, 
+            536880441, 
+            536880670, 
+            536882863, 
+            536884021, 
+            536887628, 
+            536892312, 
+            536892313
+        ], 
+        "themes": [
+            1, 
+            23, 
+            27
+        ], 
+        "total_rating": 78.10551013446326, 
+        "total_rating_count": 89, 
+        "updated_at": 1674689419, 
+        "url": "https://www.igdb.com/games/sly-3-honor-among-thieves", 
+        "videos": [
+            41631
+        ], 
+        "websites": [
+            140828, 
+            156593, 
+            156594, 
+            156595, 
+            334730
+        ]
+    }, 
+    {
+        "alternative_names": [
+            93213
+        ], 
+        "category": 8, 
+        "checksum": "40268d5f-5ee9-3867-7de8-a554f0a4d830", 
+        "collection": 1126, 
+        "cover": 221809, 
+        "created_at": 1652636063, 
+        "external_games": [
+            2452377
+        ], 
+        "first_release_date": 1111622400, 
+        "franchises": [
+            67
+        ], 
+        "game_localizations": [
+            17191
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            12, 
+            31
+        ], 
+        "id": 201313, 
+        "involved_companies": [
+            176706, 
+            176707
+        ], 
+        "keywords": [
+            226, 
+            227, 
+            2154, 
+            2626, 
+            4460, 
+            4943, 
+            33448
+        ], 
+        "multiplayer_modes": [
+            19147
+        ], 
+        "name": "Ys III: Wanderers from Ys", 
+        "parent_game": 206523, 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            368586
+        ], 
+        "screenshots": [
+            821108, 
+            821109, 
+            821110, 
+            821111, 
+            821112, 
+            821113, 
+            821114, 
+            821115, 
+            821116, 
+            821117
+        ], 
+        "similar_games": [
+            28010, 
+            28070, 
+            55199, 
+            68582, 
+            81249, 
+            96217, 
+            101608, 
+            103303, 
+            105049, 
+            106987
+        ], 
+        "slug": "ys-iii-wanderers-from-ys--1", 
+        "storyline": "The opening scene informs the player that it has been three years since the events of Ys I and Ys II. Adol Christin and his friend Dogi are on a journey. Passing through a town, they find a gypsy caravan and Dogi has his fortune told. The fortune teller's crystal ball explodes and both Adol and Dogi decide to go to Dogi's hometown of Redmont. On the way to Redmont, the pair chance upon a wildcat that attacks them, saving Dogi's childhood friend, Elena Stoddart, in the process. Upon arriving, they learn that the townspeople are being threatened by men from nearby Valestein Castle. Always ready for adventure, Adol decides to assume the task of helping them out.", 
+        "summary": "A port for the PlayStation 2 was released by Taito in 2005", 
+        "tags": [
+            1, 
+            17, 
+            268435464, 
+            268435468, 
+            268435487, 
+            536871138, 
+            536871139, 
+            536873066, 
+            536873538, 
+            536875372, 
+            536875855, 
+            536904360
+        ], 
+        "themes": [
+            1, 
+            17
+        ], 
+        "updated_at": 1671192907, 
+        "url": "https://www.igdb.com/games/ys-iii-wanderers-from-ys--1", 
+        "websites": [
+            292650, 
+            495227
+        ]
+    }, 
+    {
+        "age_ratings": [
+            68055, 
+            74988
+        ], 
+        "alternative_names": [
+            91775
+        ], 
+        "category": 0, 
+        "checksum": "65759263-8238-b111-b6d6-68b07710bc29", 
+        "collection": 4604, 
+        "cover": 56100, 
+        "created_at": 1499153124, 
+        "external_games": [
+            52597, 
+            136060, 
+            1877148
+        ], 
+        "first_release_date": 1134518400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            10, 
+            31
+        ], 
+        "id": 43455, 
+        "involved_companies": [
+            175633, 
+            175634
+        ], 
+        "keywords": [
+            350, 
+            534, 
+            1027, 
+            1563, 
+            1834, 
+            4142, 
+            4157, 
+            4162, 
+            4368, 
+            4475, 
+            5782
+        ], 
+        "name": "Stuart Little 3: Big Photo Adventure", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            89394
+        ], 
+        "screenshots": [
+            813753, 
+            813754, 
+            813755, 
+            813756, 
+            813757, 
+            813758
+        ], 
+        "similar_games": [
+            20342, 
+            22387, 
+            24426, 
+            28070, 
+            28309, 
+            35994, 
+            51945, 
+            56033, 
+            57187, 
+            105011
+        ], 
+        "slug": "stuart-little-3-big-photo-adventure", 
+        "summary": "Following the destruction of George's photography project in a freak flying accident, Stuart Little must save the day by scampering around New York City snapping everything in sight! Donning an exciting wardrobe, including golfing attire, a Native American costume, and a fireman's uniform, Stuart will gain extra abilities required to complete his daring challenges. Along the way, players can explore the Big Apple in a range of miniature vehicles including a stunt bike, a helicopter, a speedboat, and a military tank.", 
+        "tags": [
+            1, 
+            27, 
+            34, 
+            268435464, 
+            268435466, 
+            268435487, 
+            536871262, 
+            536871446, 
+            536871939, 
+            536872475, 
+            536872746, 
+            536875054, 
+            536875069, 
+            536875074, 
+            536875280, 
+            536875387, 
+            536876694
+        ], 
+        "themes": [
+            1, 
+            27, 
+            34
+        ], 
+        "updated_at": 1670952496, 
+        "url": "https://www.igdb.com/games/stuart-little-3-big-photo-adventure", 
+        "websites": [
+            363547
+        ]
+    }, 
+    {
+        "age_ratings": [
+            15446, 
+            15447
+        ], 
+        "category": 3, 
+        "checksum": "b6a5a891-9289-6cc0-6dc3-e37e54ec0d58", 
+        "collection": 206, 
+        "cover": 91071, 
+        "created_at": 1499094146, 
+        "external_games": [
+            52654, 
+            113838
+        ], 
+        "first_release_date": 1128470400, 
+        "franchises": [
+            994
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 43339, 
+        "keywords": [
+            296, 
+            350, 
+            960, 
+            2049, 
+            4239, 
+            4705
+        ], 
+        "name": "Rayman 10th Anniversary", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            346787, 
+            346788
+        ], 
+        "similar_games": [
+            11367, 
+            19150, 
+            19164, 
+            19404, 
+            23651, 
+            24426, 
+            37001, 
+            54775, 
+            55199, 
+            56033
+        ], 
+        "slug": "rayman-10th-anniversary--4", 
+        "summary": "Rayman 10th Anniversary Compilation Triple pack contains: Rayman Arena, Rayman Revolution and Rayman 3: Hoodlum Havoc. This version of the bundle was released in France, Europe and Australia.", 
+        "tags": [
+            17, 
+            27, 
+            268435464, 
+            536871208, 
+            536871262, 
+            536871872, 
+            536872961, 
+            536875151, 
+            536875617
+        ], 
+        "themes": [
+            17, 
+            27
+        ], 
+        "updated_at": 1656604615, 
+        "url": "https://www.igdb.com/games/rayman-10th-anniversary--4", 
+        "websites": [
+            268366
+        ]
+    }, 
+    {
+        "age_ratings": [
+            29922, 
+            29923
+        ], 
+        "alternative_names": [
+            40221, 
+            40222, 
+            40223, 
+            40224, 
+            40225, 
+            40226, 
+            40227, 
+            40228
+        ], 
+        "artworks": [
+            9750
+        ], 
+        "category": 0, 
+        "checksum": "13b7923a-4ad9-c9c7-a75e-16a4c11761ec", 
+        "collection": 6461, 
+        "cover": 114063, 
+        "created_at": 1499152166, 
+        "external_games": [
+            52922
+        ], 
+        "first_release_date": 1132272000, 
+        "franchises": [
+            2151
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9, 
+            31
+        ], 
+        "id": 43387, 
+        "involved_companies": [
+            107527, 
+            107528, 
+            181344
+        ], 
+        "keywords": [
+            1060, 
+            17457, 
+            17458, 
+            18359, 
+            25621, 
+            26040, 
+            26041
+        ], 
+        "name": "Shadow of the Colossus: Limited Edition", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            209488, 
+            209489, 
+            209490, 
+            209491
+        ], 
+        "screenshots": [
+            398544, 
+            398545, 
+            398546, 
+            398547, 
+            398548, 
+            398549, 
+            398550, 
+            398551
+        ], 
+        "similar_games": [
+            24426, 
+            28070, 
+            55190, 
+            55984, 
+            81249, 
+            96217, 
+            103303, 
+            106987, 
+            110503, 
+            115653
+        ], 
+        "slug": "shadow-of-the-colossus-limited-edition", 
+        "storyline": "One cloudy night, a lone hawk flies by two longtime companions - Wander and his horse Agro - navigating an unforgiving cliffside path on the edge of a canyon. The two have been traveling for a long time on this offbeat path, through murky forests and wet grasslands alike.\n\nThey arrive at last at their destination: a tall stone gate with a narrow passage. On the other side lies an enormous bridge of near-otherworldly construction. The bridge spans over the Forbidden Lands, a dramatic landscape of plains and canyons with enclosed and cut-off environments ranging from arid deserts to clefts with tall geysers to dark forests and murky crevasses.\n\nThe bridge finally comes to an end at the Shrine of Worship, a gigantic structure in the middle of the Lands. Wander and Agro make their way to the ground floor and the temple's main hall, which is lined with sixteen stone idols. At the end of the empty hall is an altar. Here it is shown that Wander is carrying something with him: a body wrapped in a cloth sheet. He places the body on the altar and removes the sheet, revealing Mono, a young woman clothed in a white dress.\n\nThe game suddenly cuts to a picture of an owl mask amidst a cloudy sky. From here, Lord Emon, a spiritual leader in Wander's society, speaks an esoteric monologue:\n\nThat place...began from the resonance of intersecting points...\nThey are memories replaced by ens and naught and etched into stone.\nBlood, young sprouts, sky - and the one with the ability to control beings created from light...\nIn that world, it is said that if one should wish it, one can bring back the souls of the dead.\nBut to trespass upon that land is strictly forbidden...\n\nAgro is suddenly frightened by a noise from behind the trio. Several shadowy apparitions are emerging from the temple floor, and Wander sees this and draws a mysterious sword from its sheath, pointing it towards the shadows. The blade emits an otherworldly energy, and the creatures immediately dissolve into thin air. Immediately, a booming pair of voices fill the halls from a great aperture above, surprised that Wander possesses the \"Ancient Sword\". Wander correctly identifies the voices as belonging to Dormin and asks that Mono be revived. Initially, Dormin expresses an indifference towards the matter, but ultimately cannot hide the interest in the sword Wander carries.", 
+        "summary": "Shadow of the Colossus is a majestic journey through ancient lands to seek out and destroy gigantic mythical beasts. With a trusty horse at your side, players explore the spacious lands and unearth each towering Colossus creature. The uneasy task of defeating a Colossus relies on intelligent puzzle solving and action oriented game play.\nArmed with strong wits, a mystical sword and a sturdy bow, players use cunning and strategy to topple each behemoth.\n\nThe Limited Edition includes:\n- 4 Art Cards\n- Special Tri-fold case", 
+        "tags": [
+            1, 
+            17, 
+            31, 
+            38, 
+            268435464, 
+            268435465, 
+            268435487, 
+            536871972, 
+            536888369, 
+            536888370, 
+            536889271, 
+            536896533, 
+            536896952, 
+            536896953
+        ], 
+        "themes": [
+            1, 
+            17, 
+            31, 
+            38
+        ], 
+        "updated_at": 1677832640, 
+        "url": "https://www.igdb.com/games/shadow-of-the-colossus-limited-edition", 
+        "version_parent": 2207, 
+        "version_title": "Limited Edition", 
+        "videos": [
+            40236
+        ], 
+        "websites": [
+            152243, 
+            152244, 
+            152245, 
+            152246, 
+            152247
+        ]
+    }, 
+    {
+        "age_ratings": [
+            15130
+        ], 
+        "category": 0, 
+        "checksum": "b0a933c9-96d8-3db7-188c-bfb2e492818a", 
+        "cover": 37983, 
+        "created_at": 1505164040, 
+        "external_games": [
+            120553, 
+            1898172
+        ], 
+        "first_release_date": 1196467200, 
+        "genres": [
+            8
+        ], 
+        "id": 64456, 
+        "keywords": [
+            758, 
+            2049, 
+            2957
+        ], 
+        "name": "Iron Chef", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            122670
+        ], 
+        "similar_games": [
+            19150, 
+            19917, 
+            20342, 
+            55173, 
+            55190, 
+            57187, 
+            63138, 
+            64454, 
+            77529, 
+            89597
+        ], 
+        "slug": "iron-chef", 
+        "summary": "I don't think this is licensed....", 
+        "tags": [
+            268435464, 
+            536871670, 
+            536872961, 
+            536873869
+        ], 
+        "updated_at": 1670960703, 
+        "url": "https://www.igdb.com/games/iron-chef", 
+        "websites": [
+            373171
+        ]
+    }, 
+    {
+        "age_ratings": [
+            16808, 
+            72723
+        ], 
+        "aggregated_rating": 60.0, 
+        "aggregated_rating_count": 1, 
+        "category": 0, 
+        "checksum": "ae1c7133-a0ff-f8fd-64ee-21ceb44c98b2", 
+        "cover": 48216, 
+        "created_at": 1468840974, 
+        "external_games": [
+            52381, 
+            129104, 
+            403745, 
+            1921997
+        ], 
+        "first_release_date": 1151452800, 
+        "genres": [
+            8
+        ], 
+        "id": 20539, 
+        "involved_companies": [
+            74324
+        ], 
+        "keywords": [
+            2049, 
+            3833, 
+            4162, 
+            4297, 
+            4388, 
+            4486, 
+            4907, 
+            5594, 
+            7222, 
+            9893, 
+            22699, 
+            22700
+        ], 
+        "multiplayer_modes": [
+            9244
+        ], 
+        "name": "Ruff Trigger: The Vanocore Conspiracy", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            164827, 
+            164828
+        ], 
+        "screenshots": [
+            27935
+        ], 
+        "similar_games": [
+            19150, 
+            20342, 
+            24426, 
+            55173, 
+            55190, 
+            56033, 
+            57187, 
+            63138, 
+            77529, 
+            89597
+        ], 
+        "slug": "ruff-trigger-the-vanocore-conspiracy", 
+        "summary": "Ruff Trigger: The Vanocore Conspiracy is a 2006 action-platform video game developed by Playstos Entertainment and published by Natsume in North America and by ZOO Digital Publishing in Europe for the PlayStation 2. The game was released in North America on June 28, 2006 and in Europe on August 25, 2006.", 
+        "tags": [
+            1, 
+            268435464, 
+            536872961, 
+            536874745, 
+            536875074, 
+            536875209, 
+            536875300, 
+            536875398, 
+            536875819, 
+            536876506, 
+            536878134, 
+            536880805, 
+            536893611, 
+            536893612
+        ], 
+        "themes": [
+            1
+        ], 
+        "total_rating": 60.0, 
+        "total_rating_count": 1, 
+        "updated_at": 1670972957, 
+        "url": "https://www.igdb.com/games/ruff-trigger-the-vanocore-conspiracy", 
+        "websites": [
+            99838, 
+            396180
+        ]
+    }, 
+    {
+        "alternative_names": [
+            88601
+        ], 
+        "category": 0, 
+        "checksum": "5a2ba6dd-eab7-a77b-9dd9-fef1acf016db", 
+        "collection": 96, 
+        "cover": 49681, 
+        "created_at": 1505480882, 
+        "external_games": [
+            132530, 
+            1879180
+        ], 
+        "first_release_date": 1152748800, 
+        "genres": [
+            8
+        ], 
+        "id": 68008, 
+        "keywords": [
+            350, 
+            1033, 
+            2049, 
+            9448, 
+            13135
+        ], 
+        "name": "Ape Escape: Million Monkeys", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            358041
+        ], 
+        "similar_games": [
+            20342, 
+            37579, 
+            55190, 
+            56132, 
+            56153, 
+            59451, 
+            61268, 
+            63397, 
+            65980, 
+            66620
+        ], 
+        "slug": "ape-escape-million-monkeys", 
+        "summary": "Ape Escape: Million Monkeys pits players against mech-equipped monkeys in real Japanese locations.", 
+        "tags": [
+            27, 
+            268435464, 
+            536871262, 
+            536871945, 
+            536872961, 
+            536880360, 
+            536884047
+        ], 
+        "themes": [
+            27
+        ], 
+        "updated_at": 1670953537, 
+        "url": "https://www.igdb.com/games/ape-escape-million-monkeys", 
+        "websites": [
+            365472
+        ]
+    }, 
+    {
+        "age_ratings": [
+            87769, 
+            87770
+        ], 
+        "category": 0, 
+        "checksum": "aab999f3-a425-7fe0-5cc8-1faa6c56fcf4", 
+        "collection": 909, 
+        "cover": 49860, 
+        "created_at": 1499154642, 
+        "external_games": [
+            52430, 
+            133038, 
+            1878900
+        ], 
+        "first_release_date": 1231459200, 
+        "genres": [
+            8
+        ], 
+        "id": 43512, 
+        "keywords": [
+            2049
+        ], 
+        "name": "Agent Hugo: Hula Holiday", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89356
+        ], 
+        "similar_games": [
+            1188, 
+            20342, 
+            55173, 
+            55190, 
+            63138, 
+            77529, 
+            82950, 
+            89597, 
+            113895, 
+            120184
+        ], 
+        "slug": "agent-hugo-hula-holiday", 
+        "summary": "Agent Hugo: Hula Holiday is a 3D Platformer created by NDS Software.", 
+        "tags": [
+            1, 
+            268435464, 
+            536872961
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670953304, 
+        "url": "https://www.igdb.com/games/agent-hugo-hula-holiday", 
+        "websites": [
+            365208
+        ]
+    }, 
+    {
+        "age_ratings": [
+            74009, 
+            74010
+        ], 
+        "category": 0, 
+        "checksum": "237a8f0c-4753-70f4-bb1e-e54ab0e940fa", 
+        "collection": 183, 
+        "cover": 223948, 
+        "created_at": 1653782755, 
+        "first_release_date": 1180656000, 
+        "franchises": [
+            279
+        ], 
+        "game_engines": [
+            46
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            8, 
+            31
+        ], 
+        "id": 202972, 
+        "involved_companies": [
+            172695, 
+            172696
+        ], 
+        "name": "Tomb Raider: Anniversary - Collectors Edition", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            361608, 
+            361609, 
+            361610
+        ], 
+        "screenshots": [
+            801378, 
+            801379, 
+            801380, 
+            801381, 
+            801382
+        ], 
+        "similar_games": [
+            28070, 
+            52189, 
+            76877, 
+            87622, 
+            96217, 
+            103292, 
+            105049, 
+            105269, 
+            106805, 
+            111130
+        ], 
+        "slug": "tomb-raider-anniversary-collectors-edition", 
+        "storyline": "Lara Croft has been hired by a mysterious woman named Natla to find a lost and very powerful artifact known as the Scion, a mystical artifact said to originate on the lost continent of Atlantis. She believes the Scion to be a repository of ancient knowledge that can help solve the mystery of her mother's disappearance.", 
+        "summary": "Tomb Raider: Anniversary is a remake of the original Tomb Raider with a technically more advanced graphics engine. It has the same basic storyline, though some cutscenes and much of the dialogue within have been expanded or modified in other ways.\n\nTwo disc collectors edition - Bonus materials include :\n- The Tomb Raider Story: A Ten Year Retrospective Documentary\n- Tomb Raider: Anniversary and Tomb Raider: Legend Exclusive Soundtrack mix\n- gallery of Tomb Raider artwork and collection of trailers from the past and present", 
+        "tags": [
+            1, 
+            268435461, 
+            268435464, 
+            268435487
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1653897185, 
+        "url": "https://www.igdb.com/games/tomb-raider-anniversary-collectors-edition", 
+        "version_parent": 1162, 
+        "version_title": "Collectors Edition", 
+        "videos": [
+            68758, 
+            68759
+        ], 
+        "websites": [
+            286415
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "adbf1758-8258-901a-b226-705c858dd503", 
+        "cover": 48437, 
+        "created_at": 1505346101, 
+        "external_games": [
+            129550, 
+            1880964
+        ], 
+        "first_release_date": 1154044800, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 66937, 
+        "involved_companies": [
+            114164, 
+            114165
+        ], 
+        "keywords": [
+            2049
+        ], 
+        "name": "Maniac Mole", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            4
+        ], 
+        "release_dates": [
+            220732
+        ], 
+        "screenshots": [
+            410523, 
+            410524, 
+            410525, 
+            410526, 
+            410527, 
+            410528
+        ], 
+        "similar_games": [
+            63138, 
+            79027, 
+            79621, 
+            79785, 
+            79910, 
+            80652, 
+            80787, 
+            81176, 
+            83214, 
+            83287
+        ], 
+        "slug": "maniac-mole", 
+        "storyline": "Once upon a time, a mole fell asleep in his house, but when he awoke, the world around him had changed. His cozy hole was turned into a laboratory inhabited by some violent creatures. The laboratory is huge, spread around numerous levels, and goes deep underground. Our mole has to go deeper and deeper underground to clear his house of these creatures and destroy the laboratory.", 
+        "summary": "After a mole awakes from a deep slumber he sees that the world around him has changed dramatically. His hole has been converted into a huge laboratory filled with deadly monsters. Now its up to you to help mole destroy the laboratory and take back what is rightfully his.", 
+        "tags": [
+            268435464, 
+            536872961
+        ], 
+        "updated_at": 1670954934, 
+        "url": "https://www.igdb.com/games/maniac-mole", 
+        "websites": [
+            366983
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "484db0fa-1dfe-86e7-fdab-18593969e010", 
+        "cover": 120653, 
+        "created_at": 1499067055, 
+        "external_games": [
+            59755, 
+            1970207
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 42021, 
+        "involved_companies": [
+            113788, 
+            113790, 
+            113840
+        ], 
+        "name": "Mirai Shounen Conan", 
+        "platforms": [
+            8
+        ], 
+        "screenshots": [
+            409801, 
+            409802
+        ], 
+        "similar_games": [
+            230738, 
+            230790, 
+            231494, 
+            231506, 
+            231542, 
+            234124, 
+            234353, 
+            234697, 
+            236633, 
+            239535
+        ], 
+        "slug": "mirai-shounen-conan", 
+        "summary": "Straightforward platform game based on famous anime director Hayao Miyazaki\u2019s TV series.", 
+        "tags": [
+            268435464
+        ], 
+        "updated_at": 1670985275, 
+        "url": "https://www.igdb.com/games/mirai-shounen-conan", 
+        "websites": [
+            426848
+        ]
+    }, 
+    {
+        "age_ratings": [
+            72109
+        ], 
+        "aggregated_rating": 63.3333333333333, 
+        "aggregated_rating_count": 4, 
+        "category": 10, 
+        "checksum": "8c18fd0a-fa5e-6fb7-1208-9e16dfccfd7f", 
+        "cover": 136520, 
+        "created_at": 1468849270, 
+        "external_games": [
+            51850, 
+            84006, 
+            134429, 
+            402055, 
+            1878051
+        ], 
+        "first_release_date": 1163721600, 
+        "genres": [
+            8
+        ], 
+        "id": 20663, 
+        "involved_companies": [
+            104531
+        ], 
+        "keywords": [
+            20281, 
+            20282
+        ], 
+        "name": "Tokobot Plus: Mysteries of the Karakuri", 
+        "parent_game": 19692, 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89290
+        ], 
+        "screenshots": [
+            28043, 
+            393946, 
+            393947, 
+            393948, 
+            393949, 
+            393950, 
+            393951, 
+            393952, 
+            393953, 
+            393954, 
+            393955, 
+            393956
+        ], 
+        "similar_games": [
+            1188, 
+            28070, 
+            29032, 
+            55190, 
+            63138, 
+            68582, 
+            96452, 
+            110503, 
+            113895, 
+            120184
+        ], 
+        "slug": "tokobot-plus-mysteries-of-the-karakuri", 
+        "summary": "Bolt is an apprentice Treasure Master working at Mr. Canewood's laboratory. With the help of mysterious Tokobots, he will explore many prehistoric ruins to find ancient relics that will put him one step further on his path to be a Treasure Master and find his father. However, he will also change his destiny in other ways.", 
+        "tags": [
+            1, 
+            268435464, 
+            536891193, 
+            536891194
+        ], 
+        "themes": [
+            1
+        ], 
+        "total_rating": 63.3333333333333, 
+        "total_rating_count": 4, 
+        "updated_at": 1670952826, 
+        "url": "https://www.igdb.com/games/tokobot-plus-mysteries-of-the-karakuri", 
+        "websites": [
+            364397
+        ]
+    }, 
+    {
+        "age_ratings": [
+            17599
+        ], 
+        "category": 0, 
+        "checksum": "2a6f2362-0045-1548-3343-c1614f78daef", 
+        "collection": 3138, 
+        "cover": 50445, 
+        "created_at": 1499156302, 
+        "external_games": [
+            52141, 
+            135055, 
+            402386, 
+            1747121, 
+            1877669
+        ], 
+        "first_release_date": 1299801600, 
+        "genres": [
+            8, 
+            9, 
+            31
+        ], 
+        "id": 43581, 
+        "involved_companies": [
+            83972
+        ], 
+        "keywords": [
+            2049, 
+            2672, 
+            2875, 
+            4230, 
+            4231, 
+            4345, 
+            4379, 
+            4977, 
+            20756, 
+            20757
+        ], 
+        "name": "Go, Diego, Go! Safari Rescue", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89318
+        ], 
+        "screenshots": [
+            108600
+        ], 
+        "similar_games": [
+            19241, 
+            20342, 
+            24426, 
+            25222, 
+            28070, 
+            55173, 
+            55190, 
+            56033, 
+            77529, 
+            89597
+        ], 
+        "slug": "go-diego-go-safari-rescue", 
+        "summary": "Giraffes with short necks? Zebras with no stripes? Tiny hippos? A mean Magician mixed up all the African animals and turned the elephants into rocks too. Help Diego, Alicia, Baby Jaguar, Juma and Erin the Elephant undo the Magician's mischief with the Magic Drum.", 
+        "tags": [
+            268435464, 
+            268435465, 
+            268435487, 
+            536872961, 
+            536873584, 
+            536873787, 
+            536875142, 
+            536875143, 
+            536875257, 
+            536875291, 
+            536875889, 
+            536891668, 
+            536891669
+        ], 
+        "updated_at": 1670952690, 
+        "url": "https://www.igdb.com/games/go-diego-go-safari-rescue", 
+        "websites": [
+            364034
+        ]
+    }, 
+    {
+        "age_ratings": [
+            5098, 
+            5099
+        ], 
+        "alternative_names": [
+            71181
+        ], 
+        "category": 0, 
+        "checksum": "fe26d1c0-8134-e6da-a21c-d6b8081ed3cc", 
+        "collection": 2986, 
+        "cover": 127649, 
+        "created_at": 1415318658, 
+        "external_games": [
+            52598, 
+            152303, 
+            249401
+        ], 
+        "first_release_date": 1161216000, 
+        "follows": 1, 
+        "franchises": [
+            489
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 8150, 
+        "involved_companies": [
+            19396, 
+            19397, 
+            19398
+        ], 
+        "keywords": [
+            250, 
+            645, 
+            1027, 
+            4142, 
+            4145, 
+            4345, 
+            4379, 
+            4380, 
+            4386, 
+            4719, 
+            5782, 
+            6745
+        ], 
+        "name": "Kim Possible: What's the Switch?", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            22503, 
+            22504, 
+            22505
+        ], 
+        "similar_games": [
+            2854, 
+            20342, 
+            24426, 
+            28070, 
+            28309, 
+            35994, 
+            55190, 
+            56033, 
+            96217, 
+            105049
+        ], 
+        "slug": "kim-possible-whats-the-switch", 
+        "summary": "Kim Possible and her perennial nemesis Shego must grudgingly team up to bring everything back to normal when the minds of Dr. Drakken and Ron Stoppable are switched in this action-packed adventure. It's now up to Kim and Shego to save the day \u2013 together.", 
+        "tags": [
+            1, 
+            268435464, 
+            268435487, 
+            536871162, 
+            536871557, 
+            536871939, 
+            536875054, 
+            536875057, 
+            536875257, 
+            536875291, 
+            536875292, 
+            536875298, 
+            536875631, 
+            536876694, 
+            536877657
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1677725960, 
+        "url": "https://www.igdb.com/games/kim-possible-whats-the-switch", 
+        "websites": [
+            336540
+        ]
+    }, 
+    {
+        "age_ratings": [
+            61694
+        ], 
+        "aggregated_rating": 63.3333333333333, 
+        "aggregated_rating_count": 5, 
+        "alternative_names": [
+            32481
+        ], 
+        "category": 0, 
+        "checksum": "8d591657-82db-6882-5379-dfc78a62b812", 
+        "collection": 96, 
+        "cover": 89862, 
+        "created_at": 1397599719, 
+        "external_games": [
+            51487, 
+            139406, 
+            246375
+        ], 
+        "first_release_date": 1121299200, 
+        "follows": 5, 
+        "game_localizations": [
+            4033
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 6064, 
+        "involved_companies": [
+            14578, 
+            95823
+        ], 
+        "keywords": [
+            78, 
+            350, 
+            946, 
+            1075, 
+            1512, 
+            1834, 
+            2049, 
+            3486, 
+            4145, 
+            4161, 
+            4162, 
+            4170, 
+            4305, 
+            4353, 
+            4359, 
+            4386, 
+            4892, 
+            5420, 
+            5441, 
+            5943, 
+            6094, 
+            6391, 
+            6624, 
+            9448, 
+            11947, 
+            13135, 
+            15198, 
+            16716
+        ], 
+        "name": "Ape Escape 3", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 79.4995630952311, 
+        "rating_count": 16, 
+        "release_dates": [
+            14903
+        ], 
+        "screenshots": [
+            106960, 
+            106961, 
+            106962, 
+            106963
+        ], 
+        "similar_games": [
+            2933, 
+            3222, 
+            3762, 
+            16326, 
+            16992, 
+            19150, 
+            19164, 
+            24426, 
+            26855, 
+            37001
+        ], 
+        "slug": "ape-escape-3", 
+        "summary": "Kei and Yumi take the lead as the new heroes. Their quest is to capture all 400 monkeys. You control either Kei or Yumi. The gameplay involves using various methods and weapons to catch them all. The game has many levels with different themes, such as a Haunted Castle, a Racing level, Jungle settings, TV studios and other settings. You can slow the animals down with various objects such as a stun club or a slingback shooter, and then you can capture them with a net.\n\nNew to the series are the morphing abilities, eight in all. You can morph into various characters, like a knight and perform a powerful attack or a gun fighter and shoot em up or a ninja and run along walls. You can also vehicles such as a race car to knock down the monkeys. Other features are the familiar Monkeypedia and the unlockable Mesal Gear Solid mini-game (a Metal Gear Solid spoof).", 
+        "tags": [
+            17, 
+            27, 
+            268435464, 
+            536870990, 
+            536871262, 
+            536871858, 
+            536871987, 
+            536872424, 
+            536872746, 
+            536872961, 
+            536874398, 
+            536875057, 
+            536875073, 
+            536875074, 
+            536875082, 
+            536875217, 
+            536875265, 
+            536875271, 
+            536875298, 
+            536875804, 
+            536876332, 
+            536876353, 
+            536876855, 
+            536877006, 
+            536877303, 
+            536877536, 
+            536880360, 
+            536882859, 
+            536884047, 
+            536886110, 
+            536887628
+        ], 
+        "themes": [
+            17, 
+            27
+        ], 
+        "total_rating": 71.4164482142822, 
+        "total_rating_count": 21, 
+        "updated_at": 1670932440, 
+        "url": "https://www.igdb.com/games/ape-escape-3", 
+        "websites": [
+            1451, 
+            99743, 
+            333601
+        ]
+    }, 
+    {
+        "age_ratings": [
+            122612, 
+            122613, 
+            122614
+        ], 
+        "category": 0, 
+        "checksum": "bdba8c36-9442-be29-468f-38755210aaa2", 
+        "cover": 164588, 
+        "created_at": 1499160128, 
+        "external_games": [
+            50827, 
+            102150, 
+            1926578
+        ], 
+        "first_release_date": 1142553600, 
+        "game_engines": [
+            41
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 43670, 
+        "involved_companies": [
+            204772, 
+            204773
+        ], 
+        "keywords": [
+            970, 
+            1033, 
+            1267, 
+            2049, 
+            4142
+        ], 
+        "name": "Smarties: Meltdown", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            454330
+        ], 
+        "screenshots": [
+            108578
+        ], 
+        "similar_games": [
+            1877, 
+            20342, 
+            25300, 
+            28070, 
+            55038, 
+            55190, 
+            57187, 
+            58114, 
+            80916, 
+            105269
+        ], 
+        "slug": "smarties-meltdown", 
+        "summary": "Smarties: Meltdown is a 3D action platformer game. The game lets the player control one of the sweet Nestl\u00e9 snacks and has to save the Smarties factory spaceship from an invasion by the evil dr. Soursweet and his underlings.\n\nThe player takes control of a Smartie called Big Blue who is equipped with a power suite that enables him to walk and jump. Blue can also use hand-to-hand combat or a range weapon called the Choco Ray to defeat the underlings of dr. Soursweet. Permanent and temporary upgrades like super role and Super boots can be collected along the way.", 
+        "tags": [
+            1, 
+            18, 
+            268435464, 
+            268435487, 
+            536871882, 
+            536871945, 
+            536872179, 
+            536872961, 
+            536875054
+        ], 
+        "themes": [
+            1, 
+            18
+        ], 
+        "updated_at": 1676941029, 
+        "url": "https://www.igdb.com/games/smarties-meltdown", 
+        "websites": [
+            400586
+        ]
+    }, 
+    {
+        "alternative_names": [
+            98314
+        ], 
+        "category": 0, 
+        "checksum": "477e9fbf-c6c0-6838-388c-3769b0781734", 
+        "cover": 237430, 
+        "created_at": 1504271679, 
+        "external_games": [
+            102683, 
+            1926295
+        ], 
+        "first_release_date": 1032998400, 
+        "follows": 1, 
+        "game_localizations": [
+            8404
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8
+        ], 
+        "id": 56153, 
+        "involved_companies": [
+            166581, 
+            197900
+        ], 
+        "keywords": [
+            296, 
+            350, 
+            1033, 
+            1495, 
+            2049
+        ], 
+        "name": "Poinie's Poin", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            115909
+        ], 
+        "screenshots": [
+            759186, 
+            759187
+        ], 
+        "similar_games": [
+            19150, 
+            20329, 
+            20342, 
+            40193, 
+            48553, 
+            56033, 
+            66258, 
+            66620, 
+            77529, 
+            80916
+        ], 
+        "slug": "poinies-poin", 
+        "storyline": "Poinie lives an idyllic life in Jelly Town, surrounded by strange mood-altering bubbles called \"poin\". After falling into the sewer and joining forces with a mysterious living poin, it's up to Poinie to defend his town from the evil Hellneows and restore the citizens in and around Jelly Town to their rightful senses.", 
+        "summary": "A 3D playformer developed by Alvion for the PlayStation 2. Although the title was released exclusively in Japan, Poinie's Poin contains an English option that fully translates and dubs the entire game.", 
+        "tags": [
+            27, 
+            268435464, 
+            536871208, 
+            536871262, 
+            536871945, 
+            536872407, 
+            536872961
+        ], 
+        "themes": [
+            27
+        ], 
+        "updated_at": 1672502159, 
+        "url": "https://www.igdb.com/games/poinies-poin", 
+        "videos": [
+            65899
+        ], 
+        "websites": [
+            400312
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "0f1d8477-8852-b556-6fe8-b1e9e7db65b2", 
+        "created_at": 1499157180, 
+        "external_games": [
+            51695, 
+            1966578
+        ], 
+        "first_release_date": 1004745600, 
+        "genres": [
+            8
+        ], 
+        "id": 43621, 
+        "name": "Code Breaker", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89270
+        ], 
+        "similar_games": [
+            228507, 
+            230738, 
+            230790, 
+            231494, 
+            231506, 
+            231542, 
+            234124, 
+            234353, 
+            234697, 
+            236633
+        ], 
+        "slug": "code-breaker", 
+        "summary": "Code Breaker is a cheat device developed by Pelican Accessories, currently available for PlayStation 2 and Nintendo DS. Along with competing product Action Replay, it is one of the few currently supported video game cheat devices.", 
+        "tags": [
+            268435464
+        ], 
+        "updated_at": 1670983842, 
+        "url": "https://www.igdb.com/games/code-breaker", 
+        "websites": [
+            423371
+        ]
+    }, 
+    {
+        "age_ratings": [
+            26306, 
+            29108
+        ], 
+        "aggregated_rating": 92.75, 
+        "aggregated_rating_count": 6, 
+        "alternative_names": [
+            37972, 
+            37975, 
+            37976, 
+            37977, 
+            66868, 
+            66869
+        ], 
+        "artworks": [
+            2569, 
+            2570, 
+            2571, 
+            2572, 
+            2573, 
+            2574, 
+            2575, 
+            2576, 
+            2577, 
+            2578, 
+            2579
+        ], 
+        "category": 0, 
+        "checksum": "108521b0-6a4e-8171-0543-b2ddb4a2a3eb", 
+        "collection": 70, 
+        "cover": 157484, 
+        "created_at": 1317710567, 
+        "external_games": [
+            50808, 
+            146707, 
+            247458
+        ], 
+        "first_release_date": 1173744000, 
+        "follows": 234, 
+        "franchises": [
+            2098
+        ], 
+        "game_engines": [
+            126
+        ], 
+        "game_localizations": [
+            384, 
+            3033
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            25, 
+            31
+        ], 
+        "id": 551, 
+        "involved_companies": [
+            104743, 
+            104744, 
+            104745
+        ], 
+        "keywords": [
+            35, 
+            129, 
+            137, 
+            170, 
+            221, 
+            226, 
+            227, 
+            274, 
+            296, 
+            301, 
+            389, 
+            558, 
+            594, 
+            623, 
+            872, 
+            927, 
+            953, 
+            1033, 
+            1060, 
+            1102, 
+            1240, 
+            1675, 
+            1707, 
+            1714, 
+            1961, 
+            2045, 
+            2071, 
+            2154, 
+            2324, 
+            2348, 
+            2472, 
+            2951, 
+            3486, 
+            3815, 
+            3831, 
+            3833, 
+            4031, 
+            4099, 
+            4138, 
+            4155, 
+            4161, 
+            4169, 
+            4183, 
+            4189, 
+            4239, 
+            4245, 
+            4272, 
+            4287, 
+            4353, 
+            4359, 
+            4369, 
+            4386, 
+            4389, 
+            4390, 
+            4397, 
+            4405, 
+            4415, 
+            4421, 
+            4525, 
+            4541, 
+            4611, 
+            4614, 
+            4684, 
+            4694, 
+            4709, 
+            4759, 
+            4763, 
+            4776, 
+            4787, 
+            4833, 
+            4866, 
+            4891, 
+            4918, 
+            4925, 
+            4940, 
+            4984, 
+            4990, 
+            5017, 
+            5029, 
+            5094, 
+            5096, 
+            5098, 
+            5099, 
+            5119, 
+            5122, 
+            5145, 
+            5146, 
+            5150, 
+            5255, 
+            5308, 
+            5323, 
+            5354, 
+            5386, 
+            5397, 
+            5445, 
+            5559, 
+            5586, 
+            5587, 
+            5593, 
+            5599, 
+            5612, 
+            5690, 
+            5694, 
+            5695, 
+            5730, 
+            5738, 
+            5772, 
+            5793, 
+            5811, 
+            5891, 
+            5902, 
+            5942, 
+            5965, 
+            5966, 
+            5969, 
+            5989, 
+            6010, 
+            6067, 
+            6068, 
+            6085, 
+            6097, 
+            6104, 
+            6137, 
+            6145, 
+            6146, 
+            6223, 
+            6292, 
+            6370, 
+            6493, 
+            6494, 
+            6503, 
+            6537, 
+            6583, 
+            6617, 
+            6620, 
+            6648, 
+            6653, 
+            6692, 
+            6741, 
+            6746, 
+            6843, 
+            6852, 
+            6917, 
+            7042, 
+            7205, 
+            7215, 
+            7328, 
+            7345, 
+            7351, 
+            7442, 
+            7479, 
+            7498, 
+            7530, 
+            7541, 
+            7578, 
+            7590, 
+            7593, 
+            7598, 
+            8311, 
+            8675, 
+            8676, 
+            8803, 
+            8839, 
+            8849, 
+            8852, 
+            8853, 
+            8975, 
+            8983, 
+            9200, 
+            9305, 
+            9318, 
+            9352, 
+            9529, 
+            9557, 
+            9665, 
+            9666, 
+            9726, 
+            9740, 
+            9748, 
+            9759, 
+            9779, 
+            9959, 
+            10046, 
+            10047, 
+            10200, 
+            10446, 
+            10458, 
+            10549, 
+            10604, 
+            10792, 
+            11044, 
+            11050, 
+            11051, 
+            11054, 
+            11056, 
+            11478, 
+            11882, 
+            12146, 
+            12396, 
+            12722, 
+            13106, 
+            13928, 
+            14123, 
+            14989
+        ], 
+        "name": "God of War II", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 85.8462670495654, 
+        "rating_count": 823, 
+        "release_dates": [
+            205445, 
+            205446, 
+            205447, 
+            205448
+        ], 
+        "remasters": [
+            117882
+        ], 
+        "screenshots": [
+            20481, 
+            20482, 
+            20483, 
+            20484, 
+            20485
+        ], 
+        "similar_games": [
+            127, 
+            499, 
+            549, 
+            550, 
+            552, 
+            836, 
+            1291, 
+            2031, 
+            3025, 
+            6958
+        ], 
+        "slug": "god-of-war-ii", 
+        "storyline": "Kratos, a brutally violent Greek soldier, tortured by the memories of his past, has taken the throne as the new God of war and is a very angry and vengeful god. While leading a massacre through a city protected by Athena, Kratos is betrayed by his fellow gods and murdered by Zeus who is wielding the legendary blade of Olympus. As the arms of Hades prepare to take him into the underworld the fallen god is saved by the titan Gaia. Gaia gives kratos new life and sends him on a mission to change his fate, a task in which no god or man has ever been successful at. You play as Kraots and fight your way through countless hoards of monsters from Greek Mythology in an attempt to locate the temple of the sisters of fate, find the blade of Olympus which holds your godly power take your revenge on Zeus himself.", 
+        "summary": "Kratos is now the God of War, having defeated the Olympian god Ares. Shunned by the other gods and still haunted by nightmares from his past, Kratos decides to join an army of Spartans in an attack on the city of Rhodes. Kratos also ignores a warning from the goddess Athena that his lust for revenge is alienating the other gods.", 
+        "tags": [
+            1, 
+            17, 
+            22, 
+            268435464, 
+            268435481, 
+            268435487, 
+            536870947, 
+            536871041, 
+            536871049, 
+            536871082, 
+            536871133, 
+            536871138, 
+            536871139, 
+            536871186, 
+            536871208, 
+            536871213, 
+            536871301, 
+            536871470, 
+            536871506, 
+            536871535, 
+            536871784, 
+            536871839, 
+            536871865, 
+            536871945, 
+            536871972, 
+            536872014, 
+            536872152, 
+            536872587, 
+            536872619, 
+            536872626, 
+            536872873, 
+            536872957, 
+            536872983, 
+            536873066, 
+            536873236, 
+            536873260, 
+            536873384, 
+            536873863, 
+            536874398, 
+            536874727, 
+            536874743, 
+            536874745, 
+            536874943, 
+            536875011, 
+            536875050, 
+            536875067, 
+            536875073, 
+            536875081, 
+            536875095, 
+            536875101, 
+            536875151, 
+            536875157, 
+            536875184, 
+            536875199, 
+            536875265, 
+            536875271, 
+            536875281, 
+            536875298, 
+            536875301, 
+            536875302, 
+            536875309, 
+            536875317, 
+            536875327, 
+            536875333, 
+            536875437, 
+            536875453, 
+            536875523, 
+            536875526, 
+            536875596, 
+            536875606, 
+            536875621, 
+            536875671, 
+            536875675, 
+            536875688, 
+            536875699, 
+            536875745, 
+            536875778, 
+            536875803, 
+            536875830, 
+            536875837, 
+            536875852, 
+            536875896, 
+            536875902, 
+            536875929, 
+            536875941, 
+            536876006, 
+            536876008, 
+            536876010, 
+            536876011, 
+            536876031, 
+            536876034, 
+            536876057, 
+            536876058, 
+            536876062, 
+            536876167, 
+            536876220, 
+            536876235, 
+            536876266, 
+            536876298, 
+            536876309, 
+            536876357, 
+            536876471, 
+            536876498, 
+            536876499, 
+            536876505, 
+            536876511, 
+            536876524, 
+            536876602, 
+            536876606, 
+            536876607, 
+            536876642, 
+            536876650, 
+            536876684, 
+            536876705, 
+            536876723, 
+            536876803, 
+            536876814, 
+            536876854, 
+            536876877, 
+            536876878, 
+            536876881, 
+            536876901, 
+            536876922, 
+            536876979, 
+            536876980, 
+            536876997, 
+            536877009, 
+            536877016, 
+            536877049, 
+            536877057, 
+            536877058, 
+            536877135, 
+            536877204, 
+            536877282, 
+            536877405, 
+            536877406, 
+            536877415, 
+            536877449, 
+            536877495, 
+            536877529, 
+            536877532, 
+            536877560, 
+            536877565, 
+            536877604, 
+            536877653, 
+            536877658, 
+            536877755, 
+            536877764, 
+            536877829, 
+            536877954, 
+            536878117, 
+            536878127, 
+            536878240, 
+            536878257, 
+            536878263, 
+            536878354, 
+            536878391, 
+            536878410, 
+            536878442, 
+            536878453, 
+            536878490, 
+            536878502, 
+            536878505, 
+            536878510, 
+            536879223, 
+            536879587, 
+            536879588, 
+            536879715, 
+            536879751, 
+            536879761, 
+            536879764, 
+            536879765, 
+            536879887, 
+            536879895, 
+            536880112, 
+            536880217, 
+            536880230, 
+            536880264, 
+            536880441, 
+            536880469, 
+            536880577, 
+            536880578, 
+            536880638, 
+            536880652, 
+            536880660, 
+            536880671, 
+            536880691, 
+            536880871, 
+            536880958, 
+            536880959, 
+            536881112, 
+            536881358, 
+            536881370, 
+            536881461, 
+            536881516, 
+            536881704, 
+            536881956, 
+            536881962, 
+            536881963, 
+            536881966, 
+            536881968, 
+            536882390, 
+            536882794, 
+            536883058, 
+            536883308, 
+            536883634, 
+            536884018, 
+            536884840, 
+            536885035, 
+            536885901
+        ], 
+        "themes": [
+            1, 
+            17, 
+            22
+        ], 
+        "total_rating": 89.2981335247827, 
+        "total_rating_count": 829, 
+        "updated_at": 1677760214, 
+        "url": "https://www.igdb.com/games/god-of-war-ii", 
+        "videos": [
+            582
+        ], 
+        "websites": [
+            99965, 
+            123246, 
+            148315, 
+            148316, 
+            148317, 
+            148318, 
+            148319, 
+            334645
+        ]
+    }, 
+    {
+        "alternative_names": [
+            74918
+        ], 
+        "category": 3, 
+        "checksum": "5a19d4de-3c3e-534c-092b-515a0d496ad1", 
+        "cover": 258155, 
+        "created_at": 1507120552, 
+        "external_games": [
+            136249
+        ], 
+        "first_release_date": 1122508800, 
+        "game_localizations": [
+            9600
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            5, 
+            8, 
+            9, 
+            25, 
+            33
+        ], 
+        "id": 72791, 
+        "involved_companies": [
+            150909
+        ], 
+        "keywords": [
+            672, 
+            960, 
+            4181, 
+            4550
+        ], 
+        "name": "Taito Memories Joukan", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2, 
+            3, 
+            4
+        ], 
+        "release_dates": [
+            314170
+        ], 
+        "screenshots": [
+            904529, 
+            904530, 
+            904531, 
+            904532
+        ], 
+        "similar_games": [
+            20342, 
+            25901, 
+            28070, 
+            43367, 
+            55042, 
+            55190, 
+            56033, 
+            89597, 
+            105049, 
+            110503
+        ], 
+        "slug": "taito-memories-joukan", 
+        "summary": "A Compilation of Taito games which includes:\n\n\u2013 Space Invaders Color\n\u2013 Lunar Rescue\n\u2013 Alpine Ski\n\u2013 The Fairyland Story\n\u2013 KiKi KaiKai\n\u2013 Bubble Bobble\n\u2013 Rastan Saga\n\u2013 Kuri Kinton\n\u2013 Syvalion\n\u2013 Bonze Adventure\n\u2013 Cameltry\n\u2013 Don Doko Don\n\u2013 Flipull\n\u2013 Ah Eikou No Koshien\n\u2013 Majestic Twelve: The Space Invaders Part IV (Super Space Invaders '91)\n\u2013 Runark (Growl)\n\u2013 Pu-Li-Ru-La\n\u2013 Metal Black\n\u2013 Grid Seeker: Project Storm Hammer\n\u2013 Dungeon Magic\n\u2013 Space Invaders DX\n\u2013 Darius Gaiden\n\u2013 Elevator Action Returns\n\u2013 Cleopatra Fortune\n\u2013 Puchi Carat", 
+        "tags": [
+            1, 
+            268435461, 
+            268435464, 
+            268435465, 
+            268435481, 
+            268435489, 
+            536871584, 
+            536871872, 
+            536875093, 
+            536875462
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1671631910, 
+        "url": "https://www.igdb.com/games/taito-memories-joukan", 
+        "videos": [
+            55288
+        ]
+    }, 
+    {
+        "age_ratings": [
+            65856
+        ], 
+        "category": 0, 
+        "checksum": "b8a42ec6-8fad-f9e1-4859-516b36d9a995", 
+        "collection": 646, 
+        "cover": 199003, 
+        "created_at": 1438386333, 
+        "external_games": [
+            50997, 
+            154210, 
+            253449
+        ], 
+        "first_release_date": 1008633600, 
+        "follows": 1, 
+        "franchises": [
+            812
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 11467, 
+        "keywords": [
+            296, 
+            314, 
+            669, 
+            1033, 
+            1381, 
+            2049, 
+            2152, 
+            4162, 
+            4297, 
+            4605, 
+            7086
+        ], 
+        "name": "Frogger: The Great Quest", 
+        "platforms": [
+            8
+        ], 
+        "ports": [
+            6412
+        ], 
+        "release_dates": [
+            89164
+        ], 
+        "similar_games": [
+            19150, 
+            20342, 
+            24426, 
+            28168, 
+            36198, 
+            37001, 
+            47823, 
+            55199, 
+            56033, 
+            80916
+        ], 
+        "slug": "frogger-the-great-quest", 
+        "summary": "The object of the game is to lead Frogger across The Third Kingdom which is filled with evil creatures and insects in search of the Princess of his wishes. There are many user interactions in the game that gives hints and tips on how to complete each level.", 
+        "tags": [
+            17, 
+            268435464, 
+            268435487, 
+            536871208, 
+            536871226, 
+            536871581, 
+            536871945, 
+            536872293, 
+            536872961, 
+            536873064, 
+            536875074, 
+            536875209, 
+            536875517, 
+            536877998
+        ], 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1670938341, 
+        "url": "https://www.igdb.com/games/frogger-the-great-quest", 
+        "websites": [
+            340442
+        ]
+    }, 
+    {
+        "age_ratings": [
+            55772, 
+            61907
+        ], 
+        "category": 0, 
+        "checksum": "9865859a-4d2d-2acf-4600-84528f91b51f", 
+        "collection": 2220, 
+        "cover": 256497, 
+        "created_at": 1385899660, 
+        "external_games": [
+            51284, 
+            143742, 
+            247028, 
+            1303985
+        ], 
+        "first_release_date": 1127174400, 
+        "follows": 6, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9, 
+            25, 
+            31
+        ], 
+        "id": 3219, 
+        "involved_companies": [
+            8321, 
+            76033
+        ], 
+        "keywords": [
+            61, 
+            227, 
+            570, 
+            571, 
+            572, 
+            4162, 
+            4169, 
+            4176, 
+            4292, 
+            4329, 
+            4683, 
+            5329, 
+            8906, 
+            12953, 
+            13109
+        ], 
+        "name": "Legend of Kay", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "ports": [
+            194236
+        ], 
+        "rating": 60.4397171761096, 
+        "rating_count": 6, 
+        "release_dates": [
+            347699
+        ], 
+        "remasters": [
+            19962
+        ], 
+        "screenshots": [
+            3663, 
+            3664
+        ], 
+        "similar_games": [
+            20342, 
+            24426, 
+            28070, 
+            55173, 
+            55190, 
+            55984, 
+            96217, 
+            103168, 
+            106987, 
+            110503
+        ], 
+        "slug": "legend-of-kay", 
+        "storyline": "For generations the peaceful cats have lived on the mythical island Peng-Lai in the Chinese sea, together with many other animals. Kay, the cat hero of this game, is an apprentice in martial arts. He was practicing in his masters Dojo when emperor Shun king of the mighty gorillas - attacked his home and dislodged the cat township. On a quest to protect his fellows, Kay begins an amazing journey which takes him across the vast island of Peng-Lai. Gradually, he begins to unravel the incredible secret that lies hidden in the volcano fortress of emperor Shun...", 
+        "summary": "Legend of Kay sets out to take the player on a journey which combines classic Jump and Run elements with an immersive story driven adventure.", 
+        "tags": [
+            1, 
+            17, 
+            35, 
+            268435464, 
+            268435465, 
+            268435481, 
+            268435487, 
+            536870973, 
+            536871139, 
+            536871482, 
+            536871483, 
+            536871484, 
+            536875074, 
+            536875081, 
+            536875088, 
+            536875204, 
+            536875241, 
+            536875595, 
+            536876241, 
+            536879818, 
+            536883865, 
+            536884021
+        ], 
+        "themes": [
+            1, 
+            17, 
+            35
+        ], 
+        "total_rating": 60.4397171761096, 
+        "total_rating_count": 6, 
+        "updated_at": 1677726802, 
+        "url": "https://www.igdb.com/games/legend-of-kay", 
+        "videos": [
+            1762
+        ], 
+        "websites": [
+            269848, 
+            334232
+        ]
+    }, 
+    {
+        "age_ratings": [
+            28170
+        ], 
+        "aggregated_rating": 77.5, 
+        "aggregated_rating_count": 2, 
+        "category": 11, 
+        "checksum": "a4e49a3f-0210-68fa-0eb2-f3f82adfb671", 
+        "collection": 6234, 
+        "cover": 103426, 
+        "created_at": 1468847636, 
+        "external_games": [
+            52601
+        ], 
+        "first_release_date": 1164326400, 
+        "franchises": [
+            1855
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            8, 
+            9
+        ], 
+        "id": 20628, 
+        "involved_companies": [
+            99817, 
+            99818, 
+            99819
+        ], 
+        "keywords": [
+            505, 
+            2875, 
+            22324, 
+            25299, 
+            25355
+        ], 
+        "name": "Mercury Meltdown Remix", 
+        "parent_game": 23125, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            197056, 
+            197057
+        ], 
+        "screenshots": [
+            28013, 
+            385492
+        ], 
+        "similar_games": [
+            20342, 
+            24426, 
+            28070, 
+            55173, 
+            55190, 
+            56033, 
+            60044, 
+            77529, 
+            89597, 
+            110503
+        ], 
+        "slug": "mercury-meltdown-remix", 
+        "summary": "The goo has gotten onto your big-screen TV with this remixed version of the popular PSP puzzler now on PS2. Mercury Meltdown is a brain-teasing puzzle game that challenges players to immerse themselves in a colorful world of sci-fi machines, crazy characters and bubbling test tubes. Players take control of a liquid mercury 'blob', guiding it around traps, door switches, spikes, moving floors and other hazardous elements in order to complete the level. This remix features over 200 thought provoking levels, including two never-before seen Labs.", 
+        "tags": [
+            1, 
+            268435464, 
+            268435465, 
+            536871417, 
+            536873787, 
+            536893236, 
+            536896211, 
+            536896267
+        ], 
+        "themes": [
+            1
+        ], 
+        "total_rating": 77.5, 
+        "total_rating_count": 2, 
+        "updated_at": 1652355014, 
+        "url": "https://www.igdb.com/games/mercury-meltdown-remix", 
+        "videos": [
+            36326, 
+            36327
+        ], 
+        "websites": [
+            141562
+        ]
+    }, 
+    {
+        "age_ratings": [
+            1330, 
+            30494
+        ], 
+        "aggregated_rating": 82.5, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            19402, 
+            50577, 
+            50578
+        ], 
+        "category": 0, 
+        "checksum": "b2c81ab0-730d-b855-4aaf-2e1df281e859", 
+        "collection": 344, 
+        "cover": 79083, 
+        "created_at": 1352566098, 
+        "external_games": [
+            51632, 
+            143044, 
+            249320, 
+            402844
+        ], 
+        "first_release_date": 1032739200, 
+        "follows": 43, 
+        "franchises": [
+            2239
+        ], 
+        "game_engines": [
+            126
+        ], 
+        "game_localizations": [
+            22094
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 1798, 
+        "involved_companies": [
+            18319, 
+            191426
+        ], 
+        "keywords": [
+            16, 
+            132, 
+            301, 
+            350, 
+            368, 
+            394, 
+            558, 
+            594, 
+            665, 
+            1205, 
+            1219, 
+            1238, 
+            1309, 
+            1403, 
+            1440, 
+            1669, 
+            1756, 
+            1935, 
+            1953, 
+            2049, 
+            2184, 
+            2280, 
+            2513, 
+            2759, 
+            3037, 
+            3061, 
+            3270, 
+            3289, 
+            3486, 
+            3741, 
+            3833, 
+            3901, 
+            4161, 
+            4162, 
+            4176, 
+            4186, 
+            4187, 
+            4189, 
+            4193, 
+            4218, 
+            4235, 
+            4239, 
+            4282, 
+            4287, 
+            4289, 
+            4297, 
+            4314, 
+            4317, 
+            4337, 
+            4347, 
+            4359, 
+            4363, 
+            4371, 
+            4374, 
+            4386, 
+            4389, 
+            4393, 
+            4407, 
+            4418, 
+            4432, 
+            4450, 
+            4484, 
+            4526, 
+            4535, 
+            4573, 
+            4576, 
+            4582, 
+            4591, 
+            4611, 
+            4622, 
+            4628, 
+            4652, 
+            4694, 
+            4727, 
+            4758, 
+            4763, 
+            4777, 
+            4778, 
+            4783, 
+            4790, 
+            4829, 
+            4840, 
+            4841, 
+            4848, 
+            4880, 
+            4891, 
+            4907, 
+            4944, 
+            4988, 
+            5022, 
+            5039, 
+            5108, 
+            5117, 
+            5156, 
+            5193, 
+            5196, 
+            5256, 
+            5331, 
+            5393, 
+            5421, 
+            5439, 
+            5441, 
+            5443, 
+            5453, 
+            5472, 
+            5517, 
+            5561, 
+            5581, 
+            5609, 
+            5658, 
+            5672, 
+            5709, 
+            5841, 
+            5896, 
+            5940, 
+            5999, 
+            6035, 
+            6045, 
+            6125, 
+            6144, 
+            6145, 
+            6318, 
+            6487, 
+            6540, 
+            6619, 
+            6675, 
+            6731, 
+            6745, 
+            6765, 
+            6827, 
+            6844, 
+            6903, 
+            6918, 
+            7118, 
+            7570, 
+            7575, 
+            7593, 
+            7654, 
+            7655, 
+            7661, 
+            7670, 
+            8163, 
+            8299, 
+            8894, 
+            9185, 
+            9215, 
+            9289, 
+            9394, 
+            9529, 
+            9551, 
+            9626, 
+            9971, 
+            11951, 
+            12637, 
+            13117, 
+            15306, 
+            15558, 
+            16716, 
+            16721, 
+            21405, 
+            21406
+        ], 
+        "name": "Sly Cooper and the Thievius Raccoonus", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 80.4177505222874, 
+        "rating_count": 128, 
+        "release_dates": [
+            213769, 
+            213770
+        ], 
+        "remasters": [
+            222125
+        ], 
+        "screenshots": [
+            114758, 
+            114759, 
+            114760, 
+            403444, 
+            403445, 
+            403446, 
+            403447, 
+            403448, 
+            403449, 
+            403450
+        ], 
+        "similar_games": [
+            533, 
+            843, 
+            1185, 
+            1334, 
+            1528, 
+            1799, 
+            1800, 
+            2031, 
+            3188, 
+            11270
+        ], 
+        "slug": "sly-cooper-and-the-thievius-raccoonus", 
+        "storyline": "Sly Cooper comes from a long line of master thieves (the Cooper Clan) who only steal from other criminals, thus making them vigilantes. The Cooper family's heirloom, an ancient book by the name The Thievius Raccoonus, records all the secret moves and techniques from every member in the clan. On his 8th birthday, Sly was supposed to inherit the book and learn all of his family's ancient secrets which was supposed to help him become a master thief, however, a group of thugs by the name \"The Fiendish Five\" (led by Clockwerk, who is the arch-nemesis of the family clan) attack the Cooper household and kills Sly's parents and stole all of the pages from the Thievius Raccoonus. After that, the ruthless gang go their separate ways to commit dastardly crimes around the world. Sly is sent to an orphanage where he meets and teams up and forms a gang with two guys who become his lifelong best friends, Bentley, a technician, inventor and a talented mathematical hacker with encyclopedic knowledge who plays the role as the brains of the gang, and Murray, a huge husky cowardly guy with a ginormous appetite who plays the role as the brawns and the getaway driver of the gang. The three leave the orphanage together at age 16 to start their lives becoming international vigilante criminals together, naming themselves \"The Cooper Gang\". Sly swears one day to avenge his family and track down the Fiendish Five and steal back the Thievius Raccoonus. 2 years later, the Cooper Gang head to Paris, France, to infiltrate Itnerpol (a police headquarters) in order to find the secret police file which stores details and information about the Fiendish Five but during the heist they are ambushed by Inspector Carmelita Fox (towards whom Sly develops a romantic attraction), a police officer who is affiliated with Interpol and is after the Cooper Gang. The gang manage to steal the police file and successfully escapes from her and the rest of the cops. With the secret police file finally in their hands, the Cooper Gang manage to track down the Fiendish Five.", 
+        "summary": "Sly Cooper is the latest in a long line of master thieves. When he was a kit, a gang called the Fiendish Five killed his family and divided up their book on the art of thieving: the Thievius Raccoonus. Sly must defeat all the members of the gang to recover the book while evading Carmelita Fox, a police officer chasing him around the world to apprehend him.\n\nThis game is divided into five worlds, each themed around a particular part of the world and the villain headquartered there. Most worlds are structured as a central hub with entrances to numerous individual levels. Each of the levels has a primary goals which earns you a key. You must collect all the keys in the world to fight the world's boss.\n\nMany of the levels have a platformer structure. The objective of these worlds is to reach the location of the key. There are substantial stealth elements here as you must dodge searchlights and trips lasers which set off alarms and avoid alerting guards. In addition to the main objective, there are clue bottles to find. Finding all the clues in a level allows you to open a safe with a page from the Thievius Raccoonus which grants a new ability of some sort. After getting this, there is also a master thief sprint where you must get from the start of a level to the exit within a time limit.", 
+        "tags": [
+            1, 
+            23, 
+            27, 
+            268435464, 
+            268435487, 
+            536870928, 
+            536871044, 
+            536871213, 
+            536871262, 
+            536871280, 
+            536871306, 
+            536871470, 
+            536871506, 
+            536871577, 
+            536872117, 
+            536872131, 
+            536872150, 
+            536872221, 
+            536872315, 
+            536872352, 
+            536872581, 
+            536872668, 
+            536872847, 
+            536872865, 
+            536872961, 
+            536873096, 
+            536873192, 
+            536873425, 
+            536873671, 
+            536873949, 
+            536873973, 
+            536874182, 
+            536874201, 
+            536874398, 
+            536874653, 
+            536874745, 
+            536874813, 
+            536875073, 
+            536875074, 
+            536875088, 
+            536875098, 
+            536875099, 
+            536875101, 
+            536875105, 
+            536875130, 
+            536875147, 
+            536875151, 
+            536875194, 
+            536875199, 
+            536875201, 
+            536875209, 
+            536875226, 
+            536875229, 
+            536875249, 
+            536875259, 
+            536875271, 
+            536875275, 
+            536875283, 
+            536875286, 
+            536875298, 
+            536875301, 
+            536875305, 
+            536875319, 
+            536875330, 
+            536875344, 
+            536875362, 
+            536875396, 
+            536875438, 
+            536875447, 
+            536875485, 
+            536875488, 
+            536875494, 
+            536875503, 
+            536875523, 
+            536875534, 
+            536875540, 
+            536875564, 
+            536875606, 
+            536875639, 
+            536875670, 
+            536875675, 
+            536875689, 
+            536875690, 
+            536875695, 
+            536875702, 
+            536875741, 
+            536875752, 
+            536875753, 
+            536875760, 
+            536875792, 
+            536875803, 
+            536875819, 
+            536875856, 
+            536875900, 
+            536875934, 
+            536875951, 
+            536876020, 
+            536876029, 
+            536876068, 
+            536876105, 
+            536876108, 
+            536876168, 
+            536876243, 
+            536876305, 
+            536876333, 
+            536876351, 
+            536876353, 
+            536876355, 
+            536876365, 
+            536876384, 
+            536876429, 
+            536876473, 
+            536876493, 
+            536876521, 
+            536876570, 
+            536876584, 
+            536876621, 
+            536876753, 
+            536876808, 
+            536876852, 
+            536876911, 
+            536876947, 
+            536876957, 
+            536877037, 
+            536877056, 
+            536877057, 
+            536877230, 
+            536877399, 
+            536877452, 
+            536877531, 
+            536877587, 
+            536877643, 
+            536877657, 
+            536877677, 
+            536877739, 
+            536877756, 
+            536877815, 
+            536877830, 
+            536878030, 
+            536878482, 
+            536878487, 
+            536878505, 
+            536878566, 
+            536878567, 
+            536878573, 
+            536878582, 
+            536879075, 
+            536879211, 
+            536879806, 
+            536880097, 
+            536880127, 
+            536880201, 
+            536880306, 
+            536880441, 
+            536880463, 
+            536880538, 
+            536880883, 
+            536882863, 
+            536883549, 
+            536884029, 
+            536886218, 
+            536886470, 
+            536887628, 
+            536887633, 
+            536892317, 
+            536892318
+        ], 
+        "themes": [
+            1, 
+            23, 
+            27
+        ], 
+        "total_rating": 81.4588752611437, 
+        "total_rating_count": 130, 
+        "updated_at": 1675899332, 
+        "url": "https://www.igdb.com/games/sly-cooper-and-the-thievius-raccoonus", 
+        "videos": [
+            41628
+        ], 
+        "websites": [
+            53532, 
+            156579, 
+            156580, 
+            156581, 
+            522489
+        ]
+    }, 
+    {
+        "age_ratings": [
+            66467
+        ], 
+        "category": 0, 
+        "checksum": "65bc6737-97c3-81a9-ee32-3ec91551ae48", 
+        "cover": 276191, 
+        "created_at": 1499155236, 
+        "external_games": [
+            52392, 
+            121393, 
+            1187189
+        ], 
+        "first_release_date": 1217116800, 
+        "franchises": [
+            302
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 43545, 
+        "name": "Garfield: Lasagna World Tour", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89345
+        ], 
+        "similar_games": [
+            28070, 
+            29032, 
+            211373, 
+            212738, 
+            215446, 
+            216015, 
+            226425, 
+            228802, 
+            231083, 
+            231273
+        ], 
+        "slug": "garfield-lasagna-world-tour", 
+        "storyline": "The sequel to Garfield: Saving Arlene, Lasagna World Tour throws the fat, lazy tabby cat throughout the world on a treasure hunt (just so that he can get a lifetime's worth of lasagna).", 
+        "summary": "Garfield: Lasagna World Tour for the PlayStation 2 challenges players to jump into the world of the comic cat in a quest to win the Lasagna World Tour - dressing up Garfield in a variety of humorous costumes (each granting him special powers) while playing a variety of mini-games that everyone in the family can enjoy in single- and multiplayer modes.", 
+        "tags": [
+            268435464, 
+            268435487
+        ], 
+        "updated_at": 1671966652, 
+        "url": "https://www.igdb.com/games/garfield-lasagna-world-tour", 
+        "websites": [
+            513313
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "dffab883-e578-98b0-a9be-1be5448e36a8", 
+        "cover": 234332, 
+        "created_at": 1659426588, 
+        "external_games": [
+            2526634
+        ], 
+        "first_release_date": 1026345600, 
+        "genres": [
+            8
+        ], 
+        "id": 210919, 
+        "involved_companies": [
+            181409
+        ], 
+        "name": "Boku wa Chiisai", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            377195
+        ], 
+        "similar_games": [
+            228507, 
+            230738, 
+            230790, 
+            231494, 
+            231506, 
+            231542, 
+            234124, 
+            234353, 
+            234697, 
+            236633
+        ], 
+        "slug": "boku-wa-chiisai", 
+        "summary": "Boku wa Chiisai is an Action game, published by Victor Interactive Software, which was released in Japan in 2002.", 
+        "tags": [
+            268435464
+        ], 
+        "updated_at": 1671017434, 
+        "url": "https://www.igdb.com/games/boku-wa-chiisai", 
+        "websites": [
+            498471
+        ]
+    }, 
+    {
+        "age_ratings": [
+            17321, 
+            87771
+        ], 
+        "category": 0, 
+        "checksum": "3dd22028-3d96-36e5-a06b-1a056a98cb55", 
+        "collection": 909, 
+        "cover": 34033, 
+        "created_at": 1499092013, 
+        "external_games": [
+            53040, 
+            133039, 
+            254000
+        ], 
+        "first_release_date": 1196812800, 
+        "follows": 1, 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 43252, 
+        "keywords": [
+            2049, 
+            4359, 
+            4380, 
+            4527, 
+            5441, 
+            7309, 
+            7684
+        ], 
+        "name": "Agent Hugo: Lemoon Twist", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89562
+        ], 
+        "similar_games": [
+            19150, 
+            20342, 
+            24426, 
+            28070, 
+            37001, 
+            55173, 
+            55190, 
+            56033, 
+            77529, 
+            89597
+        ], 
+        "slug": "agent-hugo-lemoon-twist", 
+        "summary": "The evil Dr. Hypno has embarked on a dastardly plot to take over the world. He has built a hypno-satellite, which he plans to launch into space from his secret island fortress, guarded by his hyper-mad-hypnotised minions. Once again Agent Hugo returns as the ever-resourceful secret agent in a battle against time to stop this mad scientist. Enjoy hours of fun as Agent Hugo in an exciting adventure with his top secret team ready to help him through his most daring mission to date.\nWill he manage to find the secret hiding place of Dr Hypno and stop his vicious plan before it is too late? Good luck Agent Hugo ... this time you'll need it.", 
+        "tags": [
+            268435464, 
+            268435487, 
+            536872961, 
+            536875271, 
+            536875292, 
+            536875439, 
+            536876353, 
+            536878221, 
+            536878596
+        ], 
+        "updated_at": 1670938856, 
+        "url": "https://www.igdb.com/games/agent-hugo-lemoon-twist", 
+        "websites": [
+            340982
+        ]
+    }, 
+    {
+        "age_ratings": [
+            75970
+        ], 
+        "category": 0, 
+        "checksum": "d9132fbc-d9a0-6ad2-82d8-6c0ca7ea7405", 
+        "collection": 4163, 
+        "cover": 209503, 
+        "created_at": 1605351911, 
+        "first_release_date": 1097798400, 
+        "franchises": [
+            329
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            25, 
+            31
+        ], 
+        "id": 140987, 
+        "involved_companies": [
+            113155, 
+            113156
+        ], 
+        "keywords": [
+            698, 
+            25983
+        ], 
+        "name": "The Mummy", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            218177
+        ], 
+        "similar_games": [
+            27092, 
+            28070, 
+            29032, 
+            54775, 
+            81249, 
+            96217, 
+            103168, 
+            103303, 
+            106987, 
+            116530
+        ], 
+        "slug": "the-mummy--2", 
+        "storyline": "Alex has the ability to jump and climb to overcome obstacles. To fight off enemies the player can fire his slingshot or fight the enemies with his bare hands. The talisman on Alex\u2019s wrist gives him the ability to move objects and place them on a floor switch for example. Alex can also send his pet Tut to places that cannot be reached by himself and so activate a switch", 
+        "summary": "The Mummy is a 3D action-adventure game that is based on the The Mummy: The Animated Series. In the game you play as Alex O'Connell who has to stop Imhotep from obtaining all three pieces of a talisman that supposedly grands the user immense power", 
+        "tags": [
+            1, 
+            17, 
+            43, 
+            268435464, 
+            268435481, 
+            268435487, 
+            536871610, 
+            536896895
+        ], 
+        "themes": [
+            1, 
+            17, 
+            43
+        ], 
+        "updated_at": 1655975049, 
+        "url": "https://www.igdb.com/games/the-mummy--2"
+    }, 
+    {
+        "age_ratings": [
+            61760
+        ], 
+        "alternative_names": [
+            17544, 
+            17545, 
+            42013, 
+            42014
+        ], 
+        "category": 0, 
+        "checksum": "60f6a68b-0ab1-10d6-d099-9544b7add9b9", 
+        "cover": 157414, 
+        "created_at": 1494253058, 
+        "external_games": [
+            52335, 
+            150583, 
+            1188066
+        ], 
+        "first_release_date": 996192000, 
+        "follows": 1, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9
+        ], 
+        "id": 28502, 
+        "involved_companies": [
+            46621, 
+            46622, 
+            46623, 
+            174399
+        ], 
+        "keywords": [
+            296, 
+            301, 
+            350, 
+            962, 
+            1202, 
+            2052, 
+            2875, 
+            4145, 
+            4359, 
+            4378, 
+            4478, 
+            4615, 
+            4644, 
+            4728, 
+            4779, 
+            5105, 
+            5651, 
+            6472, 
+            13118
+        ], 
+        "name": "Stretch Panic", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            69180, 
+            69181, 
+            69182
+        ], 
+        "screenshots": [
+            42913
+        ], 
+        "similar_games": [
+            11367, 
+            19241, 
+            20329, 
+            20342, 
+            24426, 
+            28070, 
+            55173, 
+            55190, 
+            56033, 
+            77529
+        ], 
+        "slug": "stretch-panic", 
+        "summary": "Stretch Panic is an action/platform video game designed by Treasure Co. Ltd. It was a landmark title for the developer as it was their first game to feature movement on a 3D plane; prior to Stretch Panic they had exclusively been a developer of 2D titles. The game revolves around a girl named Linda who has the power to pinch, stretch, and bend objects and enemies with a magic scarf as she battles her evil sisters.", 
+        "tags": [
+            1, 
+            27, 
+            268435464, 
+            268435465, 
+            536871208, 
+            536871213, 
+            536871262, 
+            536871874, 
+            536872114, 
+            536872964, 
+            536873787, 
+            536875057, 
+            536875271, 
+            536875290, 
+            536875390, 
+            536875527, 
+            536875556, 
+            536875640, 
+            536875691, 
+            536876017, 
+            536876563, 
+            536877384, 
+            536884030
+        ], 
+        "themes": [
+            1, 
+            27
+        ], 
+        "updated_at": 1670942350, 
+        "url": "https://www.igdb.com/games/stretch-panic", 
+        "websites": [
+            345686
+        ]
+    }, 
+    {
+        "age_ratings": [
+            9186
+        ], 
+        "alternative_names": [
+            67699
+        ], 
+        "category": 11, 
+        "checksum": "f3b363db-89d7-01ef-3e77-4253fc096854", 
+        "collection": 2296, 
+        "cover": 161361, 
+        "created_at": 1469273950, 
+        "first_release_date": 1088640000, 
+        "follows": 1, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            8
+        ], 
+        "id": 21064, 
+        "involved_companies": [
+            37794, 
+            37795, 
+            37796
+        ], 
+        "keywords": [
+            163, 
+            167, 
+            660, 
+            849, 
+            1059, 
+            1382, 
+            1448, 
+            1739, 
+            3298, 
+            3539, 
+            4035, 
+            7092, 
+            9925, 
+            19907, 
+            25367
+        ], 
+        "name": "Assault Suits Valken", 
+        "parent_game": 28388, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            4
+        ], 
+        "ports": [
+            240410
+        ], 
+        "release_dates": [
+            54068, 
+            54069
+        ], 
+        "similar_games": [
+            28388, 
+            55038, 
+            55042, 
+            57187, 
+            68287, 
+            68722, 
+            103298, 
+            105269, 
+            106805, 
+            119177
+        ], 
+        "slug": "assault-suits-valken", 
+        "summary": "Assault Suits Valken is a port of the 1993 SNES game of the same name, known as Cybernator in the west. Was released in Europe and Japan, but not in the US. It added wide screen and some new cutscenes and dialogue.", 
+        "tags": [
+            18, 
+            39, 
+            268435461, 
+            268435464, 
+            536871075, 
+            536871079, 
+            536871572, 
+            536871761, 
+            536871971, 
+            536872294, 
+            536872360, 
+            536872651, 
+            536874210, 
+            536874451, 
+            536874947, 
+            536878004, 
+            536880837, 
+            536890819, 
+            536896279
+        ], 
+        "themes": [
+            18, 
+            39
+        ], 
+        "updated_at": 1678097434, 
+        "url": "https://www.igdb.com/games/assault-suits-valken", 
+        "websites": [
+            200120
+        ]
+    }, 
+    {
+        "alternative_names": [
+            63097, 
+            63101
+        ], 
+        "artworks": [
+            84087
+        ], 
+        "bundles": [
+            43651
+        ], 
+        "category": 10, 
+        "checksum": "f89221fb-74e0-d955-7b4a-2b13b4b7369f", 
+        "collection": 272, 
+        "cover": 141016, 
+        "created_at": 1468368537, 
+        "external_games": [
+            2529483
+        ], 
+        "first_release_date": 1175126400, 
+        "follows": 14, 
+        "franchises": [
+            720
+        ], 
+        "game_localizations": [
+            131
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            8, 
+            12, 
+            25, 
+            31
+        ], 
+        "id": 20284, 
+        "involved_companies": [
+            103538, 
+            126868
+        ], 
+        "keywords": [
+            6, 
+            174, 
+            521, 
+            645, 
+            1033, 
+            1673, 
+            2231, 
+            2510, 
+            18164, 
+            18167, 
+            23128, 
+            25729
+        ], 
+        "name": "Kingdom Hearts II Final Mix", 
+        "parent_game": 1221, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 84.795385374983, 
+        "rating_count": 41, 
+        "release_dates": [
+            53599
+        ], 
+        "remasters": [
+            221998
+        ], 
+        "screenshots": [
+            391798, 
+            391799, 
+            391800, 
+            391801
+        ], 
+        "similar_games": [
+            1221, 
+            1224, 
+            19164, 
+            36198, 
+            47823, 
+            55038, 
+            96217, 
+            103168, 
+            105049, 
+            106987
+        ], 
+        "slug": "kingdom-hearts-ii-final-mix", 
+        "summary": "In September 2006, Square Enix announced Kingdom Hearts II Final Mix, featuring new scenes and gameplay elements. Like the first re-release, this version would combine English audio with Japanese text and also use the \"Sanctuary\" theme song instead of \"Passion\". New cutscenes, however, used Japanese voice acting, as they mostly featured Organization XIII members from Kingdom Hearts: Chain of Memories who did not yet have English voice actors; these scenes were later re-dubbed into English for the HD 2.5 Remix release.", 
+        "tags": [
+            1, 
+            17, 
+            27, 
+            268435461, 
+            268435464, 
+            268435468, 
+            268435481, 
+            268435487, 
+            536870918, 
+            536871086, 
+            536871433, 
+            536871557, 
+            536871945, 
+            536872585, 
+            536873143, 
+            536873422, 
+            536889076, 
+            536889079, 
+            536894040, 
+            536896641
+        ], 
+        "themes": [
+            1, 
+            17, 
+            27
+        ], 
+        "total_rating": 84.795385374983, 
+        "total_rating_count": 41, 
+        "updated_at": 1676734943, 
+        "url": "https://www.igdb.com/games/kingdom-hearts-ii-final-mix", 
+        "websites": [
+            146470, 
+            146471, 
+            146472, 
+            146473, 
+            146474, 
+            146475, 
+            146476
+        ]
+    }, 
+    {
+        "alternative_names": [
+            100555
+        ], 
+        "category": 0, 
+        "checksum": "98e00bb4-a427-d5d9-b303-d6fc8e96cf0b", 
+        "cover": 243361, 
+        "created_at": 1521215285, 
+        "external_games": [
+            129591, 
+            1880930
+        ], 
+        "first_release_date": 1100217600, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9, 
+            33
+        ], 
+        "id": 93560, 
+        "involved_companies": [
+            186677, 
+            186678
+        ], 
+        "keywords": [
+            126, 
+            969, 
+            1127, 
+            34944
+        ], 
+        "name": "Arcade Action", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            387895
+        ], 
+        "screenshots": [
+            873197, 
+            873198, 
+            873199, 
+            873200, 
+            873201
+        ], 
+        "similar_games": [
+            18115, 
+            25905, 
+            28070, 
+            55190, 
+            56033, 
+            87170, 
+            90788, 
+            110503, 
+            112364, 
+            121249
+        ], 
+        "slug": "arcade-action", 
+        "summary": "Arcade Action: 30 Games is a Miscellaneous game, developed by Mere Mortals and published by Phoenix Games, which was released in Europe in 2004.\n\nIt is a compilation of thirty arcade-style games.\n\n3D Puzzle, Airport Cargo, Barbarian Invasion, Black Box, Boa's Maze, Bombs & Booms, Cannon Battles, Emptiness, Football Spring, Gates & Magic, Golf Master, Gravitational Attack, Helicopter Ride, Hills & Holes, Hockey, Image Maker, Mind the Numbers, One Touch, Rail Dreams, Sea Battle, Snapper, Space Rebels, Sphetrix, Steps, Stone Keeper, The Catchers, The Wall, Total Wipeout, Vacuum Cleaners, Wisdom Seekers", 
+        "tags": [
+            268435464, 
+            268435465, 
+            268435489, 
+            536871038, 
+            536871881, 
+            536872039, 
+            536905856
+        ], 
+        "updated_at": 1670954910, 
+        "url": "https://www.igdb.com/games/arcade-action", 
+        "websites": [
+            366950
+        ]
+    }, 
+    {
+        "age_ratings": [
+            18093, 
+            65666
+        ], 
+        "aggregated_rating": 65.0, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            15462, 
+            44608
+        ], 
+        "category": 0, 
+        "checksum": "cbfec300-7eda-318b-5007-8b7c6123d7db", 
+        "cover": 78932, 
+        "created_at": 1470253470, 
+        "external_games": [
+            51280, 
+            138555, 
+            253181
+        ], 
+        "first_release_date": 1069113600, 
+        "follows": 2, 
+        "genres": [
+            8, 
+            9
+        ], 
+        "id": 22283, 
+        "involved_companies": [
+            81785, 
+            81786
+        ], 
+        "keywords": [
+            61, 
+            226, 
+            296, 
+            301, 
+            1219, 
+            1778, 
+            2049, 
+            2155, 
+            2678, 
+            4145, 
+            4161, 
+            4183, 
+            4297, 
+            4350, 
+            4446, 
+            4484, 
+            4607, 
+            5386, 
+            5387, 
+            5634, 
+            6667, 
+            7174, 
+            7529, 
+            8896, 
+            9175, 
+            9557, 
+            9663, 
+            10573, 
+            12621, 
+            13115, 
+            14999, 
+            15000, 
+            15001, 
+            15002, 
+            15003, 
+            15004, 
+            15005, 
+            15006, 
+            15007, 
+            15008, 
+            15009, 
+            15010, 
+            15011
+        ], 
+        "name": "Kya: Dark Lineage", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            292425, 
+            292426
+        ], 
+        "screenshots": [
+            317507
+        ], 
+        "similar_games": [
+            3222, 
+            8255, 
+            19150, 
+            20342, 
+            24426, 
+            55173, 
+            55190, 
+            56033, 
+            77529, 
+            89597
+        ], 
+        "slug": "kya-dark-lineage", 
+        "summary": "Kya and her brother Frank have been transported into a different dimension, and upon arriving are separated! Kya meets (and is saved by) the native creatures of this world (known as the Nativs), however Frank is captured by a dangerous enemy known as the Wolfens under the rule of Brazul. To make matters worse, Kya learns that the Wolfens are actually the peaceful Nativs which have been captured and transformed, and Brazul is actually her long lost father! Kya must now embark on a quest to rescue her brother as well as find a way to restore the Wolfen to their Nativ form and defeat Brazul.\n\nKya: Dark Lineage is an action adventure game. You control Kya and need to explore the colorful world she's arrived in. This strange world consists of various floating islands with many tunnels, platforms, dangerous life forms, and other obstacles. Powerful winds blow around many areas, and you'll often need to use the winds to your advantage by floating in them through tunnels, over gaps or slowing your descent in a free fall. There is some puzzle solving as well; you'll need to locate objects to use, hop on various platforms, buy items in the Nativ city, and more to reach new areas.\n\nYou'll also need to fight often, as the Wolfen are numerous and can found guarding many areas you need to get through. You can fight with your fists as well as items that can be acquired (such as various boomies, or boomerangs, and fighting bracelets). After defeating a Wolfen, you can use a magic spell to transform it back to its Nativ form which will then return back to the Nativ city. Upon returning to the city, many of the Nativs will then open up a shop; as new shops are opened, you will have the opportunity to buy new items and power ups to help on your quest. Alternatively, some Nativs may instead build a challenge in the city instead of opening a shop. You can earn money by betting and completing challenge objectives (or you can simply practice a challenge).\n\nAs you progress through the game, the story will unfold until you are (hopefully) successful in your quest!", 
+        "tags": [
+            1, 
+            268435464, 
+            268435465, 
+            536870973, 
+            536871138, 
+            536871208, 
+            536871213, 
+            536872131, 
+            536872690, 
+            536872961, 
+            536873067, 
+            536873590, 
+            536875057, 
+            536875073, 
+            536875095, 
+            536875209, 
+            536875262, 
+            536875358, 
+            536875396, 
+            536875519, 
+            536876298, 
+            536876299, 
+            536876546, 
+            536877579, 
+            536878086, 
+            536878441, 
+            536879808, 
+            536880087, 
+            536880469, 
+            536880575, 
+            536881485, 
+            536883533, 
+            536884027, 
+            536885911, 
+            536885912, 
+            536885913, 
+            536885914, 
+            536885915, 
+            536885916, 
+            536885917, 
+            536885918, 
+            536885919, 
+            536885920, 
+            536885921, 
+            536885922, 
+            536885923
+        ], 
+        "themes": [
+            1
+        ], 
+        "total_rating": 65.0, 
+        "total_rating_count": 2, 
+        "updated_at": 1670938095, 
+        "url": "https://www.igdb.com/games/kya-dark-lineage", 
+        "websites": [
+            340180
+        ]
+    }, 
+    {
+        "age_ratings": [
+            74975
+        ], 
+        "alternative_names": [
+            104833, 
+            104834, 
+            104836
+        ], 
+        "category": 0, 
+        "checksum": "3d16ee94-3c97-6348-085d-48f1eab3072b", 
+        "cover": 248890, 
+        "created_at": 1499151947, 
+        "external_games": [
+            53176, 
+            137175, 
+            1876585
+        ], 
+        "first_release_date": 996969600, 
+        "follows": 1, 
+        "game_localizations": [
+            2068
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            14
+        ], 
+        "id": 43379, 
+        "keywords": [
+            3, 
+            50, 
+            1299, 
+            1783, 
+            2152, 
+            2913, 
+            2962, 
+            4054, 
+            4213, 
+            4501, 
+            4557, 
+            4558, 
+            4827, 
+            4907, 
+            6765, 
+            7123, 
+            7188, 
+            7412
+        ], 
+        "name": "Yanya Caballista City Skater", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            89597
+        ], 
+        "screenshots": [
+            886919, 
+            886920, 
+            886921
+        ], 
+        "similar_games": [
+            3772, 
+            3908, 
+            20342, 
+            28070, 
+            55173, 
+            55190, 
+            113175, 
+            114285, 
+            118871, 
+            119422
+        ], 
+        "slug": "yanya-caballista-city-skater", 
+        "summary": "Yanya Caballista: City Skater, known in Japan as Yanya Caballista featuring Gawoo, is an extreme sports skating game for the PlayStation 2. The game is similar to Jet Set Radio in feel and look, but is more of an arcade style game.", 
+        "tags": [
+            1, 
+            268435464, 
+            268435470, 
+            536870915, 
+            536870962, 
+            536872211, 
+            536872695, 
+            536873064, 
+            536873825, 
+            536873874, 
+            536874966, 
+            536875125, 
+            536875413, 
+            536875469, 
+            536875470, 
+            536875739, 
+            536875819, 
+            536877677, 
+            536878035, 
+            536878100, 
+            536878324
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670952244, 
+        "url": "https://www.igdb.com/games/yanya-caballista-city-skater", 
+        "videos": [
+            75409
+        ], 
+        "websites": [
+            313327, 
+            363019
+        ]
+    }, 
+    {
+        "age_ratings": [
+            8617
+        ], 
+        "aggregated_rating": 70.0, 
+        "aggregated_rating_count": 1, 
+        "category": 0, 
+        "checksum": "937cf962-3ffb-85ce-b18c-b39a90712fa5", 
+        "cover": 78905, 
+        "created_at": 1462820773, 
+        "external_games": [
+            51251, 
+            153168, 
+            1868060
+        ], 
+        "first_release_date": 1037577600, 
+        "follows": 4, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            8, 
+            9, 
+            10, 
+            31
+        ], 
+        "id": 19090, 
+        "involved_companies": [
+            35179, 
+            35180
+        ], 
+        "keywords": [
+            296, 
+            970, 
+            1033, 
+            4157, 
+            4484, 
+            4790
+        ], 
+        "name": "Haven: Call of the King", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            50519, 
+            50520
+        ], 
+        "similar_games": [
+            24426, 
+            28070, 
+            28309, 
+            36198, 
+            47823, 
+            55038, 
+            55199, 
+            80916, 
+            105049, 
+            105269
+        ], 
+        "slug": "haven-call-of-the-king", 
+        "storyline": "The game begins with Vetch (voiced by Steve Tarlow) receiving a transmission from his lieutenant, Overlord (Jason Gregory), who tells him a slave named Haven has been dreaming about the Golden Voice. Rather than kill Haven, Vetch decides to watch him, hoping to turn the situation to his own advantage. Meanwhile, in Virescent Village on the planet Ferra, Haven (Jake Rosewall-Gallagher) is completing his latest invention; a mechanical bird named Talon. Upon finishing, Haven heads to work in the mines. However, upon entering, he sees his friend Chess (Regan Kerwan) being questioned by a guard. The guard tries to shoot Haven, but misses, and causes the mine to collapse, knocking out Haven.\n\nHe awakens under the treatment of Dr. Spong (Andrew Silber), who tells him Chess hasn't been seen since the collapse. Setting out to find her, he eventually reaches Darkwater Castle, home of Overlord, who contacts Vetch to tell him Haven has infiltrated the castle, as they planned. Haven watches Overlord interrogate Chess about Haven's dreams. She refuses to tell him anything, and Haven intervenes, killing Overlord and freeing Chess. They escape, and Chess says that while in detention, she heard Overlord mention a wise old slave on the Isle of Heroes. Haven decides he must speak to this slave.\n\nHaven heads to the Isle of Heroes, and meets the Wise Man (Terry Bertram). He tells him of his dreams of a golden bell on top of a mountain, and the Wise Man tells him the legend of Athellion and the Golden Voice; Vetch and Athellion were enemies for many years, and Vetch was determined to conquer Athellion's city, Aurias. However, he was unable to even approach the city, as its light would blind him. When Athellion left for the war, he left behind the Golden Bell, but Vetch bribed a council member named Dasis to infect the people of Aurias with a virus for which he controlled the only antidote. Making the people of Aurias his slaves, he sealed off the Mount of Sighs, on which resides the Golden Voice. Over time, even the location of the Mount of Sighs has been forgotten. However, the Wise Man tells Haven when Vetch first came to Aurias, the people hid many artifacts inside a volcano named Mount Firash, and speculates there may be something there which can point the way to the Mount.\n\nHaven heads to Firash and locates a map identifying the location of the Mount on the planet Auria. However, as he escapes Firash, he is captured and placed in the Sylex, a space station prison. He flees in an escape pod and lands on Exarco, a planet populated by lizard-like humanoids. He soon meets brothers Chill (Dale Stump) and Will (Aubrey Hodges). They tell him they will give him a ship if he helps them protect their eggs from giant insectoid-like creatures. Haven does so, however, the insect queen attacks the local village. Haven defeats her, and Chill and Will present him with the ship Sunsurfer. He then heads to Auria.\n\nHe makes it to the Golden Voice, reading a warning stating that once the bell is rung, the person who rings it must wait there for Athellion's return. He rings it, but immediately Chess contacts him, telling him she is stranded without any antidote. He reluctantly leaves, returning to Ferra and rescuing Chess. She tells him she was using a device she found in Overlord's castle to try to find the antidote refinery so as to free the slaves. Haven attaches the device to the Sunsurfer navigation computer and they head to the refinery on the planet Ferven.\n\nThey pump the antidote into a waiting transport ship, and the duo escape. However, Chess reveals she has been working with Vetch all along, who appears on the bridge and congratulates her on her deception. Vetch tells Haven that Chess is one of his spies, deployed throughout his slave colonies to keep watch for anyone speaking of the Golden Voice. Vetch explains he had Chess call Haven away from the Mount of Sighs immediately after ringing the bell because the legend says that if the person who rings the bell does not remain on the Mount until Athellion's return, Athellion must return to wherever that person is - thus Vetch plans to wait until Athellion appears to Haven, and then kill him. With no more use for Chess, Vetch decides she can die with Haven. At this moment, Athellion arrives, telling Vetch he will surrender if Haven and Chess are spared. Vetch agrees, imprisoning them, and bringing Athellion back to the Mount of Sighs.\n\nHaven escapes, but is unable to free Chess, and so sets out in pursuit of Vetch alone, promising to return for Chess. He returns to the Mount of Sighs, where he hears Vetch tell Athellion that he will kill Haven and Chess once Athellion is dead. He then kills Athellion. Haven confronts him, but Vetch defeats him. However, the power of the Mount of Sighs keeps Haven alive. As such, Vetch ties Haven to a rock, pointing out \"you can't live forever\" and leaves him alone on the planet. The game ends on this cliffhanger.", 
+        "summary": "The King Athellion has left his homeworld to fight in an intergalactic crusade. He left behind a huge bell - The Golden Voice - for his people to call him should they ever be in danger. During his absence however, the evil Lord Vetch invades the planet and enslaves Athellion's people by infecting them with a deadly virus. A virus, that requires a constant treatment with an antidote called catana. As the only one controlling the catana-support, Lord Vetch was easily able to force everyone to work for him. In order to prevent Athelion's return he has hidden The Golden Voice and soon it was forgotten along with the king's promise. Forgotten until Haven, one of the slaves, starts having dreams about a hill and a bell; dreams whose meaning he does not understand. When the news of the Haven's dreams reach Lord Vetch, he orders to murder him. Haven manages to escape and eventually learns about the real meaning of his dreams and is determined to find The Golden Voice and put an end to Lord Vetch' reign. \n \nHaven is a fast-paced, action-packed platformer but it also incorporates elements of several other genres. Haven can pick up many different weapons and parts of the game play more like a Shoot'Em Up than a platformer. There are also several vehicles to control, ranging from speedboats and jetcars to gliders ,spaceships and jetpacks. Despite all these action elements, there are also some slower paced levels, which put more emphasize on puzzle-solving and exploration. \n \nHaven's conceptual artwork was done by Rodney Matthews, a fairly well-known English sci-fi/fantasy artist, which is evident in Haven's surrealistic, bizarre design.", 
+        "tags": [
+            1, 
+            17, 
+            18, 
+            268435461, 
+            268435464, 
+            268435465, 
+            268435466, 
+            268435487, 
+            536871208, 
+            536871882, 
+            536871945, 
+            536875069, 
+            536875396, 
+            536875702
+        ], 
+        "themes": [
+            1, 
+            17, 
+            18
+        ], 
+        "total_rating": 70.0, 
+        "total_rating_count": 1, 
+        "updated_at": 1670947040, 
+        "url": "https://www.igdb.com/games/haven-call-of-the-king", 
+        "websites": [
+            160263, 
+            354996
+        ]
+    }, 
+    {
+        "age_ratings": [
+            20151
+        ], 
+        "category": 0, 
+        "checksum": "c304302a-e90a-ce3d-4de3-a286f9a51b0f", 
+        "collection": 909, 
+        "cover": 226227, 
+        "created_at": 1499526226, 
+        "external_games": [
+            51101, 
+            138494, 
+            301258
+        ], 
+        "first_release_date": 1162771200, 
+        "genres": [
+            8, 
+            10
+        ], 
+        "id": 46037, 
+        "keywords": [
+            1330, 
+            2049, 
+            4157, 
+            4161, 
+            4332, 
+            4345, 
+            4347, 
+            6363, 
+            7527, 
+            10435
+        ], 
+        "name": "Agent Hugo: Roborumble", 
+        "platforms": [
+            8
+        ], 
+        "ports": [
+            141696
+        ], 
+        "release_dates": [
+            386237
+        ], 
+        "similar_games": [
+            19150, 
+            20342, 
+            26485, 
+            55173, 
+            55190, 
+            56033, 
+            57187, 
+            63138, 
+            77529, 
+            89597
+        ], 
+        "slug": "agent-hugo-roborumble", 
+        "summary": "Agent Hugo: RoboRumble is a fast paced racing game with platform elements.\n\nThe city of Aquapolis has been invaded by a new evil villain - Geekdorph, Lord of Robots. Agent Hugo escapes to a teleporter and gets beamed to the secret hideout of R.I.S.K (Risky Intelligent Spy Knights).\n\nFrom the hideout, Hugo must teleport into space, the desert and Aquapolis to defeat Geekdorph's challenges and collect information about Geekdorph's secret location - so the final three stage boss-fight can take place and the citizens of Aquapolis set free.", 
+        "tags": [
+            1, 
+            268435464, 
+            268435466, 
+            536872242, 
+            536872961, 
+            536875069, 
+            536875073, 
+            536875244, 
+            536875257, 
+            536875259, 
+            536877275, 
+            536878439, 
+            536881347
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670939974, 
+        "url": "https://www.igdb.com/games/agent-hugo-roborumble", 
+        "websites": [
+            288575, 
+            342147
+        ]
+    }, 
+    {
+        "age_ratings": [
+            10159, 
+            35992
+        ], 
+        "alternative_names": [
+            60369
+        ], 
+        "category": 0, 
+        "checksum": "93ebf168-f2ac-314d-4a97-3460f103b3d8", 
+        "cover": 82886, 
+        "created_at": 1479824788, 
+        "external_games": [
+            51378, 
+            52759, 
+            138498, 
+            1876155
+        ], 
+        "first_release_date": 1024444800, 
+        "franchises": [
+            26, 
+            1532
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 25911, 
+        "involved_companies": [
+            41831, 
+            70638, 
+            70639, 
+            70640
+        ], 
+        "keywords": [
+            350, 
+            472, 
+            1027, 
+            1563, 
+            2049, 
+            3794, 
+            4142, 
+            4382, 
+            4777
+        ], 
+        "name": "Disney's Stitch: Experiment 626", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            159675, 
+            159676, 
+            159677
+        ], 
+        "screenshots": [
+            349650, 
+            349651, 
+            349652, 
+            349653
+        ], 
+        "similar_games": [
+            20342, 
+            24426, 
+            25311, 
+            28070, 
+            55173, 
+            55190, 
+            56033, 
+            77529, 
+            89597, 
+            105269
+        ], 
+        "slug": "disneys-stitch-experiment-626", 
+        "storyline": "The game takes place before the Lilo & Stitch film begins, showing the massive space universe only hinted at in the movie. The player controls Stitch, using his powers to the fullest: climbing walls and ceilings, dashing with amazing speed, shooting up to four weapons at once (one in each hand), flying with the jetpack, and swinging using the grapple gun. The game features some of the film's memorable characters, including Jumba Jookiba and Gantu, along with new characters including Dr. Habbitrale and Experiment 621 (\"Chopsuey\" according to franchise finale film Leroy & Stitch).", 
+        "summary": "The game takes place before the Lilo & Stitch film begins, showing the massive space universe only hinted at in the movie. The player controls Stitch, using his powers to the fullest: climbing walls and ceilings, dashing with amazing speed, shooting up to four weapons at once (one in each hand), flying with the jetpack, and swinging using the grapple gun. The game features several of the film's memorable characters, including Jumba, Gantu, and Grand Councilwoman.", 
+        "tags": [
+            1, 
+            18, 
+            27, 
+            268435464, 
+            268435487, 
+            536871262, 
+            536871384, 
+            536871939, 
+            536872475, 
+            536872961, 
+            536874706, 
+            536875054, 
+            536875294, 
+            536875689
+        ], 
+        "themes": [
+            1, 
+            18, 
+            27
+        ], 
+        "updated_at": 1670952074, 
+        "url": "https://www.igdb.com/games/disneys-stitch-experiment-626", 
+        "videos": [
+            11010
+        ], 
+        "websites": [
+            91328, 
+            180134, 
+            362622
+        ]
+    }, 
+    {
+        "age_ratings": [
+            11619, 
+            30495
+        ], 
+        "aggregated_rating": 80.0, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            43719
+        ], 
+        "category": 0, 
+        "checksum": "15f37bd9-0985-ae08-d247-9bdbcd767166", 
+        "collection": 344, 
+        "cover": 79081, 
+        "created_at": 1352566114, 
+        "external_games": [
+            51630, 
+            142846, 
+            189492, 
+            246823, 
+            402842
+        ], 
+        "first_release_date": 1095120000, 
+        "follows": 38, 
+        "franchises": [
+            2239
+        ], 
+        "game_engines": [
+            126
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 1799, 
+        "involved_companies": [
+            18322, 
+            191427
+        ], 
+        "keywords": [
+            21, 
+            132, 
+            274, 
+            350, 
+            394, 
+            598, 
+            1186, 
+            1219, 
+            1309, 
+            1403, 
+            1423, 
+            1440, 
+            1669, 
+            1834, 
+            1953, 
+            2049, 
+            2184, 
+            2242, 
+            2898, 
+            3061, 
+            3486, 
+            4146, 
+            4147, 
+            4161, 
+            4162, 
+            4176, 
+            4193, 
+            4239, 
+            4244, 
+            4282, 
+            4297, 
+            4350, 
+            4359, 
+            4371, 
+            4386, 
+            4484, 
+            4535, 
+            4576, 
+            4622, 
+            4678, 
+            4685, 
+            4907, 
+            4944, 
+            4998, 
+            5331, 
+            5439, 
+            5472, 
+            5517, 
+            5597, 
+            5672, 
+            5794, 
+            5806, 
+            5896, 
+            5999, 
+            6015, 
+            6035, 
+            6125, 
+            6144, 
+            6145, 
+            6318, 
+            6540, 
+            6675, 
+            6731, 
+            7470, 
+            7575, 
+            7593, 
+            7632, 
+            7665, 
+            7670, 
+            8894, 
+            9529, 
+            9820, 
+            11950, 
+            11951, 
+            11952, 
+            12638, 
+            12640, 
+            12641, 
+            13110, 
+            15398, 
+            16716, 
+            21403, 
+            21404
+        ], 
+        "name": "Sly 2: Band of Thieves", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 83.8254738560716, 
+        "rating_count": 114, 
+        "release_dates": [
+            166537, 
+            166538, 
+            166539, 
+            166540
+        ], 
+        "remasters": [
+            222126
+        ], 
+        "screenshots": [
+            317509, 
+            403451, 
+            403452, 
+            403453, 
+            403454, 
+            403455, 
+            403456
+        ], 
+        "similar_games": [
+            843, 
+            1185, 
+            1289, 
+            1341, 
+            1528, 
+            1577, 
+            1578, 
+            1798, 
+            1800, 
+            1801
+        ], 
+        "slug": "sly-2-band-of-thieves", 
+        "storyline": "Two years after defeating Clockwerk, Sly Cooper breaks into the Museum of Natural History in Cairo to steal the Clockwerk parts and destroy them to end his threat against Sly's family for good, but discovers that the parts are already missing. Inspector Carmelita Montoya Fox and her new partner, Constable Neyla, confront Sly, but he escapes before Carmelita and Neyla can arrest him. Before making his escape, Sly hears Neyla suggest that the evidence actually suggests that the Klaww Gang stole the parts for their own use.\n\nThe Cooper Gang heads to Paris, where the first Klaww Gang member Dimitri is using Clockwerk tail feathers as printing plates to create counterfeit money. Sly and the gang shut the operation down and Dimitri is arrested by Interpol. The gang then heads to India, where the second Klaww Gang member Rajan puts Clockwerk's wings on display at a ball he is hosting. Rajan is also the kingpin of a local crime syndicate that grows and sells \"spice\", an illegal plant indigenous to the Indian jungle. Also present at the ball are the other Klaww Gang members and several undercover Interpol agents, including Carmelita and Neyla. The gang steals the Clockwerk wings in the middle of the ballroom while a disguised Sly creates a distraction by dancing with Carmelita. After the Cooper gang escapes with the Clockwerk wings, Carmelita blows her cover and starts making arrests. The Klaww Gang flees the scene, and Rajan goes into hiding somewhere deep in the jungle. The gang tracks him to his spice-growing facility in a long-abandoned temple, where he is using half of Clockwerk heart to super-irrigate his spice crops. He carries the other half of the heart on the end of a staff that he carries with him at all times. The gang steals both halves of the heart and incapacitates Rajan, but Carmelita, Neyla and the Contessa arrive. Neyla frames Carmelita of working with the Cooper Gang on the night the Clockwerk wings were stolen. She betrays the Cooper Gang and puts Sly, Murray, and Carmelita under arrest.", 
+        "summary": "The sequel to Sly Cooper delivers the same crime detective style of presentation, borrowing heavily from movies, novels and comic books to create a beautiful, highly animated game. The story takes place two years after Sly Cooper and the Thievius Raccoonus. In the first game, Sly was becoming a professional thief, but in Band of Thieves, he is a professional thief -- so he retains all of the moves from the first game. He also earns new moves and gains different items to assist him in his dark craft. The biggest upgrade comes in form of the new multi-character gameplay. Players might start a level as Sly, and then after completing a particular task, players switch to Bentley, and Murray, respectively.", 
+        "tags": [
+            1, 
+            23, 
+            27, 
+            268435464, 
+            268435487, 
+            536870933, 
+            536871044, 
+            536871186, 
+            536871262, 
+            536871306, 
+            536871510, 
+            536872098, 
+            536872131, 
+            536872221, 
+            536872315, 
+            536872335, 
+            536872352, 
+            536872581, 
+            536872746, 
+            536872865, 
+            536872961, 
+            536873096, 
+            536873154, 
+            536873810, 
+            536873973, 
+            536874398, 
+            536875058, 
+            536875059, 
+            536875073, 
+            536875074, 
+            536875088, 
+            536875105, 
+            536875151, 
+            536875156, 
+            536875194, 
+            536875209, 
+            536875262, 
+            536875271, 
+            536875283, 
+            536875298, 
+            536875396, 
+            536875447, 
+            536875488, 
+            536875534, 
+            536875590, 
+            536875597, 
+            536875819, 
+            536875856, 
+            536875910, 
+            536876243, 
+            536876351, 
+            536876384, 
+            536876429, 
+            536876509, 
+            536876584, 
+            536876706, 
+            536876718, 
+            536876808, 
+            536876911, 
+            536876927, 
+            536876947, 
+            536877037, 
+            536877056, 
+            536877057, 
+            536877230, 
+            536877452, 
+            536877587, 
+            536877643, 
+            536878382, 
+            536878487, 
+            536878505, 
+            536878544, 
+            536878577, 
+            536878582, 
+            536879806, 
+            536880441, 
+            536880732, 
+            536882862, 
+            536882863, 
+            536882864, 
+            536883550, 
+            536883552, 
+            536883553, 
+            536884022, 
+            536886310, 
+            536887628, 
+            536892315, 
+            536892316
+        ], 
+        "themes": [
+            1, 
+            23, 
+            27
+        ], 
+        "total_rating": 81.9127369280358, 
+        "total_rating_count": 118, 
+        "updated_at": 1675899269, 
+        "url": "https://www.igdb.com/games/sly-2-band-of-thieves", 
+        "videos": [
+            41629
+        ], 
+        "websites": [
+            140827, 
+            156582, 
+            156583, 
+            156584, 
+            156585, 
+            334034
+        ]
+    }, 
+    {
+        "age_ratings": [
+            66154
+        ], 
+        "aggregated_rating": 72.0, 
+        "aggregated_rating_count": 2, 
+        "category": 0, 
+        "checksum": "f5b7cc54-1a4d-d398-a1ed-6536d0bfdb8e", 
+        "collection": 4985, 
+        "cover": 22667, 
+        "created_at": 1468850482, 
+        "external_games": [
+            52269, 
+            151794, 
+            1868820
+        ], 
+        "first_release_date": 1125619200, 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 20689, 
+        "involved_companies": [
+            78799
+        ], 
+        "keywords": [
+            4918, 
+            5155, 
+            8242
+        ], 
+        "name": "Brave: The Search for Spirit Dancer", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            169418, 
+            169419
+        ], 
+        "screenshots": [
+            28096
+        ], 
+        "similar_games": [
+            20342, 
+            28070, 
+            29032, 
+            55190, 
+            87622, 
+            96217, 
+            105049, 
+            106987, 
+            111130, 
+            113360
+        ], 
+        "slug": "brave-the-search-for-spirit-dancer", 
+        "summary": "Brave: The Search for Spirit Dancer is a 2005 platformer video game of the action-adventure genre originally released by VIS Entertainment for the PlayStation 2.", 
+        "tags": [
+            1, 
+            268435464, 
+            268435487, 
+            536875830, 
+            536876067, 
+            536879154
+        ], 
+        "themes": [
+            1
+        ], 
+        "total_rating": 72.0, 
+        "total_rating_count": 2, 
+        "updated_at": 1670947480, 
+        "url": "https://www.igdb.com/games/brave-the-search-for-spirit-dancer", 
+        "websites": [
+            107100, 
+            355710
+        ]
+    }, 
+    {
+        "alternative_names": [
+            19186
+        ], 
+        "category": 0, 
+        "checksum": "99654cf3-2f5d-88c4-2244-63d9cf148daf", 
+        "collection": 2948, 
+        "cover": 241962, 
+        "created_at": 1499160124, 
+        "external_games": [
+            50809, 
+            135663, 
+            1185971
+        ], 
+        "first_release_date": 1140048000, 
+        "follows": 1, 
+        "franchises": [
+            824
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            8, 
+            12
+        ], 
+        "id": 43668, 
+        "involved_companies": [
+            59426
+        ], 
+        "keywords": [
+            174, 
+            296, 
+            332, 
+            1026, 
+            1033, 
+            2049, 
+            2439, 
+            4321, 
+            4779, 
+            4866, 
+            4918, 
+            5634, 
+            5663, 
+            5683, 
+            7186, 
+            10210
+        ], 
+        "name": "Monster Hunter 2", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            131754
+        ], 
+        "screenshots": [
+            108577
+        ], 
+        "similar_games": [
+            10776, 
+            19150, 
+            24426, 
+            28168, 
+            28309, 
+            30245, 
+            36198, 
+            47823, 
+            55199, 
+            80916
+        ], 
+        "slug": "monster-hunter-2", 
+        "summary": "Monster Hunter 2 has an improved weapon tree and upgradeable armors. As in all Monster Hunter games, armor pieces can be worn to obtain skills and abilities. A new feature in Monster Hunter 2 is the use of gems. Gems add skill points to complement those added by armor and weapons. Gems are created by combining ore and/or monster parts. Gems can be attached and detached from armor and weapons that have special gem slots.\n\nAlong with the various species of monster returning from the first Monster Hunter, Monster Hunter 2 contains many new monsters, such as the metallic wind dragon Kushala Daora, the lion-headed dragon Teo Teskatoru (named Teostra in the North American and PAL versions of Monster Hunter Freedom 2) and his female counterpart Nana Teskatory (named Lunastra in the North American and PAL versions of MHF2), the primates Babakonga and Dodobrango (Congalala and Blangonga in MHF2), the bull or minotaur-like monster Rajang, and the chameleon-like dragon Oonazuchi (Chameleos in MHF2). With new monsters also comes the prospect of new weapons and armor.", 
+        "tags": [
+            1, 
+            33, 
+            268435464, 
+            268435468, 
+            536871086, 
+            536871208, 
+            536871244, 
+            536871938, 
+            536871945, 
+            536872961, 
+            536873351, 
+            536875233, 
+            536875691, 
+            536875778, 
+            536875830, 
+            536876546, 
+            536876575, 
+            536876595, 
+            536878098, 
+            536881122
+        ], 
+        "themes": [
+            1, 
+            33
+        ], 
+        "updated_at": 1670941476, 
+        "url": "https://www.igdb.com/games/monster-hunter-2", 
+        "videos": [
+            17269, 
+            17270
+        ], 
+        "websites": [
+            64510, 
+            64511, 
+            64512, 
+            343983
+        ]
+    }, 
+    {
+        "age_ratings": [
+            5105, 
+            65681
+        ], 
+        "category": 0, 
+        "checksum": "59ca685b-b5a4-cfaa-0e2c-736b1bcb2c5c", 
+        "collection": 3750, 
+        "cover": 8605, 
+        "created_at": 1415323317, 
+        "external_games": [
+            52187, 
+            149681, 
+            1193207
+        ], 
+        "first_release_date": 1109289600, 
+        "franchises": [
+            369
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            31
+        ], 
+        "id": 8156, 
+        "involved_companies": [
+            19409, 
+            19410
+        ], 
+        "keywords": [
+            14, 
+            227, 
+            296, 
+            2242, 
+            2387, 
+            4142, 
+            4329, 
+            4379, 
+            5587, 
+            5782, 
+            9594
+        ], 
+        "name": "Masters of the Universe: He-Man - Defender of Grayskull", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            22518
+        ], 
+        "similar_games": [
+            19150, 
+            24426, 
+            26950, 
+            28070, 
+            28309, 
+            37001, 
+            55190, 
+            55199, 
+            56033, 
+            80916
+        ], 
+        "slug": "masters-of-the-universe-he-man-defender-of-grayskull", 
+        "summary": "Become He-Man, the ultimate hero, to save Eternia in an action-packed Masters of the Universe adventure.", 
+        "tags": [
+            1, 
+            268435464, 
+            268435487, 
+            536870926, 
+            536871139, 
+            536871208, 
+            536873154, 
+            536873299, 
+            536875054, 
+            536875241, 
+            536875291, 
+            536876499, 
+            536876694, 
+            536880506
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1676900092, 
+        "url": "https://www.igdb.com/games/masters-of-the-universe-he-man-defender-of-grayskull", 
+        "videos": [
+            22436
+        ], 
+        "websites": [
+            349480
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "d63272a3-12a1-7612-d8a7-cff1d367c8e8", 
+        "cover": 216449, 
+        "created_at": 1499093752, 
+        "external_games": [
+            52930, 
+            1970565
+        ], 
+        "first_release_date": 1147996800, 
+        "genres": [
+            5, 
+            7, 
+            8, 
+            9, 
+            12, 
+            14, 
+            15, 
+            31
+        ], 
+        "id": 43314, 
+        "name": "Jampack: Volume 14", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89518
+        ], 
+        "similar_games": [
+            25311, 
+            26574, 
+            28070, 
+            35994, 
+            47823, 
+            55038, 
+            89597, 
+            96217, 
+            105049, 
+            105269
+        ], 
+        "slug": "jampack-volume-14", 
+        "summary": "This version of JAMPACK VOLUME 14 includes games rated M and is generally for older gamers, although it does includes games rated E and T. JAMPACK VOLUME 14-M includes demo versions of SHADOW OF THE COLOSSUS, RATCHET: Deadlocked, EYETOY: Operation Spy, OKAMI, HITMAN: Bloodmoney, MLB ?06: The Show, LARA CROFT TOMB RAIDER: Legend, BLACK, DRAKENGARD 2, and DRIVER: Parallel Lines. These games cover several genres, including action, racing, sports, and mission-based adventure. Many of the games included in JAMPACK VOLUME 14-M are from series that gamers probably already know about. RATCHET, TOMB RAIDER, DRIVER, and the EYETOY lines are already very popular, and players can get a sneak peak at the newest games in the series on this volume. For players who want to try out games before the buy them, JAMPACK VOLUME 14-M provides the perfect way to check out a game before spending money on it.", 
+        "tags": [
+            1, 
+            33, 
+            268435461, 
+            268435463, 
+            268435464, 
+            268435465, 
+            268435468, 
+            268435470, 
+            268435471, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            33
+        ], 
+        "updated_at": 1670985413, 
+        "url": "https://www.igdb.com/games/jampack-volume-14", 
+        "websites": [
+            427191
+        ]
+    }, 
+    {
+        "age_ratings": [
+            820, 
+            77998
+        ], 
+        "aggregated_rating": 88.5, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            24562, 
+            24563, 
+            40217, 
+            40218, 
+            40219, 
+            41886, 
+            41887
+        ], 
+        "category": 0, 
+        "checksum": "b7654ce3-d5be-d0f5-7c12-05ca42348dec", 
+        "collection": 6461, 
+        "cover": 79055, 
+        "created_at": 1372282431, 
+        "external_games": [
+            50821, 
+            151083, 
+            189177, 
+            246270, 
+            402805, 
+            2586576
+        ], 
+        "first_release_date": 1129593600, 
+        "follows": 369, 
+        "franchises": [
+            2151
+        ], 
+        "game_localizations": [
+            73, 
+            3438
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            8, 
+            9, 
+            31
+        ], 
+        "hypes": 1, 
+        "id": 2207, 
+        "involved_companies": [
+            107522, 
+            181346
+        ], 
+        "keywords": [
+            175, 
+            296, 
+            558, 
+            1019, 
+            1033, 
+            1437, 
+            2167, 
+            2488, 
+            2561, 
+            2678, 
+            2800, 
+            2951, 
+            3002, 
+            3037, 
+            3486, 
+            3833, 
+            3898, 
+            4143, 
+            4171, 
+            4359, 
+            4392, 
+            4726, 
+            4910, 
+            4918, 
+            5094, 
+            5100, 
+            5413, 
+            5592, 
+            5738, 
+            5845, 
+            5963, 
+            5966, 
+            6471, 
+            6583, 
+            6813, 
+            6903, 
+            7019, 
+            7042, 
+            7448, 
+            7473, 
+            8242, 
+            8295, 
+            9256, 
+            9375, 
+            10519, 
+            11377, 
+            12146, 
+            12741, 
+            17215, 
+            18358, 
+            21333, 
+            34305
+        ], 
+        "name": "Shadow of the Colossus", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 90.17746720898509, 
+        "rating_count": 931, 
+        "release_dates": [
+            209483, 
+            209484, 
+            209485, 
+            209486
+        ], 
+        "remakes": [
+            37094
+        ], 
+        "remasters": [
+            139896
+        ], 
+        "screenshots": [
+            398535, 
+            398536, 
+            398537, 
+            398538, 
+            398539, 
+            398540, 
+            398541, 
+            398542
+        ], 
+        "similar_games": [
+            14394, 
+            14593, 
+            19150, 
+            24426, 
+            28070, 
+            28168, 
+            36198, 
+            47823, 
+            55984, 
+            56033
+        ], 
+        "slug": "shadow-of-the-colossus", 
+        "storyline": "The story of Shadow of the Colossus begins as Wander enters the forbidden land, traveling across the long bridge at its entrance on his horse, Agro. According to Lord Emon later in the game, prior to entering the forbidden land Wander had stolen an ancient sword, which is the only weapon capable of slaying the colossi of the forbidden land. Led to the massive Shrine of Worship at the center of the region, Wander carries with him the body of a maiden named Mono. A moment later, several shadow-like creatures with humanoid forms appear and prepare to attack Wander, but he easily dismisses them with a wave of the ancient sword in his possession, which emits strong beams of light. After vanquishing the shadow creatures, the voice of the disembodied entity known as \"Dormin\" echoes from above, expressing surprise that Wander possesses the weapon. Wander requests that Dormin return Mono's soul to her body, which it states may be possible, but only if the sixteen idols lining the temple's hall are destroyed. It explains that this task can only be accomplished by using the ancient sword to kill sixteen colossi located throughout the land. Each contains a portion of Dormin's own essence, though this is not revealed until late in the game.\n\nDespite a warning from Dormin that he may have to pay a great price to revive Mono, Wander sets out to search the land for the colossi and destroy them. In a sequence after the eighth's slaying, a deterioration of Wander's body is shown clearly\u2014his skin becoming paler, his hair darker, and dark streaks growing across his face. After the death of the twelfth colossus, it is revealed to the player that Wander is being pursued by a group of warriors led by Emon.\n\nUrged to hurry with his task by Dormin, Wander soon heads off to defeat the sixteenth and final colossus. On the way to this confrontation, he travels on horseback across a long bridge, which begins to collapse as he is halfway across. As Agro jumps over the last gap in the bridge, the portion which is landed on begins to separate from its foundation, causing Agro to nearly lose footing. Sensing the impending fall, Agro jerks forward to throw Wander to safety on the other side, making a sacrifice for him and falling into the river hundreds of feet below as the bridge finally gives way. Wander goes on to defeat the final colossus, and Emon's company arrives in the Shrine of Worship just as the last temple idol crumbles; Wander appears soon afterwards, his eyes and skin now both entirely pale, and two small horns protruding from his head. Declaring that Wander has been \"possessed by the dead\", Lord Emon orders his warriors to kill him. While he struggles to reach Mono, one warrior shoots Wander in the leg with a crossbow, while another stabs him through his heart with a sword. Black blood sprays from the wound as Wander's body becomes covered in darkness and falls to the floor\u2014a death identical to those suffered by the colossi.\n\nAfterward, Dormin's spirit possesses Wander's body, transforming it into a shadowy giant. Dormin, now speaking in its masculine voice, explains that it had been separated to sixteen pieces\u2014the colossi\u2014to seal away its power, and that by entering Wander, who absorbed physical form from defeating each colossus, it is now whole again. While his men flee, Lord Emon casts the ancient sword into a small pool at the back of the temple's hall, creating a whirlwind of light that consumes Dormin and Wander. Emon and his men flee the forbidden land as the bridge connecting to the temple collapses behind them. As they safely arrive at the entrance to the forbidden land, Emon expresses hope that if Wander survived, someday he may be able to atone for his crimes.\n\nIn the temple, Mono awakens, restored by Dormin in accordance with its agreement with Wander, and Agro limps into the temple with an injured hind leg. Mono follows Agro to the pool into which Wander and Dormin were pulled by Emon's spell, finding a male infant with tiny horns on his head. She takes the child with her, following the horse to higher levels of the Shrine of Worship, and arrives at a secret garden within the shrine as the game ends.", 
+        "summary": "An open-world action/adventure game in which a young wanderer, along with a stolen magical sword and his steed companion, trespasses a cursed land, makes a deal with an ancient being to bring a sacrificial victim back to life, and sets off to fulfill his end of the bargain, which involves tracking down and infiltrating the abodes of sixteen colossi and sacrificing them to achieve his goal.", 
+        "tags": [
+            1, 
+            17, 
+            31, 
+            38, 
+            268435464, 
+            268435465, 
+            268435487, 
+            536871087, 
+            536871208, 
+            536871470, 
+            536871931, 
+            536871945, 
+            536872349, 
+            536873079, 
+            536873400, 
+            536873473, 
+            536873590, 
+            536873712, 
+            536873863, 
+            536873914, 
+            536873949, 
+            536874398, 
+            536874745, 
+            536874810, 
+            536875055, 
+            536875083, 
+            536875271, 
+            536875304, 
+            536875638, 
+            536875822, 
+            536875830, 
+            536876006, 
+            536876012, 
+            536876325, 
+            536876504, 
+            536876650, 
+            536876757, 
+            536876875, 
+            536876878, 
+            536877383, 
+            536877495, 
+            536877725, 
+            536877815, 
+            536877931, 
+            536877954, 
+            536878360, 
+            536878385, 
+            536879154, 
+            536879207, 
+            536880168, 
+            536880287, 
+            536881431, 
+            536882289, 
+            536883058, 
+            536883653, 
+            536888127, 
+            536889270, 
+            536892245, 
+            536905217
+        ], 
+        "themes": [
+            1, 
+            17, 
+            31, 
+            38
+        ], 
+        "total_rating": 89.33873360449255, 
+        "total_rating_count": 935, 
+        "updated_at": 1678186546, 
+        "url": "https://www.igdb.com/games/shadow-of-the-colossus", 
+        "videos": [
+            40234
+        ], 
+        "websites": [
+            50841, 
+            50842, 
+            152240, 
+            152241, 
+            152242, 
+            333499
+        ]
+    }
+]

@@ -1,0 +1,4222 @@
+[
+    {
+        "age_ratings": [
+            90261
+        ], 
+        "category": 0, 
+        "checksum": "0880dcd5-f712-3afb-0599-6b4b6bbc077a", 
+        "collection": 2128, 
+        "cover": 157644, 
+        "created_at": 1499092494, 
+        "external_games": [
+            52973
+        ], 
+        "first_release_date": 1112572800, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            24, 
+            31
+        ], 
+        "id": 43262, 
+        "involved_companies": [
+            87144
+        ], 
+        "name": "Metal Gear Solid 3: Snake Eater - Slipcase Edition", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "release_dates": [
+            89532
+        ], 
+        "screenshots": [
+            108651, 
+            338714, 
+            338715
+        ], 
+        "similar_games": [
+            19164, 
+            47823, 
+            55038, 
+            81249, 
+            96217, 
+            103210, 
+            103303, 
+            105049, 
+            106987, 
+            118218
+        ], 
+        "slug": "metal-gear-solid-3-snake-eater-slipcase-edition", 
+        "summary": "This version of MGS3 came in a special cardboard sleeve, exclusive to HMV stores. The sleeve was also available at a signing event, hand signed by Hideo Kojima and Yoji Shinkawa.", 
+        "tags": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31, 
+            268435461, 
+            268435480, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31
+        ], 
+        "updated_at": 1662133471, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater-slipcase-edition", 
+        "version_parent": 379, 
+        "version_title": "Slipcase Edition"
+    }, 
+    {
+        "age_ratings": [
+            5614, 
+            32531
+        ], 
+        "aggregated_rating": 63.5, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            88255, 
+            88256
+        ], 
+        "category": 0, 
+        "checksum": "919a7989-5bb3-ca81-d0ec-0dd261f9b788", 
+        "collection": 304, 
+        "cover": 220192, 
+        "created_at": 1349604051, 
+        "external_games": [
+            51709, 
+            152619, 
+            1191034
+        ], 
+        "first_release_date": 1127347200, 
+        "follows": 2, 
+        "franchises": [
+            2792
+        ], 
+        "game_localizations": [
+            3193
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            24
+        ], 
+        "id": 1450, 
+        "involved_companies": [
+            20471
+        ], 
+        "keywords": [
+            61, 
+            226, 
+            227, 
+            296, 
+            415, 
+            478, 
+            521, 
+            558, 
+            805, 
+            1026, 
+            1186, 
+            1313, 
+            1923, 
+            2154, 
+            3776, 
+            3782, 
+            4284, 
+            4331, 
+            4359, 
+            4388, 
+            4392, 
+            4417, 
+            4460, 
+            4508, 
+            4543, 
+            4552, 
+            4566, 
+            4584, 
+            4613, 
+            4862, 
+            4881, 
+            4891, 
+            5040, 
+            5307, 
+            5320, 
+            5374, 
+            5794, 
+            5937, 
+            7122, 
+            7423, 
+            8987, 
+            9663, 
+            9931, 
+            10245, 
+            15842, 
+            15843, 
+            16355, 
+            16356, 
+            16357
+        ], 
+        "name": "Suikoden Tactics", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "rating": 80.017758992211, 
+        "rating_count": 7, 
+        "release_dates": [
+            24207, 
+            24208, 
+            24209
+        ], 
+        "similar_games": [
+            660, 
+            2365, 
+            5652, 
+            7027, 
+            9938, 
+            10297, 
+            10388, 
+            14394, 
+            22387, 
+            26845
+        ], 
+        "slug": "suikoden-tactics", 
+        "summary": "Breaking from its traditional role-playing roots, Suikoden Tactics incorporates simulation and strategy elements to take players on an adventure never seen before in the franchise. Told through the eyes of Kyril, a young adventurer investigating the sudden appearance of hideous creatures in the island nations, Suikoden Tactics unfolds another perspective to the events of Suikoden IV and the legendary \"Rune Cannons.\" In all, there are more than 25 different battle scenarios, the ability to modify and customize your character as the game progresses, and a unique \"Combination Attack system\" that allows players to combine the powers of numerous characters in combat as they build friendships.", 
+        "tags": [
+            17, 
+            268435468, 
+            268435471, 
+            268435480, 
+            536870973, 
+            536871138, 
+            536871139, 
+            536871208, 
+            536871327, 
+            536871390, 
+            536871433, 
+            536871470, 
+            536871717, 
+            536871938, 
+            536872098, 
+            536872225, 
+            536872835, 
+            536873066, 
+            536874688, 
+            536874694, 
+            536875196, 
+            536875243, 
+            536875271, 
+            536875300, 
+            536875304, 
+            536875329, 
+            536875372, 
+            536875420, 
+            536875455, 
+            536875464, 
+            536875478, 
+            536875496, 
+            536875525, 
+            536875774, 
+            536875793, 
+            536875803, 
+            536875952, 
+            536876219, 
+            536876232, 
+            536876286, 
+            536876706, 
+            536876849, 
+            536878034, 
+            536878335, 
+            536879899, 
+            536880575, 
+            536880843, 
+            536881157, 
+            536886754, 
+            536886755, 
+            536887267, 
+            536887268, 
+            536887269
+        ], 
+        "themes": [
+            17
+        ], 
+        "total_rating": 71.7588794961055, 
+        "total_rating_count": 9, 
+        "updated_at": 1676146398, 
+        "url": "https://www.igdb.com/games/suikoden-tactics", 
+        "websites": [
+            125929, 
+            125930, 
+            125931, 
+            347905
+        ]
+    }, 
+    {
+        "age_ratings": [
+            90259
+        ], 
+        "category": 0, 
+        "checksum": "66ebb0c8-9e61-db87-a876-e5c43cb7f48a", 
+        "collection": 2128, 
+        "cover": 157639, 
+        "created_at": 1499092499, 
+        "external_games": [
+            52979
+        ], 
+        "first_release_date": 1103241600, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            24, 
+            31
+        ], 
+        "id": 43264, 
+        "involved_companies": [
+            87142
+        ], 
+        "name": "Metal Gear Solid 3: Snake Eater - Limited Metal Edition", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "release_dates": [
+            89535
+        ], 
+        "screenshots": [
+            108654, 
+            338709, 
+            338710, 
+            338711
+        ], 
+        "similar_games": [
+            19164, 
+            47823, 
+            55038, 
+            81249, 
+            96217, 
+            103210, 
+            103303, 
+            105049, 
+            106987, 
+            118218
+        ], 
+        "slug": "metal-gear-solid-3-snake-eater-limited-metal-edition", 
+        "summary": "This is the steelbook version of Metal Gear Solid 3: Snake Eater, official titled Limited Metal Edition. This version of the game is not particularly common, possibly because there is no difference between this and the original release apart for the metal case.", 
+        "tags": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31, 
+            268435461, 
+            268435480, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31
+        ], 
+        "updated_at": 1662133471, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater-limited-metal-edition", 
+        "version_parent": 379, 
+        "version_title": "Limited Metal Edition"
+    }, 
+    {
+        "alternative_names": [
+            36280, 
+            90662, 
+            90663
+        ], 
+        "category": 0, 
+        "checksum": "736ee709-41d8-288b-f086-c3a715a3fd7a", 
+        "collection": 6310, 
+        "cover": 157163, 
+        "created_at": 1438973353, 
+        "external_games": [
+            52118, 
+            148484, 
+            1189059
+        ], 
+        "first_release_date": 1117065600, 
+        "follows": 1, 
+        "franchises": [
+            792, 
+            891
+        ], 
+        "game_localizations": [
+            4970
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            24
+        ], 
+        "id": 11595, 
+        "involved_companies": [
+            25089, 
+            25090
+        ], 
+        "keywords": [
+            1075
+        ], 
+        "name": "Namco X Capcom", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            32001
+        ], 
+        "screenshots": [
+            388702, 
+            388703, 
+            388704, 
+            388705, 
+            388706, 
+            388707, 
+            388708, 
+            388709
+        ], 
+        "similar_games": [
+            25636, 
+            54775, 
+            57372, 
+            81249, 
+            96217, 
+            105049, 
+            106987, 
+            113109, 
+            113636, 
+            115280
+        ], 
+        "slug": "namco-x-capcom", 
+        "storyline": "The game centers around two original characters; Arisu Reiji and Xiaomu, agents of a secret organization known as \"Shinra\", who deals with supernatural occurrences. Before the game's story, Shinra stopped a plan from the \"Ouma\" organization to create \"fluctuations\" to open up portals between worlds, albeit at the cost of Reiji's father life. Ten years later, Reiji and Xiaomu are investigating new fluctuations happening in Shibuya, Tokyo; and soon discover that characters and locations from different worlds and times are converging together, and \"Ouma\" agent Saya, related to the death of Reiji's father, is involved.", 
+        "summary": "Namco X Capcom is an action tactical role-playing video game developed by and featuring characters from games produced by companies Namco and Capcom. The game centers around two original characters created for the game named Reiji Arisu and Xiaomu. The two of them work for a special unit called Shinra and they are tasked with investigating spirit and otherworldly disturbances. The game is a hybrid of an action role-playing and a tactical role-playing. Movement is done on a square grid with turns being determined by figuring out which character has the highest AP. On the player's turn, he or she can move his character into position and choose to attack an enemy.", 
+        "tags": [
+            1, 
+            268435468, 
+            268435480, 
+            536871987
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670942756, 
+        "url": "https://www.igdb.com/games/namco-x-capcom", 
+        "videos": [
+            4918, 
+            37317
+        ], 
+        "websites": [
+            3983, 
+            136758, 
+            144026, 
+            144027, 
+            346484
+        ]
+    }, 
+    {
+        "alternative_names": [
+            22602
+        ], 
+        "category": 0, 
+        "checksum": "f0eecc0a-775d-36b7-9478-8e050fd9ba91", 
+        "cover": 66892, 
+        "created_at": 1499156595, 
+        "external_games": [
+            52109, 
+            579863, 
+            1910293
+        ], 
+        "first_release_date": 1131667200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            24
+        ], 
+        "id": 43590, 
+        "involved_companies": [
+            66201, 
+            66202
+        ], 
+        "keywords": [
+            19, 
+            466, 
+            562, 
+            664, 
+            23046
+        ], 
+        "name": "WWII: Soldier", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "release_dates": [
+            155294
+        ], 
+        "screenshots": [
+            215232
+        ], 
+        "similar_games": [
+            19164, 
+            19549, 
+            76263, 
+            90099, 
+            103301, 
+            105049, 
+            105269, 
+            106805, 
+            117497, 
+            119177
+        ], 
+        "slug": "wwii-soldier", 
+        "summary": "WWII: Soldier or SOE: Operation Avalanche is a Europe-only low-budget PC and PlayStation 2 stealth/first-person shooter by Atomic Planet and Midas Interactive Entertainment. The PC version only has a German version currently known in existence. In the game an Allied spy infiltrates the Swiss Alps to rescue an American general who is held prisoner by the Germans.", 
+        "tags": [
+            1, 
+            268435461, 
+            268435480, 
+            536870931, 
+            536871378, 
+            536871474, 
+            536871576, 
+            536893958
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670968139, 
+        "url": "https://www.igdb.com/games/wwii-soldier", 
+        "websites": [
+            80824, 
+            384890
+        ]
+    }, 
+    {
+        "aggregated_rating": 85.0, 
+        "aggregated_rating_count": 0, 
+        "category": 10, 
+        "checksum": "9a658b2d-d284-8a91-5e21-c058adf63614", 
+        "collection": 2128, 
+        "cover": 157633, 
+        "created_at": 1469046643, 
+        "first_release_date": 1142294400, 
+        "follows": 1, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            24, 
+            31
+        ], 
+        "id": 20829, 
+        "involved_companies": [
+            87145
+        ], 
+        "name": "Metal Gear Solid 3: Subsistence - Limited Edition", 
+        "parent_game": 379, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "release_dates": [
+            124296
+        ], 
+        "screenshots": [
+            338718, 
+            338719, 
+            338720
+        ], 
+        "similar_games": [
+            19164, 
+            47823, 
+            55038, 
+            81249, 
+            96217, 
+            103210, 
+            105049, 
+            106987, 
+            113360, 
+            118218
+        ], 
+        "slug": "metal-gear-solid-3-subsistence-limited-edition", 
+        "summary": "This limited edition version of Metal Gear Solid 3: Subsistence comes in a special keepsake box and includes a copy of the game and a bonus \"Existence\" disc. The Existence disc is a theater disc that presents the game's storyline and cutscenes edited to be suitable for a standalone movie-style release.", 
+        "tags": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31, 
+            268435461, 
+            268435480, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31
+        ], 
+        "total_rating": 85.0, 
+        "total_rating_count": 0, 
+        "updated_at": 1625888015, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-3-subsistence-limited-edition", 
+        "version_parent": 479, 
+        "version_title": "Limited Edition", 
+        "websites": [
+            59865
+        ]
+    }, 
+    {
+        "age_ratings": [
+            90266
+        ], 
+        "category": 3, 
+        "checksum": "6b1ed637-891c-a2d4-7619-327d91f36913", 
+        "collection": 2128, 
+        "cover": 119536, 
+        "created_at": 1499156980, 
+        "external_games": [
+            51757
+        ], 
+        "first_release_date": 1208476800, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            24, 
+            31
+        ], 
+        "id": 43613, 
+        "involved_companies": [
+            87147
+        ], 
+        "name": "Metal Gear Solid: The Essential Collection", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2, 
+            3
+        ], 
+        "release_dates": [
+            89277
+        ], 
+        "screenshots": [
+            338726, 
+            338727, 
+            338728
+        ], 
+        "similar_games": [
+            76253, 
+            87622, 
+            96217, 
+            103210, 
+            103266, 
+            105049, 
+            106987, 
+            111130, 
+            113360, 
+            118218
+        ], 
+        "slug": "metal-gear-solid-the-essential-collection", 
+        "summary": "Hitting store shelves in a springtime when hundreds of thousands of Hideo Kojima fans were anxiously awaiting the projected summer release of Metal Gear Solid 4: Guns of the Patriots for PlayStation 3, this PlayStation 2 compilation is presented as an opportunity to catch up on back story, as well as to play (or re-play) through three of the earlier PlayStation consoles' most highly acclaimed stealth games. Included are a PlayStation 2 port of the original PlayStation version of Metal Gear Solid -- the game that some say defined the stealth genre -- and the \"Directors Cut\" editions of its two PS2 sequels, Metal Gear Solid 2: Substance and Metal Gear Solid 3: Subsistence.", 
+        "tags": [
+            1, 
+            23, 
+            31, 
+            268435480, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            23, 
+            31
+        ], 
+        "updated_at": 1662133474, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-the-essential-collection"
+    }, 
+    {
+        "age_ratings": [
+            5398, 
+            72113
+        ], 
+        "aggregated_rating": 70.0, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            27502
+        ], 
+        "category": 0, 
+        "checksum": "e6e3ba59-f4f9-3798-2225-b7f49795267a", 
+        "collection": 1005, 
+        "cover": 97456, 
+        "created_at": 1417532514, 
+        "external_games": [
+            52102, 
+            72827, 
+            137247, 
+            1189447
+        ], 
+        "first_release_date": 1162857600, 
+        "follows": 3, 
+        "game_modes": [
+            1, 
+            2, 
+            3
+        ], 
+        "genres": [
+            5, 
+            15, 
+            24
+        ], 
+        "id": 8242, 
+        "involved_companies": [
+            20041, 
+            20042
+        ], 
+        "keywords": [
+            1, 
+            558, 
+            563, 
+            1025, 
+            1107, 
+            1329, 
+            1671, 
+            1971, 
+            3782, 
+            3961, 
+            4259, 
+            4340, 
+            4359, 
+            4525, 
+            4892, 
+            4901, 
+            4906, 
+            4907, 
+            5320, 
+            5444, 
+            5455, 
+            5527, 
+            5813, 
+            5886, 
+            5999, 
+            6021, 
+            6216, 
+            6246, 
+            6315, 
+            6327, 
+            6625, 
+            6628, 
+            6635, 
+            6829, 
+            6922, 
+            7025, 
+            7091, 
+            7419, 
+            7515, 
+            8142, 
+            8203, 
+            8211, 
+            8976, 
+            9699, 
+            9798, 
+            9813, 
+            9909, 
+            10367, 
+            10370, 
+            10507, 
+            10602, 
+            10674, 
+            11200, 
+            11425, 
+            11469, 
+            12116, 
+            12345, 
+            13106, 
+            13561, 
+            13572, 
+            14044, 
+            14156, 
+            14157, 
+            14158, 
+            14159, 
+            14160
+        ], 
+        "multiplayer_modes": [
+            12793
+        ], 
+        "name": "Socom: U.S. Navy Seals - Combined Assault", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            23540
+        ], 
+        "screenshots": [
+            27296
+        ], 
+        "similar_games": [
+            1294, 
+            5812, 
+            7460, 
+            8240, 
+            8241, 
+            8422, 
+            15536, 
+            19431, 
+            22530, 
+            24148
+        ], 
+        "slug": "socom-us-navy-seals-combined-assault", 
+        "summary": "Protect America and freedom from enemy forces in urban and rural warfare in Socom: U.S. Navy Seals - Combined Assault.", 
+        "tags": [
+            1, 
+            39, 
+            268435461, 
+            268435471, 
+            268435480, 
+            536870913, 
+            536871470, 
+            536871475, 
+            536871937, 
+            536872019, 
+            536872241, 
+            536872583, 
+            536872883, 
+            536874694, 
+            536874873, 
+            536875171, 
+            536875252, 
+            536875271, 
+            536875437, 
+            536875804, 
+            536875813, 
+            536875818, 
+            536875819, 
+            536876232, 
+            536876356, 
+            536876367, 
+            536876439, 
+            536876725, 
+            536876798, 
+            536876911, 
+            536876933, 
+            536877128, 
+            536877158, 
+            536877227, 
+            536877239, 
+            536877537, 
+            536877540, 
+            536877547, 
+            536877741, 
+            536877834, 
+            536877937, 
+            536878003, 
+            536878331, 
+            536878427, 
+            536879054, 
+            536879115, 
+            536879123, 
+            536879888, 
+            536880611, 
+            536880710, 
+            536880725, 
+            536880821, 
+            536881279, 
+            536881282, 
+            536881419, 
+            536881514, 
+            536881586, 
+            536882112, 
+            536882337, 
+            536882381, 
+            536883028, 
+            536883257, 
+            536884018, 
+            536884473, 
+            536884484, 
+            536884956, 
+            536885068, 
+            536885069, 
+            536885070, 
+            536885071, 
+            536885072
+        ], 
+        "themes": [
+            1, 
+            39
+        ], 
+        "total_rating": 70.0, 
+        "total_rating_count": 4, 
+        "updated_at": 1676909836, 
+        "url": "https://www.igdb.com/games/socom-us-navy-seals-combined-assault", 
+        "websites": [
+            126680, 
+            346802
+        ]
+    }, 
+    {
+        "age_ratings": [
+            19698, 
+            64163
+        ], 
+        "aggregated_rating": 64.0, 
+        "aggregated_rating_count": 2, 
+        "category": 2, 
+        "checksum": "9494c423-4ce9-4c12-b942-e2c5208156ab", 
+        "collection": 287, 
+        "cover": 93038, 
+        "created_at": 1347809027, 
+        "external_games": [
+            27627, 
+            155575
+        ], 
+        "first_release_date": 1079049600, 
+        "follows": 3, 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            5, 
+            24
+        ], 
+        "id": 1297, 
+        "involved_companies": [
+            2985
+        ], 
+        "keywords": [
+            1, 
+            1107, 
+            1329, 
+            1373, 
+            4185, 
+            4259, 
+            4340, 
+            4359, 
+            4446, 
+            4892, 
+            4898, 
+            5309, 
+            5350, 
+            5455, 
+            5775, 
+            5813, 
+            5886, 
+            6021, 
+            6244, 
+            6308, 
+            6374, 
+            6589, 
+            6625, 
+            6829, 
+            8917, 
+            9072, 
+            9699, 
+            9813, 
+            10369, 
+            10433, 
+            10460, 
+            10507, 
+            10602, 
+            12116
+        ], 
+        "name": "Tom Clancy's Ghost Recon: Jungle Storm", 
+        "parent_game": 1294, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "rating": 73.5086029056578, 
+        "rating_count": 11, 
+        "release_dates": [
+            182868, 
+            182869
+        ], 
+        "screenshots": [
+            372959, 
+            372960, 
+            372961, 
+            372962, 
+            372963, 
+            372964, 
+            372965, 
+            372966
+        ], 
+        "similar_games": [
+            564, 
+            908, 
+            1294, 
+            1842, 
+            1851, 
+            5812, 
+            8422, 
+            10964, 
+            15536, 
+            28751
+        ], 
+        "slug": "tom-clancy-s-ghost-recon-jungle-storm", 
+        "summary": "Tom Clancy's Ghost Recon: Jungle Storm is an expansion of Tom Clancy's Ghost Recon released on the PlayStation 2. It contains the content of Tom Clancy's Ghost Recon: Island Thunder along with eight new single-player missions set in Colombia and additional multiplayer maps.", 
+        "tags": [
+            1, 
+            39, 
+            268435461, 
+            268435480, 
+            536870913, 
+            536872019, 
+            536872241, 
+            536872285, 
+            536875097, 
+            536875171, 
+            536875252, 
+            536875271, 
+            536875358, 
+            536875804, 
+            536875810, 
+            536876221, 
+            536876262, 
+            536876367, 
+            536876687, 
+            536876725, 
+            536876798, 
+            536876933, 
+            536877156, 
+            536877220, 
+            536877286, 
+            536877501, 
+            536877537, 
+            536877741, 
+            536879829, 
+            536879984, 
+            536880611, 
+            536880725, 
+            536881281, 
+            536881345, 
+            536881372, 
+            536881419, 
+            536881514, 
+            536883028
+        ], 
+        "themes": [
+            1, 
+            39
+        ], 
+        "total_rating": 68.7543014528289, 
+        "total_rating_count": 13, 
+        "updated_at": 1678278437, 
+        "url": "https://www.igdb.com/games/tom-clancy-s-ghost-recon-jungle-storm", 
+        "videos": [
+            34100
+        ], 
+        "websites": [
+            128505
+        ]
+    }, 
+    {
+        "age_ratings": [
+            6631, 
+            75058, 
+            90535
+        ], 
+        "aggregated_rating": 85.5, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            107072, 
+            107073, 
+            107148
+        ], 
+        "artworks": [
+            4587, 
+            7809, 
+            7810
+        ], 
+        "bundles": [
+            204734
+        ], 
+        "category": 0, 
+        "checksum": "7cb9dfe8-251e-d491-7189-0cc3f3f93220", 
+        "collection": 2128, 
+        "cover": 252077, 
+        "created_at": 1300437334, 
+        "expanded_games": [
+            479, 
+            20829
+        ], 
+        "external_games": [
+            50805, 
+            140567, 
+            245863, 
+            1366305
+        ], 
+        "first_release_date": 1100649600, 
+        "follows": 312, 
+        "franchises": [
+            463
+        ], 
+        "game_localizations": [
+            236, 
+            2238
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            24, 
+            31
+        ], 
+        "id": 379, 
+        "involved_companies": [
+            833, 
+            835
+        ], 
+        "keywords": [
+            8, 
+            16, 
+            21, 
+            22, 
+            42, 
+            57, 
+            64, 
+            67, 
+            94, 
+            129, 
+            132, 
+            159, 
+            167, 
+            190, 
+            211, 
+            221, 
+            271, 
+            274, 
+            283, 
+            301, 
+            339, 
+            472, 
+            558, 
+            562, 
+            563, 
+            623, 
+            669, 
+            789, 
+            846, 
+            872, 
+            977, 
+            1025, 
+            1033, 
+            1075, 
+            1098, 
+            1101, 
+            1107, 
+            1188, 
+            1212, 
+            1219, 
+            1289, 
+            1299, 
+            1345, 
+            1373, 
+            1403, 
+            1437, 
+            1440, 
+            1539, 
+            1638, 
+            1682, 
+            1714, 
+            1735, 
+            1756, 
+            1779, 
+            1834, 
+            1898, 
+            1953, 
+            1971, 
+            2115, 
+            2280, 
+            2337, 
+            2415, 
+            2416, 
+            2595, 
+            2740, 
+            2977, 
+            2992, 
+            3061, 
+            3087, 
+            3186, 
+            3224, 
+            3270, 
+            3486, 
+            3502, 
+            3741, 
+            3815, 
+            3831, 
+            3833, 
+            4035, 
+            4090, 
+            4138, 
+            4140, 
+            4155, 
+            4161, 
+            4169, 
+            4174, 
+            4179, 
+            4235, 
+            4238, 
+            4239, 
+            4245, 
+            4246, 
+            4250, 
+            4266, 
+            4272, 
+            4287, 
+            4317, 
+            4320, 
+            4324, 
+            4330, 
+            4333, 
+            4359, 
+            4369, 
+            4384, 
+            4389, 
+            4393, 
+            4398, 
+            4403, 
+            4410, 
+            4412, 
+            4446, 
+            4449, 
+            4452, 
+            4474, 
+            4477, 
+            4484, 
+            4507, 
+            4508, 
+            4525, 
+            4541, 
+            4552, 
+            4570, 
+            4572, 
+            4574, 
+            4575, 
+            4578, 
+            4579, 
+            4582, 
+            4589, 
+            4605, 
+            4611, 
+            4613, 
+            4615, 
+            4641, 
+            4644, 
+            4660, 
+            4675, 
+            4697, 
+            4709, 
+            4712, 
+            4716, 
+            4730, 
+            4738, 
+            4756, 
+            4783, 
+            4788, 
+            4806, 
+            4817, 
+            4843, 
+            4848, 
+            4855, 
+            4857, 
+            4859, 
+            4860, 
+            4877, 
+            4896, 
+            4906, 
+            4919, 
+            4920, 
+            4940, 
+            4956, 
+            4958, 
+            4968, 
+            4974, 
+            4990, 
+            4992, 
+            4993, 
+            4998, 
+            4999, 
+            5020, 
+            5022, 
+            5029, 
+            5096, 
+            5156, 
+            5170, 
+            5175, 
+            5209, 
+            5213, 
+            5214, 
+            5257, 
+            5269, 
+            5275, 
+            5277, 
+            5299, 
+            5307, 
+            5309, 
+            5323, 
+            5349, 
+            5350, 
+            5354, 
+            5359, 
+            5386, 
+            5405, 
+            5411, 
+            5436, 
+            5437, 
+            5451, 
+            5453, 
+            5466, 
+            5467, 
+            5469, 
+            5472, 
+            5481, 
+            5483, 
+            5486, 
+            5500, 
+            5503, 
+            5506, 
+            5515, 
+            5518, 
+            5528, 
+            5529, 
+            5557, 
+            5564, 
+            5578, 
+            5583, 
+            5593, 
+            5595, 
+            5609, 
+            5610, 
+            5626, 
+            5641, 
+            5662, 
+            5663, 
+            5672, 
+            5674, 
+            5677, 
+            5688, 
+            5696, 
+            5697, 
+            5714, 
+            5722, 
+            5731, 
+            5775, 
+            5789, 
+            5813, 
+            5823, 
+            5838, 
+            5843, 
+            5851, 
+            5891, 
+            5896, 
+            5920, 
+            5942, 
+            5963, 
+            5965, 
+            5966, 
+            5989, 
+            5999, 
+            6002, 
+            6006, 
+            6010, 
+            6032, 
+            6068, 
+            6084, 
+            6088, 
+            6113, 
+            6123, 
+            6141, 
+            6189, 
+            6216, 
+            6221, 
+            6237, 
+            6238, 
+            6239, 
+            6240, 
+            6246, 
+            6248, 
+            6261, 
+            6263, 
+            6295, 
+            6305, 
+            6309, 
+            6311, 
+            6323, 
+            6326, 
+            6327, 
+            6340, 
+            6352, 
+            6356, 
+            6385, 
+            6391, 
+            6397, 
+            6407, 
+            6417, 
+            6426, 
+            6457, 
+            6461, 
+            6467, 
+            6468, 
+            6589, 
+            6619, 
+            6622, 
+            6624, 
+            6628, 
+            6646, 
+            6693, 
+            6694, 
+            6713, 
+            6726, 
+            6731, 
+            6736, 
+            6737, 
+            6742, 
+            6746, 
+            6788, 
+            6814, 
+            6828, 
+            6829, 
+            6837, 
+            6848, 
+            6861, 
+            6864, 
+            6870, 
+            6883, 
+            6901, 
+            6902, 
+            6906, 
+            6938, 
+            7038, 
+            7046, 
+            7048, 
+            7051, 
+            7056, 
+            7066, 
+            7074, 
+            7091, 
+            7110, 
+            7112, 
+            7120, 
+            7123, 
+            7171, 
+            7185, 
+            7189, 
+            7215, 
+            7280, 
+            7298, 
+            7334, 
+            7341, 
+            7343, 
+            7347, 
+            7355, 
+            7419, 
+            7480, 
+            7494, 
+            7498, 
+            7507, 
+            7547, 
+            7576, 
+            7590, 
+            7601, 
+            7606, 
+            7621, 
+            7637, 
+            7640, 
+            7650, 
+            7654, 
+            7665, 
+            7670, 
+            8133, 
+            8156, 
+            8300, 
+            8311, 
+            8321, 
+            8672, 
+            8688, 
+            8735, 
+            8795, 
+            8803, 
+            8827, 
+            8828, 
+            8845, 
+            8847, 
+            8858, 
+            8865, 
+            8894, 
+            8915, 
+            8916, 
+            8982, 
+            8983, 
+            9080, 
+            9081, 
+            9083, 
+            9154, 
+            9160, 
+            9222, 
+            9283, 
+            9286, 
+            9310, 
+            9322, 
+            9323, 
+            9328, 
+            9329, 
+            9340, 
+            9374, 
+            9393, 
+            9448, 
+            9529, 
+            9542, 
+            9596, 
+            9626, 
+            9694, 
+            9698, 
+            9754, 
+            9792, 
+            9794, 
+            9795, 
+            9796, 
+            9797, 
+            9799, 
+            9800, 
+            9801, 
+            9802, 
+            9814, 
+            9838, 
+            9845, 
+            9889, 
+            9907, 
+            9961, 
+            9966, 
+            9971, 
+            10008, 
+            10032, 
+            10156, 
+            10184, 
+            10288, 
+            10408, 
+            10433, 
+            10474, 
+            10553, 
+            10678, 
+            10683, 
+            10756, 
+            10763, 
+            11099, 
+            11121, 
+            11280, 
+            11281, 
+            11311, 
+            11533, 
+            11538, 
+            11600, 
+            11636, 
+            11751, 
+            11813, 
+            11818, 
+            11874, 
+            12013, 
+            12028, 
+            12116, 
+            12248, 
+            12282, 
+            12291, 
+            12442, 
+            12492, 
+            12665, 
+            13108, 
+            13110, 
+            13115, 
+            13135, 
+            13194, 
+            13195, 
+            13274, 
+            13561, 
+            13945, 
+            14154, 
+            14378, 
+            14491, 
+            14492, 
+            14856, 
+            14858, 
+            14903, 
+            14915, 
+            15328, 
+            15329, 
+            15330, 
+            15331, 
+            15332, 
+            15333
+        ], 
+        "name": "Metal Gear Solid 3: Snake Eater", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2, 
+            3
+        ], 
+        "ports": [
+            21073
+        ], 
+        "rating": 92.64586948751911, 
+        "rating_count": 908, 
+        "release_dates": [
+            28771, 
+            28772, 
+            28773, 
+            28774
+        ], 
+        "remasters": [
+            99821
+        ], 
+        "screenshots": [
+            320983, 
+            320985, 
+            320987, 
+            888429, 
+            888430, 
+            888431, 
+            888432, 
+            888433
+        ], 
+        "similar_games": [
+            41, 
+            375, 
+            380, 
+            533, 
+            564, 
+            960, 
+            1009, 
+            1020, 
+            1985, 
+            2031
+        ], 
+        "slug": "metal-gear-solid-3-snake-eater", 
+        "storyline": "At the height of the Cold War, America's greatest agent known as The Boss defects to the Soviet Union. At the same time, an extremist named Colonel Volgin fires an American-made portable nuclear missile at the Soviet design bureau OKB-754, sparking an international incident. In order for America to clear its name and avoid World War III, a man named John and codenamed Naked Snake is dispatched by the special forces unit FOX to assassinate the woman who taught him everything.", 
+        "summary": "Metal Gear Solid 3: Snake Eater is the prequel to the entire Metal Gear series. Most of the series' defining gameplay elements have been carried over and as before, Snake must use stealth and wits rather than brute force to infiltrate enemy zones and eliminate his major adversaries. Unlike the previous games, this installment takes place in a large outdoor jungle. Snake is able to use camouflage, climb trees, hide in tall grass or wear clothes that make him less noticeable.", 
+        "tags": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31, 
+            268435461, 
+            268435480, 
+            268435487, 
+            536870920, 
+            536870928, 
+            536870933, 
+            536870934, 
+            536870954, 
+            536870969, 
+            536870976, 
+            536870979, 
+            536871006, 
+            536871041, 
+            536871044, 
+            536871071, 
+            536871079, 
+            536871102, 
+            536871123, 
+            536871133, 
+            536871183, 
+            536871186, 
+            536871195, 
+            536871213, 
+            536871251, 
+            536871384, 
+            536871470, 
+            536871474, 
+            536871475, 
+            536871535, 
+            536871581, 
+            536871701, 
+            536871758, 
+            536871784, 
+            536871889, 
+            536871937, 
+            536871945, 
+            536871987, 
+            536872010, 
+            536872013, 
+            536872019, 
+            536872100, 
+            536872124, 
+            536872131, 
+            536872201, 
+            536872211, 
+            536872257, 
+            536872285, 
+            536872315, 
+            536872349, 
+            536872352, 
+            536872451, 
+            536872550, 
+            536872594, 
+            536872626, 
+            536872647, 
+            536872668, 
+            536872691, 
+            536872746, 
+            536872810, 
+            536872865, 
+            536872883, 
+            536873027, 
+            536873192, 
+            536873249, 
+            536873327, 
+            536873328, 
+            536873507, 
+            536873652, 
+            536873889, 
+            536873904, 
+            536873973, 
+            536873999, 
+            536874098, 
+            536874136, 
+            536874182, 
+            536874398, 
+            536874414, 
+            536874653, 
+            536874727, 
+            536874743, 
+            536874745, 
+            536874947, 
+            536875002, 
+            536875050, 
+            536875052, 
+            536875067, 
+            536875073, 
+            536875081, 
+            536875086, 
+            536875091, 
+            536875147, 
+            536875150, 
+            536875151, 
+            536875157, 
+            536875158, 
+            536875162, 
+            536875178, 
+            536875184, 
+            536875199, 
+            536875229, 
+            536875232, 
+            536875236, 
+            536875242, 
+            536875245, 
+            536875271, 
+            536875281, 
+            536875296, 
+            536875301, 
+            536875305, 
+            536875310, 
+            536875315, 
+            536875322, 
+            536875324, 
+            536875358, 
+            536875361, 
+            536875364, 
+            536875386, 
+            536875389, 
+            536875396, 
+            536875419, 
+            536875420, 
+            536875437, 
+            536875453, 
+            536875464, 
+            536875482, 
+            536875484, 
+            536875486, 
+            536875487, 
+            536875490, 
+            536875491, 
+            536875494, 
+            536875501, 
+            536875517, 
+            536875523, 
+            536875525, 
+            536875527, 
+            536875553, 
+            536875556, 
+            536875572, 
+            536875587, 
+            536875609, 
+            536875621, 
+            536875624, 
+            536875628, 
+            536875642, 
+            536875650, 
+            536875668, 
+            536875695, 
+            536875700, 
+            536875718, 
+            536875729, 
+            536875755, 
+            536875760, 
+            536875767, 
+            536875769, 
+            536875771, 
+            536875772, 
+            536875789, 
+            536875808, 
+            536875818, 
+            536875831, 
+            536875832, 
+            536875852, 
+            536875868, 
+            536875870, 
+            536875880, 
+            536875886, 
+            536875902, 
+            536875904, 
+            536875905, 
+            536875910, 
+            536875911, 
+            536875932, 
+            536875934, 
+            536875941, 
+            536876008, 
+            536876068, 
+            536876082, 
+            536876087, 
+            536876121, 
+            536876125, 
+            536876126, 
+            536876169, 
+            536876181, 
+            536876187, 
+            536876189, 
+            536876211, 
+            536876219, 
+            536876221, 
+            536876235, 
+            536876261, 
+            536876262, 
+            536876266, 
+            536876271, 
+            536876298, 
+            536876317, 
+            536876323, 
+            536876348, 
+            536876349, 
+            536876363, 
+            536876365, 
+            536876378, 
+            536876379, 
+            536876381, 
+            536876384, 
+            536876393, 
+            536876395, 
+            536876398, 
+            536876412, 
+            536876415, 
+            536876418, 
+            536876427, 
+            536876430, 
+            536876440, 
+            536876441, 
+            536876469, 
+            536876476, 
+            536876490, 
+            536876495, 
+            536876505, 
+            536876507, 
+            536876521, 
+            536876522, 
+            536876538, 
+            536876553, 
+            536876574, 
+            536876575, 
+            536876584, 
+            536876586, 
+            536876589, 
+            536876600, 
+            536876608, 
+            536876609, 
+            536876626, 
+            536876634, 
+            536876643, 
+            536876687, 
+            536876701, 
+            536876725, 
+            536876735, 
+            536876750, 
+            536876755, 
+            536876763, 
+            536876803, 
+            536876808, 
+            536876832, 
+            536876854, 
+            536876875, 
+            536876877, 
+            536876878, 
+            536876901, 
+            536876911, 
+            536876914, 
+            536876918, 
+            536876922, 
+            536876944, 
+            536876980, 
+            536876996, 
+            536877000, 
+            536877025, 
+            536877035, 
+            536877053, 
+            536877101, 
+            536877128, 
+            536877133, 
+            536877149, 
+            536877150, 
+            536877151, 
+            536877152, 
+            536877158, 
+            536877160, 
+            536877173, 
+            536877175, 
+            536877207, 
+            536877217, 
+            536877221, 
+            536877223, 
+            536877235, 
+            536877238, 
+            536877239, 
+            536877252, 
+            536877264, 
+            536877268, 
+            536877297, 
+            536877303, 
+            536877309, 
+            536877319, 
+            536877329, 
+            536877338, 
+            536877369, 
+            536877373, 
+            536877379, 
+            536877380, 
+            536877501, 
+            536877531, 
+            536877534, 
+            536877536, 
+            536877540, 
+            536877558, 
+            536877605, 
+            536877606, 
+            536877625, 
+            536877638, 
+            536877643, 
+            536877648, 
+            536877649, 
+            536877654, 
+            536877658, 
+            536877700, 
+            536877726, 
+            536877740, 
+            536877741, 
+            536877749, 
+            536877760, 
+            536877773, 
+            536877776, 
+            536877782, 
+            536877795, 
+            536877813, 
+            536877814, 
+            536877818, 
+            536877850, 
+            536877950, 
+            536877958, 
+            536877960, 
+            536877963, 
+            536877968, 
+            536877978, 
+            536877986, 
+            536878003, 
+            536878022, 
+            536878024, 
+            536878032, 
+            536878035, 
+            536878083, 
+            536878097, 
+            536878101, 
+            536878127, 
+            536878192, 
+            536878210, 
+            536878246, 
+            536878253, 
+            536878255, 
+            536878259, 
+            536878267, 
+            536878331, 
+            536878392, 
+            536878406, 
+            536878410, 
+            536878419, 
+            536878459, 
+            536878488, 
+            536878502, 
+            536878513, 
+            536878518, 
+            536878533, 
+            536878549, 
+            536878552, 
+            536878562, 
+            536878566, 
+            536878577, 
+            536878582, 
+            536879045, 
+            536879068, 
+            536879212, 
+            536879223, 
+            536879233, 
+            536879584, 
+            536879600, 
+            536879647, 
+            536879707, 
+            536879715, 
+            536879739, 
+            536879740, 
+            536879757, 
+            536879759, 
+            536879770, 
+            536879777, 
+            536879806, 
+            536879827, 
+            536879828, 
+            536879894, 
+            536879895, 
+            536879992, 
+            536879993, 
+            536879995, 
+            536880066, 
+            536880072, 
+            536880134, 
+            536880195, 
+            536880198, 
+            536880222, 
+            536880234, 
+            536880235, 
+            536880240, 
+            536880241, 
+            536880252, 
+            536880286, 
+            536880305, 
+            536880360, 
+            536880441, 
+            536880454, 
+            536880508, 
+            536880538, 
+            536880606, 
+            536880610, 
+            536880666, 
+            536880704, 
+            536880706, 
+            536880707, 
+            536880708, 
+            536880709, 
+            536880711, 
+            536880712, 
+            536880713, 
+            536880714, 
+            536880726, 
+            536880750, 
+            536880757, 
+            536880801, 
+            536880819, 
+            536880873, 
+            536880878, 
+            536880883, 
+            536880920, 
+            536880944, 
+            536881068, 
+            536881096, 
+            536881200, 
+            536881320, 
+            536881345, 
+            536881386, 
+            536881465, 
+            536881590, 
+            536881595, 
+            536881668, 
+            536881675, 
+            536882011, 
+            536882033, 
+            536882192, 
+            536882193, 
+            536882223, 
+            536882445, 
+            536882450, 
+            536882512, 
+            536882548, 
+            536882663, 
+            536882725, 
+            536882730, 
+            536882786, 
+            536882925, 
+            536882940, 
+            536883028, 
+            536883160, 
+            536883194, 
+            536883203, 
+            536883354, 
+            536883404, 
+            536883577, 
+            536884020, 
+            536884022, 
+            536884027, 
+            536884047, 
+            536884106, 
+            536884107, 
+            536884186, 
+            536884473, 
+            536884857, 
+            536885066, 
+            536885290, 
+            536885403, 
+            536885404, 
+            536885768, 
+            536885770, 
+            536885815, 
+            536885827, 
+            536886240, 
+            536886241, 
+            536886242, 
+            536886243, 
+            536886244, 
+            536886245
+        ], 
+        "themes": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31
+        ], 
+        "total_rating": 89.07293474375956, 
+        "total_rating_count": 912, 
+        "updated_at": 1678278872, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater", 
+        "videos": [
+            75732
+        ], 
+        "websites": [
+            3313, 
+            50200, 
+            50201, 
+            333106
+        ]
+    }, 
+    {
+        "age_ratings": [
+            127
+        ], 
+        "aggregated_rating": 73.0, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            25589, 
+            36319, 
+            36320
+        ], 
+        "category": 0, 
+        "checksum": "4338f1b3-c2e1-0bfa-c2c4-a9939694a51f", 
+        "collection": 312, 
+        "cover": 78890, 
+        "created_at": 1349722182, 
+        "external_games": [
+            51225, 
+            156296, 
+            247007
+        ], 
+        "first_release_date": 1071705600, 
+        "follows": 2, 
+        "franchises": [
+            1293
+        ], 
+        "game_localizations": [
+            3226
+        ], 
+        "genres": [
+            12, 
+            15, 
+            24
+        ], 
+        "id": 1503, 
+        "involved_companies": [
+            101952, 
+            101953
+        ], 
+        "keywords": [
+            21, 
+            167, 
+            301, 
+            575, 
+            970, 
+            1026, 
+            1107, 
+            1440, 
+            1735, 
+            1739, 
+            1821, 
+            1923, 
+            2154, 
+            2639, 
+            3486, 
+            3782, 
+            3833, 
+            4035, 
+            4248, 
+            4273, 
+            4284, 
+            4285, 
+            4402, 
+            4446, 
+            4468, 
+            4471, 
+            4541, 
+            4543, 
+            4571, 
+            4709, 
+            4956, 
+            4958, 
+            5040, 
+            5350, 
+            5479, 
+            5886, 
+            6367, 
+            6623, 
+            9310, 
+            13110
+        ], 
+        "name": "Front Mission 4", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            200275, 
+            200276
+        ], 
+        "screenshots": [
+            388855, 
+            388856, 
+            388857, 
+            388858, 
+            388859, 
+            388860
+        ], 
+        "similar_games": [
+            660, 
+            7027, 
+            8422, 
+            9538, 
+            9938, 
+            10297, 
+            10388, 
+            14394, 
+            26845, 
+            55038
+        ], 
+        "slug": "front-mission-4", 
+        "storyline": "Set in 2096, the story of Front Mission 4 takes place in Venezuela and Europe. Since the revelations of the true causes behind the 2nd Huffman Conflict in 2092, the world grew wary of the Republic of Zaftra. Zaftra began losing foreign investments and many businesses withdrew from the union, resulting in major economic losses. Superpowers such as the United States of the New Continent (USN) refused offers from the union to import their natural resources, the major economic driver of their economy. With a failing economy and growing distrust from the world community, the Republic of Zaftra disbanded the Peace Mediation Organization (PMO) in 2094. Meanwhile, the discovery of natural resources in Poland led the European Community (EC) to stop importing raw materials from Zaftra. Consequently, Zaftran citizens began migrating to other countries in search for work. In 2096, the Republic of Zaftra returned to the spotlight after a mysterious blitzkrieg of EC military bases leaves Europe in an imminent resource crisis. Elsewhere in the world, Venezuela suddenly declares independence from the USN.", 
+        "summary": "In the year 2096, the Wanzer (\"Walking Tanks\" mecha) form the backbone of many military forces. The European Community is enjoying a period of relative peace when it is surprised by sudden attacks on German bases from a mysterious force. To investigate, it is decided to send the EC Armor Tactics Research Corps, also known as \"Durandal\". Inside the Durandal, a young new recruit, Elsa soon finds herself caught in an international plot. Meanwhile, the nation of Venezuela, is attempting to secede from the Unified Continental States (U.C.S.). UCS Forces are sent in to restore order and dispose of Governor Diaz. During a routine patrol, Sgt. Darril and his patrol witness a cargo plane being shot down. Heading to investigate, they soon discover it was a plane carrying part of Diaz's gold. For demoralized UCS soldiers like Darril, this smells like opportunity... \n \nFront Mission 4 is a turn based strategy game where the plot switches between two different theaters of operation: Elsa and Darril. Controlling the wanzer forces of either character, the story progresses simultaneously. Most battles take place on an overhead map divided into a Player phase and an Enemy phase. Typically a wanzer can move once and use his remaining Action Points (AP) to fire on the enemy or use an ability. Success in battle earns Experience Points, which are traded in for new abilities, such as Rapid Fire or Evasion bonuses. Each character has a set limit of Skill slots, which are filled up differently by abilities. While each character starts with a preference in skills, there is no limitation on what any pilot can learn. Money, found during on the map (along with items) or earned after a successful battle, can be used to upgrade wanzers and purchase new weapons.", 
+        "tags": [
+            18, 
+            268435468, 
+            268435471, 
+            268435480, 
+            536870933, 
+            536871079, 
+            536871213, 
+            536871487, 
+            536871882, 
+            536871938, 
+            536872019, 
+            536872352, 
+            536872647, 
+            536872651, 
+            536872733, 
+            536872835, 
+            536873066, 
+            536873551, 
+            536874398, 
+            536874694, 
+            536874745, 
+            536874947, 
+            536875160, 
+            536875185, 
+            536875196, 
+            536875197, 
+            536875314, 
+            536875358, 
+            536875380, 
+            536875383, 
+            536875453, 
+            536875455, 
+            536875483, 
+            536875621, 
+            536875868, 
+            536875870, 
+            536875952, 
+            536876262, 
+            536876391, 
+            536876798, 
+            536877279, 
+            536877535, 
+            536880222, 
+            536884022
+        ], 
+        "themes": [
+            18
+        ], 
+        "total_rating": 73.0, 
+        "total_rating_count": 2, 
+        "updated_at": 1670932788, 
+        "url": "https://www.igdb.com/games/front-mission-4", 
+        "videos": [
+            37387, 
+            37388
+        ], 
+        "websites": [
+            135928, 
+            144253, 
+            334211
+        ]
+    }, 
+    {
+        "category": 3, 
+        "checksum": "002df22b-6e00-3705-8786-013778224357", 
+        "collection": 44, 
+        "cover": 227145, 
+        "created_at": 1655172610, 
+        "first_release_date": 1185408000, 
+        "franchises": [
+            463, 
+            551
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            24
+        ], 
+        "id": 204734, 
+        "involved_companies": [
+            175452
+        ], 
+        "name": "Metal Gear 20th Anniversary: Metal Gear Solid Collection", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            365692
+        ], 
+        "similar_games": [
+            562, 
+            9760, 
+            13196, 
+            24186, 
+            36258, 
+            103210, 
+            117497, 
+            118218, 
+            125151, 
+            185622
+        ], 
+        "slug": "metal-gear-20th-anniversary-metal-gear-solid-collection", 
+        "summary": "Metal Gear 20th Anniversary: \u200b\u200bMetal Gear Solid Collection is an eight-disc set commemorating the 20th anniversary of the Metal Gear franchise. This set is exclusive to Japanese territory. The collection includes all of the canonical Metal Gear games available at the time:\n\n- Metal Gear Solid\n- Metal Gear Solid 2: Sons of Liberty\n- The Document of Metal Gear Solid 2\n- Metal Gear Solid 3: Snake Eater\n- Metal Gear and Metal Gear 2: Solid Snake (on one PlayStation 2 disc)\n- Metal Gear Solid: Portable Ops (with exclusive cover art)\n- Metal Gear Saga Vol. 2", 
+        "tags": [
+            23, 
+            268435480
+        ], 
+        "themes": [
+            23
+        ], 
+        "updated_at": 1655281186, 
+        "url": "https://www.igdb.com/games/metal-gear-20th-anniversary-metal-gear-solid-collection"
+    }, 
+    {
+        "alternative_names": [
+            119606, 
+            119639, 
+            119676
+        ], 
+        "category": 0, 
+        "checksum": "b180d1fc-6dbe-c0cd-75a8-1af088698a49", 
+        "collection": 8508, 
+        "cover": 277541, 
+        "created_at": 1505138607, 
+        "external_games": [
+            119739, 
+            1898638
+        ], 
+        "first_release_date": 1071100800, 
+        "franchises": [
+            4244
+        ], 
+        "game_localizations": [
+            23058
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            24
+        ], 
+        "id": 64108, 
+        "involved_companies": [
+            198419
+        ], 
+        "keywords": [
+            25265
+        ], 
+        "language_supports": [
+            473923
+        ], 
+        "name": "GeGeGe no Kitaro: Ibun Yokai Kitan", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            435074
+        ], 
+        "similar_games": [
+            13196, 
+            49414, 
+            69007, 
+            96217, 
+            99118, 
+            106987, 
+            113636, 
+            113910, 
+            115653, 
+            116530
+        ], 
+        "slug": "gegege-no-kitaro-ibun-yokai-kitan", 
+        "tags": [
+            17, 
+            19, 
+            268435468, 
+            268435480, 
+            536896177
+        ], 
+        "themes": [
+            17, 
+            19
+        ], 
+        "updated_at": 1673095184, 
+        "url": "https://www.igdb.com/games/gegege-no-kitaro-ibun-yokai-kitan", 
+        "websites": [
+            373617, 
+            515323
+        ]
+    }, 
+    {
+        "age_ratings": [
+            5396, 
+            76984
+        ], 
+        "aggregated_rating": 71.6666666666667, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            16431, 
+            27496, 
+            43422
+        ], 
+        "category": 0, 
+        "checksum": "34d1ad9d-3684-355a-4ffc-af78e8752ea4", 
+        "collection": 1005, 
+        "cover": 87926, 
+        "created_at": 1417531359, 
+        "external_games": [
+            50951, 
+            144228, 
+            1709643
+        ], 
+        "first_release_date": 1128988800, 
+        "follows": 5, 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            5, 
+            15, 
+            24
+        ], 
+        "id": 8241, 
+        "involved_companies": [
+            20039, 
+            20040
+        ], 
+        "keywords": [
+            1, 
+            25, 
+            132, 
+            301, 
+            558, 
+            563, 
+            1025, 
+            1107, 
+            1333, 
+            1373, 
+            1671, 
+            1821, 
+            1971, 
+            3627, 
+            3782, 
+            3961, 
+            4259, 
+            4359, 
+            4525, 
+            4611, 
+            4730, 
+            4901, 
+            4906, 
+            4907, 
+            4956, 
+            5309, 
+            5320, 
+            5444, 
+            5455, 
+            5523, 
+            5530, 
+            5775, 
+            5789, 
+            5813, 
+            5939, 
+            5999, 
+            6021, 
+            6023, 
+            6216, 
+            6246, 
+            6296, 
+            6298, 
+            6315, 
+            6327, 
+            6497, 
+            6581, 
+            6625, 
+            6628, 
+            6635, 
+            6829, 
+            6922, 
+            7025, 
+            7038, 
+            7091, 
+            7341, 
+            7419, 
+            7515, 
+            7621, 
+            8133, 
+            8203, 
+            8211, 
+            8766, 
+            8793, 
+            8958, 
+            8976, 
+            9529, 
+            9699, 
+            9798, 
+            9813, 
+            9903, 
+            9909, 
+            10073, 
+            10367, 
+            10370, 
+            10460, 
+            10507, 
+            10602, 
+            10674, 
+            11200, 
+            11469, 
+            12116, 
+            12345, 
+            13109, 
+            13561, 
+            13572, 
+            14044, 
+            14156, 
+            14157, 
+            14158, 
+            14159, 
+            14160
+        ], 
+        "name": "SOCOM 3: U.S. Navy SEALs", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 70.0243373796184, 
+        "rating_count": 4, 
+        "release_dates": [
+            23538, 
+            23539
+        ], 
+        "similar_games": [
+            277, 
+            564, 
+            1294, 
+            1842, 
+            1881, 
+            7460, 
+            8240, 
+            8242, 
+            9495, 
+            24148
+        ], 
+        "slug": "socom-3-us-navy-seals", 
+        "summary": "The Socom series continues with a single player campaign. 32 player capability is added to the online experience. The series is still about protecting America against urban and rural warfare. Three new AOs are included in this game: Morocco, Poland, and Bangladesh. Maps are 5 to 6 times larger than the last game. Multiple save points have been included. Vehicles can be driven by players and AI. The new weapon customization allows 30 different weapons and attachments. The new TCA system allows the player to quickly give a command.", 
+        "tags": [
+            1, 
+            39, 
+            268435461, 
+            268435471, 
+            268435480, 
+            536870913, 
+            536870937, 
+            536871044, 
+            536871213, 
+            536871470, 
+            536871475, 
+            536871937, 
+            536872019, 
+            536872245, 
+            536872285, 
+            536872583, 
+            536872733, 
+            536872883, 
+            536874539, 
+            536874694, 
+            536874873, 
+            536875171, 
+            536875271, 
+            536875437, 
+            536875523, 
+            536875642, 
+            536875813, 
+            536875818, 
+            536875819, 
+            536875868, 
+            536876221, 
+            536876232, 
+            536876356, 
+            536876367, 
+            536876435, 
+            536876442, 
+            536876687, 
+            536876701, 
+            536876725, 
+            536876851, 
+            536876911, 
+            536876933, 
+            536876935, 
+            536877128, 
+            536877158, 
+            536877208, 
+            536877210, 
+            536877227, 
+            536877239, 
+            536877409, 
+            536877493, 
+            536877537, 
+            536877540, 
+            536877547, 
+            536877741, 
+            536877834, 
+            536877937, 
+            536877950, 
+            536878003, 
+            536878253, 
+            536878331, 
+            536878427, 
+            536878533, 
+            536879045, 
+            536879115, 
+            536879123, 
+            536879678, 
+            536879705, 
+            536879870, 
+            536879888, 
+            536880441, 
+            536880611, 
+            536880710, 
+            536880725, 
+            536880815, 
+            536880821, 
+            536880985, 
+            536881279, 
+            536881282, 
+            536881372, 
+            536881419, 
+            536881514, 
+            536881586, 
+            536882112, 
+            536882381, 
+            536883028, 
+            536883257, 
+            536884021, 
+            536884473, 
+            536884484, 
+            536884956, 
+            536885068, 
+            536885069, 
+            536885070, 
+            536885071, 
+            536885072
+        ], 
+        "themes": [
+            1, 
+            39
+        ], 
+        "total_rating": 70.84550202314256, 
+        "total_rating_count": 8, 
+        "updated_at": 1670945758, 
+        "url": "https://www.igdb.com/games/socom-3-us-navy-seals", 
+        "websites": [
+            126673, 
+            352493
+        ]
+    }, 
+    {
+        "age_ratings": [
+            72391
+        ], 
+        "category": 11, 
+        "checksum": "ed59c3f3-7260-b284-d9b7-9cacdc3aeed5", 
+        "created_at": 1652370223, 
+        "first_release_date": 1122336000, 
+        "game_modes": [
+            1, 
+            2, 
+            4
+        ], 
+        "genres": [
+            5, 
+            24
+        ], 
+        "id": 200997, 
+        "involved_companies": [
+            171016, 
+            171017
+        ], 
+        "name": "Delta Force: Black Hawk Down", 
+        "parent_game": 5812, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "release_dates": [
+            358777, 
+            358778
+        ], 
+        "similar_games": [
+            19549, 
+            34024, 
+            38030, 
+            76263, 
+            102862, 
+            102868, 
+            105049, 
+            106805, 
+            118218, 
+            119177
+        ], 
+        "slug": "delta-force-black-hawk-down--1", 
+        "summary": "In late 1993, the United States launched dual military operations in Mogadishu Somalia. Delta Force Operatives and Army Rangers were sent in to capture Somali warlords and restore order. Experience the intense combat of Operation Restore Hope in this ground breaking first person shooter. As a Delta Force operative participate in a number of daring and intense raids against the oppressive Somali warlords in and around Mogadishu.", 
+        "tags": [
+            1, 
+            39, 
+            268435461, 
+            268435480
+        ], 
+        "themes": [
+            1, 
+            39
+        ], 
+        "updated_at": 1656594088, 
+        "url": "https://www.igdb.com/games/delta-force-black-hawk-down--1"
+    }, 
+    {
+        "age_ratings": [
+            5394, 
+            76985
+        ], 
+        "alternative_names": [
+            18671, 
+            27497, 
+            27498, 
+            40747
+        ], 
+        "category": 0, 
+        "checksum": "77eb8cbe-ff7c-1e1c-8e49-8e86578a43d2", 
+        "collection": 1005, 
+        "cover": 87927, 
+        "created_at": 1417531308, 
+        "external_games": [
+            50950, 
+            156044, 
+            1187199
+        ], 
+        "first_release_date": 1067904000, 
+        "follows": 5, 
+        "game_engines": [
+            126
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            5, 
+            13, 
+            15, 
+            24
+        ], 
+        "id": 8240, 
+        "involved_companies": [
+            20037, 
+            20038
+        ], 
+        "keywords": [
+            1, 
+            132, 
+            301, 
+            558, 
+            563, 
+            1025, 
+            1107, 
+            1148, 
+            1333, 
+            1373, 
+            1671, 
+            1971, 
+            2450, 
+            3782, 
+            3961, 
+            4259, 
+            4340, 
+            4359, 
+            4525, 
+            4611, 
+            4730, 
+            4892, 
+            4901, 
+            4906, 
+            4907, 
+            4956, 
+            5213, 
+            5309, 
+            5320, 
+            5444, 
+            5455, 
+            5523, 
+            5529, 
+            5775, 
+            5789, 
+            5813, 
+            5999, 
+            6021, 
+            6023, 
+            6216, 
+            6296, 
+            6298, 
+            6300, 
+            6310, 
+            6315, 
+            6327, 
+            6581, 
+            6625, 
+            6628, 
+            6635, 
+            6829, 
+            6922, 
+            7025, 
+            7038, 
+            7091, 
+            7341, 
+            7419, 
+            7621, 
+            8133, 
+            8203, 
+            8211, 
+            8766, 
+            8793, 
+            8853, 
+            8958, 
+            8976, 
+            9529, 
+            9798, 
+            9813, 
+            9903, 
+            9909, 
+            10211, 
+            10367, 
+            10370, 
+            10460, 
+            10507, 
+            10602, 
+            10674, 
+            11200, 
+            11469, 
+            12116, 
+            12345, 
+            13115, 
+            13561, 
+            14044, 
+            14156
+        ], 
+        "name": "SOCOM II: U.S. Navy SEALs", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 89.0679104475368, 
+        "rating_count": 9, 
+        "release_dates": [
+            23536, 
+            23537
+        ], 
+        "screenshots": [
+            118919, 
+            118920, 
+            118921
+        ], 
+        "similar_games": [
+            277, 
+            564, 
+            908, 
+            1294, 
+            1842, 
+            5812, 
+            8241, 
+            8242, 
+            19431, 
+            24148
+        ], 
+        "slug": "socom-ii-us-navy-seals", 
+        "summary": "SOCOM II is a third-person tactical shooter. There are 12 different single-player missions: split equally between Albania, Algeria, Brazil and Russia. There are five different ranks that can be played in the game: Ensign, Lieutenant, Commander, Captain and Admiral. The player starts with the first three ranks unlocked, but must finish the single player game on Commander to unlock Captain, and on Captain to unlock Admiral. Players can unlock new models for multiplayer, as well as movies, music, concept art, and credits by completing certain objectives.", 
+        "tags": [
+            1, 
+            39, 
+            268435461, 
+            268435469, 
+            268435471, 
+            268435480, 
+            536870913, 
+            536871044, 
+            536871213, 
+            536871470, 
+            536871475, 
+            536871937, 
+            536872019, 
+            536872060, 
+            536872245, 
+            536872285, 
+            536872583, 
+            536872883, 
+            536873362, 
+            536874694, 
+            536874873, 
+            536875171, 
+            536875252, 
+            536875271, 
+            536875437, 
+            536875523, 
+            536875642, 
+            536875804, 
+            536875813, 
+            536875818, 
+            536875819, 
+            536875868, 
+            536876125, 
+            536876221, 
+            536876232, 
+            536876356, 
+            536876367, 
+            536876435, 
+            536876441, 
+            536876687, 
+            536876701, 
+            536876725, 
+            536876911, 
+            536876933, 
+            536876935, 
+            536877128, 
+            536877208, 
+            536877210, 
+            536877212, 
+            536877222, 
+            536877227, 
+            536877239, 
+            536877493, 
+            536877537, 
+            536877540, 
+            536877547, 
+            536877741, 
+            536877834, 
+            536877937, 
+            536877950, 
+            536878003, 
+            536878253, 
+            536878331, 
+            536878533, 
+            536879045, 
+            536879115, 
+            536879123, 
+            536879678, 
+            536879705, 
+            536879765, 
+            536879870, 
+            536879888, 
+            536880441, 
+            536880710, 
+            536880725, 
+            536880815, 
+            536880821, 
+            536881123, 
+            536881279, 
+            536881282, 
+            536881372, 
+            536881419, 
+            536881514, 
+            536881586, 
+            536882112, 
+            536882381, 
+            536883028, 
+            536883257, 
+            536884027, 
+            536884473, 
+            536884956, 
+            536885068
+        ], 
+        "themes": [
+            1, 
+            39
+        ], 
+        "total_rating": 89.0679104475368, 
+        "total_rating_count": 9, 
+        "updated_at": 1670942005, 
+        "url": "https://www.igdb.com/games/socom-ii-us-navy-seals", 
+        "websites": [
+            126674, 
+            344972
+        ]
+    }, 
+    {
+        "age_ratings": [
+            90258
+        ], 
+        "category": 0, 
+        "checksum": "65e7c057-8343-d9da-d984-91173edd3c53", 
+        "collection": 2128, 
+        "cover": 84501, 
+        "created_at": 1499152176, 
+        "external_games": [
+            52921
+        ], 
+        "first_release_date": 1018224000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            24, 
+            31
+        ], 
+        "id": 43388, 
+        "involved_companies": [
+            87148
+        ], 
+        "name": "Metal Gear Solid 2: Sons of Liberty - Limited Edition", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "release_dates": [
+            89512
+        ], 
+        "screenshots": [
+            108644, 
+            338729, 
+            338730
+        ], 
+        "similar_games": [
+            76253, 
+            81249, 
+            87622, 
+            96217, 
+            103210, 
+            105049, 
+            106987, 
+            111130, 
+            113360, 
+            118218
+        ], 
+        "slug": "metal-gear-solid-2-sons-of-liberty-limited-edition", 
+        "summary": "A really rare collector\u2019s item from the Metal Gear Solid universe. The Sons of Liberty Metal Tin was available in a very limited quantity. Contents: Metal Tin, Standard edition game, Bonus DVD.", 
+        "tags": [
+            1, 
+            23, 
+            268435480, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            23
+        ], 
+        "updated_at": 1662133470, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-2-sons-of-liberty-limited-edition", 
+        "version_parent": 376, 
+        "version_title": "Limited Edition"
+    }, 
+    {
+        "age_ratings": [
+            28846, 
+            28847
+        ], 
+        "aggregated_rating": 70.0, 
+        "aggregated_rating_count": 3, 
+        "bundles": [
+            43651
+        ], 
+        "category": 8, 
+        "checksum": "515b4a8f-8bd7-d4a1-bcfa-5c3a84ce06e1", 
+        "collection": 272, 
+        "cover": 141002, 
+        "created_at": 1468369748, 
+        "external_games": [
+            51468, 
+            135451, 
+            247304
+        ], 
+        "first_release_date": 1175126400, 
+        "follows": 17, 
+        "franchises": [
+            720
+        ], 
+        "game_localizations": [
+            129
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            24, 
+            35
+        ], 
+        "id": 20286, 
+        "involved_companies": [
+            103431, 
+            103432
+        ], 
+        "keywords": [
+            226, 
+            296, 
+            301, 
+            497, 
+            558, 
+            645, 
+            723, 
+            1026, 
+            1027, 
+            1075, 
+            1735, 
+            2510, 
+            3171, 
+            3203, 
+            3486, 
+            3833, 
+            4144, 
+            4161, 
+            4162, 
+            4193, 
+            4214, 
+            4249, 
+            4266, 
+            4284, 
+            4285, 
+            4329, 
+            4359, 
+            4395, 
+            4402, 
+            4444, 
+            4525, 
+            4543, 
+            4611, 
+            4674, 
+            4678, 
+            4709, 
+            4725, 
+            4846, 
+            4866, 
+            4907, 
+            4918, 
+            4940, 
+            5029, 
+            5032, 
+            5587, 
+            5591, 
+            5599, 
+            5628, 
+            5852, 
+            5935, 
+            5936, 
+            5963, 
+            6006, 
+            6117, 
+            6125, 
+            6217, 
+            6218, 
+            6219, 
+            6220, 
+            6227, 
+            6541, 
+            6778, 
+            7166, 
+            7351, 
+            7597, 
+            7652, 
+            8784, 
+            9104, 
+            9209, 
+            9328, 
+            9331, 
+            9979, 
+            11257, 
+            12351, 
+            12755, 
+            13481, 
+            13916, 
+            13917
+        ], 
+        "name": "Kingdom Hearts Re:Chain of Memories", 
+        "parent_game": 1220, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 69.700043357031, 
+        "rating_count": 65, 
+        "release_dates": [
+            53606, 
+            203284
+        ], 
+        "remasters": [
+            214986
+        ], 
+        "screenshots": [
+            27767, 
+            391611, 
+            391612, 
+            391613, 
+            391614, 
+            391615, 
+            391616, 
+            391617
+        ], 
+        "similar_games": [
+            660, 
+            1219, 
+            1220, 
+            1223, 
+            1864, 
+            2933, 
+            7406, 
+            8747, 
+            9927, 
+            22387
+        ], 
+        "slug": "kingdom-hearts-re-chain-of-memories", 
+        "storyline": "Sora, Donald, and Goofy walk down a long path that seemingly goes nowhere. They see Pluto and start to follow him. He leads them to a crossroads. While deciding which path to take, a mysterious man in a black cloak approaches Sora and speaks to him, but at that moment his words are incomprehensible. The path becomes one and it leads them to Castle Oblivion. The cloaked man appears as they enter the castle and gives them a card. They use the card to proceed through the castle.\n\nThe first world they go to is Traverse Town, where they discover that Leon, Aerith, Yuffie, and Cid have forgotten all about them. Strangely, though, they remember Sora, Donald, and Goofy's names, with Yuffie even mentioning that her heart still holds memories of them, even if her head doesn't. After Leon gives Sora a tutorial on fighting and gives Sora a summon card, they leave Traverse Town.", 
+        "summary": "Kingdom Hearts Re:Chain of Memories is a full remake of Kingdom Hearts: Chain of Memories, released on the PlayStation 2. In Japan, it is part of the Kingdom Hearts II Final Mix+ compilation and has connectivity features with Kingdom Hearts II Final Mix. As there were no plans to release Kingdom Hearts II Final Mix internationally, these features were modified for the North American release.", 
+        "tags": [
+            1, 
+            17, 
+            268435468, 
+            268435480, 
+            268435491, 
+            536871138, 
+            536871208, 
+            536871213, 
+            536871409, 
+            536871470, 
+            536871557, 
+            536871635, 
+            536871938, 
+            536871939, 
+            536871987, 
+            536872647, 
+            536873422, 
+            536874083, 
+            536874115, 
+            536874398, 
+            536874745, 
+            536875056, 
+            536875073, 
+            536875074, 
+            536875105, 
+            536875126, 
+            536875161, 
+            536875178, 
+            536875196, 
+            536875197, 
+            536875241, 
+            536875271, 
+            536875307, 
+            536875314, 
+            536875356, 
+            536875437, 
+            536875455, 
+            536875523, 
+            536875586, 
+            536875590, 
+            536875621, 
+            536875637, 
+            536875758, 
+            536875778, 
+            536875819, 
+            536875830, 
+            536875852, 
+            536875941, 
+            536875944, 
+            536876499, 
+            536876503, 
+            536876511, 
+            536876540, 
+            536876764, 
+            536876847, 
+            536876848, 
+            536876875, 
+            536876918, 
+            536877029, 
+            536877037, 
+            536877129, 
+            536877130, 
+            536877131, 
+            536877132, 
+            536877139, 
+            536877453, 
+            536877690, 
+            536878078, 
+            536878263, 
+            536878509, 
+            536878564, 
+            536879696, 
+            536880016, 
+            536880121, 
+            536880240, 
+            536880243, 
+            536880891, 
+            536882169, 
+            536883263, 
+            536883667, 
+            536884393, 
+            536884828, 
+            536884829
+        ], 
+        "themes": [
+            1, 
+            17
+        ], 
+        "total_rating": 69.8500216785155, 
+        "total_rating_count": 68, 
+        "updated_at": 1676736396, 
+        "url": "https://www.igdb.com/games/kingdom-hearts-re-chain-of-memories", 
+        "websites": [
+            146299, 
+            146300, 
+            146301, 
+            146302, 
+            146303, 
+            146304, 
+            318578, 
+            334494
+        ]
+    }, 
+    {
+        "alternative_names": [
+            72067
+        ], 
+        "category": 0, 
+        "checksum": "5c6432a9-d3e5-5557-0dc0-c92452c11589", 
+        "cover": 175146, 
+        "created_at": 1630515379, 
+        "external_games": [
+            2115488
+        ], 
+        "first_release_date": 1108598400, 
+        "franchises": [
+            2969
+        ], 
+        "game_localizations": [
+            15601
+        ], 
+        "genres": [
+            15, 
+            16, 
+            24
+        ], 
+        "id": 165911, 
+        "involved_companies": [
+            147067, 
+            147068
+        ], 
+        "name": "Shinseiki Yuusha Taisen", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            308115
+        ], 
+        "similar_games": [
+            9760, 
+            13196, 
+            26845, 
+            32510, 
+            34024, 
+            36258, 
+            102057, 
+            116201, 
+            176432, 
+            181238
+        ], 
+        "slug": "shinseiki-yuusha-taisen", 
+        "summary": "Shinseiki Yuusha Taisen is a Strategy game, developed by WinkySoft and published by Atlus, which was released in Japan in 2005.", 
+        "tags": [
+            39, 
+            268435471, 
+            268435472, 
+            268435480
+        ], 
+        "themes": [
+            39
+        ], 
+        "updated_at": 1673343060, 
+        "url": "https://www.igdb.com/games/shinseiki-yuusha-taisen", 
+        "websites": [
+            466959
+        ]
+    }, 
+    {
+        "alternative_names": [
+            32655, 
+            32656, 
+            128282
+        ], 
+        "category": 3, 
+        "checksum": "68fd7838-9fcc-1386-b1fb-4ce238471213", 
+        "collection": 8655, 
+        "cover": 123843, 
+        "created_at": 1515262084, 
+        "external_games": [
+            136535
+        ], 
+        "first_release_date": 1182988800, 
+        "franchises": [
+            820, 
+            2322
+        ], 
+        "game_localizations": [
+            10095
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            24
+        ], 
+        "id": 80450, 
+        "involved_companies": [
+            66097
+        ], 
+        "language_supports": [
+            642674
+        ], 
+        "name": "Super Robot Taisen OG: Original Generations", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            155048
+        ], 
+        "similar_games": [
+            13196, 
+            25311, 
+            49414, 
+            56036, 
+            86477, 
+            90099, 
+            99118, 
+            102057, 
+            105269, 
+            119598
+        ], 
+        "slug": "super-robot-taisen-og-original-generations", 
+        "summary": "Original Generations is a remake of the two Original Generation games for the Game Boy Advance and is intended to celebrate the Super Robot Wars series' 15th anniversary.", 
+        "tags": [
+            18, 
+            268435468, 
+            268435480
+        ], 
+        "themes": [
+            18
+        ], 
+        "updated_at": 1678118571, 
+        "url": "https://www.igdb.com/games/super-robot-taisen-og-original-generations", 
+        "websites": [
+            80737, 
+            513585
+        ]
+    }, 
+    {
+        "alternative_names": [
+            33175, 
+            36321, 
+            36322
+        ], 
+        "artworks": [
+            3049, 
+            3050
+        ], 
+        "category": 0, 
+        "checksum": "c0045656-5feb-a1b1-f1a2-bc222e632a8d", 
+        "collection": 312, 
+        "cover": 151945, 
+        "created_at": 1349722447, 
+        "external_games": [
+            52142, 
+            144697, 
+            251693
+        ], 
+        "first_release_date": 1135814400, 
+        "follows": 2, 
+        "franchises": [
+            1293
+        ], 
+        "game_localizations": [
+            3229
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            16, 
+            24
+        ], 
+        "id": 1506, 
+        "involved_companies": [
+            101954, 
+            101955
+        ], 
+        "keywords": [
+            18, 
+            167, 
+            1541, 
+            2639, 
+            25495, 
+            25538
+        ], 
+        "name": "Front Mission 5: Scars of the War", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            200277
+        ], 
+        "screenshots": [
+            1523, 
+            1524, 
+            1525, 
+            1526
+        ], 
+        "similar_games": [
+            8422, 
+            13196, 
+            25311, 
+            26845, 
+            28182, 
+            36258, 
+            90099, 
+            102057, 
+            105269, 
+            119171
+        ], 
+        "slug": "front-mission-5-scars-of-the-war", 
+        "storyline": "The plot of Scars of the War revolves around USN soldier Walter Feng. When Huffman Island is deemed ready for colonization by the United Nations in 2065, Feng becomes one of the island's first immigrants. Living in Freedom City, Walter befriends two other children - Randy O'Neill and Glen Duval. The three boys experience first-hand the realities of war during the outbreak of the 1st Huffman Conflict in 2070; Walter and Glen are literally scarred by shell casings during a battle in Freedom City. The three boys were separated at the end of the war when the USN forcefully repatriates Walter and Randy, and Glen is forcefully repatriated by the OCU. The three reunites during a peacekeeping operation as soldiers for their respective armies during the Huffman Crisis in 2086. Upon seeing Glen pilot a wanzer, Walter and Randy sign up for the USN Army's wanzer training program. As tensions between the OCU and USN elevate to a new high from the Larcus Incident, the two men qualify as wanzer pilots.\n\nHowever, on the same day they qualify, Walter and Randy are sent off to fight in the 2nd Huffman Conflict. During the invasion of Freedom City, they encounter Glen in the suburbs of city and defeat him. Feng and O'Neill visit Duval before he is shipped off to a POW camp. A year later, the three face off again on the battlefield - this time, Glen easily defeats his friends. However, instead of showing mercy, Glen kills Randy inside his cockpit block. A ceasefire between the OCU and the USN is declared shortly after he escapes. Traumatized by the experience, Walter cleans up Randy's quarters in an attempt to move on with life. Seeing an application form for the Strike Wyverns assault unit, Feng signs the form and undergoes intensive training. He passes the test and joins the unit, where he meets his old friend Edward Collins and new commanding officer Lynn Wenwright (who happens to be his childhood sweetheart).\n\nOver the next few years, Walter participates in numerous military operations and begins to take an interest in the conflicts he gets involved with. From Zaftra's struggles involving natural resources to pro-independence movements in the OCU, Feng gets drawn into a global war between nationalism and globalization that has been on-going for decades. At the heart of this conflict is the Grimnir - a terrorist organization aimed at destabilizing the supranational unions and return to a world governed by nation-states.", 
+        "summary": "Front Mission 5: Scars of the War is the fifth in Square's Front Mission tactical RPG series. It brings the player back to a gritty futuristic world in which conflicts are waged between five world powers: the U.S.N., O.C.U., E.C., O.A.C., and the Republic of Zaftra. Such conflicts are waged with the wanzer, Front Mission-speak for mecha.\n\nGameplay-wise, the game is a true return to Front Mission 2 roots while incorporating various features from Front Mission 1, 3, and 4. The player takes part in turn-based missions, which pit their group of wanzers against enemy forces. Old features that have returned include the ability to upgrade parts and mission branching. New features to Front Mission 5 include friendly fire and the ability to recruit new pilots.", 
+        "tags": [
+            1, 
+            18, 
+            39, 
+            268435468, 
+            268435471, 
+            268435472, 
+            268435480, 
+            536870930, 
+            536871079, 
+            536872453, 
+            536873551, 
+            536896407, 
+            536896450
+        ], 
+        "themes": [
+            1, 
+            18, 
+            39
+        ], 
+        "updated_at": 1670936808, 
+        "url": "https://www.igdb.com/games/front-mission-5-scars-of-the-war", 
+        "videos": [
+            37389
+        ], 
+        "websites": [
+            135929, 
+            144254, 
+            338751
+        ]
+    }, 
+    {
+        "age_ratings": [
+            61215
+        ], 
+        "category": 0, 
+        "checksum": "7695ff4c-e07e-d0b8-9e4d-0576b0443840", 
+        "cover": 129063, 
+        "created_at": 1601905238, 
+        "external_games": [
+            1979860
+        ], 
+        "first_release_date": 1032825600, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            24
+        ], 
+        "id": 139343, 
+        "involved_companies": [
+            160832
+        ], 
+        "name": "The Document of Metal Gear Solid 2", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            212864
+        ], 
+        "screenshots": [
+            706131, 
+            706132, 
+            706133
+        ], 
+        "similar_games": [
+            22770, 
+            25636, 
+            26189, 
+            27613, 
+            100800, 
+            107218, 
+            113895, 
+            177602, 
+            201731, 
+            225824
+        ], 
+        "slug": "the-document-of-metal-gear-solid-2", 
+        "summary": "The Document of Metal Gear Solid 2 gives a behind-the-scenes look at Metal Gear Solid 2: Sons of Liberty. You'll receive a thorough education on all aspects of Sons of Liberty, including original concept plans, rare video footage and trailers, and even programming secrets. Also included are playable VR training missions from Metal Gear Solid 2: Substance. With in-depth footage and insider information, The Document of Metal Gear Solid 2 is a complete resource guide for Metal Gear Solid fans.", 
+        "tags": [
+            1, 
+            268435480
+        ], 
+        "themes": [
+            1
+        ], 
+        "updated_at": 1670988884, 
+        "url": "https://www.igdb.com/games/the-document-of-metal-gear-solid-2", 
+        "websites": [
+            436077
+        ]
+    }, 
+    {
+        "age_ratings": [
+            61667
+        ], 
+        "alternative_names": [
+            5369, 
+            25056
+        ], 
+        "category": 0, 
+        "checksum": "bd5f25b2-a56b-b271-26f2-1c6c68de9c78", 
+        "cover": 233540, 
+        "created_at": 1443432980, 
+        "external_games": [
+            51744, 
+            139126, 
+            1875815
+        ], 
+        "first_release_date": 1098921600, 
+        "follows": 2, 
+        "game_localizations": [
+            5180
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            24
+        ], 
+        "id": 13094, 
+        "involved_companies": [
+            26663, 
+            26664
+        ], 
+        "keywords": [
+            521
+        ], 
+        "name": "Stella Deus: The Gate of Eternity", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            4
+        ], 
+        "release_dates": [
+            37634, 
+            37635, 
+            37636
+        ], 
+        "screenshots": [
+            14518, 
+            14519
+        ], 
+        "similar_games": [
+            13196, 
+            25311, 
+            36258, 
+            102057, 
+            103232, 
+            109339, 
+            113402, 
+            115280, 
+            119171, 
+            119598
+        ], 
+        "slug": "stella-deus-the-gate-of-eternity", 
+        "storyline": "Stella Deus takes place in a world called Solum, which is slowly being swallowed by \"Miasma\", a mist-like substance that destroys all life it touches. Against this creeping apocalypse, several groups have developed responses. The Aeque Church, led by High Priestess Lumena, believes that the Miasma is God's will, sent to bring the world to an end, not with a bang, but a whimper. A warlord, Dignus, has taken to ravaging the countryside with his armies, imposing the law of the jungle: he who will not fight for his life does not to deserve to live. And finally, an alchemist named Viser is using Dignus's patronage to hunt the world's Spirits (polygonal creatures whose nature is unknown), draining their life-force to fuel his alchemic inventions, which he is sure will save the world. His friend and deputy, Spero, is the game's protagonist. Spero must make his way through this muddy political situation and see if he can save Solum.", 
+        "summary": "Stella Deus is a story-driven tactical role-playing game in which the player controls a group of characters both picked up during the course of the story and in side events. The world is navigated using an overworld map using point-to-point navigation, with a date system showing the length of time it takes to get to a selected location. Alongside the story missions, Towns can be visited, in which characters can customize and create new weapons and armor, sell existing equipment in exchange for money, and shop for items such as healing potions. In camps set up on a journey, characters can swap out weapons and armor, equip items such as healing potions and beneficial charms for future battles. Special items used in character leveling can also be crafted by the player. Alongside story-based missions, there is a special dungeon called the Catacomb of Trials, where characters can battle and gain experience levels, raising their general statistics. The number of available levels in the Catacomb increases as players progress through the game. Each character has a specific character class, which they keep throughout the game and continue to level up as they gain experience points (XP). Higher amounts of XP are awarded for executing special abilities. Along with swordsmen and archers, there are alchemists (mages), priests (healers), and units who fight using most things from axes to fists.\n\nMost battles are triggered based on story events, and are completed when the stated object has been accomplished by the player, be it defeating all enemies, defeating a boss, or performing a specific task. At the end of each battle, the players gain a summery of their performance and spoils gained. The game uses the turn-based Replaceable Action Position battle system, much of which was carried over from the battle system used in Hoshigami: Ruining Blue Earth. Players navigate the field across a grid-based map, which can include obstacles such as bodies of water and high structures. Character positioning within the environment can be used to their advantage, such as an archer gaining higher accuracy when at a high point in the level. Character actions are arranged in a set order, and each character's weapon dictates their attack range. Each time a character performs an action, they gain experience points and additional Skill Points (SP) that can be used to purchase supplies or raise individual character stats. Three types of Skills can be equipped for characters: Action Skills, a special attack that player execute for a certain amount of Magic Points (MP); Support Skills, which grant passive abilities such as scaling higher obstacles; and Zone Skills, which grant passive abilities to both the equipped character and those in close proximity to them.\n\nAlongside Action Skills, two or more characters in conjunction trigger unique special moves called Team Attacks. The amount of damage done depends on how many characters took part in the action. Team attacks also increase the rewards gained at the end of battles. Characters' actions are governed by their stored Action Points (AP): a character's turn begins when their AP meter is at 100. A character's actions can continue until the meter reaches 0, meaning that they can move and attack multiple times within their turn. The amount of AP used with each action depends on the weight of the armor the character is wearing.", 
+        "tags": [
+            268435468, 
+            268435471, 
+            268435480, 
+            536871433
+        ], 
+        "updated_at": 1670951913, 
+        "url": "https://www.igdb.com/games/stella-deus-the-gate-of-eternity", 
+        "videos": [
+            5599
+        ], 
+        "websites": [
+            165951, 
+            362299
+        ]
+    }, 
+    {
+        "age_ratings": [
+            71167
+        ], 
+        "category": 0, 
+        "checksum": "41b3d59c-890f-65ce-8e8f-38eae34908d5", 
+        "collection": 1350, 
+        "cover": 78919, 
+        "created_at": 1430942372, 
+        "external_games": [
+            51270, 
+            146958, 
+            253434
+        ], 
+        "first_release_date": 952128000, 
+        "follows": 2, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            15, 
+            16, 
+            24
+        ], 
+        "id": 10092, 
+        "involved_companies": [
+            23932, 
+            23933
+        ], 
+        "keywords": [
+            164, 
+            226, 
+            227, 
+            396, 
+            623, 
+            805, 
+            1107, 
+            1923, 
+            2679, 
+            3782, 
+            4353, 
+            4359, 
+            4392, 
+            4495, 
+            4523, 
+            4851, 
+            6061, 
+            8874, 
+            8888, 
+            9447, 
+            9890, 
+            9931, 
+            13544
+        ], 
+        "name": "Kessen", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "rating": 50.7494328450148, 
+        "rating_count": 6, 
+        "release_dates": [
+            29519, 
+            29520, 
+            29521
+        ], 
+        "similar_games": [
+            2365, 
+            5652, 
+            9059, 
+            10388, 
+            14394, 
+            26841, 
+            26845, 
+            30229, 
+            31480, 
+            55036
+        ], 
+        "slug": "kessen", 
+        "summary": "The ancient storied battlefield lies before you. At your command are 100,000 troops including archers, infantry, riflemen, and the powerful cavalry. Kessenis a real time strategy game that gives players strategic command and control over huge armies during epic battle sequences from the Warring States period of seventeenth century Japan. Key features include more than 100 movie segments, battlefields with full 3D terrain, separate animation routines for every character, and three different camera views. Known best because it is the very first PlayStation 2 game to ship using the DVD format.", 
+        "tags": [
+            22, 
+            39, 
+            268435471, 
+            268435472, 
+            268435480, 
+            536871076, 
+            536871138, 
+            536871139, 
+            536871308, 
+            536871535, 
+            536871717, 
+            536872019, 
+            536872835, 
+            536873591, 
+            536874694, 
+            536875265, 
+            536875271, 
+            536875304, 
+            536875407, 
+            536875435, 
+            536875763, 
+            536876973, 
+            536879786, 
+            536879800, 
+            536880359, 
+            536880802, 
+            536880843, 
+            536884456
+        ], 
+        "themes": [
+            22, 
+            39
+        ], 
+        "total_rating": 50.7494328450148, 
+        "total_rating_count": 6, 
+        "updated_at": 1670938330, 
+        "url": "https://www.igdb.com/games/kessen", 
+        "videos": [
+            6798, 
+            6799
+        ], 
+        "websites": [
+            3455, 
+            340428
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "26bf565e-c104-4e38-55bb-4a36c37a66cb", 
+        "collection": 5052, 
+        "cover": 276080, 
+        "created_at": 1671845547, 
+        "external_games": [
+            2634960
+        ], 
+        "first_release_date": 1017273600, 
+        "game_localizations": [
+            24223
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            15, 
+            24, 
+            31
+        ], 
+        "id": 229355, 
+        "involved_companies": [
+            197225, 
+            197226
+        ], 
+        "keywords": [
+            78, 
+            283, 
+            2590
+        ], 
+        "name": "Black/Matrix II", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            432735
+        ], 
+        "screenshots": [
+            971615, 
+            971616, 
+            971617
+        ], 
+        "similar_games": [
+            13196, 
+            25311, 
+            27092, 
+            28010, 
+            55199, 
+            81249, 
+            96217, 
+            103303, 
+            106987, 
+            119171
+        ], 
+        "slug": "black-slash-matrix-ii", 
+        "storyline": "While the fictional world of Black/Matrix II is again fantasy-based, it is distinct from the original game. It is divided into three realms - heaven, home to white-winged angels; the human world, inhabited by relatively weak, wingless people; and hell, where black-winged devils reside. The three realms are largely independent and their natives are suspicious of the other realms. Many humans have been convinced of the evil nature of Hell by the angels, but for all their fearsome powers neither the devils nor Hell itself are inherently malevolent. Hell is ruled by the beautiful and compassionate Jenarose, who is said to love humankind more than anyone in the world.", 
+        "summary": "Rage was one of the four Great Generals of the Demon Army, but he was slain in a battle against the Angels. He has recently been revived, but has lost all memories of his previous life. With the war between Demons and Angels still continuing with no end in sight, he must restore his power and build his forces back up to strike back against the Angel Army.\n\nBlack/Matrix II is a turn-based tactical strategy game similar in structure to Final Fantasy Tactics, and the sequel to Black/Matrix. Characters level up and learn abilities individually, and it is possible to recruit a variety of characters, though only 6 at a time can be deployed into a battle. There are also several different romantic interests to pursue, with multiple endings for each depending on the player's choices throughout the game.", 
+        "tags": [
+            1, 
+            17, 
+            268435468, 
+            268435471, 
+            268435480, 
+            268435487, 
+            536870990, 
+            536871195, 
+            536873502
+        ], 
+        "themes": [
+            1, 
+            17
+        ], 
+        "updated_at": 1675223877, 
+        "url": "https://www.igdb.com/games/black-slash-matrix-ii", 
+        "videos": [
+            83194
+        ], 
+        "websites": [
+            513457
+        ]
+    }, 
+    {
+        "age_ratings": [
+            76988
+        ], 
+        "aggregated_rating": 60.0, 
+        "aggregated_rating_count": 1, 
+        "category": 0, 
+        "checksum": "3cf26e67-e57a-5a47-aa3e-5a6a8fb67974", 
+        "collection": 1005, 
+        "cover": 131724, 
+        "created_at": 1470247538, 
+        "external_games": [
+            1994672
+        ], 
+        "first_release_date": 1030406400, 
+        "follows": 2, 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            5, 
+            13, 
+            15, 
+            24
+        ], 
+        "id": 22238, 
+        "involved_companies": [
+            46333, 
+            46334
+        ], 
+        "keywords": [
+            1, 
+            1025, 
+            1329, 
+            4142, 
+            4259, 
+            6625, 
+            13571
+        ], 
+        "name": "SOCOM: US Navy SEALs", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "release_dates": [
+            68771, 
+            68772
+        ], 
+        "screenshots": [
+            593760, 
+            593761
+        ], 
+        "similar_games": [
+            8422, 
+            15536, 
+            18088, 
+            19549, 
+            28751, 
+            38030, 
+            57288, 
+            58075, 
+            68286, 
+            107218
+        ], 
+        "slug": "socom-us-navy-seals--1", 
+        "summary": "The player leads a four-man team (three AI-controlled teammates) of United States Navy SEALs through 12 missions in four regions: Alaska, Thailand, Congo, and Turkmenistan in the years 2006 and 2007. In the single player missions, commands can be spoken using the included USB headset or via an onscreen menu if the optional SOCOM headset was not purchased. Typical missions consist of killing terrorists, rescuing hostages, retrieving intelligence, or destroying terrorist bases.\n\nThe player character's codename is Kahuna, while the NPC teammates' codenames are Boomer, Spectre and Jester. The team is divided into two sub-groups, Alpha and Bravo. The Alpha group consists of the player and Boomer, while the remaining two make up Bravo. Commands can be issued to both individuals and a whole group, for example it is possible to ask team Bravo to remain stationary while the player is scouting the area with Boomer. However the player can not venture alone through a map, when Kahuna is too far away from Boomer he will automatically resume following the player, regardless of prior orders. Briefings and intel such as maps and photos are given prior to each mission.", 
+        "tags": [
+            1, 
+            39, 
+            268435461, 
+            268435469, 
+            268435471, 
+            268435480, 
+            536870913, 
+            536871937, 
+            536872241, 
+            536875054, 
+            536875171, 
+            536877537, 
+            536884483
+        ], 
+        "themes": [
+            1, 
+            39
+        ], 
+        "total_rating": 60.0, 
+        "total_rating_count": 1, 
+        "updated_at": 1670994252, 
+        "url": "https://www.igdb.com/games/socom-us-navy-seals--1", 
+        "videos": [
+            13584
+        ], 
+        "websites": [
+            21871, 
+            450206
+        ]
+    }, 
+    {
+        "age_ratings": [
+            55688, 
+            72704
+        ], 
+        "aggregated_rating": 97.5, 
+        "aggregated_rating_count": 4, 
+        "alternative_names": [
+            42685, 
+            42686
+        ], 
+        "bundles": [
+            43613
+        ], 
+        "category": 10, 
+        "checksum": "0a587485-cc40-206e-2bb9-fea335dbea0a", 
+        "collection": 2128, 
+        "cover": 87306, 
+        "created_at": 1301427124, 
+        "external_games": [
+            51146, 
+            147660, 
+            251133
+        ], 
+        "first_release_date": 1135209600, 
+        "follows": 102, 
+        "franchises": [
+            463
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            5, 
+            24, 
+            31
+        ], 
+        "id": 479, 
+        "involved_companies": [
+            836, 
+            837, 
+            838
+        ], 
+        "name": "Metal Gear Solid 3: Subsistence", 
+        "parent_game": 379, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "rating": 92.24466183403021, 
+        "rating_count": 200, 
+        "release_dates": [
+            695
+        ], 
+        "screenshots": [
+            26729, 
+            338716, 
+            338717
+        ], 
+        "similar_games": [
+            19164, 
+            47823, 
+            55038, 
+            81249, 
+            96217, 
+            103210, 
+            103303, 
+            105049, 
+            106987, 
+            118218
+        ], 
+        "slug": "metal-gear-solid-3-subsistence", 
+        "summary": "Metal Gear Solid 3: Subsistence continues the Metal Gear Solid series tradition of follow-up enhanced, international version releases. \nSubsistence's online multiplayer component, titled Metal Gear Online, consists of five tournament-style game modes, each with a capacity of up to eight players. This mode pits players, each playing as a generic soldier against each other in deathmatch battles and variations of capture the flag, using stages, items, maneuvers, and units (such as the KGB, GRU or Ocelot Unit) from the main game.", 
+        "tags": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31, 
+            268435461, 
+            268435480, 
+            268435487
+        ], 
+        "themes": [
+            1, 
+            17, 
+            21, 
+            22, 
+            23, 
+            31
+        ], 
+        "total_rating": 94.8723309170151, 
+        "total_rating_count": 204, 
+        "updated_at": 1678186507, 
+        "url": "https://www.igdb.com/games/metal-gear-solid-3-subsistence", 
+        "websites": [
+            50216, 
+            50217, 
+            338215
+        ]
+    }
+]

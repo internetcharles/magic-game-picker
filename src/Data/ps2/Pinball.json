@@ -1,0 +1,434 @@
+[
+    {
+        "age_ratings": [
+            17625
+        ], 
+        "alternative_names": [
+            8133
+        ], 
+        "category": 0, 
+        "checksum": "9e4d871e-66de-171b-7988-94a9387b51c8", 
+        "collection": 4529, 
+        "cover": 210321, 
+        "created_at": 1486766104, 
+        "external_games": [
+            52014, 
+            135234, 
+            1877573
+        ], 
+        "first_release_date": 1014249600, 
+        "follows": 2, 
+        "game_localizations": [
+            6410
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            30
+        ], 
+        "id": 27110, 
+        "involved_companies": [
+            44934, 
+            44935, 
+            44936
+        ], 
+        "keywords": [
+            69, 
+            78, 
+            103, 
+            906, 
+            934, 
+            1317, 
+            3316, 
+            4142, 
+            4178, 
+            4310, 
+            4456, 
+            4498, 
+            4500, 
+            4824, 
+            5329, 
+            5479, 
+            5583, 
+            5800, 
+            6084
+        ], 
+        "name": "Akira Psycho Ball", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            65264, 
+            66424
+        ], 
+        "similar_games": [
+            1877, 
+            14234, 
+            14704, 
+            19564, 
+            25311, 
+            54842, 
+            90099, 
+            103298, 
+            107169, 
+            114009
+        ], 
+        "slug": "akira-psycho-ball", 
+        "summary": "Akira Psycho Ball is a digital pinball game based on the popular Akira series created by Katsuhiro Otomo. It features the original storyline and the animated film adaptation's theme song.", 
+        "tags": [
+            1, 
+            18, 
+            268435486, 
+            536870981, 
+            536870990, 
+            536871015, 
+            536871818, 
+            536871846, 
+            536872229, 
+            536874228, 
+            536875054, 
+            536875090, 
+            536875222, 
+            536875368, 
+            536875410, 
+            536875412, 
+            536875736, 
+            536876241, 
+            536876391, 
+            536876495, 
+            536876712, 
+            536876996
+        ], 
+        "themes": [
+            1, 
+            18
+        ], 
+        "updated_at": 1671188331, 
+        "url": "https://www.igdb.com/games/akira-psycho-ball", 
+        "websites": [
+            14866, 
+            14867, 
+            363945
+        ]
+    }, 
+    {
+        "age_ratings": [
+            75122
+        ], 
+        "alternative_names": [
+            91928
+        ], 
+        "category": 0, 
+        "checksum": "f72edad9-8384-6179-04f6-722be9b5c642", 
+        "cover": 216504, 
+        "created_at": 1505041569, 
+        "external_games": [
+            117052, 
+            1900062
+        ], 
+        "first_release_date": 1189641600, 
+        "franchises": [
+            2011
+        ], 
+        "genres": [
+            30
+        ], 
+        "id": 62126, 
+        "involved_companies": [
+            167506, 
+            167507, 
+            167508
+        ], 
+        "name": "Jissen Pachinko Hisshouhou! CR Sakura Taisen", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            352633
+        ], 
+        "screenshots": [
+            771321, 
+            771322, 
+            771323
+        ], 
+        "similar_games": [
+            140476, 
+            141486, 
+            141861, 
+            144035, 
+            161775, 
+            174187, 
+            198054, 
+            217664, 
+            218441, 
+            220536
+        ], 
+        "slug": "jissen-pachinko-hisshouhou-cr-sakura-taisen", 
+        "summary": "Jissen Pachinko Hisshouhou! CR Sakura Taisen a PlayStation 2 pachinko game based on the Sakura Wars series.", 
+        "tags": [
+            268435486
+        ], 
+        "updated_at": 1670962656, 
+        "url": "https://www.igdb.com/games/jissen-pachinko-hisshouhou-cr-sakura-taisen", 
+        "websites": [
+            374983
+        ]
+    }, 
+    {
+        "age_ratings": [
+            128650
+        ], 
+        "alternative_names": [
+            129034, 
+            129035
+        ], 
+        "category": 0, 
+        "checksum": "cd423a9f-30a5-368c-b4fb-1bd99ccdb9c2", 
+        "cover": 125982, 
+        "created_at": 1499431008, 
+        "external_games": [
+            52300, 
+            1972969
+        ], 
+        "first_release_date": 968284800, 
+        "game_localizations": [
+            25530
+        ], 
+        "genres": [
+            9, 
+            30
+        ], 
+        "id": 44636, 
+        "involved_companies": [
+            206856, 
+            206858
+        ], 
+        "name": "Play It Pinball", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            458880, 
+            458881
+        ], 
+        "screenshots": [
+            419828, 
+            419829, 
+            419830
+        ], 
+        "similar_games": [
+            10603, 
+            19222, 
+            25905, 
+            41349, 
+            86974, 
+            87507, 
+            88511, 
+            90788, 
+            95776, 
+            106992
+        ], 
+        "slug": "play-it-pinball", 
+        "summary": "Play It Pinball is classic American pinball like you\u2019ve never seen it before. Relive the games everybody was playing in the classic era of pinball with each table beautifully crafted to capture the atmosphere of 1950\u2019s Americana. Features include 11 themed tables including Surf King, Western Sheriff, Baseball and Horror, hidden tables released as you rack up those high scores, and the option to choose your own viewpoint and table angle. Released only in Europe and Japan.", 
+        "tags": [
+            268435465, 
+            268435486
+        ], 
+        "updated_at": 1678244557, 
+        "url": "https://www.igdb.com/games/play-it-pinball", 
+        "videos": [
+            85781
+        ], 
+        "websites": [
+            429482
+        ]
+    }, 
+    {
+        "age_ratings": [
+            14621
+        ], 
+        "alternative_names": [
+            90090, 
+            90091
+        ], 
+        "category": 0, 
+        "checksum": "34de48fa-3d8f-dec9-3245-4bc11d71a0ad", 
+        "collection": 3082, 
+        "cover": 32270, 
+        "created_at": 1499091995, 
+        "external_games": [
+            53049, 
+            104218, 
+            1925353
+        ], 
+        "first_release_date": 1051142400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            30
+        ], 
+        "id": 43245, 
+        "involved_companies": [
+            173147, 
+            173148, 
+            173149
+        ], 
+        "keywords": [
+            934, 
+            4239, 
+            4456
+        ], 
+        "name": "Pinball Fun", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            116057, 
+            119775
+        ], 
+        "screenshots": [
+            802223, 
+            802224, 
+            802225
+        ], 
+        "similar_games": [
+            2752, 
+            4266, 
+            43740, 
+            64529, 
+            65077, 
+            79020, 
+            79463, 
+            80298, 
+            82093, 
+            96532
+        ], 
+        "slug": "pinball-fun", 
+        "summary": "Pinball Fun is an Action game, developed by HuneX and published by D3Publisher, which was released in Japan in 2003.", 
+        "tags": [
+            268435486, 
+            536871846, 
+            536875151, 
+            536875368
+        ], 
+        "updated_at": 1670974301, 
+        "url": "https://www.igdb.com/games/pinball-fun", 
+        "websites": [
+            399415
+        ]
+    }, 
+    {
+        "age_ratings": [
+            12387
+        ], 
+        "category": 0, 
+        "checksum": "967d81d7-fa49-66ae-60d7-9e0099bcbd2f", 
+        "cover": 78885, 
+        "created_at": 1494322892, 
+        "external_games": [
+            51220, 
+            151269, 
+            1191374
+        ], 
+        "first_release_date": 1060214400, 
+        "follows": 1, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            30
+        ], 
+        "id": 28530, 
+        "involved_companies": [
+            46654, 
+            202680
+        ], 
+        "keywords": [
+            3, 
+            274, 
+            732, 
+            934, 
+            970, 
+            1098, 
+            1299, 
+            1495, 
+            2152, 
+            3486, 
+            4289, 
+            4456, 
+            4499, 
+            4500, 
+            4958, 
+            5942, 
+            7280, 
+            13109
+        ], 
+        "name": "Flipnic: Ultimate Pinball", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            69245, 
+            69246, 
+            69247
+        ], 
+        "screenshots": [
+            42931
+        ], 
+        "similar_games": [
+            1877, 
+            20381, 
+            25300, 
+            39769, 
+            43917, 
+            55038, 
+            57187, 
+            68286, 
+            68287, 
+            71332
+        ], 
+        "slug": "flipnic-ultimate-pinball", 
+        "summary": "A pinball game with multiple twists. Flipnic isn't your basic pinball game, it's a psychedelic trip through fantastic land of pinball. The game features multiple tables in which the player must complete a given set of tasks before he or she can proceed to the next level. Each of the \"tables\" consists of many smaller playing areas and every one has some gimmick in them. For example, one must first freeze the waterfall and then destroy the ice and climb a mountain behind it. All this using only the paddles and the ball.", 
+        "tags": [
+            1, 
+            18, 
+            268435486, 
+            536870915, 
+            536871186, 
+            536871644, 
+            536871846, 
+            536871882, 
+            536872010, 
+            536872211, 
+            536872407, 
+            536873064, 
+            536874398, 
+            536875201, 
+            536875368, 
+            536875411, 
+            536875412, 
+            536875870, 
+            536876854, 
+            536878192, 
+            536884021
+        ], 
+        "themes": [
+            1, 
+            18
+        ], 
+        "updated_at": 1675644336, 
+        "url": "https://www.igdb.com/games/flipnic-ultimate-pinball", 
+        "websites": [
+            348158
+        ]
+    }
+]

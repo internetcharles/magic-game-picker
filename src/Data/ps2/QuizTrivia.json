@@ -1,0 +1,1644 @@
+[
+    {
+        "alternative_names": [
+            90251, 
+            90252
+        ], 
+        "category": 0, 
+        "checksum": "32ae6b56-abb3-b104-e701-2928b73eea02", 
+        "cover": 224623, 
+        "created_at": 1654117165, 
+        "external_games": [
+            2444976
+        ], 
+        "first_release_date": 1113436800, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 203284, 
+        "involved_companies": [
+            173316, 
+            173317
+        ], 
+        "name": "Simple 2000 Series Vol. 76: The Hanasou Eigo no Tabi", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            2
+        ], 
+        "release_dates": [
+            362301
+        ], 
+        "screenshots": [
+            802498, 
+            802499, 
+            802500
+        ], 
+        "similar_games": [
+            181552, 
+            185865, 
+            185866, 
+            191423, 
+            203001, 
+            203319, 
+            204494, 
+            214770, 
+            222006, 
+            222050
+        ], 
+        "slug": "simple-2000-series-vol-76-the-hanasou-eigo-no-tabi", 
+        "summary": "The Hanasou Eigo no Tabi is an educational quiz game in which the player is a japanese tourist (there is the choice to be a boy or a girl at the beginning of the game) that travels to the United States for the first time. In the game the player is supposed to stay for a week in a certain town, in which he will have to communicate in English with the town people and that will deep the friendship while puzzled about cross-cultural questions and memories.", 
+        "tags": [
+            34, 
+            268435482
+        ], 
+        "themes": [
+            34
+        ], 
+        "updated_at": 1671014675, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-76-the-hanasou-eigo-no-tabi", 
+        "websites": [
+            492992
+        ]
+    }, 
+    {
+        "age_ratings": [
+            18736, 
+            61614, 
+            90907
+        ], 
+        "aggregated_rating": 40.0, 
+        "aggregated_rating_count": 1, 
+        "alternative_names": [
+            89618
+        ], 
+        "category": 3, 
+        "checksum": "093e4ddc-3e63-afe5-2f57-9380cf202ef6", 
+        "collection": 4332, 
+        "cover": 223793, 
+        "created_at": 1471336949, 
+        "external_games": [
+            51044, 
+            145892
+        ], 
+        "first_release_date": 1114128000, 
+        "franchises": [
+            1777, 
+            2017, 
+            2019, 
+            2132
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            5, 
+            9, 
+            10, 
+            15, 
+            26
+        ], 
+        "id": 22570, 
+        "keywords": [
+            227, 
+            939, 
+            960, 
+            1158, 
+            1494, 
+            1783, 
+            2152, 
+            3782, 
+            4134, 
+            4157, 
+            4181, 
+            4275, 
+            4419, 
+            4746, 
+            11895
+        ], 
+        "name": "Sega Classics Collection", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2, 
+            4
+        ], 
+        "release_dates": [
+            89170
+        ], 
+        "similar_games": [
+            9278, 
+            10297, 
+            14394, 
+            19301, 
+            26574, 
+            27092, 
+            33153, 
+            36263, 
+            36553, 
+            51945
+        ], 
+        "slug": "sega-classics-collection", 
+        "summary": "A compilation of previously Japan-exclusive SEGA AGES 2500 remakes.", 
+        "tags": [
+            1, 
+            268435466, 
+            268435471, 
+            536871139, 
+            536871851, 
+            536871872, 
+            536872070, 
+            536872406, 
+            536872695, 
+            536873064, 
+            536874694, 
+            536875046, 
+            536875069, 
+            536875093, 
+            536875187, 
+            536875331, 
+            536875658, 
+            536882807
+        ], 
+        "themes": [
+            1, 
+            17, 
+            18
+        ], 
+        "total_rating": 40.0, 
+        "total_rating_count": 1, 
+        "updated_at": 1673366994, 
+        "url": "https://www.igdb.com/games/sega-classics-collection"
+    }, 
+    {
+        "alternative_names": [
+            24727
+        ], 
+        "category": 0, 
+        "checksum": "dab05055-fc33-4b8b-50ba-44be20d3c037", 
+        "collection": 5678, 
+        "cover": 36565, 
+        "created_at": 1505059014, 
+        "external_games": [
+            116362, 
+            1900421
+        ], 
+        "first_release_date": 1002153600, 
+        "franchises": [
+            442
+        ], 
+        "game_localizations": [
+            8906
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            10, 
+            26
+        ], 
+        "id": 62557, 
+        "involved_companies": [
+            79096, 
+            79097
+        ], 
+        "keywords": [
+            78, 
+            534, 
+            719, 
+            735, 
+            1678, 
+            3126, 
+            3916, 
+            4142, 
+            5572
+        ], 
+        "name": "Initial D: Takahashi Ryosuke no Typing Saisoku Riron", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2, 
+            4, 
+            5
+        ], 
+        "release_dates": [
+            121605
+        ], 
+        "similar_games": [
+            27553, 
+            43854, 
+            47161, 
+            49621, 
+            56240, 
+            61483, 
+            62308, 
+            62558, 
+            62559, 
+            81416
+        ], 
+        "slug": "initial-d-takahashi-ryosuke-no-typing-saisoku-riron", 
+        "summary": "The PlayStation 2 port of the game, originally released for Windows and Mac.\nIt is a typing tutor game based on the Initial D anime that requires a USB keyboard to play.", 
+        "tags": [
+            34, 
+            268435466, 
+            268435482, 
+            536870990, 
+            536871446, 
+            536871631, 
+            536871647, 
+            536872590, 
+            536874038, 
+            536874828, 
+            536875054, 
+            536876484
+        ], 
+        "themes": [
+            34
+        ], 
+        "updated_at": 1670962985, 
+        "url": "https://www.igdb.com/games/initial-d-takahashi-ryosuke-no-typing-saisoku-riron", 
+        "websites": [
+            375332
+        ]
+    }, 
+    {
+        "alternative_names": [
+            37410
+        ], 
+        "category": 0, 
+        "checksum": "e95b0dbc-74be-41bf-221c-306e6d1412a4", 
+        "collection": 985, 
+        "cover": 38569, 
+        "created_at": 1499154722, 
+        "external_games": [
+            52410, 
+            108181, 
+            1904546
+        ], 
+        "first_release_date": 1130803200, 
+        "genres": [
+            9, 
+            26
+        ], 
+        "id": 43520, 
+        "involved_companies": [
+            153401
+        ], 
+        "keywords": [
+            2601, 
+            4139
+        ], 
+        "name": "Buzz! The Sports Quiz", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            382764
+        ], 
+        "screenshots": [
+            662518, 
+            662519
+        ], 
+        "similar_games": [
+            6113, 
+            28472, 
+            41397, 
+            50724, 
+            51157, 
+            58129, 
+            68045, 
+            68397, 
+            87056, 
+            90839
+        ], 
+        "slug": "buzz-the-sports-quiz", 
+        "summary": "This is the third game in the Buzz! series and was developed by Kuju Entertainment. Players answer questions asked by the Quizmaster (Buzz) using their Buzz! buzzers. The format is very similar to an actual gameshow, fit with a Quizmaster, his 'delicious' sidekick (Rose), buzzers, a theme song and an audience which claps and laughs. In every type of game, players must choose from easy mode or hard mode.", 
+        "tags": [
+            268435465, 
+            268435482, 
+            536873513, 
+            536875051
+        ], 
+        "updated_at": 1670965606, 
+        "url": "https://www.igdb.com/games/buzz-the-sports-quiz", 
+        "websites": [
+            379342
+        ]
+    }, 
+    {
+        "aggregated_rating": 60.0, 
+        "aggregated_rating_count": 1, 
+        "alternative_names": [
+            83686
+        ], 
+        "category": 0, 
+        "checksum": "ff4e06ee-cb80-e635-49e9-3bd32739a186", 
+        "collection": 985, 
+        "cover": 22673, 
+        "created_at": 1469304665, 
+        "external_games": [
+            135468, 
+            249918
+        ], 
+        "first_release_date": 1205452800, 
+        "genres": [
+            26
+        ], 
+        "id": 21360, 
+        "keywords": [
+            772, 
+            1152, 
+            2601, 
+            4139, 
+            4211, 
+            4720, 
+            5188
+        ], 
+        "name": "Buzz!: The Pop Quiz", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            66108
+        ], 
+        "similar_games": [
+            19083, 
+            23065, 
+            28472, 
+            46562, 
+            50741, 
+            68045, 
+            68397, 
+            78874, 
+            79378, 
+            79428
+        ], 
+        "slug": "buzz-the-pop-quiz--1", 
+        "summary": "Buzz!: The Pop Quiz will test your knowledge of music from the 1990's to the present day.", 
+        "tags": [
+            268435482, 
+            536871684, 
+            536872064, 
+            536873513, 
+            536875051, 
+            536875123, 
+            536875632, 
+            536876100
+        ], 
+        "total_rating": 60.0, 
+        "total_rating_count": 1, 
+        "updated_at": 1670935140, 
+        "url": "https://www.igdb.com/games/buzz-the-pop-quiz--1", 
+        "websites": [
+            337045
+        ]
+    }, 
+    {
+        "age_ratings": [
+            8398
+        ], 
+        "aggregated_rating": 80.0, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            37409
+        ], 
+        "category": 0, 
+        "checksum": "f0c99b7d-2e05-5553-4449-4ed7ea48647b", 
+        "collection": 985, 
+        "cover": 269420, 
+        "created_at": 1460311953, 
+        "external_games": [
+            51500, 
+            139469, 
+            1875635
+        ], 
+        "first_release_date": 1129852800, 
+        "franchises": [
+            796
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            9, 
+            26
+        ], 
+        "id": 18715, 
+        "involved_companies": [
+            34574, 
+            34575
+        ], 
+        "keywords": [
+            772, 
+            2601, 
+            4139, 
+            4475, 
+            4720, 
+            5851, 
+            9136
+        ], 
+        "name": "Buzz! The Music Quiz", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 72.0519053175739, 
+        "rating_count": 5, 
+        "release_dates": [
+            49618
+        ], 
+        "screenshots": [
+            22558, 
+            22559
+        ], 
+        "similar_games": [
+            18716, 
+            23065, 
+            28472, 
+            37745, 
+            42512, 
+            50741, 
+            51028, 
+            68045, 
+            68397, 
+            79428
+        ], 
+        "slug": "buzz-the-music-quiz", 
+        "storyline": "Hosted by the computer animated, ever-smiling Buzz and his assistant Rose, the game creates the illusion that the players are in an actual quiz show, complete with buzzers, theme songs and canned audience clapping/laughter. Jason Donovan is the voice of Buzz in the UK and Australia. Different voice-actors are used across Europe for Buzz and Rose.\nPlayers can choose from 16 different contestants to suit that persons personal music taste. These include a pop diva (Gina), a rocker (Phil), a punk, an Elvis (Pelvis) and a disco dude (Stevie). These characters resemble famous pop musicians such as Gwen Stefani, Liam Gallagher and Geri Halliwell and Bob Marley.\nThere are over 1,000 music clips, all of which are international chart-toppers from the 1950s through to 2005 and over 5,000 questions to test a players knowledge, either by playing solo in a fast paced single-player mode or with friends/family in the multi-player game. None of the music clips are original recordings.\nPlayers can also choose to play in short bursts, or over a longer period. All wins and losses can be saved to Memory cards for players to refer to at a later date.", 
+        "summary": "Buzz!: The Music Quiz is the first in the Buzz! series of video games created by Sleepydog and Relentless Software and published by Sony Computer Entertainment Europe's XDev for the PlayStation 2. In the game, players answer questions asked by the quizmaster (also called Buzz) using the four Buzz! remote controls. The game was part of Sony's \"Fire It Up\" campaign, which also includes the EyeToy and SingStar systems.", 
+        "tags": [
+            268435465, 
+            268435482, 
+            536871684, 
+            536873513, 
+            536875051, 
+            536875387, 
+            536875632, 
+            536876763, 
+            536880048
+        ], 
+        "total_rating": 76.02595265878695, 
+        "total_rating_count": 7, 
+        "updated_at": 1675861786, 
+        "url": "https://www.igdb.com/games/buzz-the-music-quiz", 
+        "videos": [
+            7740
+        ], 
+        "websites": [
+            6843, 
+            362128
+        ]
+    }, 
+    {
+        "alternative_names": [
+            116914
+        ], 
+        "category": 0, 
+        "checksum": "1b88d9e4-a3a5-8a2e-f47b-486802e73faa", 
+        "collection": 3490, 
+        "cover": 269436, 
+        "created_at": 1504857668, 
+        "external_games": [
+            111975, 
+            1902637
+        ], 
+        "first_release_date": 1014854400, 
+        "game_localizations": [
+            8724
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            26, 
+            35
+        ], 
+        "id": 60477, 
+        "involved_companies": [
+            193977, 
+            193978, 
+            193979
+        ], 
+        "keywords": [
+            2071, 
+            2601, 
+            4139
+        ], 
+        "name": "Itadaki Street 3", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3, 
+            4
+        ], 
+        "release_dates": [
+            424224
+        ], 
+        "screenshots": [
+            925731, 
+            925732, 
+            925733, 
+            925734, 
+            925735, 
+            925736, 
+            925737, 
+            925738, 
+            925739, 
+            925740, 
+            925741
+        ], 
+        "similar_games": [
+            19083, 
+            28472, 
+            37923, 
+            61825, 
+            64410, 
+            64414, 
+            64421, 
+            68045, 
+            68397, 
+            77498
+        ], 
+        "slug": "itadaki-street-3", 
+        "summary": "The third sequential version of the popular Japanese board game from Enix.", 
+        "tags": [
+            17, 
+            40, 
+            268435482, 
+            268435491, 
+            536872983, 
+            536873513, 
+            536875051
+        ], 
+        "themes": [
+            17, 
+            40
+        ], 
+        "updated_at": 1671563170, 
+        "url": "https://www.igdb.com/games/itadaki-street-3", 
+        "videos": [
+            78496
+        ], 
+        "websites": [
+            377480
+        ]
+    }, 
+    {
+        "age_ratings": [
+            61920
+        ], 
+        "alternative_names": [
+            67075, 
+            119876
+        ], 
+        "category": 0, 
+        "checksum": "60f02ede-5ce3-8ae5-f56c-8461774a7c76", 
+        "cover": 78888, 
+        "created_at": 1499157185, 
+        "external_games": [
+            51693, 
+            137123, 
+            1876609
+        ], 
+        "first_release_date": 1134604800, 
+        "genres": [
+            26
+        ], 
+        "id": 43623, 
+        "keywords": [
+            772, 
+            2601, 
+            4139, 
+            4142, 
+            4228
+        ], 
+        "name": "Friends: The One With All The Trivia", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89268
+        ], 
+        "similar_games": [
+            28472, 
+            37112, 
+            46562, 
+            50741, 
+            64927, 
+            68045, 
+            68397, 
+            70636, 
+            79428, 
+            82303
+        ], 
+        "slug": "friends-the-one-with-all-the-trivia", 
+        "summary": "Over 3,000 questions and 700 clips highlighting memorable moments from all 10 seasons of the sensational show\n\nPlay along with yopur hosts featuring the voice talents of Janice, Gunther and Jack & Judy Geller\n\nSingle and multi-player modes let you test your Friends knowledge solo or with a group of...friends!", 
+        "tags": [
+            268435482, 
+            536871684, 
+            536873513, 
+            536875051, 
+            536875054, 
+            536875140
+        ], 
+        "updated_at": 1672933001, 
+        "url": "https://www.igdb.com/games/friends-the-one-with-all-the-trivia", 
+        "websites": [
+            363041
+        ]
+    }, 
+    {
+        "alternative_names": [
+            54843
+        ], 
+        "category": 0, 
+        "checksum": "61b6e8c6-5628-c0ab-dd36-e1ef768b473b", 
+        "collection": 3082, 
+        "cover": 56325, 
+        "created_at": 1514297984, 
+        "external_games": [
+            134652, 
+            1877920
+        ], 
+        "first_release_date": 1079568000, 
+        "genres": [
+            26
+        ], 
+        "id": 79015, 
+        "involved_companies": [
+            173254, 
+            173255
+        ], 
+        "keywords": [
+            2601, 
+            4139
+        ], 
+        "multiplayer_modes": [
+            13204
+        ], 
+        "name": "Simple 2000 Series Vol. 46: The Kanji Quiz - Challenge Kanji Kentei", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            362246
+        ], 
+        "similar_games": [
+            28472, 
+            68045, 
+            79478, 
+            79822, 
+            82267, 
+            82288, 
+            82912, 
+            83056, 
+            83057, 
+            83138
+        ], 
+        "slug": "simple-2000-series-vol-46-the-kanji-quiz-challenge-kanji-kentei", 
+        "summary": "Think you know your kanji? Prove it!", 
+        "tags": [
+            268435482, 
+            536873513, 
+            536875051
+        ], 
+        "updated_at": 1670952779, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-46-the-kanji-quiz-challenge-kanji-kentei", 
+        "websites": [
+            364274
+        ]
+    }, 
+    {
+        "age_ratings": [
+            8400, 
+            84565
+        ], 
+        "aggregated_rating": 60.0, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            75928
+        ], 
+        "category": 0, 
+        "checksum": "c4452e81-1ba5-b59f-ecb5-b6db2d38385c", 
+        "collection": 985, 
+        "cover": 269419, 
+        "created_at": 1460313214, 
+        "external_games": [
+            51501, 
+            141333, 
+            1874606
+        ], 
+        "first_release_date": 1142553600, 
+        "follows": 2, 
+        "franchises": [
+            796
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 18716, 
+        "involved_companies": [
+            34576, 
+            34577
+        ], 
+        "keywords": [
+            772, 
+            2601, 
+            2604, 
+            4139, 
+            4211, 
+            4475, 
+            4720, 
+            5851, 
+            10502
+        ], 
+        "name": "Buzz! The Big Quiz", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 63.04925844847381, 
+        "rating_count": 5, 
+        "release_dates": [
+            49619
+        ], 
+        "screenshots": [
+            22560, 
+            22561
+        ], 
+        "similar_games": [
+            18715, 
+            19083, 
+            21360, 
+            23089, 
+            28472, 
+            50741, 
+            68045, 
+            68397, 
+            77791, 
+            79428
+        ], 
+        "slug": "buzz-the-big-quiz", 
+        "storyline": "Buzz!: The Big Quiz is the second in the Buzz! series of PlayStation 2 games developed by Relentless Software.\nInitial promotional material had it named Buzz! The Uber Quiz, however Sony Computer Entertainment Europe announced the change upon the game's launch. The format is essentially that of the original: Buzz!: The Music Quiz. However, The Big Quiz covers an extensive range of general knowledge questions, including geography, history, sport, television, movies, as well as music.\nThe Big Quiz was released in the UK on 17 March 2006. In the same year it won a BAFTA for best casual and social game.", 
+        "summary": "Buzz!: The Big Quiz is the second in the Buzz! series of PlayStation 2 games developed by Relentless Software.\nInitial promotional material had it named Buzz! The Uber Quiz, however Sony Computer Entertainment Europe announced the change upon the game's launch. The format is essentially that of the original: Buzz!: The Music Quiz. However, The Big Quiz covers an extensive range of general knowledge questions, including geography, history, sport, television, movies, as well as music.\nThe Big Quiz was released in the UK on 17 March 2006. In the same year it won a BAFTA for best casual and social game.", 
+        "tags": [
+            268435482, 
+            536871684, 
+            536873513, 
+            536873516, 
+            536875051, 
+            536875123, 
+            536875387, 
+            536875632, 
+            536876763, 
+            536881414
+        ], 
+        "total_rating": 61.5246292242369, 
+        "total_rating_count": 7, 
+        "updated_at": 1670951332, 
+        "url": "https://www.igdb.com/games/buzz-the-big-quiz", 
+        "videos": [
+            7741
+        ], 
+        "websites": [
+            6844, 
+            361174
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90304
+        ], 
+        "category": 0, 
+        "checksum": "0faff101-286d-d555-18da-54b27224b39c", 
+        "cover": 224717, 
+        "created_at": 1654179838, 
+        "external_games": [
+            2445109
+        ], 
+        "first_release_date": 1129766400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 203320, 
+        "involved_companies": [
+            173394, 
+            173395
+        ], 
+        "name": "Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "release_dates": [
+            362457
+        ], 
+        "screenshots": [
+            802866, 
+            802867, 
+            802868
+        ], 
+        "similar_games": [
+            112889, 
+            231629, 
+            231988, 
+            232713, 
+            234689, 
+            234730, 
+            234731, 
+            237488, 
+            238971, 
+            239339
+        ], 
+        "slug": "simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz", 
+        "summary": "The Party Quiz: Akko ni Omakase: This entry in D3's Simple series of budget titles is set up like a television quiz show, with over 1000 questions included. In addition to a couple of single player quiz modes, the game lets up to eight players get together for multiplayer play using the multitap. The game includes four unique types of quizzes.", 
+        "tags": [
+            268435482
+        ], 
+        "updated_at": 1677833390, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz", 
+        "websites": [
+            493050
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90068, 
+            95753
+        ], 
+        "category": 0, 
+        "checksum": "1b7d813b-1018-45b6-75df-2b42fdc37c0a", 
+        "collection": 2309, 
+        "cover": 224388, 
+        "created_at": 1512903731, 
+        "external_games": [
+            134609, 
+            1877952
+        ], 
+        "first_release_date": 1036627200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 77013, 
+        "involved_companies": [
+            173102, 
+            173103
+        ], 
+        "keywords": [
+            2601, 
+            4139
+        ], 
+        "name": "Simple 2000 Series Vol. 12: The Quiz 20000 Mon", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "release_dates": [
+            362053
+        ], 
+        "screenshots": [
+            802180, 
+            802181, 
+            802182
+        ], 
+        "similar_games": [
+            28472, 
+            68045, 
+            79478, 
+            79822, 
+            82267, 
+            82288, 
+            82912, 
+            83056, 
+            83057, 
+            83138
+        ], 
+        "slug": "simple-2000-series-vol-12-the-quiz-20000-mon", 
+        "summary": "The Quiz 20000 is a budget-priced quiz game.", 
+        "tags": [
+            268435482, 
+            536873513, 
+            536875051
+        ], 
+        "updated_at": 1670952791, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-12-the-quiz-20000-mon", 
+        "websites": [
+            364304
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90309, 
+            90310
+        ], 
+        "category": 0, 
+        "checksum": "01c0970e-7ac8-1f6e-c5d8-681a0f053aea", 
+        "cover": 224722, 
+        "created_at": 1654180705, 
+        "external_games": [
+            2445115
+        ], 
+        "first_release_date": 1124928000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 203324, 
+        "involved_companies": [
+            173403, 
+            173404
+        ], 
+        "name": "Simple 2000 Series Vol. 85: The Sekai Meisaku Gekijou Quiz", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "release_dates": [
+            362462
+        ], 
+        "screenshots": [
+            802876, 
+            802877, 
+            802878
+        ], 
+        "similar_games": [
+            112889, 
+            229669, 
+            231602, 
+            231604, 
+            231606, 
+            231609, 
+            231622, 
+            231628, 
+            231629, 
+            231988
+        ], 
+        "slug": "simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz", 
+        "summary": "The Sekai Meisaku Gekijou Quiz: The 85th volume of D3's Simple 2000 series is a quiz game featuring questions from 22 years of anime, totaling over 23 productions. The game includes over 5000 questions from such properties as Peter Pan no Bouken, Romeo no Aoi Sora, Trap Ikka Monogatari, and Flanders no Inu. Gameplay modes include Memorial Quiz, where you select from 8 works and answer questions set in multiple stages that follow the production's storyline, Solo Quiz, where you select from 8 works and 6 genres and work to keep a life meter from reaching zero, and Travel Quiz in which two players answer questions pulled from eight productions simultaneously. The game includes summaries of the original works which provide hints to performing well in the question sessions.", 
+        "tags": [
+            268435482
+        ], 
+        "updated_at": 1671014728, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz", 
+        "websites": [
+            493056
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "c3d8eff4-44d2-a83e-8f61-605e0e1385fc", 
+        "collection": 2172, 
+        "created_at": 1499433913, 
+        "external_games": [
+            52461, 
+            1978375
+        ], 
+        "first_release_date": 1107216000, 
+        "genres": [
+            10, 
+            14, 
+            26
+        ], 
+        "id": 44675, 
+        "keywords": [
+            2601, 
+            4139
+        ], 
+        "name": "Formula Challenge", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            385267
+        ], 
+        "similar_games": [
+            28472, 
+            37832, 
+            37960, 
+            37988, 
+            42309, 
+            44404, 
+            68045, 
+            116353, 
+            118871, 
+            120126
+        ], 
+        "slug": "formula-challenge", 
+        "summary": "Formula Challenge is a formula 1 game aimed at beginners. There are two single player modes: quick race and championship. The championship consists of ten races with two qualifying laps and up to ten laps and each. The number of laps is adjustable. Unlike other formula 1 games the handling and physics simulation is action oriented. The not licensed tracks are set in Europe, America, Africa and Asia.", 
+        "tags": [
+            268435466, 
+            268435470, 
+            268435482, 
+            536873513, 
+            536875051
+        ], 
+        "updated_at": 1670988322, 
+        "url": "https://www.igdb.com/games/formula-challenge", 
+        "websites": [
+            434653
+        ]
+    }, 
+    {
+        "age_ratings": [
+            68697
+        ], 
+        "category": 0, 
+        "checksum": "b2862078-f5c6-ccc1-e1ea-f9366446e295", 
+        "cover": 220676, 
+        "created_at": 1651767850, 
+        "external_games": [
+            2437863
+        ], 
+        "first_release_date": 882403200, 
+        "genres": [
+            26
+        ], 
+        "id": 200419, 
+        "involved_companies": [
+            170429
+        ], 
+        "multiplayer_modes": [
+            19025
+        ], 
+        "name": "Panel Quiz Attack 25", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            357722, 
+            357723
+        ], 
+        "similar_games": [
+            112889, 
+            229669, 
+            231602, 
+            231604, 
+            231606, 
+            231609, 
+            231622, 
+            231628, 
+            231629, 
+            231988
+        ], 
+        "slug": "panel-quiz-attack-25", 
+        "summary": "A quiz show produced by ABC Television and broadcast every Sunday from 1:25 p.m. on the TV Asahi network. It was the only viewer-participation quiz show that was regularly broadcast in Japan. The respondents who answered the quiz correctly won a panel, and the winner was the one who got the most panels. The recording was held at the Asahi Broadcasting Corporation headquarters studio in Hotarumachi, Osaka.", 
+        "tags": [
+            268435482
+        ], 
+        "updated_at": 1671013315, 
+        "url": "https://www.igdb.com/games/panel-quiz-attack-25", 
+        "websites": [
+            490979
+        ]
+    }, 
+    {
+        "age_ratings": [
+            65975
+        ], 
+        "aggregated_rating": 72.5, 
+        "aggregated_rating_count": 2, 
+        "category": 0, 
+        "checksum": "f30087e4-731c-e855-6ae8-7a54e8deca44", 
+        "collection": 985, 
+        "cover": 267208, 
+        "created_at": 1472040318, 
+        "external_games": [
+            52409, 
+            144263, 
+            1919856
+        ], 
+        "first_release_date": 1192752000, 
+        "franchises": [
+            796
+        ], 
+        "game_modes": [
+            2
+        ], 
+        "genres": [
+            9, 
+            26
+        ], 
+        "id": 23065, 
+        "keywords": [
+            772, 
+            2601, 
+            4139, 
+            4720, 
+            5188, 
+            5190, 
+            5851
+        ], 
+        "name": "Buzz! The Hollywood Quiz", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            66109, 
+            66110
+        ], 
+        "similar_games": [
+            18715, 
+            21360, 
+            28472, 
+            37745, 
+            42512, 
+            50741, 
+            51028, 
+            68045, 
+            68397, 
+            79428
+        ], 
+        "slug": "buzz-the-hollywood-quiz", 
+        "summary": "Buzz!: The Hollywood Quiz is the fifth installment in the Buzz! series of video games developed for the PlayStation 2 by Relentless Software. Players have to answer questions asked by the quiz master (the eponymous Buzz) using the four Buzz! remote controls.\n\nThere are two games available in the single player mode, which are Time Builder, where answering questions will gain time in the final round, and Hotseat, where players must answer as many questions as they can, using the time they accumulated in Round 1. To gain points, players must bank when appropriate. If they get a question wrong, they lose all the points they did not bank", 
+        "tags": [
+            268435465, 
+            268435482, 
+            536871684, 
+            536873513, 
+            536875051, 
+            536875632, 
+            536876100, 
+            536876102, 
+            536876763
+        ], 
+        "total_rating": 72.5, 
+        "total_rating_count": 2, 
+        "updated_at": 1670971964, 
+        "url": "https://www.igdb.com/games/buzz-the-hollywood-quiz", 
+        "videos": [
+            29827, 
+            29828
+        ], 
+        "websites": [
+            116431, 
+            394136
+        ]
+    }, 
+    {
+        "age_ratings": [
+            78911
+        ], 
+        "category": 0, 
+        "checksum": "d8e51d7c-839d-870b-4018-00156a9dbf7c", 
+        "collection": 1302, 
+        "cover": 25708, 
+        "created_at": 1463309173, 
+        "external_games": [
+            51603, 
+            141479, 
+            584095, 
+            1615196
+        ], 
+        "first_release_date": 1070582400, 
+        "genres": [
+            15, 
+            26
+        ], 
+        "id": 19184, 
+        "keywords": [
+            1, 
+            359, 
+            415, 
+            1107, 
+            1361, 
+            1931, 
+            2601, 
+            3782, 
+            4139, 
+            4142, 
+            4166, 
+            4212, 
+            4248, 
+            4259, 
+            4359
+        ], 
+        "name": "Risk: Global Domination", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            89250
+        ], 
+        "similar_games": [
+            8422, 
+            9711, 
+            11588, 
+            19083, 
+            25472, 
+            28472, 
+            59965, 
+            62161, 
+            70720, 
+            79428
+        ], 
+        "slug": "risk-global-domination", 
+        "summary": "Take on master military strategists like Napoleon, Washington, Bolivar, Catherine the Great and more in a worldwide campaign for total world domination.", 
+        "tags": [
+            268435471, 
+            268435482, 
+            536870913, 
+            536871271, 
+            536871327, 
+            536872019, 
+            536872273, 
+            536872843, 
+            536873513, 
+            536874694, 
+            536875051, 
+            536875054, 
+            536875078, 
+            536875124, 
+            536875160, 
+            536875171, 
+            536875271
+        ], 
+        "updated_at": 1678278814, 
+        "url": "https://www.igdb.com/games/risk-global-domination", 
+        "websites": [
+            93373
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90300, 
+            90301
+        ], 
+        "category": 0, 
+        "checksum": "36645fa2-e6b9-e892-dab6-ffcf520a682b", 
+        "cover": 224715, 
+        "created_at": 1654179431, 
+        "external_games": [
+            2445110
+        ], 
+        "first_release_date": 1113436800, 
+        "genres": [
+            26
+        ], 
+        "id": 203319, 
+        "involved_companies": [
+            173389, 
+            173390
+        ], 
+        "name": "Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            362456
+        ], 
+        "similar_games": [
+            181552, 
+            185865, 
+            185866, 
+            191423, 
+            203001, 
+            203284, 
+            204494, 
+            214770, 
+            222006, 
+            222050
+        ], 
+        "slug": "simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi", 
+        "summary": "The Hanasou Kankokugo no Tabi is an educational quiz game in which the player travels to Korea.", 
+        "tags": [
+            34, 
+            268435482
+        ], 
+        "themes": [
+            34
+        ], 
+        "updated_at": 1671014724, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi", 
+        "websites": [
+            493051
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90076, 
+            95756
+        ], 
+        "category": 0, 
+        "checksum": "d0409ba5-6080-7ab0-8af5-071ab1136d00", 
+        "collection": 2309, 
+        "cover": 50324, 
+        "created_at": 1506597954, 
+        "external_games": [
+            134601, 
+            1877958
+        ], 
+        "first_release_date": 1040256000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 70433, 
+        "involved_companies": [
+            173120, 
+            173121
+        ], 
+        "keywords": [
+            2601, 
+            4139, 
+            4211, 
+            9969
+        ], 
+        "name": "Simple 2000 Series Vol. 18: The Party Sugoroku", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362060
+        ], 
+        "screenshots": [
+            802198, 
+            802199, 
+            802200
+        ], 
+        "similar_games": [
+            19083, 
+            28472, 
+            33374, 
+            50741, 
+            61825, 
+            68045, 
+            68397, 
+            79012, 
+            79428, 
+            103402
+        ], 
+        "slug": "simple-2000-series-vol-18-the-party-sugoroku", 
+        "summary": "Twenty 2 Party is a fun underwater adventure for you and your friends! Explore the depths of the ocean in this fun interactive game that will involve you and your friends in thrilling challenges for the ultimate treasure.", 
+        "tags": [
+            40, 
+            268435482, 
+            536873513, 
+            536875051, 
+            536875123, 
+            536880881
+        ], 
+        "themes": [
+            40
+        ], 
+        "updated_at": 1670952793, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-18-the-party-sugoroku", 
+        "websites": [
+            364310
+        ]
+    }, 
+    {
+        "age_ratings": [
+            65013
+        ], 
+        "aggregated_rating": 80.0, 
+        "aggregated_rating_count": 3, 
+        "category": 0, 
+        "checksum": "c2274a19-48d9-2fd9-9af6-5d494232ce22", 
+        "collection": 985, 
+        "cover": 152874, 
+        "created_at": 1472041337, 
+        "external_games": [
+            52441, 
+            147117, 
+            1871362
+        ], 
+        "first_release_date": 1177632000, 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            26
+        ], 
+        "id": 23089, 
+        "involved_companies": [
+            197902, 
+            197903
+        ], 
+        "keywords": [
+            772, 
+            2601, 
+            2604, 
+            4139, 
+            4211, 
+            4475, 
+            4720, 
+            5190, 
+            5851, 
+            13083
+        ], 
+        "name": "Buzz! The Mega Quiz", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            66104, 
+            66105
+        ], 
+        "similar_games": [
+            18715, 
+            18716, 
+            19082, 
+            19083, 
+            23065, 
+            28472, 
+            50741, 
+            68045, 
+            68397, 
+            79428
+        ], 
+        "slug": "buzz-the-mega-quiz", 
+        "summary": "Buzz!: The Mega Quiz released as Buzz! The Maha Quiz in India was developed by Relentless Software and is the fourth game in the Buzz! series for the PlayStation 2, alongside Buzz! Junior: Robo Jam. Buzz! The Mega Quiz has over 5,000 questions.[1] Along with Buzz! Junior: Jungle Party, this was one of the first Buzz games released in North America, also the first game in the series to have a 12+ rating by PEGI.", 
+        "tags": [
+            34, 
+            40, 
+            268435482, 
+            536871684, 
+            536873513, 
+            536873516, 
+            536875051, 
+            536875123, 
+            536875387, 
+            536875632, 
+            536876102, 
+            536876763, 
+            536883995
+        ], 
+        "themes": [
+            34, 
+            40
+        ], 
+        "total_rating": 80.0, 
+        "total_rating_count": 3, 
+        "updated_at": 1672502176, 
+        "url": "https://www.igdb.com/games/buzz-the-mega-quiz", 
+        "websites": [
+            358139
+        ]
+    }, 
+    {
+        "age_ratings": [
+            71123
+        ], 
+        "alternative_names": [
+            16138, 
+            28901, 
+            43810, 
+            43811
+        ], 
+        "category": 0, 
+        "checksum": "bbbdd2e4-346e-33b7-807b-bbbc4c2ea95c", 
+        "collection": 1776, 
+        "cover": 178470, 
+        "created_at": 1492517127, 
+        "external_games": [
+            51282, 
+            142477, 
+            393092
+        ], 
+        "first_release_date": 1006992000, 
+        "follows": 2, 
+        "game_localizations": [
+            6519
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            26
+        ], 
+        "id": 28161, 
+        "keywords": [
+            61, 
+            226, 
+            296, 
+            558, 
+            1026, 
+            1208, 
+            1310, 
+            2601, 
+            3486, 
+            4139, 
+            4249, 
+            4284, 
+            4286, 
+            4359, 
+            4494, 
+            4543, 
+            4806, 
+            4843, 
+            5040, 
+            6091, 
+            6298, 
+            6607, 
+            7166, 
+            7461, 
+            9466, 
+            13117
+        ], 
+        "name": "Legaia 2: Duel Saga", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            68273, 
+            68274, 
+            68275
+        ], 
+        "screenshots": [
+            41520, 
+            41521, 
+            41522, 
+            41523
+        ], 
+        "similar_games": [
+            660, 
+            1280, 
+            7027, 
+            10297, 
+            19404, 
+            27092, 
+            28309, 
+            29348, 
+            36198, 
+            55199
+        ], 
+        "slug": "legaia-2-duel-saga", 
+        "summary": "A magical crystal that supplies infinite water to the small village of Nohl is stolen, causing a solar eclipse. The resulting evil light fills the land with powerful monsters, placing the village's survival at stake. Now Lang, a rookie member of the Nohl militia, must fight his way across uncharted lands to recover the crystal and restore peace to the land. With special attack combos, elemental forces, and powerful weapons, you'll have a variety of ways to battle your foes.", 
+        "tags": [
+            268435468, 
+            268435482, 
+            536870973, 
+            536871138, 
+            536871208, 
+            536871470, 
+            536871938, 
+            536872120, 
+            536872222, 
+            536873513, 
+            536874398, 
+            536875051, 
+            536875161, 
+            536875196, 
+            536875198, 
+            536875271, 
+            536875406, 
+            536875455, 
+            536875718, 
+            536875755, 
+            536875952, 
+            536877003, 
+            536877210, 
+            536877519, 
+            536878078, 
+            536878373, 
+            536880378, 
+            536884029
+        ], 
+        "updated_at": 1671442697, 
+        "url": "https://www.igdb.com/games/legaia-2-duel-saga", 
+        "websites": [
+            129972, 
+            343056
+        ]
+    }
+]

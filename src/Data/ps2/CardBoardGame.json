@@ -1,0 +1,2499 @@
+[
+    {
+        "alternative_names": [
+            95987, 
+            96008
+        ], 
+        "category": 0, 
+        "checksum": "97d06713-6f93-2176-1522-5a23b0d36ebc", 
+        "cover": 224768, 
+        "created_at": 1654198542, 
+        "external_games": [
+            2445179
+        ], 
+        "first_release_date": 1102550400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203359, 
+        "involved_companies": [
+            173509
+        ], 
+        "name": "Simple 2000 Series Ultimate Vol. 22: Stylish Mahjong", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362513
+        ], 
+        "screenshots": [
+            802954, 
+            802955, 
+            802956
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-series-ultimate-vol-22-stylish-mahjong", 
+        "summary": "Stylish Mahjong Usagi is a mahjong game that features different modes, the most special is the story mode one in which the player at the beginning of the game takes the role of a young high school student called Takeda (the player can unlock other characters playing the game) and will advance through the game winning mahjong matches.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014736, 
+        "url": "https://www.igdb.com/games/simple-2000-series-ultimate-vol-22-stylish-mahjong", 
+        "websites": [
+            493066
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "826d184f-ab07-1426-5c5a-f2de3017114d", 
+        "cover": 226214, 
+        "created_at": 1570453223, 
+        "external_games": [
+            1774954, 
+            1913659
+        ], 
+        "first_release_date": 1009756800, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 123221, 
+        "involved_companies": [
+            174419
+        ], 
+        "name": "Mahjong Haoh: Jansou Battle", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            363992
+        ], 
+        "screenshots": [
+            809254, 
+            809255, 
+            809256
+        ], 
+        "similar_games": [
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473, 
+            240443
+        ], 
+        "slug": "mahjong-haoh-jansou-battle", 
+        "summary": "Mahjong Haoh: Jansou Battle is a mahjong game.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1670969515, 
+        "url": "https://www.igdb.com/games/mahjong-haoh-jansou-battle", 
+        "websites": [
+            388162
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90192, 
+            90193
+        ], 
+        "category": 0, 
+        "checksum": "0f4d4baa-b0e2-0654-b1c6-7ecbc6a7d7cf", 
+        "cover": 224577, 
+        "created_at": 1654104983, 
+        "external_games": [
+            2444998
+        ], 
+        "first_release_date": 1054166400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203257, 
+        "involved_companies": [
+            173221
+        ], 
+        "name": "Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362230
+        ], 
+        "screenshots": [
+            802415, 
+            802416, 
+            802417
+        ], 
+        "similar_games": [
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473, 
+            240443
+        ], 
+        "slug": "simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio", 
+        "summary": "The Renai Board Game Seishun 18 Radio: Youth 18 Radio is a board game that also incorporates slight adventure aspects and high-production anime movies with the completion of each scenario.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014692, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio", 
+        "websites": [
+            493013
+        ]
+    }, 
+    {
+        "alternative_names": [
+            91778, 
+            115650
+        ], 
+        "category": 0, 
+        "checksum": "030e736a-fbb3-1944-401c-10ea373db092", 
+        "collection": 2309, 
+        "cover": 227619, 
+        "created_at": 1654190545, 
+        "external_games": [
+            2445187
+        ], 
+        "first_release_date": 1068076800, 
+        "game_localizations": [
+            17341
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203349, 
+        "involved_companies": [
+            173467, 
+            175638
+        ], 
+        "name": "Ultimate Casino", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            366393, 
+            366394
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "ultimate-casino", 
+        "summary": "Ultimate Casino is a Miscellaneous game, developed by Amedio Co., Ltd. and published by D3Publisher, which was released in Japan in 2003 and in Europe in 2004.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1672260677, 
+        "url": "https://www.igdb.com/games/ultimate-casino", 
+        "websites": [
+            493074
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90249, 
+            90250
+        ], 
+        "category": 0, 
+        "checksum": "0e61a112-fff6-2b3e-1f5a-f840f8f6053b", 
+        "cover": 224622, 
+        "created_at": 1654116887, 
+        "external_games": [
+            2444978
+        ], 
+        "first_release_date": 1112227200, 
+        "genres": [
+            35
+        ], 
+        "id": 203283, 
+        "involved_companies": [
+            173314, 
+            173315
+        ], 
+        "name": "Simple 2000 Series Vol.75: The Tokudane - Nippon Zenkoku Scoop Rettou", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            362300
+        ], 
+        "similar_games": [
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273
+        ], 
+        "slug": "simple-2000-series-vol-dot-75-the-tokudane-nippon-zenkoku-scoop-rettou", 
+        "summary": "The Tokudane is a Miscellaneous game, developed by Tomcat System and published by D3Publisher, which was released in Japan in 2005.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1676909870, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-dot-75-the-tokudane-nippon-zenkoku-scoop-rettou", 
+        "websites": [
+            492994
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90354
+        ], 
+        "category": 0, 
+        "checksum": "97eb1f76-ee12-1aed-b195-4e2f3e46d73d", 
+        "cover": 224751, 
+        "created_at": 1654190341, 
+        "external_games": [
+            2445188
+        ], 
+        "first_release_date": 1069891200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203347, 
+        "involved_companies": [
+            173462, 
+            173463
+        ], 
+        "name": "Simple 2000 Honkaku Shikou Vol.005: The Kiryoku Kentei", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362493
+        ], 
+        "screenshots": [
+            802920, 
+            802921, 
+            802922
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-honkaku-shikou-vol-dot-005-the-kiryoku-kentei", 
+        "summary": "The Kiryoku Kentei is a igo game featuring different difficulty levels (From beginner to advanced) and different game modes (Story mode, free mode, etc). The game also features a complete igo tutorial in japanese.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014740, 
+        "url": "https://www.igdb.com/games/simple-2000-honkaku-shikou-vol-dot-005-the-kiryoku-kentei", 
+        "websites": [
+            493075
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90359
+        ], 
+        "category": 0, 
+        "checksum": "02a3b7ec-6a8e-17b1-5af4-4aa1794b58b8", 
+        "cover": 224758, 
+        "created_at": 1654191529, 
+        "external_games": [
+            2445184
+        ], 
+        "first_release_date": 1037232000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203352, 
+        "involved_companies": [
+            173474, 
+            173475
+        ], 
+        "name": "Simple 2000 Series Ultimate Vol. 5: Love * Mahjong", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362498
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-series-ultimate-vol-5-love-star-mahjong", 
+        "summary": "Love * Mahjong is a Miscellaneous game, developed by HuneX and published by D3Publisher, which was released in Japan in 2002", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014738, 
+        "url": "https://www.igdb.com/games/simple-2000-series-ultimate-vol-5-love-star-mahjong", 
+        "websites": [
+            493071
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90352
+        ], 
+        "category": 0, 
+        "checksum": "3c0c0b33-243c-6824-8e6f-1fe63ebba776", 
+        "cover": 224748, 
+        "created_at": 1654190011, 
+        "external_games": [
+            2445190
+        ], 
+        "first_release_date": 1027555200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203345, 
+        "involved_companies": [
+            173458, 
+            173459
+        ], 
+        "name": "Simple 2000 Honkaku Shikou Vol.003: The Chess", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362491
+        ], 
+        "screenshots": [
+            802914, 
+            802915, 
+            802916
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-honkaku-shikou-vol-dot-003-the-chess", 
+        "summary": "The Chess is a chess game featuring different difficulty levels (From beginner to advanced), 8 different kind of opponents and different game modes, 2D & 3D boards, 3 boards, and 3 different locations.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014741, 
+        "url": "https://www.igdb.com/games/simple-2000-honkaku-shikou-vol-dot-003-the-chess", 
+        "websites": [
+            493077
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90378, 
+            90379
+        ], 
+        "category": 0, 
+        "checksum": "a4fba851-13c0-bb0f-15de-c3604c64714e", 
+        "cover": 224766, 
+        "created_at": 1654196331, 
+        "external_games": [
+            2445181
+        ], 
+        "first_release_date": 1097712000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            33, 
+            35
+        ], 
+        "id": 203358, 
+        "involved_companies": [
+            173506, 
+            173507
+        ], 
+        "name": "Simple 2000 Series Ultimate Vol. 20: Love*Mahjong 2", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3, 
+            4
+        ], 
+        "release_dates": [
+            362509
+        ], 
+        "screenshots": [
+            802950, 
+            802951, 
+            802952
+        ], 
+        "similar_games": [
+            25905, 
+            87150, 
+            90788, 
+            90965, 
+            92166, 
+            146691, 
+            147900, 
+            174300, 
+            203031, 
+            225893
+        ], 
+        "slug": "simple-2000-series-ultimate-vol-20-love-star-mahjong-2", 
+        "summary": "Love Mahjong 2 is a Mahjong game that takes place in various outdoors environments and involves playing the ancient board game with scantily-clad women. The game features unlockables costumes and pictures galleries.", 
+        "tags": [
+            268435489, 
+            268435491
+        ], 
+        "updated_at": 1671014737, 
+        "url": "https://www.igdb.com/games/simple-2000-series-ultimate-vol-20-love-star-mahjong-2"
+    }, 
+    {
+        "category": 0, 
+        "checksum": "e2967053-6f14-0d02-5bff-5755f2ad03b3", 
+        "cover": 226219, 
+        "created_at": 1654796705, 
+        "external_games": [
+            2447579
+        ], 
+        "first_release_date": 1144886400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 204352, 
+        "involved_companies": [
+            174425
+        ], 
+        "name": "Mahjong Haoh: Dankyuu Battle II", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            364006
+        ], 
+        "screenshots": [
+            809264, 
+            809265, 
+            809266
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "mahjong-haoh-dankyuu-battle-ii", 
+        "summary": "Mahjong Haoh: Dankyuu Battle II is a mahjong game.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671015084, 
+        "url": "https://www.igdb.com/games/mahjong-haoh-dankyuu-battle-ii", 
+        "websites": [
+            493850
+        ]
+    }, 
+    {
+        "alternative_names": [
+            116914
+        ], 
+        "category": 0, 
+        "checksum": "1b88d9e4-a3a5-8a2e-f47b-486802e73faa", 
+        "collection": 3490, 
+        "cover": 269436, 
+        "created_at": 1504857668, 
+        "external_games": [
+            111975, 
+            1902637
+        ], 
+        "first_release_date": 1014854400, 
+        "game_localizations": [
+            8724
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            26, 
+            35
+        ], 
+        "id": 60477, 
+        "involved_companies": [
+            193977, 
+            193978, 
+            193979
+        ], 
+        "keywords": [
+            2071, 
+            2601, 
+            4139
+        ], 
+        "name": "Itadaki Street 3", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3, 
+            4
+        ], 
+        "release_dates": [
+            424224
+        ], 
+        "screenshots": [
+            925731, 
+            925732, 
+            925733, 
+            925734, 
+            925735, 
+            925736, 
+            925737, 
+            925738, 
+            925739, 
+            925740, 
+            925741
+        ], 
+        "similar_games": [
+            19083, 
+            28472, 
+            37923, 
+            61825, 
+            64410, 
+            64414, 
+            64421, 
+            68045, 
+            68397, 
+            77498
+        ], 
+        "slug": "itadaki-street-3", 
+        "summary": "The third sequential version of the popular Japanese board game from Enix.", 
+        "tags": [
+            17, 
+            40, 
+            268435482, 
+            268435491, 
+            536872983, 
+            536873513, 
+            536875051
+        ], 
+        "themes": [
+            17, 
+            40
+        ], 
+        "updated_at": 1671563170, 
+        "url": "https://www.igdb.com/games/itadaki-street-3", 
+        "videos": [
+            78496
+        ], 
+        "websites": [
+            377480
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90358
+        ], 
+        "category": 0, 
+        "checksum": "e3c95c64-1460-73ff-461f-03632823c75b", 
+        "cover": 224756, 
+        "created_at": 1654191210, 
+        "external_games": [
+            2445186
+        ], 
+        "first_release_date": 1035417600, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203351, 
+        "involved_companies": [
+            173472, 
+            173473
+        ], 
+        "name": "Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362497
+        ], 
+        "screenshots": [
+            802935, 
+            802936, 
+            802937
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai", 
+        "summary": "Urawaza Ikasa Mahjong Gai is a mahjong game that features 2 different game modes, the first one is a story mode in which the player will advance through the story defeating the opponents, the other game mode is a free mode in which the player can play mahjong matches againts 3 computer opponents (that are the one that he can unlock in the story mode).", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014739, 
+        "url": "https://www.igdb.com/games/simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai", 
+        "websites": [
+            493073
+        ]
+    }, 
+    {
+        "age_ratings": [
+            51446
+        ], 
+        "alternative_names": [
+            81059, 
+            81162, 
+            112214
+        ], 
+        "category": 0, 
+        "checksum": "c2776371-f380-9c77-f26a-4931087624d8", 
+        "collection": 656, 
+        "cover": 202441, 
+        "created_at": 1505163191, 
+        "external_games": [
+            120445, 
+            1898235
+        ], 
+        "first_release_date": 1100736000, 
+        "franchises": [
+            3317
+        ], 
+        "game_localizations": [
+            2637
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 64404, 
+        "involved_companies": [
+            161589
+        ], 
+        "name": "Momotaro Dentetsu USA", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            335463
+        ], 
+        "similar_games": [
+            49414, 
+            77498, 
+            99118, 
+            186777, 
+            186778, 
+            186780, 
+            186781, 
+            186782, 
+            186783, 
+            233293
+        ], 
+        "slug": "momotaro-dentetsu-usa", 
+        "summary": "Momotaro Dentetsu USA is a video game in the Momotaro Dentetsu series of board game-style video games, genre released in 2004 by Hudson Soft for the PlayStation 2. The game was only released in Japan.", 
+        "tags": [
+            17, 
+            268435491
+        ], 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1670960760, 
+        "url": "https://www.igdb.com/games/momotaro-dentetsu-usa", 
+        "websites": [
+            256929, 
+            373227
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90371
+        ], 
+        "category": 0, 
+        "checksum": "a3fa2dba-2b8f-4f13-b0c8-8fa9bb4f7cd0", 
+        "cover": 224763, 
+        "created_at": 1654195448, 
+        "external_games": [
+            2445183
+        ], 
+        "first_release_date": 1068595200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203356, 
+        "involved_companies": [
+            173494, 
+            173495
+        ], 
+        "name": "Simple 2000 Series Ultimate Vol. 14: Topai Dramatic Mahjong", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362506
+        ], 
+        "screenshots": [
+            802941, 
+            802942, 
+            802943
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong", 
+        "summary": "Topai Dramatic Mahjong is a mahjong game basic in a manga that features at the beginning of the game 2 different game modes, the main one is the story mode in which the player will advance through the story winning mahjong matches, the other mode is a sort of a free mode in which the player can play against 3 different computer opponents.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014738, 
+        "url": "https://www.igdb.com/games/simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong", 
+        "websites": [
+            493070
+        ]
+    }, 
+    {
+        "alternative_names": [
+            81061, 
+            81163, 
+            81164, 
+            81221
+        ], 
+        "category": 0, 
+        "checksum": "4c8d0e6b-8b44-68ce-eca0-2fbc87cb2712", 
+        "collection": 656, 
+        "cover": 202449, 
+        "created_at": 1505163198, 
+        "external_games": [
+            120447, 
+            1898233
+        ], 
+        "first_release_date": 1134000000, 
+        "franchises": [
+            3317
+        ], 
+        "game_localizations": [
+            9059
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 64406, 
+        "involved_companies": [
+            161664
+        ], 
+        "name": "Momotaro Dentetsu 15: Godai Bombi Toujou! no Maki", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            308187
+        ], 
+        "similar_games": [
+            49414, 
+            77498, 
+            99118, 
+            186777, 
+            186778, 
+            186780, 
+            186781, 
+            186782, 
+            186783, 
+            233293
+        ], 
+        "slug": "momotaro-dentetsu-15-godai-bombi-toujou-no-maki", 
+        "summary": "Momotaro Dentetsu 15: Godai Bombi Toujou! no Maki is a video game in the Momotaro Dentetsu series of board game-style video games, genre released in December 8, 2005 by Hudson Soft for the PlayStation 2. The game was only released in Japan.", 
+        "tags": [
+            17, 
+            268435491
+        ], 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1671622475, 
+        "url": "https://www.igdb.com/games/momotaro-dentetsu-15-godai-bombi-toujou-no-maki", 
+        "websites": [
+            256935, 
+            373225
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90377, 
+            95984
+        ], 
+        "category": 0, 
+        "checksum": "5500fd61-3efe-5422-63db-9fdaefaf4d52", 
+        "cover": 224765, 
+        "created_at": 1504531397, 
+        "external_games": [
+            104226, 
+            1925356
+        ], 
+        "first_release_date": 1039651200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 56958, 
+        "involved_companies": [
+            173504, 
+            173505
+        ], 
+        "name": "Simple 2000 Series Ultimate Vol.19: Akagi - Yami ni Furitatta Tensai", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362508
+        ], 
+        "screenshots": [
+            802947, 
+            802948, 
+            802949
+        ], 
+        "similar_games": [
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473
+        ], 
+        "slug": "simple-2000-series-ultimate-vol-dot-19-akagi-yami-ni-furitatta-tensai", 
+        "summary": "Agaki Yami ni Oritatta Tensai: A character-driven mahjong game based on comics 1 through 6 in the Akagi series. Players become Akagi as he takes on opponent after opponent in strategic mahjong battles. The game features also other game modes like free mahjong mode, but the main mode is the story mode in which the player will advance through the story that is divided into stages winning mahjong matches.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1676909865, 
+        "url": "https://www.igdb.com/games/simple-2000-series-ultimate-vol-dot-19-akagi-yami-ni-furitatta-tensai", 
+        "websites": [
+            399418
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "44aa7660-3b1a-101c-0914-07e445b0e509", 
+        "cover": 119780, 
+        "created_at": 1605217121, 
+        "external_games": [
+            2003562
+        ], 
+        "first_release_date": 1101427200, 
+        "follows": 1, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 140955, 
+        "involved_companies": [
+            113048
+        ], 
+        "keywords": [
+            154, 
+            1014, 
+            2079
+        ], 
+        "name": "Video Poker & Blackjack", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            5
+        ], 
+        "release_dates": [
+            218043
+        ], 
+        "screenshots": [
+            408293, 
+            408294, 
+            408295
+        ], 
+        "similar_games": [
+            54797, 
+            63933, 
+            88938, 
+            92652, 
+            109474, 
+            117263, 
+            147158, 
+            198090, 
+            211319, 
+            223092
+        ], 
+        "slug": "video-poker-and-blackjack", 
+        "storyline": "Video Poker & Blackjack is a Miscellaneous game, developed by System 3 and published by Play It, which was released in Europe in 2004.", 
+        "summary": "Video Poker & Blackjack is a Miscellaneous game, developed by System 3 and published by Play It, which was released in Europe in 2004.", 
+        "tags": [
+            40, 
+            268435491, 
+            536871066, 
+            536871926, 
+            536872991
+        ], 
+        "themes": [
+            40
+        ], 
+        "updated_at": 1670996110, 
+        "url": "https://www.igdb.com/games/video-poker-and-blackjack", 
+        "videos": [
+            42820
+        ], 
+        "websites": [
+            454666
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "4b488059-cdc4-a974-f176-c472ebfbc2e7", 
+        "cover": 48421, 
+        "created_at": 1505346034, 
+        "external_games": [
+            129530, 
+            1880983
+        ], 
+        "first_release_date": 1096502400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            9, 
+            35
+        ], 
+        "id": 66927, 
+        "involved_companies": [
+            198474
+        ], 
+        "keywords": [
+            4162, 
+            4537, 
+            5177
+        ], 
+        "name": "The Toys Room", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            435148
+        ], 
+        "similar_games": [
+            14490, 
+            22387, 
+            43355, 
+            43473, 
+            48836, 
+            49314, 
+            64503, 
+            65105, 
+            73377, 
+            79981
+        ], 
+        "slug": "the-toys-room", 
+        "tags": [
+            536875074, 
+            536875449, 
+            536876089
+        ], 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1672730205, 
+        "url": "https://www.igdb.com/games/the-toys-room", 
+        "websites": [
+            367002
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "5977d10a-bfa1-2e33-5e96-869482732ff3", 
+        "cover": 226217, 
+        "created_at": 1570453224, 
+        "external_games": [
+            1774955, 
+            1913660
+        ], 
+        "first_release_date": 1034208000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 123222, 
+        "involved_companies": [
+            174422
+        ], 
+        "name": "Mahjong Haoh: Kaikyuu Battle", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            364004
+        ], 
+        "screenshots": [
+            809257, 
+            809258, 
+            809259
+        ], 
+        "similar_games": [
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473, 
+            240443
+        ], 
+        "slug": "mahjong-haoh-kaikyuu-battle", 
+        "summary": "Mahjong Haoh: Kaikyuu Battle is a mahjong game.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1677243261, 
+        "url": "https://www.igdb.com/games/mahjong-haoh-kaikyuu-battle", 
+        "websites": [
+            388163
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "ae1881f7-fae9-d7cd-7b34-006ac1dfd640", 
+        "cover": 48448, 
+        "created_at": 1505346969, 
+        "external_games": [
+            129572, 
+            1880946
+        ], 
+        "first_release_date": 1222732800, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            9, 
+            35
+        ], 
+        "id": 66951, 
+        "name": "Dynamite 100", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            435149
+        ], 
+        "slug": "dynamite-100", 
+        "themes": [
+            27
+        ], 
+        "updated_at": 1672730196, 
+        "url": "https://www.igdb.com/games/dynamite-100", 
+        "websites": [
+            366966
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "023c5b18-e0a1-e376-538c-1d28ad633aae", 
+        "cover": 213764, 
+        "created_at": 1648221148, 
+        "external_games": [
+            2351553
+        ], 
+        "first_release_date": 1138320000, 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 194749, 
+        "involved_companies": [
+            166205, 
+            166206
+        ], 
+        "keywords": [
+            380, 
+            912, 
+            1361, 
+            18498, 
+            32628
+        ], 
+        "name": "Family Board Games", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            350011
+        ], 
+        "screenshots": [
+            758631, 
+            758632, 
+            758633, 
+            758634
+        ], 
+        "similar_games": [
+            21814, 
+            69568, 
+            87350, 
+            88938, 
+            144427, 
+            151916, 
+            152338, 
+            204592, 
+            204703, 
+            232670
+        ], 
+        "slug": "family-board-games", 
+        "summary": "Rediscover the world's best loved board games, now brought up to date for the PlayStation 2. It includes family favorites: Chess, Checkers, Backgammon, Quatro, Reversi and Enigma.", 
+        "tags": [
+            268435491, 
+            536871292, 
+            536871824, 
+            536872273, 
+            536889410, 
+            536903540
+        ], 
+        "updated_at": 1671010944, 
+        "url": "https://www.igdb.com/games/family-board-games", 
+        "videos": [
+            65765
+        ], 
+        "websites": [
+            486785
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90239
+        ], 
+        "category": 0, 
+        "checksum": "49f6bf47-f52b-e8c5-1fa2-7f2a4ec064d5", 
+        "cover": 224618, 
+        "created_at": 1654115486, 
+        "external_games": [
+            2444979
+        ], 
+        "first_release_date": 1104969600, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203279, 
+        "involved_companies": [
+            173303, 
+            173304
+        ], 
+        "name": "Simple 2000 Series Vol. 69: The Board Game Collection", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1, 
+            3
+        ], 
+        "release_dates": [
+            362295
+        ], 
+        "screenshots": [
+            802483, 
+            802484, 
+            802485
+        ], 
+        "similar_games": [
+            210305, 
+            212686, 
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988
+        ], 
+        "slug": "simple-2000-series-vol-69-the-board-game-collection", 
+        "summary": "The Board Game Collection: Originally released as European Game Collection, this game is a collection of 5 different board games: Midnight Party, Geister, Zirkus Flohcati, Cartagena & Ursuppe.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014678, 
+        "url": "https://www.igdb.com/games/simple-2000-series-vol-69-the-board-game-collection", 
+        "websites": [
+            492995
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "3c2bcb15-60ce-6aaf-d80e-5a8f4b354edd", 
+        "cover": 226218, 
+        "created_at": 1570453225, 
+        "external_games": [
+            1774956, 
+            1913661
+        ], 
+        "first_release_date": 1064448000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 123223, 
+        "involved_companies": [
+            174423
+        ], 
+        "name": "Mahjong Haoh: Taikai Battle", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            364005
+        ], 
+        "screenshots": [
+            809260, 
+            809261, 
+            809262
+        ], 
+        "similar_games": [
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473, 
+            240443
+        ], 
+        "slug": "mahjong-haoh-taikai-battle", 
+        "summary": "Mahjong Haoh: Taikai Battle is another mahjong game.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1670969516, 
+        "url": "https://www.igdb.com/games/mahjong-haoh-taikai-battle", 
+        "websites": [
+            388164
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90350
+        ], 
+        "category": 0, 
+        "checksum": "d1348a8f-d314-723a-53d6-9731cf261cbe", 
+        "cover": 224746, 
+        "created_at": 1654189635, 
+        "external_games": [
+            2445191
+        ], 
+        "first_release_date": 1025136000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203343, 
+        "involved_companies": [
+            173456
+        ], 
+        "name": "Simple 2000 Honkaku Shikou Vol.001: The Shogi", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362489
+        ], 
+        "screenshots": [
+            802908, 
+            802909, 
+            802910
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-honkaku-shikou-vol-dot-001-the-shogi", 
+        "summary": "The Shogi is a shogi game featuring different difficulty levels (From beginner to advanced), 8 different kind of opponents and different game modes, 2D & 3D boards, and 3 different locations. There are also a quiz mode with over 100 different shogi questions.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014741, 
+        "url": "https://www.igdb.com/games/simple-2000-honkaku-shikou-vol-dot-001-the-shogi", 
+        "websites": [
+            493078
+        ]
+    }, 
+    {
+        "age_ratings": [
+            2327
+        ], 
+        "alternative_names": [
+            83385
+        ], 
+        "category": 0, 
+        "checksum": "89571039-c827-3899-19a0-ccb03486107f", 
+        "collection": 3075, 
+        "cover": 86247, 
+        "created_at": 1390961582, 
+        "external_games": [
+            51658, 
+            148631, 
+            246726
+        ], 
+        "first_release_date": 999734400, 
+        "follows": 3, 
+        "franchise": 57, 
+        "franchises": [
+            57
+        ], 
+        "game_localizations": [
+            3853
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            15, 
+            35
+        ], 
+        "id": 4630, 
+        "involved_companies": [
+            11129
+        ], 
+        "keywords": [
+            194, 
+            246
+        ], 
+        "name": "Yu-Gi-Oh! The Duelists of the Roses", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            1
+        ], 
+        "rating": 77.1686083769533, 
+        "rating_count": 16, 
+        "release_dates": [
+            10463
+        ], 
+        "similar_games": [
+            4161, 
+            8196, 
+            17613, 
+            65827, 
+            78165, 
+            79134, 
+            102420, 
+            111054, 
+            112754, 
+            119188
+        ], 
+        "slug": "yu-gi-oh-the-duelists-of-the-roses-fa82a70b-8784-4e43-babc-9ba06b3ba75d", 
+        "summary": "The lineage of Yugi and Kaiba clash again! Choose your side in the final Rose War in England and fight to collect the opposing army's rose cards and overthrow the enemy. Attack with your powerful deck in order to defeat duelists seen in the hit animated series. An all-new card movement system allows full control of over 600 different monsters and introduces advanced strategies never before seen in the Yu-Gi-Oh! world.", 
+        "tags": [
+            268435471, 
+            268435491, 
+            536871106, 
+            536871158
+        ], 
+        "themes": [
+            17
+        ], 
+        "total_rating": 77.1686083769533, 
+        "total_rating_count": 16, 
+        "updated_at": 1674646242, 
+        "url": "https://www.igdb.com/games/yu-gi-oh-the-duelists-of-the-roses-fa82a70b-8784-4e43-babc-9ba06b3ba75d", 
+        "websites": [
+            126361, 
+            126362, 
+            514334
+        ]
+    }, 
+    {
+        "age_ratings": [
+            17885
+        ], 
+        "alternative_names": [
+            63318
+        ], 
+        "category": 0, 
+        "checksum": "93bfa044-15c9-3bab-05d7-7f37c4c27387", 
+        "collection": 2249, 
+        "cover": 51028, 
+        "created_at": 1473329901, 
+        "external_games": [
+            1947281
+        ], 
+        "first_release_date": 1066608000, 
+        "franchises": [
+            217
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 23767, 
+        "involved_companies": [
+            135954, 
+            135955
+        ], 
+        "keywords": [
+            394, 
+            994, 
+            1293, 
+            1361, 
+            1931, 
+            2601, 
+            4139, 
+            4142, 
+            4196, 
+            4211, 
+            9757
+        ], 
+        "name": "Monopoly 2003 Edition", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            245819, 
+            245820, 
+            245821
+        ], 
+        "screenshots": [
+            460263, 
+            460264
+        ], 
+        "similar_games": [
+            11588, 
+            14280, 
+            19083, 
+            28113, 
+            28472, 
+            50741, 
+            59965, 
+            71296, 
+            79428, 
+            88938
+        ], 
+        "slug": "monopoly-2003-edition", 
+        "summary": "The famous Monopoly board game comes to the current generation of consoles featuring a variety of new features, including mini-games.\n\nThe Monopoly video games promise a fresh take on the timeless classic with accessible gameplay for players of all ages and skill levels. The all-new digital gaming edition brings a party twist and features 4-player simultaneous play, ensuring that everyone is engaged and allowing the whole family to get involved in the fun and play together.\n\nFaster gameplay eliminates downtime freeing up players to wheel and deal their way through some of the most recognizable cities and landmarks from around the world. Families can fill up their passports as they try to unlock new and never-before-seen game boards or challenge each other to fun interactive mini-games like breaking out of the jail cell and running away with all the loot.\n\nPlay in offline single or multi-player mode and compete to own it all and win!", 
+        "tags": [
+            40, 
+            268435491, 
+            536871306, 
+            536871906, 
+            536872205, 
+            536872273, 
+            536872843, 
+            536873513, 
+            536875051, 
+            536875054, 
+            536875108, 
+            536875123, 
+            536880669
+        ], 
+        "themes": [
+            40
+        ], 
+        "updated_at": 1670976403, 
+        "url": "https://www.igdb.com/games/monopoly-2003-edition", 
+        "videos": [
+            49675
+        ], 
+        "websites": [
+            404906
+        ]
+    }, 
+    {
+        "alternative_names": [
+            81157, 
+            81158, 
+            81217
+        ], 
+        "category": 0, 
+        "checksum": "62933ced-c461-0fd7-a6d5-16ec16baacbb", 
+        "collection": 656, 
+        "cover": 137699, 
+        "created_at": 1514589348, 
+        "external_games": [
+            120444, 
+            1898236
+        ], 
+        "first_release_date": 1008201600, 
+        "franchises": [
+            3317
+        ], 
+        "game_localizations": [
+            10040
+        ], 
+        "game_modes": [
+            1, 
+            2
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 79557, 
+        "involved_companies": [
+            161616
+        ], 
+        "name": "Momotaro Dentetsu X: Kyuushuu-hen mo Arubai", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            335499, 
+            335500
+        ], 
+        "similar_games": [
+            49414, 
+            77498, 
+            99118, 
+            186777, 
+            186778, 
+            186780, 
+            186781, 
+            186782, 
+            186783, 
+            233293
+        ], 
+        "slug": "momotaro-dentetsu-x-kyuushuu-hen-mo-arubai", 
+        "summary": "Momotaro Dentetsu X: Kyuushuu-hen mo Arubai is a video game in the Momotaro Dentetsu series of board game-style video games, genre released in 2001 by Hudson Soft for PlayStation 2. The game was only released in Japan.", 
+        "tags": [
+            17, 
+            268435491
+        ], 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1671638013, 
+        "url": "https://www.igdb.com/games/momotaro-dentetsu-x-kyuushuu-hen-mo-arubai", 
+        "websites": [
+            256926, 
+            373228
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "6d20fe46-e905-8ebd-0730-0324d32a5ba5", 
+        "collection": 4508, 
+        "cover": 48460, 
+        "created_at": 1505347033, 
+        "external_games": [
+            129583, 
+            519044, 
+            1880936
+        ], 
+        "first_release_date": 1159574400, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            9, 
+            35
+        ], 
+        "id": 66954, 
+        "involved_companies": [
+            198472, 
+            198473
+        ], 
+        "name": "Cinderella", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "release_dates": [
+            435147
+        ], 
+        "slug": "cinderella", 
+        "summary": "Cinderella is a fantasy game from Phoenix Games", 
+        "themes": [
+            17
+        ], 
+        "updated_at": 1672730211, 
+        "url": "https://www.igdb.com/games/cinderella", 
+        "websites": [
+            366956
+        ]
+    }, 
+    {
+        "age_ratings": [
+            28846, 
+            28847
+        ], 
+        "aggregated_rating": 70.0, 
+        "aggregated_rating_count": 3, 
+        "bundles": [
+            43651
+        ], 
+        "category": 8, 
+        "checksum": "515b4a8f-8bd7-d4a1-bcfa-5c3a84ce06e1", 
+        "collection": 272, 
+        "cover": 141002, 
+        "created_at": 1468369748, 
+        "external_games": [
+            51468, 
+            135451, 
+            247304
+        ], 
+        "first_release_date": 1175126400, 
+        "follows": 17, 
+        "franchises": [
+            720
+        ], 
+        "game_localizations": [
+            129
+        ], 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            12, 
+            24, 
+            35
+        ], 
+        "id": 20286, 
+        "involved_companies": [
+            103431, 
+            103432
+        ], 
+        "keywords": [
+            226, 
+            296, 
+            301, 
+            497, 
+            558, 
+            645, 
+            723, 
+            1026, 
+            1027, 
+            1075, 
+            1735, 
+            2510, 
+            3171, 
+            3203, 
+            3486, 
+            3833, 
+            4144, 
+            4161, 
+            4162, 
+            4193, 
+            4214, 
+            4249, 
+            4266, 
+            4284, 
+            4285, 
+            4329, 
+            4359, 
+            4395, 
+            4402, 
+            4444, 
+            4525, 
+            4543, 
+            4611, 
+            4674, 
+            4678, 
+            4709, 
+            4725, 
+            4846, 
+            4866, 
+            4907, 
+            4918, 
+            4940, 
+            5029, 
+            5032, 
+            5587, 
+            5591, 
+            5599, 
+            5628, 
+            5852, 
+            5935, 
+            5936, 
+            5963, 
+            6006, 
+            6117, 
+            6125, 
+            6217, 
+            6218, 
+            6219, 
+            6220, 
+            6227, 
+            6541, 
+            6778, 
+            7166, 
+            7351, 
+            7597, 
+            7652, 
+            8784, 
+            9104, 
+            9209, 
+            9328, 
+            9331, 
+            9979, 
+            11257, 
+            12351, 
+            12755, 
+            13481, 
+            13916, 
+            13917
+        ], 
+        "name": "Kingdom Hearts Re:Chain of Memories", 
+        "parent_game": 1220, 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2
+        ], 
+        "rating": 69.700043357031, 
+        "rating_count": 65, 
+        "release_dates": [
+            53606, 
+            203284
+        ], 
+        "remasters": [
+            214986
+        ], 
+        "screenshots": [
+            27767, 
+            391611, 
+            391612, 
+            391613, 
+            391614, 
+            391615, 
+            391616, 
+            391617
+        ], 
+        "similar_games": [
+            660, 
+            1219, 
+            1220, 
+            1223, 
+            1864, 
+            2933, 
+            7406, 
+            8747, 
+            9927, 
+            22387
+        ], 
+        "slug": "kingdom-hearts-re-chain-of-memories", 
+        "storyline": "Sora, Donald, and Goofy walk down a long path that seemingly goes nowhere. They see Pluto and start to follow him. He leads them to a crossroads. While deciding which path to take, a mysterious man in a black cloak approaches Sora and speaks to him, but at that moment his words are incomprehensible. The path becomes one and it leads them to Castle Oblivion. The cloaked man appears as they enter the castle and gives them a card. They use the card to proceed through the castle.\n\nThe first world they go to is Traverse Town, where they discover that Leon, Aerith, Yuffie, and Cid have forgotten all about them. Strangely, though, they remember Sora, Donald, and Goofy's names, with Yuffie even mentioning that her heart still holds memories of them, even if her head doesn't. After Leon gives Sora a tutorial on fighting and gives Sora a summon card, they leave Traverse Town.", 
+        "summary": "Kingdom Hearts Re:Chain of Memories is a full remake of Kingdom Hearts: Chain of Memories, released on the PlayStation 2. In Japan, it is part of the Kingdom Hearts II Final Mix+ compilation and has connectivity features with Kingdom Hearts II Final Mix. As there were no plans to release Kingdom Hearts II Final Mix internationally, these features were modified for the North American release.", 
+        "tags": [
+            1, 
+            17, 
+            268435468, 
+            268435480, 
+            268435491, 
+            536871138, 
+            536871208, 
+            536871213, 
+            536871409, 
+            536871470, 
+            536871557, 
+            536871635, 
+            536871938, 
+            536871939, 
+            536871987, 
+            536872647, 
+            536873422, 
+            536874083, 
+            536874115, 
+            536874398, 
+            536874745, 
+            536875056, 
+            536875073, 
+            536875074, 
+            536875105, 
+            536875126, 
+            536875161, 
+            536875178, 
+            536875196, 
+            536875197, 
+            536875241, 
+            536875271, 
+            536875307, 
+            536875314, 
+            536875356, 
+            536875437, 
+            536875455, 
+            536875523, 
+            536875586, 
+            536875590, 
+            536875621, 
+            536875637, 
+            536875758, 
+            536875778, 
+            536875819, 
+            536875830, 
+            536875852, 
+            536875941, 
+            536875944, 
+            536876499, 
+            536876503, 
+            536876511, 
+            536876540, 
+            536876764, 
+            536876847, 
+            536876848, 
+            536876875, 
+            536876918, 
+            536877029, 
+            536877037, 
+            536877129, 
+            536877130, 
+            536877131, 
+            536877132, 
+            536877139, 
+            536877453, 
+            536877690, 
+            536878078, 
+            536878263, 
+            536878509, 
+            536878564, 
+            536879696, 
+            536880016, 
+            536880121, 
+            536880240, 
+            536880243, 
+            536880891, 
+            536882169, 
+            536883263, 
+            536883667, 
+            536884393, 
+            536884828, 
+            536884829
+        ], 
+        "themes": [
+            1, 
+            17
+        ], 
+        "total_rating": 69.8500216785155, 
+        "total_rating_count": 68, 
+        "updated_at": 1676736396, 
+        "url": "https://www.igdb.com/games/kingdom-hearts-re-chain-of-memories", 
+        "websites": [
+            146299, 
+            146300, 
+            146301, 
+            146302, 
+            146303, 
+            146304, 
+            318578, 
+            334494
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90357
+        ], 
+        "category": 0, 
+        "checksum": "872c46cf-de25-73b7-8ff8-8a69299bee08", 
+        "cover": 224755, 
+        "created_at": 1654190832, 
+        "external_games": [
+            2445185
+        ], 
+        "first_release_date": 1037232000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203350, 
+        "involved_companies": [
+            173469, 
+            173470
+        ], 
+        "name": "Simple 2000 Hello Kitty Series Vol. 2: Minna de Sugoroku", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2, 
+            3
+        ], 
+        "release_dates": [
+            362495
+        ], 
+        "screenshots": [
+            802931, 
+            802932, 
+            802933
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku", 
+        "summary": "Minna de Sugoroku is the second sugoroku game based on Hello Kitty characters, the first one was Gotouchi Hello Kitty Sugoroku Monogatari in the Playstation One console. The gameplay is the classic board game with mini puzzle and action diversions, each character has some star movements and when the stars reach 0 the character has to rest, in each board the player has to reach the board's goal first to win the match.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014739, 
+        "url": "https://www.igdb.com/games/simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku", 
+        "websites": [
+            493072
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "67c008e9-6f59-f3ff-856f-6ba85c4e7110", 
+        "cover": 217982, 
+        "created_at": 1650196657, 
+        "external_games": [
+            2417217
+        ], 
+        "first_release_date": 1039046400, 
+        "genres": [
+            35
+        ], 
+        "id": 198090, 
+        "name": "Gacharoku", 
+        "platforms": [
+            8
+        ], 
+        "release_dates": [
+            354448
+        ], 
+        "similar_games": [
+            117263, 
+            125566, 
+            132044, 
+            143855, 
+            146688, 
+            147984, 
+            173136, 
+            186058, 
+            211319, 
+            223092
+        ], 
+        "slug": "gacharoku", 
+        "tags": [
+            40, 
+            268435491
+        ], 
+        "themes": [
+            40
+        ], 
+        "updated_at": 1671012250, 
+        "url": "https://www.igdb.com/games/gacharoku", 
+        "websites": [
+            489354
+        ]
+    }, 
+    {
+        "alternative_names": [
+            90351
+        ], 
+        "category": 0, 
+        "checksum": "20647cf5-4e36-cc60-b343-629e36ac8edc", 
+        "cover": 224747, 
+        "created_at": 1654189852, 
+        "external_games": [
+            2445193
+        ], 
+        "first_release_date": 1025136000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 203344, 
+        "involved_companies": [
+            173457
+        ], 
+        "name": "Simple 2000 Honkaku Shikou Vol.002: The Igo", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            362490
+        ], 
+        "screenshots": [
+            802911, 
+            802912, 
+            802913
+        ], 
+        "similar_games": [
+            215126, 
+            217925, 
+            218000, 
+            222280, 
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123
+        ], 
+        "slug": "simple-2000-honkaku-shikou-vol-dot-002-the-igo", 
+        "summary": "The Igo is a igo game featuring different difficulty levels (From beginner to advanced), 8 different kind of opponents and different game modes, 2D & 3D boards, 3 boards, and 3 different locations. The game also features a complete igo tutorial in japanese.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1671014742, 
+        "url": "https://www.igdb.com/games/simple-2000-honkaku-shikou-vol-dot-002-the-igo", 
+        "websites": [
+            493080
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "35ef9dcf-b665-38f8-fe71-a6fdcba14342", 
+        "cover": 226211, 
+        "created_at": 1570453219, 
+        "external_games": [
+            1774957, 
+            1913662
+        ], 
+        "first_release_date": 1085616000, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 123219, 
+        "involved_companies": [
+            174416
+        ], 
+        "name": "Mahjong Haoh: Shinken Battle", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            363989
+        ], 
+        "screenshots": [
+            809248, 
+            809249, 
+            809250
+        ], 
+        "similar_games": [
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473, 
+            240443
+        ], 
+        "slug": "mahjong-haoh-shinken-battle", 
+        "summary": "Mahjong Haoh: Shinken Battle is a mahjong game.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1670969516, 
+        "url": "https://www.igdb.com/games/mahjong-haoh-shinken-battle", 
+        "websites": [
+            388165
+        ]
+    }, 
+    {
+        "category": 0, 
+        "checksum": "055704e6-71a1-9307-55a7-d7f214d72646", 
+        "cover": 226213, 
+        "created_at": 1570453219, 
+        "external_games": [
+            1774958, 
+            1913663
+        ], 
+        "first_release_date": 1121299200, 
+        "game_modes": [
+            1
+        ], 
+        "genres": [
+            35
+        ], 
+        "id": 123220, 
+        "involved_companies": [
+            174418
+        ], 
+        "name": "Mahjong Haoh: Battle Royale", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            3
+        ], 
+        "release_dates": [
+            363991
+        ], 
+        "screenshots": [
+            809251, 
+            809252, 
+            809253
+        ], 
+        "similar_games": [
+            228194, 
+            228408, 
+            231603, 
+            233988, 
+            233989, 
+            234123, 
+            234647, 
+            235273, 
+            239473, 
+            240443
+        ], 
+        "slug": "mahjong-haoh-battle-royale", 
+        "summary": "Mahjong Haoh: Battle Royale is a mahjong game.", 
+        "tags": [
+            268435491
+        ], 
+        "updated_at": 1670969517, 
+        "url": "https://www.igdb.com/games/mahjong-haoh-battle-royale", 
+        "websites": [
+            388166
+        ]
+    }, 
+    {
+        "alternative_names": [
+            75571
+        ], 
+        "category": 0, 
+        "checksum": "6d67cb68-d5a3-c65a-6314-cdad943cca1d", 
+        "cover": 183976, 
+        "created_at": 1633487398, 
+        "external_games": [
+            2129569
+        ], 
+        "first_release_date": 1060214400, 
+        "game_engines": [
+            41
+        ], 
+        "game_localizations": [
+            15935
+        ], 
+        "game_modes": [
+            1, 
+            2, 
+            4
+        ], 
+        "genres": [
+            14, 
+            35
+        ], 
+        "id": 175120, 
+        "involved_companies": [
+            151914
+        ], 
+        "keywords": [
+            58, 
+            78, 
+            345, 
+            25688
+        ], 
+        "multiplayer_modes": [
+            16503
+        ], 
+        "name": "Baskelian", 
+        "platforms": [
+            8
+        ], 
+        "player_perspectives": [
+            2, 
+            3
+        ], 
+        "release_dates": [
+            316983
+        ], 
+        "similar_games": [
+            72812, 
+            77498, 
+            103218, 
+            103275, 
+            109606, 
+            114285, 
+            114286, 
+            116352, 
+            116353, 
+            229005
+        ], 
+        "slug": "baskelian", 
+        "summary": "Baskelian is an anime-styled basketball game centered around card collecting. It features over 80 playable characters and over 150 unique cards to collect. The game includes several modes, such as Championship, League Game, 1 on 1.", 
+        "tags": [
+            268435470, 
+            268435491, 
+            536870970, 
+            536870990, 
+            536871257, 
+            536896600
+        ], 
+        "updated_at": 1673265314, 
+        "url": "https://www.igdb.com/games/baskelian", 
+        "websites": [
+            471894
+        ]
+    }, 
+    {
+        "age_ratings": [
+            70033
+        ], 
+        "aggregated_rating": 43.0, 
+        "aggregated_rating_count": 2, 
+        "alternative_names": [
+            66567, 
+            66568, 
+            66569
+        ], 
+        "category": 11, 
+        "checksum": "309569ca-297f-89b1-c63a-1f287e2fcaa9", 
+        "collection": 5166, 
+        "cover": 85336, 
+        "created_at": 1469747165, 
+        "external_games": [
+            52037, 
+            125396
+        ], 
+        "first_release_date": 1202428800, 
+        "follows": 2, 
+        "franchises": [
+            57
+        ], 
+        "genres": [
+            15, 
+            35
+        ], 
+        "id": 21680, 
+        "name": "Yu-Gi-Oh GX: The Beginning of Destiny", 
+        "parent_game": 78167, 
+        "platforms": [
+            8
+        ], 
+        "rating": 79.8904456705699, 
+        "rating_count": 5, 
+        "release_dates": [
+            99677
+        ], 
+        "similar_games": [
+            13196, 
+            19404, 
+            56967, 
+            77498, 
+            113201, 
+            116992, 
+            119156, 
+            119188, 
+            120184, 
+            212714
+        ], 
+        "slug": "yu-gi-oh-gx-the-beginning-of-destiny", 
+        "summary": "Continuing its tradition of events, the Duel Academy has decided to hold a \"Tag Duel Tournament\" this year. All the students are running about trying to find the right Tag Partner to ensure they'll win! You take on the role of a transfer student who has just joined in the midst of all the excitement. Players must duel the best duelists in Duel Academy, building trust and friendship in order to find the right partner for the \"Tag Duel Tournament\". In this tournament, whether or not you will find true friendship and \"unity\" depends on their compatibility with your partner and your dueling spirit.", 
+        "tags": [
+            17, 
+            268435471, 
+            268435491
+        ], 
+        "themes": [
+            17
+        ], 
+        "total_rating": 61.44522283528495, 
+        "total_rating_count": 7, 
+        "updated_at": 1678278896, 
+        "url": "https://www.igdb.com/games/yu-gi-oh-gx-the-beginning-of-destiny", 
+        "websites": [
+            125028
+        ]
+    }
+]
