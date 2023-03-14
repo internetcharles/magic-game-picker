@@ -805,7 +805,7 @@
       "name": "World Heroes Anthology (USA)",
       "developer": "SNK Playmore",
       "year": 2008,
-      "tags": "Fighting",
+      "tags": ["fighting"],
       "picture": [],
       "challenge": [],
       "dl-id": ""
