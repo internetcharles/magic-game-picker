@@ -2,7 +2,7 @@
   "flying": [
     {
       "name": "Ace Combat 04 - Shattered Skies (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2001,
       "tags": ["flying"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Ace Combat 5 - The Unsung War (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2004,
       "tags": ["flying"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Ace Combat Zero - The Belkan War (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2006,
       "tags": ["flying"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Aces of War (Europe)",
-      "manufacturer": "Marionette",
+      "developer": "Marionette",
       "year": 2007,
       "tags": ["flying"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Air Raid 3 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2004,
       "tags": ["flying"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Hugo Cannon Cruise (Europe)",
-      "manufacturer": "NDS Software",
+      "developer": "NDS Software",
       "year": 2004,
       "tags": ["flying"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Snoopy vs. the Red Baron (USA)",
-      "manufacturer": "Smart Bomb Interactive",
+      "developer": "Smart Bomb Interactive",
       "year": 2006,
       "tags": ["flying"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "They Came from the Skies (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2007,
       "tags": ["flying"],
       "picture": [],

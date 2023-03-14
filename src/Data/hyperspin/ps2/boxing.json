@@ -2,7 +2,7 @@
   "boxing": [
     {
       "name": "Black & Bruised (USA)",
-      "manufacturer": "Digital Fiction",
+      "developer": "Digital Fiction",
       "year": 2003,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Boxing Champions (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2003,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Fight Night 2004 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2004,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Fight Night Round 2 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2005,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Fight Night Round 3 (USA)",
-      "manufacturer": "EA Chicago",
+      "developer": "EA Chicago",
       "year": 2006,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Heartbeat Boxing (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2004,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "K-1 World Grand Prix (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2003,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "K.O. King (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Knockout Kings 2001 (USA)",
-      "manufacturer": "Black Ops Entertainment",
+      "developer": "Black Ops Entertainment",
       "year": 2001,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Knockout Kings 2002 (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2002,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Mike Tyson Heavyweight Boxing (USA)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2002,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Ready 2 Rumble Boxing - Round 2 (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2000,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Rocky (USA)",
-      "manufacturer": "Rage Software",
+      "developer": "Rage Software",
       "year": 2002,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Rocky - Legends (USA)",
-      "manufacturer": "Venom Games",
+      "developer": "Venom Games",
       "year": 2004,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Victorious Boxers - Ippo's Road to Glory (USA)",
-      "manufacturer": "New",
+      "developer": "New",
       "year": 2001,
       "tags": ["sports", "boxing"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Victorious Boxers 2 - Fighting Spirit (USA)",
-      "manufacturer": "Grandprix Inc.",
+      "developer": "Grandprix Inc.",
       "year": 2006,
       "tags": ["sports", "boxing"],
       "picture": [],

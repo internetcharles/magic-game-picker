@@ -2,7 +2,7 @@
   "surf": [
     {
       "name": "G-Force (2006) (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "surf", "XTREME", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Kelly Slater's Pro Surfer (USA)",
-      "manufacturer": "Treyarch",
+      "developer": "Treyarch",
       "year": 2002,
       "tags": ["sports", "surf", "XTREME", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Sunny Garcia Surfing (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2001,
       "tags": ["sports", "surf", "XTREME", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Surf's Up (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2007,
       "tags": ["sports", "surf", "XTREME", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Surfing H3O (USA)",
-      "manufacturer": "Opus",
+      "developer": "Opus",
       "year": 2000,
       "tags": ["sports", "surf", "XTREME", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "TransWorld Surf (USA)",
-      "manufacturer": "Rockstar San Diego",
+      "developer": "Rockstar San Diego",
       "year": 2002,
       "tags": ["sports", "surf", "XTREME", "fake"],
       "picture": [],

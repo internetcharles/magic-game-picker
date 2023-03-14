@@ -2,7 +2,7 @@
   "horseracing": [
     {
       "name": "Barbie Horse Adventures - Riding Camp (USA)",
-      "manufacturer": "Pixel Tales",
+      "developer": "Pixel Tales",
       "year": 2008,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Breeders' Cup - World Thoroughbred Championships (USA)",
-      "manufacturer": "4J Studios",
+      "developer": "4J Studios",
       "year": 2005,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Frankie Dettori Racing (Europe)",
-      "manufacturer": "Sidhe Interactive",
+      "developer": "Sidhe Interactive",
       "year": 2006,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "G1 Jockey (Europe)",
-      "manufacturer": "Koei/Inis",
+      "developer": "Koei/Inis",
       "year": 2002,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "G1 Jockey 3 (USA)",
-      "manufacturer": "Koei/Inis",
+      "developer": "Koei/Inis",
       "year": 2003,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "G1 Jockey 4 (Europe)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2006,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Gallop Racer 2001 (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2003,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Gallop Racer 2003 - A New Breed (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2003,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Gallop Racer 2004 (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2004,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Gallop Racer 2006 (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2006,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Lucinda Green's Equestrian Challenge (USA)",
-      "manufacturer": "2Wg",
+      "developer": "2Wg",
       "year": 2006,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "My Horse & Me 2 (Europe)",
-      "manufacturer": "Tate Interactive",
+      "developer": "Tate Interactive",
       "year": 2008,
       "tags": ["sports", "horse", "fake"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Riding Star (USA)",
-      "manufacturer": "Valcon Games",
+      "developer": "Valcon Games",
       "year": 2008,
       "tags": ["sports", "horse", "fake"],
       "picture": [],

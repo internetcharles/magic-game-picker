@@ -2,7 +2,7 @@
   "fishing": [
     {
       "name": "BASS Strike (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2001,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Cabela's Monster Bass (USA)",
-      "manufacturer": "Sand Grain Studios",
+      "developer": "Sand Grain Studios",
       "year": 2007,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Cocoto Fishing Master (USA)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2007,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Fisherman's Bass Club (USA)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2002,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Fisherman's Challenge (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2003,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Fishing Fantasy - BuzzRod (Europe)",
-      "manufacturer": "Starfish",
+      "developer": "Starfish",
       "year": 2005,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Lake Masters EX (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2002,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Mark Davis Pro Bass Challenge (USA)",
-      "manufacturer": "Sims",
+      "developer": "Sims",
       "year": 2003,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Rapala Pro Bass Fishing 2010 (USA)",
-      "manufacturer": "FUN Labs",
+      "developer": "FUN Labs",
       "year": 2010,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Rapala Pro Fishing (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2004,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Reel Fishing III (USA)",
-      "manufacturer": "Open Sesame",
+      "developer": "Open Sesame",
       "year": 2003,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "River King - A Wonderful Journey (USA)",
-      "manufacturer": "Marvelous",
+      "developer": "Marvelous",
       "year": 2006,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Sega Bass Fishing Duel (USA)",
-      "manufacturer": "Wow Entertainment",
+      "developer": "Wow Entertainment",
       "year": 2002,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Top Angler (USA)",
-      "manufacturer": "Sims",
+      "developer": "Sims",
       "year": 2002,
       "tags": ["sports", "fishing", "fake"],
       "picture": [],

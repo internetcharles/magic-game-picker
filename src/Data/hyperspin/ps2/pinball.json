@@ -2,7 +2,7 @@
   "pinball": [
     {
       "name": "Akira Psycho Ball (Europe)",
-      "manufacturer": "Kaze",
+      "developer": "Kaze",
       "year": 2002,
       "tags": ["pinball"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Flipnic - Ultimate Pinball (USA)",
-      "manufacturer": "SCEI",
+      "developer": "SCEI",
       "year": 2005,
       "tags": ["pinball"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Gottlieb Pinball Classics (Europe)",
-      "manufacturer": "Farsight Studios",
+      "developer": "Farsight Studios",
       "year": 2006,
       "tags": ["pinball"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Pinball (Europe)",
-      "manufacturer": "Astroll",
+      "developer": "Astroll",
       "year": 2003,
       "tags": ["pinball"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Pinball Fun (Europe)",
-      "manufacturer": "HuneX",
+      "developer": "HuneX",
       "year": 2004,
       "tags": ["pinball"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Pinball Hall of Fame - The Gottlieb Collection (USA)",
-      "manufacturer": "Farsight Studios",
+      "developer": "Farsight Studios",
       "year": 2004,
       "tags": ["pinball"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Pinball Hall of Fame - The Williams Collection (USA)",
-      "manufacturer": "Farsight Studios",
+      "developer": "Farsight Studios",
       "year": 2008,
       "tags": ["pinball"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Powershot Pinball (Europe)",
-      "manufacturer": "Liquid Games",
+      "developer": "Liquid Games",
       "year": 2006,
       "tags": ["pinball"],
       "picture": [],

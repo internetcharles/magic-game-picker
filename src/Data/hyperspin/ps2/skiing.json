@@ -2,7 +2,7 @@
   "skiing": [
     {
       "name": "Alpine Racer 3 (Europe)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2002,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Alpine Ski Racing 2007 - Bode Miller vs. Hermann Maier (Germany)",
-      "manufacturer": "49Games",
+      "developer": "49Games",
       "year": 2006,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Alpine Skiing 2005 (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2005,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Biathlon 2008 (USA)",
-      "manufacturer": "49Games",
+      "developer": "49Games",
       "year": 2008,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Bode Miller Alpine Skiing (USA)",
-      "manufacturer": "49Games",
+      "developer": "49Games",
       "year": 2006,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Downhill Slalom (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Freak Out - Extreme Freeride (Europe)",
-      "manufacturer": "Coldwood Interactive",
+      "developer": "Coldwood Interactive",
       "year": 2007,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "RTL Biathlon 2007 (Germany)",
-      "manufacturer": "49Games",
+      "developer": "49Games",
       "year": 2006,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "RTL Ski Jumping 2004 (Germany)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2003,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "RTL Ski Jumping 2005 (Germany)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2004,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "RTL Ski Jumping 2006 (Germany)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2006,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "RTL Ski Jumping 2007 (Germany)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2006,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Ski and Shoot (USA)",
-      "manufacturer": "Crave",
+      "developer": "Crave",
       "year": 2009,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Ski Racing 2006 (Europe)",
-      "manufacturer": "Coldwood Interactive",
+      "developer": "Coldwood Interactive",
       "year": 2005,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Winter Sports 2 - The Next Challenge (USA)",
-      "manufacturer": "Crave",
+      "developer": "Crave",
       "year": 2008,
       "tags": ["sports", "ski", "XTREME", "fake", "winter"],
       "picture": [],

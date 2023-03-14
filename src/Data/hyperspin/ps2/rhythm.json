@@ -2,7 +2,7 @@
   "rhythm": [
     {
       "name": "AC-DC Live - Rock Band Track Pack (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Alvin and the Chipmunks (USA)",
-      "manufacturer": "Sensory Sweep",
+      "developer": "Sensory Sweep",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "American Idol (USA)",
-      "manufacturer": "Hothouse Creations",
+      "developer": "Hothouse Creations",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Amplitude (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Australian Idol Sing (Australia)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "B-Boy (USA)",
-      "manufacturer": "FreeStyleGames",
+      "developer": "FreeStyleGames",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Band Hero (USA)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Beatmania (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Boogie (USA)",
-      "manufacturer": "Pipeworks Software, Inc.",
+      "developer": "Pipeworks Software, Inc.",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Britney's Dance Beat (USA)",
-      "manufacturer": "Metro Graphics",
+      "developer": "Metro Graphics",
       "year": 2002,
       "tags": ["rhythm"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "CMT Presents - Karaoke Revolution - Country (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Dance - UK (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Dance - UK eXtra Trax (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Dance - UK XL (Europe)",
-      "manufacturer": "BigBen Interactive",
+      "developer": "BigBen Interactive",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Dance - UK XL Lite (Europe)",
-      "manufacturer": "BigBen Interactive",
+      "developer": "BigBen Interactive",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Dance - UK XL Party (Europe)",
-      "manufacturer": "BigBen Interactive",
+      "developer": "BigBen Interactive",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Dance Dance Revolution - Disney Channel Edition (USA)",
-      "manufacturer": "Keen Games",
+      "developer": "Keen Games",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Dance Dance Revolution Extreme (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Dance Dance Revolution Extreme 2 (USA)",
-      "manufacturer": "Konami Computer Entertainment Hawaii",
+      "developer": "Konami Computer Entertainment Hawaii",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Dance Dance Revolution SuperNOVA (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Dance Dance Revolution SuperNOVA 2 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Dance Dance Revolution X (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Dance Dance Revolution X2 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Dance Factory (USA)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Dance Fest (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Dance Party - Club Hits (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Dance Party - Pop Hits (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Dancing Stage Fever (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Dancing Stage Fusion (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Dancing Stage Max (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Dancing with the Stars (USA)",
-      "manufacturer": "Zoe Mode",
+      "developer": "Zoe Mode",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "DDRMAX - Dance Dance Revolution (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2002,
       "tags": ["rhythm"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "DDRMAX2 - Dance Dance Revolution (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Disney Sing It (USA)",
-      "manufacturer": "Zoe Mode",
+      "developer": "Zoe Mode",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Disney Sing It! High School Musical 3 - Senior Year (USA)",
-      "manufacturer": "Disney Interactive Studios",
+      "developer": "Disney Interactive Studios",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Disney Sing It! Pop Hits (USA)",
-      "manufacturer": "Disney Interactive Studios",
+      "developer": "Disney Interactive Studios",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Disney's The Jungle Book - Rhythm N'Groove (USA)",
-      "manufacturer": "Ubisoft Shanghai",
+      "developer": "Ubisoft Shanghai",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "DJ - Decks & FX - Claudio Coccoluto Edition (Italy)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "DJ - Decks & FX - House Edition (Europe)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "DJ Hero (USA)",
-      "manufacturer": "FreeStyleGames",
+      "developer": "FreeStyleGames",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "eJay Clubworld (USA)",
-      "manufacturer": "UDS",
+      "developer": "UDS",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "EyeToy - Groove (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Flow - Urban Dance Uprising (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Frequency (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2001,
       "tags": ["rhythm"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "FunkMaster Flex's Digital Hitz Factory (USA)",
-      "manufacturer": "Jester Interactive",
+      "developer": "Jester Interactive",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Get On Da Mic (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Gitaroo Man (USA)",
-      "manufacturer": "Koei/Inis",
+      "developer": "Koei/Inis",
       "year": 2002,
       "tags": ["rhythm"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Guitar Hero (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Guitar Hero - Aerosmith (USA)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Guitar Hero - Metallica (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Guitar Hero - Smash Hits (USA)",
-      "manufacturer": "Beenox",
+      "developer": "Beenox",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Guitar Hero - Van Halen (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Guitar Hero 5 (USA)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Guitar Hero Encore - Rocks the 80s (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Guitar Hero II (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Guitar Hero III - Legends of Rock (USA)",
-      "manufacturer": "RedOctane",
+      "developer": "RedOctane",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Guitar Hero World Tour (USA)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "High School Musical 3 - Senior Year DANCE! (USA)",
-      "manufacturer": "Page 44 Studios",
+      "developer": "Page 44 Studios",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "In The Groove (USA)",
-      "manufacturer": "Roxor Games",
+      "developer": "Roxor Games",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "In the Groove 2 (USA) (Proto)",
-      "manufacturer": "CokeM Interactive",
+      "developer": "CokeM Interactive",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Karaoke Revolution (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Karaoke Revolution Party (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Karaoke Revolution Presents - American Idol (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Karaoke Revolution Presents - American Idol Encore (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Karaoke Revolution Volume 2 (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Karaoke Revolution Volume 3 (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Karaoke Stage 2 (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Lowrider (USA)",
-      "manufacturer": "Pacific Century Cyber Works",
+      "developer": "Pacific Century Cyber Works",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Mad Maestro! (USA)",
-      "manufacturer": "Desert Productions",
+      "developer": "Desert Productions",
       "year": 2002,
       "tags": ["rhythm"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Moderngroove - Ministry of Sound Edition (Europe)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2001,
       "tags": ["rhythm"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "MTV Music Generator 2 (USA)",
-      "manufacturer": "Jester Interactive",
+      "developer": "Jester Interactive",
       "year": 2001,
       "tags": ["rhythm"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "MTV Music Generator 3 - This Is the Remix (USA)",
-      "manufacturer": "Mix Max",
+      "developer": "Mix Max",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Music Maker (USA)",
-      "manufacturer": "Magix",
+      "developer": "Magix",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Music Maker - Deluxe Edition (USA)",
-      "manufacturer": "Magix",
+      "developer": "Magix",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Music Maker Rockstar (Europe)",
-      "manufacturer": "Magix",
+      "developer": "Magix",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "PaRappa the Rapper 2 (USA)",
-      "manufacturer": "NanaOn - Sha",
+      "developer": "NanaOn - Sha",
       "year": 2002,
       "tags": ["rhythm"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Pop Star Academy (Europe)",
-      "manufacturer": "WideScreen Games",
+      "developer": "WideScreen Games",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "PopStar Guitar (USA)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Pump It Up - Exceed (USA)",
-      "manufacturer": "Andamiro U.S.A. Corp.",
+      "developer": "Andamiro U.S.A. Corp.",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Rhythmic Star! (Europe)",
-      "manufacturer": "Suzak",
+      "developer": "Suzak",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Rock Band (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Rock Band 2 (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Rock Band Country Track Pack (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Rock Band Metal Track Pack (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Rock Band Track Pack - Classic Rock (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "Rock Band Track Pack Volume 1 (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Rock Band Track Pack Volume 2 (USA)",
-      "manufacturer": "Harmonix Music Systems",
+      "developer": "Harmonix Music Systems",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Rock University Presents - The Naked Brothers Band - The Video Game (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "SingStar '80s (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "SingStar '80s (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "SingStar '90s (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "SingStar '90s (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "SingStar (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "SingStar - Boy Bands vs Girl Bands (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "SingStar - The Wiggles (Australia)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2010,
       "tags": ["rhythm"],
       "picture": [],
@@ -857,7 +857,7 @@
     },
     {
       "name": "SingStar ABBA (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -866,7 +866,7 @@
     },
     {
       "name": "SingStar Amped (Germany)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -875,7 +875,7 @@
     },
     {
       "name": "SingStar Amped (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -884,7 +884,7 @@
     },
     {
       "name": "SingStar Anthems (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -893,7 +893,7 @@
     },
     {
       "name": "SingStar Bollywood (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -902,7 +902,7 @@
     },
     {
       "name": "SingStar Chart Hits (Australia)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2010,
       "tags": ["rhythm"],
       "picture": [],
@@ -911,7 +911,7 @@
     },
     {
       "name": "SingStar Chartbreaker (Germany)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -920,7 +920,7 @@
     },
     {
       "name": "SingStar Country (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -929,7 +929,7 @@
     },
     {
       "name": "SingStar Die Groessten Solokuenstler (Germany)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -938,7 +938,7 @@
     },
     {
       "name": "SingStar Die Toten Hosen (Germany)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -947,7 +947,7 @@
     },
     {
       "name": "SingStar Fussballhits (Germany)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2010,
       "tags": ["rhythm"],
       "picture": [],
@@ -956,7 +956,7 @@
     },
     {
       "name": "SingStar Hottest Hits (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -965,7 +965,7 @@
     },
     {
       "name": "SingStar Latino (Spain)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -974,7 +974,7 @@
     },
     {
       "name": "SingStar Latino (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -983,7 +983,7 @@
     },
     {
       "name": "SingStar Legends (Australia)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -992,7 +992,7 @@
     },
     {
       "name": "SingStar Legends (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "SingStar Legends (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "SingStar Motown (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "SingStar Party (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "SingStar Pop (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "SingStar Pop (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "SingStar Pop Hits (Europe)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "SingStar Pop Vol. 2 (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "SingStar Queen (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -1073,7 +1073,7 @@
     },
     {
       "name": "SingStar R&B (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "SingStar Rock Ballads (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2007,
       "tags": ["rhythm"],
       "picture": [],
@@ -1091,7 +1091,7 @@
     },
     {
       "name": "SingStar Rocks! (Australia)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -1100,7 +1100,7 @@
     },
     {
       "name": "SingStar Rocks! (Europe)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -1109,7 +1109,7 @@
     },
     {
       "name": "SingStar Rocks! (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -1118,7 +1118,7 @@
     },
     {
       "name": "SingStar Singalong with Disney (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -1127,7 +1127,7 @@
     },
     {
       "name": "SingStar Summer Party (Europe)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2008,
       "tags": ["rhythm"],
       "picture": [],
@@ -1136,7 +1136,7 @@
     },
     {
       "name": "SingStar Take That (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["rhythm"],
       "picture": [],
@@ -1145,7 +1145,7 @@
     },
     {
       "name": "Space Channel 5 - Special Edition (USA) (Disc 1)",
-      "manufacturer": "UGA",
+      "developer": "UGA",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "Space Channel 5 - Special Edition (USA) (Disc 2)",
-      "manufacturer": "UGA",
+      "developer": "UGA",
       "year": 2003,
       "tags": ["rhythm"],
       "picture": [],
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Street Dance (Europe)",
-      "manufacturer": "Broadsword Interactive",
+      "developer": "Broadsword Interactive",
       "year": 2006,
       "tags": ["rhythm"],
       "picture": [],
@@ -1172,7 +1172,7 @@
     },
     {
       "name": "Taiko Drum Master (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -1181,7 +1181,7 @@
     },
     {
       "name": "Technic Beat (USA)",
-      "manufacturer": "Arika",
+      "developer": "Arika",
       "year": 2004,
       "tags": ["rhythm"],
       "picture": [],
@@ -1190,7 +1190,7 @@
     },
     {
       "name": "Unison - Rebels of Rhythm & Dance (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2001,
       "tags": ["rhythm"],
       "picture": [],
@@ -1199,7 +1199,7 @@
     },
     {
       "name": "X-Factor, The - Sing (Europe)",
-      "manufacturer": "Lago",
+      "developer": "Lago",
       "year": 2005,
       "tags": ["rhythm"],
       "picture": [],

@@ -2,7 +2,7 @@
   "football": [
     {
       "name": "AFL Live 2003 (Australia)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "AFL Live 2004 - Aussie Rules Football (Europe)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "AFL Live Premiership Edition (Australia)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2004,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "AFL Premiership 2005 (Australia)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2005,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "AFL Premiership 2006 (Australia)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2006,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "AFL Premiership 2007 (Australia)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2007,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Arena Football (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2006,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Arena Football - Road to Glory (USA)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2007,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Backyard Football '08 (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2007,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Backyard Football '09 (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2008,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Backyard Football '10 (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2009,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Backyard Football 2006 (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2005,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Blitz - The League (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2005,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "ESPN NFL 2K5 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2004,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "ESPN NFL Football (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "ESPN NFL PrimeTime 2002 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2001,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gaelic Games - Football (Europe)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2005,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Madden NFL 06 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2005,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Madden NFL 07 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2006,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Madden NFL 08 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2007,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Madden NFL 09 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2008,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Madden NFL 10 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2010,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Madden NFL 11 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2010,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Madden NFL 12 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2011,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Madden NFL 2001 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2000,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Madden NFL 2002 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2001,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Madden NFL 2003 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Madden NFL 2004 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Madden NFL 2005 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2004,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "NCAA College Football 2K3 (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "NCAA Football 06 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2005,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "NCAA Football 07 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2006,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "NCAA Football 08 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2007,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "NCAA Football 09 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2008,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "NCAA Football 10 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2009,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "NCAA Football 11 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2010,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "NCAA Football 2002 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2001,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "NCAA Football 2003 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "NCAA Football 2004 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "NCAA Football 2005 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2004,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "NCAA GameBreaker 2001 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2000,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "NCAA GameBreaker 2003 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "NCAA GameBreaker 2004 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "NFL 2K2 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2001,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "NFL 2K3 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "NFL Blitz 20-02 (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "NFL Blitz 20-03 (USA)",
-      "manufacturer": "Point of View",
+      "developer": "Point of View",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "NFL Blitz Pro (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "NFL GameDay 2001 (USA)",
-      "manufacturer": "SCEA",
+      "developer": "SCEA",
       "year": 2000,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "NFL GameDay 2002 (USA)",
-      "manufacturer": "Red Zone Entertainment",
+      "developer": "Red Zone Entertainment",
       "year": 2001,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "NFL GameDay 2003 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2002,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "NFL GameDay 2004 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2003,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "NFL Head Coach (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2006,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "NFL Quarterback Club 2002 (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2001,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "NFL Street (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2004,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "NFL Street 2 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2004,
       "tags": ["sports", "football", "soccer"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "NFL Street 3 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2006,
       "tags": ["sports", "football", "soccer"],
       "picture": [],

@@ -2,7 +2,7 @@
   "casino": [
     {
       "name": "21 Card Games (Europe)",
-      "manufacturer": "Mere Mortals",
+      "developer": "Mere Mortals",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Casino Challenge (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2004,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Hard Rock Casino (USA)",
-      "manufacturer": "Farsight Studios",
+      "developer": "Farsight Studios",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "High Rollers Casino (USA)",
-      "manufacturer": "Virtual Toys",
+      "developer": "Virtual Toys",
       "year": 2004,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Jackpot Madness (Europe)",
-      "manufacturer": "505 GameStreet",
+      "developer": "505 GameStreet",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Playwize Poker & Casino (Europe)",
-      "manufacturer": "Bits Studios",
+      "developer": "Bits Studios",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Poker Masters (Europe)",
-      "manufacturer": "Mere Mortals",
+      "developer": "Mere Mortals",
       "year": 2005,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Stacked with Daniel Negreanu (USA)",
-      "manufacturer": "5000ft Inc.",
+      "developer": "5000ft Inc.",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Vegas Casino 2 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2005,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Video Poker & Blackjack (Europe)",
-      "manufacturer": "System 3",
+      "developer": "System 3",
       "year": 2004,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "World Championship Cards (USA)",
-      "manufacturer": "Crave",
+      "developer": "Crave",
       "year": 2008,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "World Championship Poker (USA)",
-      "manufacturer": "Coresoft",
+      "developer": "Coresoft",
       "year": 2004,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "World Championship Poker 2 - Featuring Howard Lederer (USA)",
-      "manufacturer": "Point of View",
+      "developer": "Point of View",
       "year": 2005,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "World Championship Poker Featuring Howard Lederer - All In (USA)",
-      "manufacturer": "Point of View",
+      "developer": "Point of View",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "World Poker Tour (USA)",
-      "manufacturer": "Coresoft",
+      "developer": "Coresoft",
       "year": 2005,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "World Series of Poker (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2005,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "World Series of Poker - Tournament of Champions (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2006,
       "tags": ["casino", "gambling"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "World Series of Poker 2008 - Battle for the Bracelets (USA)",
-      "manufacturer": "Left Field Productions",
+      "developer": "Left Field Productions",
       "year": 2007,
       "tags": ["casino", "gambling"],
       "picture": [],

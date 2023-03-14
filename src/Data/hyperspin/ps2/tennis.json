@@ -2,7 +2,7 @@
   "tennis": [
     {
       "name": "Agassi Tennis Generation (USA)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2003,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "European Tennis Pro (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2004,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Hard Hitter 2 (Europe)",
-      "manufacturer": "Magical Company (Mahou)",
+      "developer": "Magical Company (Mahou)",
       "year": 2003,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Hard Hitter Tennis (USA)",
-      "manufacturer": "Magical Company (Mahou)",
+      "developer": "Magical Company (Mahou)",
       "year": 2002,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Hot Shots Tennis (USA)",
-      "manufacturer": "Clap Hanz",
+      "developer": "Clap Hanz",
       "year": 2007,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "International Tennis Pro (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2007,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Outlaw Tennis (USA)",
-      "manufacturer": "Hypnotix",
+      "developer": "Hypnotix",
       "year": 2005,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Perfect Ace - Pro Tournament Tennis (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2003,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Perfect Ace 2 - The Championships (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2005,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Roland Garros 2005 - Powered by Smash Court Tennis (Europe)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2005,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Roland Garros French Open 2002 (Europe)",
-      "manufacturer": "Wanadoo",
+      "developer": "Wanadoo",
       "year": 2002,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Roland Garros French Open 2003 (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2003,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Sega Sports Tennis (USA)",
-      "manufacturer": "Hitmaker",
+      "developer": "Hitmaker",
       "year": 2002,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Sega Superstars Tennis (USA)",
-      "manufacturer": "Sumo Digital",
+      "developer": "Sumo Digital",
       "year": 2008,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Slam Tennis (Europe)",
-      "manufacturer": "Infogrames Sheffield",
+      "developer": "Infogrames Sheffield",
       "year": 2002,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Smash Court Tennis - Pro Tournament (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2002,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Smash Court Tennis Pro Tournament 2 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2004,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Tennis Court Smash (Europe)",
-      "manufacturer": "HuneX",
+      "developer": "HuneX",
       "year": 2003,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Top Spin (USA)",
-      "manufacturer": "Pam Development",
+      "developer": "Pam Development",
       "year": 2005,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "WTA Tour Tennis (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "tennis", "fake"],
       "picture": [],

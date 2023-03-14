@@ -2,7 +2,7 @@
  "gameshow": [
     {
       "name": "Are You Smarter Than a 5th Grader - Make the Grade (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2008,
       "tags": ["gameshow"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Family Feud (USA)",
-      "manufacturer": "Ingram Entertainment",
+      "developer": "Ingram Entertainment",
       "year": 2006,
       "tags": ["gameshow"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Germany's Next Topmodel 2009 (Germany)",
-      "manufacturer": "SevenOne Intermedia",
+      "developer": "SevenOne Intermedia",
       "year": 2009,
       "tags": ["gameshow"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Guy Game, The (USA)",
-      "manufacturer": "Top Heavy Studios",
+      "developer": "Top Heavy Studios",
       "year": 2004,
       "tags": ["gameshow"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Jeopardy! (USA)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2003,
       "tags": ["gameshow"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Weakest Link, The (Europe)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2001,
       "tags": ["gameshow"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Wheel of Fortune (USA)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2003,
       "tags": ["gameshow"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Who Wants to Be a Millionaire - 2nd Edition (Europe)",
-      "manufacturer": "Eidos Interactive",
+      "developer": "Eidos Interactive",
       "year": 2001,
       "tags": ["gameshow"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Who Wants to Be a Millionaire - Party Edition (Europe)",
-      "manufacturer": "Climax Solent",
+      "developer": "Climax Solent",
       "year": 2006,
       "tags": ["gameshow"],
       "picture": [],

@@ -2,7 +2,7 @@
   "shoot": [
     {
       "name": "1945 I & II The Arcade Games (Europe)",
-      "manufacturer": "Takara",
+      "developer": "Takara",
       "year": 2004,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Castle Shikigami 2 (USA)",
-      "manufacturer": "Alfa System",
+      "developer": "Alfa System",
       "year": 2004,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Dragon Blaze (Europe)",
-      "manufacturer": "Psikyo",
+      "developer": "Psikyo",
       "year": 2006,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Gigawing Generations (Europe)",
-      "manufacturer": "Takumi Corporation",
+      "developer": "Takumi Corporation",
       "year": 2006,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Gradius III and IV (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2000,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Gradius V (USA)",
-      "manufacturer": "Treasure",
+      "developer": "Treasure",
       "year": 2004,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Gunbird Special Edition (Europe)",
-      "manufacturer": "Psikyo",
+      "developer": "Psikyo",
       "year": 2005,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Homura (Europe)",
-      "manufacturer": "Skonec",
+      "developer": "Skonec",
       "year": 2006,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -75,7 +75,7 @@
     
     {
       "name": "Mobile Light Force 2 (USA)",
-      "manufacturer": "Alfa System",
+      "developer": "Alfa System",
       "year": 2003,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -84,7 +84,7 @@
     },
     {
       "name": "Ocean Commander (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -93,7 +93,7 @@
     },
     {
       "name": "One Piece - Round the Land! (Europe)",
-      "manufacturer": "Bandai",
+      "developer": "Bandai",
       "year": 2004,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -102,7 +102,7 @@
     },
     {
       "name": "Psyvariar - Complete Edition (Europe)",
-      "manufacturer": "Skonec",
+      "developer": "Skonec",
       "year": 2002,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -111,7 +111,7 @@
     },
     {
       "name": "R-Type Final (USA)",
-      "manufacturer": "Irem",
+      "developer": "Irem",
       "year": 2004,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -120,7 +120,7 @@
     },
     {
       "name": "Raiden III (USA)",
-      "manufacturer": "Moss",
+      "developer": "Moss",
       "year": 2007,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -129,7 +129,7 @@
     },
     {
       "name": "Samurai Aces (Europe)",
-      "manufacturer": "Psikyo",
+      "developer": "Psikyo",
       "year": 2006,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -138,7 +138,7 @@
     },
     {
       "name": "Shadow of Ganymede (Europe)",
-      "manufacturer": "Mere Mortals",
+      "developer": "Mere Mortals",
       "year": 2005,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -147,7 +147,7 @@
     },
     {
       "name": "Silpheed - The Lost Planet (USA)",
-      "manufacturer": "Treasure",
+      "developer": "Treasure",
       "year": 2001,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -156,7 +156,7 @@
     },
     {
       "name": "Sol Divide (Europe)",
-      "manufacturer": "Psikyo",
+      "developer": "Psikyo",
       "year": 2006,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -165,7 +165,7 @@
     },
     {
       "name": "Steel Dragon EX (Europe)",
-      "manufacturer": "Warashi",
+      "developer": "Warashi",
       "year": 2005,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -174,7 +174,7 @@
     },
     {
       "name": "Tengai (Europe)",
-      "manufacturer": "Psikyo",
+      "developer": "Psikyo",
       "year": 2006,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -183,7 +183,7 @@
     },
     {
       "name": "XII Stag (Europe)",
-      "manufacturer": "Triangle Service",
+      "developer": "Triangle Service",
       "year": 2004,
       "tags": "Shoot-'Em-Up",
       "picture": [],
@@ -192,7 +192,7 @@
     },
     {
       "name": "Xyanide - Resurrection (Europe)",
-      "manufacturer": "Playlogic",
+      "developer": "Playlogic",
       "year": 2007,
       "tags": "Shoot-'Em-Up",
       "picture": [],

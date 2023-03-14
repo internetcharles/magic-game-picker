@@ -2,7 +2,7 @@
   "shootemoff": [
     {
       "name": "Alien Hominid (USA)",
-      "manufacturer": "The Behemoth",
+      "developer": "The Behemoth",
       "year": 2004,
       "tags": ["shootemoff"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Contra - Shattered Soldier (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2002,
       "tags": ["shootemoff"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Heavenly Guardian (USA)",
-      "manufacturer": "Starfish",
+      "developer": "Starfish",
       "year": 2008,
       "tags": ["shootemoff"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Metal Slug 3 (Europe)",
-      "manufacturer": "SNK",
+      "developer": "SNK",
       "year": 2004,
       "tags": ["shootemoff"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Metal Slug 4 & 5 (USA) (Disc 1)",
-      "manufacturer": "BrezzaSoft",
+      "developer": "BrezzaSoft",
       "year": 2005,
       "tags": ["shootemoff"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Space Invaders - Invasion Day (Europe)",
-      "manufacturer": "Sammy Studios",
+      "developer": "Sammy Studios",
       "year": 2003,
       "tags": ["shootemoff"],
       "picture": [],

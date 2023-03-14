@@ -2,7 +2,7 @@
   "party": [
     {
       "name": "Ape Escape - Pumped & Primed (USA)",
-      "manufacturer": "SCEI",
+      "developer": "SCEI",
       "year": 2004,
       "tags": ["party"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Buzz! Junior - Monster Rumble (Europe)",
-      "manufacturer": "Cohort Studios",
+      "developer": "Cohort Studios",
       "year": 2007,
       "tags": ["party"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Clumsy Shumsy (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["party"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "EyeToy - Monkey Mania (Europe)",
-      "manufacturer": "SCEI",
+      "developer": "SCEI",
       "year": 2005,
       "tags": ["party"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Forty 4 Party (Europe)",
-      "manufacturer": "HuneX",
+      "developer": "HuneX",
       "year": 2005,
       "tags": ["party"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Little Britain - The Video Game (Europe)",
-      "manufacturer": "Blast! Entertainment Ltd",
+      "developer": "Blast! Entertainment Ltd",
       "year": 2007,
       "tags": ["party"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA)",
-      "manufacturer": "n - Space",
+      "developer": "n - Space",
       "year": 2002,
       "tags": ["party"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Monopoly Party! (USA)",
-      "manufacturer": "Runecraft",
+      "developer": "Runecraft",
       "year": 2002,
       "tags": ["party"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "My Street (USA)",
-      "manufacturer": "Idol Minds",
+      "developer": "Idol Minds",
       "year": 2003,
       "tags": ["party"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Nicktoons Movin' (USA)",
-      "manufacturer": "Mass Media",
+      "developer": "Mass Media",
       "year": 2004,
       "tags": ["party"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Pac-Man Fever (USA)",
-      "manufacturer": "Mass Media",
+      "developer": "Mass Media",
       "year": 2002,
       "tags": ["party"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Party Carnival (Europe)",
-      "manufacturer": "D3Publisher",
+      "developer": "D3Publisher",
       "year": 2007,
       "tags": ["party"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "RealPlay Puzzlesphere (Europe)",
-      "manufacturer": "In2Games",
+      "developer": "In2Games",
       "year": 2007,
       "tags": ["party"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Sega SuperStars (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2004,
       "tags": ["party"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Shrek - Super Party (USA)",
-      "manufacturer": "Mass Media",
+      "developer": "Mass Media",
       "year": 2002,
       "tags": ["party"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Shrek's Carnival Craze (USA)",
-      "manufacturer": "Ivolgamus",
+      "developer": "Ivolgamus",
       "year": 2008,
       "tags": ["party"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "SpongeBob SquarePants - Lights, Camera, Pants! (USA)",
-      "manufacturer": "THQ Australia",
+      "developer": "THQ Australia",
       "year": 2005,
       "tags": ["party"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Super Monkey Ball Deluxe (USA)",
-      "manufacturer": "Sega",
+      "developer": "Sega",
       "year": 2005,
       "tags": ["party"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Titeuf Mega-compet' (France)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2007,
       "tags": ["party"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Totally Spies! Totally Party (USA)",
-      "manufacturer": "Mad Monkey",
+      "developer": "Mad Monkey",
       "year": 2009,
       "tags": ["party"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "U-Move Super Sports (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2004,
       "tags": ["party"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Yetisports - Arctic Adventures (Europe)",
-      "manufacturer": "Pirate Games",
+      "developer": "Pirate Games",
       "year": 2005,
       "tags": ["party"],
       "picture": [],

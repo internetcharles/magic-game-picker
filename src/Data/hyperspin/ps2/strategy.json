@@ -2,7 +2,7 @@
   "strategy": [
     {
       "name": "A-Train 6 (Europe)",
-      "manufacturer": "Artdink",
+      "developer": "Artdink",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Adventures of Darwin, The (USA)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Age of Empires II - The Age of Kings (Europe)",
-      "manufacturer": "Ensemble Studios",
+      "developer": "Ensemble Studios",
       "year": 2001,
       "tags": ["strategy"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Aliens Versus Predator - Extinction (USA)",
-      "manufacturer": "Zono Inc.",
+      "developer": "Zono Inc.",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Army Men - RTS (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Carwash Tycoon (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Chaos Wars (USA)",
-      "manufacturer": "Idea Factory",
+      "developer": "Idea Factory",
       "year": 2008,
       "tags": ["strategy"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Chemist Tycoon (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Commandos 2 - Men of Courage (USA)",
-      "manufacturer": "Pyro Studios",
+      "developer": "Pyro Studios",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Conflict Zone - Modern War Strategy (USA)",
-      "manufacturer": "MASA Group",
+      "developer": "MASA Group",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Dai Senryaku VII - Modern Military Tactics - Exceed (USA)",
-      "manufacturer": "SystemSoft",
+      "developer": "SystemSoft",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Disgaea - Hour of Darkness (USA)",
-      "manufacturer": "Nippon Ichi Software",
+      "developer": "Nippon Ichi Software",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Disgaea 2 - Cursed Memories (USA)",
-      "manufacturer": "Nippon Ichi Software",
+      "developer": "Nippon Ichi Software",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Dynasty Tactics (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Dynasty Tactics 2 (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Eternal Poison (USA)",
-      "manufacturer": "Flight - Plan",
+      "developer": "Flight - Plan",
       "year": 2008,
       "tags": ["strategy"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Front Mission 4 (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Full Spectrum Warrior (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Full Spectrum Warrior - Ten Hammers (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Furry Tales (Europe)",
-      "manufacturer": "Mad Monkey",
+      "developer": "Mad Monkey",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Future Tactics - The Uprising (USA)",
-      "manufacturer": "Zed Two Limited",
+      "developer": "Zed Two Limited",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Ghost Master - The Gravenville Chronicles (Europe)",
-      "manufacturer": "Empire Interactive",
+      "developer": "Empire Interactive",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Gladius (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Global Defence Force - Tactics (Europe)",
-      "manufacturer": "Essential Games",
+      "developer": "Essential Games",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Goblin Commander - Unleash the Horde (USA)",
-      "manufacturer": "Jaleco Entertainment",
+      "developer": "Jaleco Entertainment",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "GrimGrimoire (USA)",
-      "manufacturer": "Vanilla Ware",
+      "developer": "Vanilla Ware",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Harvest Moon - A Wonderful Life Special Edition (USA)",
-      "manufacturer": "Marvelous",
+      "developer": "Marvelous",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Harvest Moon - Save the Homeland (USA)",
-      "manufacturer": "Victor Interactive Software",
+      "developer": "Victor Interactive Software",
       "year": 2001,
       "tags": ["strategy"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "History Channel, The - Great Battles of Rome (Europe)",
-      "manufacturer": "Slitherine",
+      "developer": "Slitherine",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Innocent Life - A Futuristic Harvest Moon (USA)",
-      "manufacturer": "ArtePiazza",
+      "developer": "ArtePiazza",
       "year": 2008,
       "tags": ["strategy"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Jurassic Park - Operation Genesis (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Kessen (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2000,
       "tags": ["strategy"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Kessen II (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2001,
       "tags": ["strategy"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Kessen III (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "La Pucelle - Tactics (USA)",
-      "manufacturer": "Nippon Ichi Software",
+      "developer": "Nippon Ichi Software",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Legion - The Legend of Excalibur (USA)",
-      "manufacturer": "7 Studios",
+      "developer": "7 Studios",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "MetropolisMania (USA)",
-      "manufacturer": "Indi",
+      "developer": "Indi",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "MetropolisMania 2 (USA)",
-      "manufacturer": "Indi",
+      "developer": "Indi",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Monster Rancher 3 (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2001,
       "tags": ["strategy"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Monster Rancher 4 (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Monster Rancher EVO (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Nobunaga's Ambition - Iron Triangle (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2009,
       "tags": ["strategy"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Nobunaga's Ambition - Rise to Power (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2008,
       "tags": ["strategy"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "P.T.O. IV - Pacific Theater of Operations (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Phantom Brave (USA)",
-      "manufacturer": "Nippon Ichi Software",
+      "developer": "Nippon Ichi Software",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Pimp My Ride (USA)",
-      "manufacturer": "Eutechnyx",
+      "developer": "Eutechnyx",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Playboy - The Mansion (USA)",
-      "manufacturer": "Cyberlore Studios",
+      "developer": "Cyberlore Studios",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Ring of Red (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2001,
       "tags": ["strategy"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Risk - Global Domination (USA)",
-      "manufacturer": "Cyberlore Studios",
+      "developer": "Cyberlore Studios",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Robin Hood - Defender of the Crown (USA)",
-      "manufacturer": "Cinemaware",
+      "developer": "Cinemaware",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Robot Warlords (Europe)",
-      "manufacturer": "Nexus Interact",
+      "developer": "Nexus Interact",
       "year": 2001,
       "tags": ["strategy"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Roller Coaster Funfare (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Rollercoaster World (Europe)",
-      "manufacturer": "Bimboosoft",
+      "developer": "Bimboosoft",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Romance of the Three Kingdoms IX (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Romance of the Three Kingdoms VII (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2002,
       "tags": ["strategy"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Romance of the Three Kingdoms VIII (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Romance of the Three Kingdoms X (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Romance of the Three Kingdoms XI (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Sakura Wars - So Long, My Love (USA) (Disc 1)",
-      "manufacturer": "RED Entertainment",
+      "developer": "RED Entertainment",
       "year": 2010,
       "tags": ["strategy"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "Sakura Wars - So Long, My Love (USA) (Disc 2)",
-      "manufacturer": "RED Entertainment",
+      "developer": "RED Entertainment",
       "year": 2010,
       "tags": ["strategy"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Seed, The - WarZone (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2003,
       "tags": ["strategy"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Shepherd's Crossing (USA)",
-      "manufacturer": "Success",
+      "developer": "Success",
       "year": 2008,
       "tags": ["strategy"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Soul Nomad & the World Eaters (USA)",
-      "manufacturer": "Nippon Ichi Software",
+      "developer": "Nippon Ichi Software",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Star Trek - Conquest (USA)",
-      "manufacturer": "4J Studios",
+      "developer": "4J Studios",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Stella Deus - The Gate of Eternity (USA)",
-      "manufacturer": "Pinegrow",
+      "developer": "Pinegrow",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Suikoden Tactics (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Taxi Rider (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Theme Park Roller Coaster (USA)",
-      "manufacturer": "Bullfrog Productions",
+      "developer": "Bullfrog Productions",
       "year": 2000,
       "tags": ["strategy"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Thrillville (USA)",
-      "manufacturer": "Frontier Developments",
+      "developer": "Frontier Developments",
       "year": 2006,
       "tags": ["strategy"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Thrillville - Off the Rails (USA)",
-      "manufacturer": "Frontier Developments",
+      "developer": "Frontier Developments",
       "year": 2007,
       "tags": ["strategy"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Worms 3D (USA)",
-      "manufacturer": "Team 17",
+      "developer": "Team 17",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "Worms 4 - Mayhem (Europe)",
-      "manufacturer": "Team 17",
+      "developer": "Team 17",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Worms Forts - Under Siege (USA)",
-      "manufacturer": "Team 17",
+      "developer": "Team 17",
       "year": 2005,
       "tags": ["strategy"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Wrath Unleashed (USA)",
-      "manufacturer": "Double Helix Games",
+      "developer": "Double Helix Games",
       "year": 2004,
       "tags": ["strategy"],
       "picture": [],

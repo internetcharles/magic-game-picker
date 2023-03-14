@@ -2,7 +2,7 @@
   "adventure": [
     {
       "name": "7 Blades (Europe)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2001,
       "tags": ["adventure"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Adventures of Jimmy Neutron Boy Genius - Attack of the Twonkies, The (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Alone in the Dark (USA)",
-      "manufacturer": "Hydravision",
+      "developer": "Hydravision",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Alone in the Dark - The New Nightmare (Europe)",
-      "manufacturer": "Darkworks",
+      "developer": "Darkworks",
       "year": 2001,
       "tags": ["adventure"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Arthur and the Invisibles - The Game  (USA)",
-      "manufacturer": "Etranges Libellules",
+      "developer": "Etranges Libellules",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Atlantis III - The New World (Europe)",
-      "manufacturer": "Cryo Interactive",
+      "developer": "Cryo Interactive",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Babe (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Barbie as The Island Princess (USA)",
-      "manufacturer": "Ivolgamus",
+      "developer": "Ivolgamus",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Beyond Good & Evil (USA)",
-      "manufacturer": "Ubisoft Montpellier",
+      "developer": "Ubisoft Montpellier",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Big Idea's Veggie Tales - LarryBoy and the Bad Apple (USA)",
-      "manufacturer": "Papaya Studios",
+      "developer": "Papaya Studios",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Bolt (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bratz - Forever Diamondz (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Broken Sword - The Sleeping Dragon (Europe)",
-      "manufacturer": "Revolution Software",
+      "developer": "Revolution Software",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Carmen Sandiego - The Secret of the Stolen Drums (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Casper - Spirit Dimensions (USA)",
-      "manufacturer": "Lucky Chicken",
+      "developer": "Lucky Chicken",
       "year": 2001,
       "tags": ["adventure"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Casper's Scare School (Europe)",
-      "manufacturer": "Blast! Entertainment Ltd",
+      "developer": "Blast! Entertainment Ltd",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Charlie and the Chocolate Factory (USA)",
-      "manufacturer": "Global Star Software",
+      "developer": "Global Star Software",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Chronicles of Narnia, The - Prince Caspian (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Chronicles of Narnia, The - The Lion, The Witch and The Wardrobe (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Chulip (USA)",
-      "manufacturer": "Punchline",
+      "developer": "Punchline",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Cinderella (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Clock Tower 3 (USA)",
-      "manufacturer": "SunSoft",
+      "developer": "SunSoft",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Coraline (USA)",
-      "manufacturer": "Papaya Studios",
+      "developer": "Papaya Studios",
       "year": 2009,
       "tags": ["adventure"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "CSI - Crime Scene Investigation - 3 Dimensions of Murder (USA)",
-      "manufacturer": "Ubisoft Bulgaria",
+      "developer": "Ubisoft Bulgaria",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Curious George (USA)",
-      "manufacturer": "NEC Interchannel",
+      "developer": "NEC Interchannel",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Diabolik - The Original Sin (Europe)",
-      "manufacturer": "Artematica",
+      "developer": "Artematica",
       "year": 2009,
       "tags": ["adventure"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Disaster Report (USA)",
-      "manufacturer": "Irem",
+      "developer": "Irem",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Disney Princess - Enchanted Journey (USA)",
-      "manufacturer": "Papaya Studios",
+      "developer": "Papaya Studios",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Disney's Dinosaur (Europe)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2000,
       "tags": ["adventure"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Dog Island, The (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Dog's Life (USA)",
-      "manufacturer": "Frontier Developments",
+      "developer": "Frontier Developments",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Dora the Explorer - Journey to the Purple Planet (USA)",
-      "manufacturer": "Take - Two Interactive",
+      "developer": "Take - Two Interactive",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Dora's Big Birthday Adventure (USA)",
-      "manufacturer": "2K Play",
+      "developer": "2K Play",
       "year": 2010,
       "tags": ["adventure"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Drakan - The Ancients' Gates (USA)",
-      "manufacturer": "Surreal Software",
+      "developer": "Surreal Software",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Ecco the Dolphin - Defender of the Future (USA)",
-      "manufacturer": "Appaloosa Interactive",
+      "developer": "Appaloosa Interactive",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Echo Night Beyond (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Eragon (USA)",
-      "manufacturer": "Stormfront Studios",
+      "developer": "Stormfront Studios",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Escape from Monkey Island (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2001,
       "tags": ["adventure"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Everblue (Europe)",
-      "manufacturer": "Arika",
+      "developer": "Arika",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Everblue 2 (USA)",
-      "manufacturer": "Arika",
+      "developer": "Arika",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Family Guy (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Finding Nemo (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Gadget and the Gadgetinis (Europe)",
-      "manufacturer": "EKO Software",
+      "developer": "EKO Software",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Glass Rose (Europe)",
-      "manufacturer": "Cing",
+      "developer": "Cing",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Goosebumps HorrorLand (USA)",
-      "manufacturer": "Gusto Games",
+      "developer": "Gusto Games",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Hansel & Gretel (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Happy Feet (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Harvey Birdman - Attorney at Law (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Haunting Ground (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Herdy Gerdy (USA)",
-      "manufacturer": "Core Design Ltd.",
+      "developer": "Core Design Ltd.",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Hype - The Time Quest (Europe)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "ICO (USA)",
-      "manufacturer": "SCE Japan Studio",
+      "developer": "SCE Japan Studio",
       "year": 2001,
       "tags": ["adventure"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Indigo Prophecy (USA)",
-      "manufacturer": "Quantic Dream",
+      "developer": "Quantic Dream",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "LEGO Indiana Jones - The Original Adventures (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Leisure Suit Larry - Magna Cum Laude (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Maniac Mole (Europe)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Michigan - Report From Hell (Europe)",
-      "manufacturer": "Grasshopper Manufacture",
+      "developer": "Grasshopper Manufacture",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Monster House (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Myst III - Exile (USA)",
-      "manufacturer": "Presto Studios",
+      "developer": "Presto Studios",
       "year": 2002,
       "tags": ["adventure"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "Neopets - The Darkest Faerie (USA)",
-      "manufacturer": "Idol Minds",
+      "developer": "Idol Minds",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Nicktoons Unite! (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Okami (USA)",
-      "manufacturer": "Clover Studio",
+      "developer": "Clover Studio",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Paddington Bear (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Pinocchio (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Polar Express, The (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Quest for Aladdin's Treasure, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Quest For Sleeping Beauty (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Raw Danger! (USA)",
-      "manufacturer": "Irem",
+      "developer": "Irem",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Robin Hood's Quest (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Safari Adventures - Africa (Europe)",
-      "manufacturer": "Blast! Entertainment Ltd",
+      "developer": "Blast! Entertainment Ltd",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Scooby-Doo! First Frights (USA)",
-      "manufacturer": "Torus Games",
+      "developer": "Torus Games",
       "year": 2009,
       "tags": ["adventure"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "Sea Monsters - A Prehistoric Adventure (USA)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Shadow of Destiny (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2001,
       "tags": ["adventure"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Shadow of the Colossus (USA)",
-      "manufacturer": "SCE Japan Studio",
+      "developer": "SCE Japan Studio",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Smarties - Meltdown (Europe)",
-      "manufacturer": "Europress",
+      "developer": "Europress",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "Snow Queen Quest, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Snow White and the 7 Clever Boys (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "Spiderwick Chronicles, The (USA)",
-      "manufacturer": "Stormfront Studios",
+      "developer": "Stormfront Studios",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Syberia (Europe)",
-      "manufacturer": "Microids",
+      "developer": "Microids",
       "year": 2003,
       "tags": ["adventure"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Syberia II (Europe)",
-      "manufacturer": "Microids",
+      "developer": "Microids",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Thomas & Friends - A Day at the Races (Europe)",
-      "manufacturer": "Blast! Entertainment Ltd",
+      "developer": "Blast! Entertainment Ltd",
       "year": 2007,
       "tags": ["adventure"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Transformers - Revenge of the Fallen (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2009,
       "tags": ["adventure"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Up (USA)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2009,
       "tags": ["adventure"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Water Horse, The - Legend of the Deep (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2008,
       "tags": ["adventure"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Winx Club (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["adventure"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "X-Files, The - Resist or Serve (USA)",
-      "manufacturer": "Black Ops Entertainment",
+      "developer": "Black Ops Entertainment",
       "year": 2004,
       "tags": ["adventure"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Zathura (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2005,
       "tags": ["adventure"],
       "picture": [],

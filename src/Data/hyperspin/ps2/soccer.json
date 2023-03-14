@@ -2,7 +2,7 @@
   "soccer": [
     {
       "name": "2002 FIFA World Cup (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Alex Ferguson's Player Manager 2001 (Europe)",
-      "manufacturer": "Anco",
+      "developer": "Anco",
       "year": 2001,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Animal Soccer World (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Championship Manager 2006 (Europe)",
-      "manufacturer": "Gusto Games",
+      "developer": "Gusto Games",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Championship Manager 2007 (Europe)",
-      "manufacturer": "Gusto Games",
+      "developer": "Gusto Games",
       "year": 2007,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Championship Manager 5 (Europe)",
-      "manufacturer": "Gusto Games",
+      "developer": "Gusto Games",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "City Soccer Challenge (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Club Football - AC Milan (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Club Football - Ajax Amsterdam (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Club Football - Arsenal (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Club Football - Aston Villa (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Club Football - Borussia Dortmund (Germany)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Club Football - Celtic FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Club Football - Chelsea FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Club Football - FC Barcelona (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Club Football - FC Bayern Munich (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Club Football - FC Internazionale (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Club Football - Hamburger SV (Germany)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Club Football - Juventus (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Club Football - Leeds United (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Club Football - Liverpool FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Club Football - Manchester United (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Club Football - Rangers FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Club Football - Real Madrid (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Club Football 2005 - AC Milan (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Club Football 2005 - Ajax Amsterdam (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Club Football 2005 - Arsenal (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Club Football 2005 - Aston Villa FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Club Football 2005 - Birmingham City (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Club Football 2005 - Borussia Dortmund (Germany)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Club Football 2005 - Celtic FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Club Football 2005 - Chelsea FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Club Football 2005 - FC Barcelona (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Club Football 2005 - FC Bayern Munchen (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Club Football 2005 - FC Intenazionale (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Club Football 2005 - Hamburger SV (Germany)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Club Football 2005 - Juventus (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Club Football 2005 - Liverpool FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Club Football 2005 - Manchester United (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Club Football 2005 - Newcastle United (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Club Football 2005 - Olympique de Marseille (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Club Football 2005 - Paris Saint-Germain (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Club Football 2005 - Rangers FC (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Club Football 2005 - Real Madrid (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Club Football 2005 - Tottenham Hotspur (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "David Beckham Soccer (Europe)",
-      "manufacturer": "Rage Software",
+      "developer": "Rage Software",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "England International Football (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "ESPN MLS ExtraTime (USA)",
-      "manufacturer": "Konami Computer Entertainment Hawaii",
+      "developer": "Konami Computer Entertainment Hawaii",
       "year": 2001,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "FIFA 07 Soccer (USA)",
-      "manufacturer": "Team Fusion",
+      "developer": "Team Fusion",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "FIFA 14 - Legacy Edition (Europe)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2013,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "FIFA 2001 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2000,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "FIFA Soccer 06 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "FIFA Soccer 08 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2007,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "FIFA Soccer 09 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2008,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "FIFA Soccer 10 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2009,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "FIFA Soccer 11 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2010,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "FIFA Soccer 12 (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2011,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "FIFA Soccer 13 (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2012,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "FIFA Soccer 2002 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2001,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "FIFA Soccer 2003 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "FIFA Soccer 2004 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "FIFA Soccer 2005 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "FIFA Street (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "FIFA Street 2 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "FIFA World Cup - Germany 2006 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Football Generation (Europe)",
-      "manufacturer": "Trecision",
+      "developer": "Trecision",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "International Superstar Soccer (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2000,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "International Superstar Soccer 2 (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "International Superstar Soccer 3 (Europe)",
-      "manufacturer": "KCEO",
+      "developer": "KCEO",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "LEGO Soccer Mania (USA)",
-      "manufacturer": "Silicon Dreams",
+      "developer": "Silicon Dreams",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Let's Make a Soccer Team! (Europe)",
-      "manufacturer": "Smilebit",
+      "developer": "Smilebit",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "LMA Manager 2002 (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "LMA Manager 2003 (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "LMA Manager 2004 (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "LMA Manager 2005 (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "LMA Manager 2006 (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "LMA Manager 2007 (Europe)",
-      "manufacturer": "Codemasters",
+      "developer": "Codemasters",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "NHL 09 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2008,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Premier Manager 08 (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2007,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Premier Manager 09 (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2008,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Premier Manager 2002-2003 Season (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Premier Manager 2003-04 (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Premier Manager 2004-2005 (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Premier Manager 2005-2006 (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Premier Manager 2006-2007 (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "Pro Beach Soccer (Europe)",
-      "manufacturer": "Pam Development",
+      "developer": "Pam Development",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Pro Evolution Soccer (Europe)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2001,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2008 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2008,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2009 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2008,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2010 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2009,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2011 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2010,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2012 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2011,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2013 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2012,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "Pro Evolution Soccer 2014 (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2013,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "Pro Evolution Soccer Management (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -857,7 +857,7 @@
     },
     {
       "name": "Real Madrid - The Game (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2009,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -866,7 +866,7 @@
     },
     {
       "name": "RedCard 20-03 (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -875,7 +875,7 @@
     },
     {
       "name": "Sega Soccer Slam (USA)",
-      "manufacturer": "Black Box",
+      "developer": "Black Box",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -884,7 +884,7 @@
     },
     {
       "name": "Sensible Soccer 2006 (Europe)",
-      "manufacturer": "Kuju Entertainment",
+      "developer": "Kuju Entertainment",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -893,7 +893,7 @@
     },
     {
       "name": "Soccer America - International Cup (USA)",
-      "manufacturer": "Taito Corporation",
+      "developer": "Taito Corporation",
       "year": 2001,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -902,7 +902,7 @@
     },
     {
       "name": "Soccer Life 2 (Europe)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -911,7 +911,7 @@
     },
     {
       "name": "Soccer Life! (Europe)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -920,7 +920,7 @@
     },
     {
       "name": "Sven - Goran Eriksson's World Cup Challenge (Europe)",
-      "manufacturer": "Anco",
+      "developer": "Anco",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -929,7 +929,7 @@
     },
     {
       "name": "Sven - Goran Eriksson's World Cup Manager (Europe)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -938,7 +938,7 @@
     },
     {
       "name": "Total Club Manager 2004 (Europe)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -947,7 +947,7 @@
     },
     {
       "name": "Total Club Manager 2005 (Europe)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -956,7 +956,7 @@
     },
     {
       "name": "UEFA Challenge (Europe)",
-      "manufacturer": "Infogrames",
+      "developer": "Infogrames",
       "year": 2001,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -965,7 +965,7 @@
     },
     {
       "name": "UEFA Champions League - Season 2001-2002 (Europe)",
-      "manufacturer": "Eidos Interactive",
+      "developer": "Eidos Interactive",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -974,7 +974,7 @@
     },
     {
       "name": "UEFA Champions League 2004-2005 (Europe)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -983,7 +983,7 @@
     },
     {
       "name": "UEFA Champions League 2006-2007 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2007,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -992,7 +992,7 @@
     },
     {
       "name": "UEFA Euro 2004 - Portugal (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "UEFA EURO 2008 - Austria-Switzerland (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2008,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "Urban Freestyle Soccer (Europe)",
-      "manufacturer": "Silicon Dreams",
+      "developer": "Silicon Dreams",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "Virtua Pro Football (Europe)",
-      "manufacturer": "Smilebit",
+      "developer": "Smilebit",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "Winning Eleven - Pro Evolution Soccer 2007 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2007,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "World Soccer Winning Eleven 6 International (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "World Soccer Winning Eleven 7 International (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "World Soccer Winning Eleven 8 International (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "World Soccer Winning Eleven 9 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1073,7 +1073,7 @@
     },
     {
       "name": "World Tour Soccer 2002 (USA)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2002,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "World Tour Soccer 2003 (USA)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2003,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1091,7 +1091,7 @@
     },
     {
       "name": "World Tour Soccer 2005 (USA)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1100,7 +1100,7 @@
     },
     {
       "name": "World Tour Soccer 2006 (USA)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2005,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],
@@ -1109,7 +1109,7 @@
     },
     {
       "name": "XS Junior League Soccer (Europe)",
-      "manufacturer": "XS Games",
+      "developer": "XS Games",
       "year": 2004,
       "tags": ["sports", "soccer", "football", "fake"],
       "picture": [],

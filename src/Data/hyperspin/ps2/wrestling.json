@@ -2,7 +2,7 @@
   "wrestling": [
     {
       "name": "Backyard Wrestling - Don't Try This at Home (USA)",
-      "manufacturer": "Paradox Development",
+      "developer": "Paradox Development",
       "year": 2003,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Backyard Wrestling 2 - There Goes the Neighborhood (USA)",
-      "manufacturer": "Paradox Development",
+      "developer": "Paradox Development",
       "year": 2004,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Douillet Judo (Europe)",
-      "manufacturer": "10tacle Studios",
+      "developer": "10tacle Studios",
       "year": 2006,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Fire Pro Wrestling Returns (USA)",
-      "manufacturer": "S - Neo",
+      "developer": "S - Neo",
       "year": 2007,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Galactic Wrestling - Featuring Ultimate Muscle (USA)",
-      "manufacturer": "Aki Corp.",
+      "developer": "Aki Corp.",
       "year": 2004,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Legends of Wrestling (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2001,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Legends of Wrestling II (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2002,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Rumble Roses (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2004,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Showdown - Legends of Wrestling (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2004,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "TNA iMPACT! (USA)",
-      "manufacturer": "Midway Studios - Los Angeles",
+      "developer": "Midway Studios - Los Angeles",
       "year": 2008,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "WWC - World Wrestling Championship (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "WWE All Stars (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2011,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "WWE SmackDown vs. Raw 2007 (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2006,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "WWE SmackDown vs. Raw 2008 (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2007,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "WWE SmackDown vs. Raw 2009 (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2008,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "WWE SmackDown vs. Raw 2010 (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2009,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "WWE SmackDown vs. Raw 2011 (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2010,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "WWE SmackDown! Here Comes the Pain (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2003,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "WWE SmackDown! Shut Your Mouth (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2002,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "WWE SmackDown! vs. Raw (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2004,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "WWE SmackDown! vs. Raw 2006 (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2005,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "WWF SmackDown! Just Bring It (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2001,
       "tags": ["sports", "wrestling", "XTREME"],
       "picture": [],

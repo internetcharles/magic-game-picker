@@ -2,7 +2,7 @@
   "baseball": [
     {
       "name": "All-Star Baseball 2002 (USA)",
-      "manufacturer": "Acclaim Studios Austin",
+      "developer": "Acclaim Studios Austin",
       "year": 2001,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "All-Star Baseball 2003 featuring Derek Jeter (USA)",
-      "manufacturer": "Acclaim Studios Austin",
+      "developer": "Acclaim Studios Austin",
       "year": 2002,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "All-Star Baseball 2004 featuring Derek Jeter (USA)",
-      "manufacturer": "Acclaim Studios Austin",
+      "developer": "Acclaim Studios Austin",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "All-Star Baseball 2005 featuring Derek Jeter (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Backyard Baseball '09 (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2008,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Backyard Baseball '10 (USA)",
-      "manufacturer": "Farsight Studios",
+      "developer": "Farsight Studios",
       "year": 2009,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Backyard Baseball (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Backyard Sports - Baseball 2007 (USA)",
-      "manufacturer": "Game Brains",
+      "developer": "Game Brains",
       "year": 2006,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Bigs 2, The (USA)",
-      "manufacturer": "Blue Castle Games",
+      "developer": "Blue Castle Games",
       "year": 2009,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Bigs, The (USA)",
-      "manufacturer": "Blue Castle Games",
+      "developer": "Blue Castle Games",
       "year": 2007,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "ESPN Major League Baseball (USA)",
-      "manufacturer": "Blue Shift",
+      "developer": "Blue Shift",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "High Heat Major League Baseball 2002 (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2001,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "High Heat Major League Baseball 2003 (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2002,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "High Heat Major League Baseball 2004 (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Home Run (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "League Series Baseball 2 (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Major League Baseball 2K10 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2010,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Major League Baseball 2K11 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2011,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Major League Baseball 2K12 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2012,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Major League Baseball 2K5 (USA)",
-      "manufacturer": "Kush Games",
+      "developer": "Kush Games",
       "year": 2005,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Major League Baseball 2K5 - World Series Edition (USA)",
-      "manufacturer": "Kush Games",
+      "developer": "Kush Games",
       "year": 2005,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Major League Baseball 2K6 (USA)",
-      "manufacturer": "Kush Games",
+      "developer": "Kush Games",
       "year": 2006,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Major League Baseball 2K7 (USA)",
-      "manufacturer": "Kush Games",
+      "developer": "Kush Games",
       "year": 2007,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Major League Baseball 2K8 (USA)",
-      "manufacturer": "Kush Games",
+      "developer": "Kush Games",
       "year": 2008,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Major League Baseball 2K9 (USA)",
-      "manufacturer": "2K Sports",
+      "developer": "2K Sports",
       "year": 2009,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "MLB 06 - The Show (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2006,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "MLB 07 - The Show (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2007,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "MLB 08 - The Show (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2008,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "MLB 09 - The Show (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2009,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "MLB 10 - The Show (USA)",
-      "manufacturer": "SCEA",
+      "developer": "SCEA",
       "year": 2010,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "MLB 11 - The Show (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2011,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "MLB 2004 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "MLB 2005 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "MLB 2006 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2005,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "MLB Power Pros (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2007,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "MLB Power Pros 2008 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2008,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "MLB SlugFest - Loaded (USA)",
-      "manufacturer": "Point of View",
+      "developer": "Point of View",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "MLB Slugfest 20-03 (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2002,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "MLB Slugfest 20-04 (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "MLB SlugFest 2006 (USA)",
-      "manufacturer": "Blue Shift",
+      "developer": "Blue Shift",
       "year": 2006,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "MVP 06 NCAA Baseball (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2006,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "MVP 07 NCAA Baseball (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2007,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "MVP Baseball 2003 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "MVP Baseball 2004 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2004,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "MVP Baseball 2005 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2005,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Triple Play 2002 (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2002,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Triple Play Baseball (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2001,
       "tags": ["sports", "baseball"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "World Series Baseball 2K3 (USA)",
-      "manufacturer": "Blue Shift",
+      "developer": "Blue Shift",
       "year": 2003,
       "tags": ["sports", "baseball"],
       "picture": [],

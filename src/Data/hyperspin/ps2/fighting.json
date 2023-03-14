@@ -2,7 +2,7 @@
  "fighting": [
     {
       "name": "Arcana Heart (USA)",
-      "manufacturer": "Examu",
+      "developer": "Examu",
       "year": 2008,
       "tags": ["fighting"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Art of Fighting Anthology (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Barbarian (USA)",
-      "manufacturer": "Saffire",
+      "developer": "Saffire",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Bloody Roar 3 (USA)",
-      "manufacturer": "Eighting/Raizing",
+      "developer": "Eighting/Raizing",
       "year": 2001,
       "tags": ["fighting"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Bloody Roar 4 (USA)",
-      "manufacturer": "Eighting",
+      "developer": "Eighting",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Capcom Fighting Evolution (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Capcom vs. SNK 2 - Mark of the Millennium 2001 (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2001,
       "tags": ["fighting"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Cubix Robots for Everyone - Showdown (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Cyber Troopers - Virtual-On Marz (USA)",
-      "manufacturer": "Hitmaker",
+      "developer": "Hitmaker",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Dark Wind (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Def Jam - Fight for NY (USA)",
-      "manufacturer": "Aki Corp.",
+      "developer": "Aki Corp.",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Def Jam - Vendetta (USA)",
-      "manufacturer": "Aki Corp.",
+      "developer": "Aki Corp.",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Digimon Rumble Arena 2 (USA)",
-      "manufacturer": "Black Ship Games",
+      "developer": "Black Ship Games",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "DOA2 - Hardcore (USA)",
-      "manufacturer": "Team Ninja",
+      "developer": "Team Ninja",
       "year": 2000,
       "tags": ["fighting"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Dragon Ball Z - Budokai (USA)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Dragon Ball Z - Budokai 2 (USA)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Dragon Ball Z - Budokai 3 (USA)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Dragon Ball Z - Budokai Tenkaichi (USA)",
-      "manufacturer": "Spike",
+      "developer": "Spike",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Dragon Ball Z - Budokai Tenkaichi 2 (USA)",
-      "manufacturer": "Spike",
+      "developer": "Spike",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Dragon Ball Z - Budokai Tenkaichi 3 (USA)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Dragon Ball Z - Infinite World (USA)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2008,
       "tags": ["fighting"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Fight Club (USA)",
-      "manufacturer": "Genuine Games",
+      "developer": "Genuine Games",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Fatal Fury - Battle Archives Volume 1 (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Fatal Fury - Battle Archives Volume 2 (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2008,
       "tags": ["fighting"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Fighter Maker 2 (USA)",
-      "manufacturer": "Enterbrain",
+      "developer": "Enterbrain",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Godzilla - Save the Earth (USA)",
-      "manufacturer": "Pipeworks Software, Inc.",
+      "developer": "Pipeworks Software, Inc.",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Guilty Gear Isuka (USA)",
-      "manufacturer": "Arc System Works",
+      "developer": "Arc System Works",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Guilty Gear X (USA)",
-      "manufacturer": "Arc System Works",
+      "developer": "Arc System Works",
       "year": 2001,
       "tags": ["fighting"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Guilty Gear X2 #Reload - The Midnight Carnival (Europe)",
-      "manufacturer": "Sammy Studios",
+      "developer": "Sammy Studios",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Guilty Gear X2 (USA)",
-      "manufacturer": "Arc System Works",
+      "developer": "Arc System Works",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Guilty Gear XX Accent Core (USA)",
-      "manufacturer": "Arc System Works",
+      "developer": "Arc System Works",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Guilty Gear XX Accent Core Plus (USA)",
-      "manufacturer": "Arc System Works",
+      "developer": "Arc System Works",
       "year": 2009,
       "tags": ["fighting"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Hyper Street Fighter II - The Anniversary Edition (Europe)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Inuyasha - Feudal Combat (USA)",
-      "manufacturer": "Eighting",
+      "developer": "Eighting",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Kengo - Master of Bushido (USA)",
-      "manufacturer": "Light Weight",
+      "developer": "Light Weight",
       "year": 2001,
       "tags": ["fighting"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "King of Fighters '98, The - Ultimate Match (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2009,
       "tags": ["fighting"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "King of Fighters - Maximum Impact (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "King of Fighters 2000-2001, The (USA) (Disc 1)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "King of Fighters 2000-2001, The (USA) (Disc 2)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "King of Fighters 2002-2003, The (USA) (Disc 1)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "King of Fighters 2002-2003, The (USA) (Disc 2)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "King of Fighters Collection, The - The Orochi Saga (USA)",
-      "manufacturer": "Terminal Reality",
+      "developer": "Terminal Reality",
       "year": 2008,
       "tags": ["fighting"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "King of Fighters 2006, The (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "King of Fighters NeoWave, The (Europe)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "King of Fighters XI, The (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Legend of the Dragon (USA)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Marvel Nemesis - Rise of the Imperfects (USA)",
-      "manufacturer": "EA Games",
+      "developer": "EA Games",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Marvel vs. Capcom 2 (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Mortal Kombat - Armageddon - Premium Edition (USA) (Disc 1)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Mortal Kombat - Armageddon - Premium Edition (USA) (Disc 2)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Mortal Kombat - Deadly Alliance (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Mortal Kombat - Deception - Premium Pack (USA) (Disc 1)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Mortal Kombat - Deception - Premium Pack (USA) (Disc 2)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "MTV's Celebrity Deathmatch (USA)",
-      "manufacturer": "Big Ape Productions",
+      "developer": "Big Ape Productions",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Naruto - Ultimate Ninja (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Naruto - Ultimate Ninja 2 (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Naruto - Ultimate Ninja 3 (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2008,
       "tags": ["fighting"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Naruto Shippuden - Ultimate Ninja 4 (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2009,
       "tags": ["fighting"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Naruto Shippuden - Ultimate Ninja 5 (Europe)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2009,
       "tags": ["fighting"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "NeoGeo Battle Coliseum (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "One Piece - Grand Adventure (USA)",
-      "manufacturer": "Ganbarion",
+      "developer": "Ganbarion",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "One Piece - Grand Battle (USA)",
-      "manufacturer": "Ganbarion",
+      "developer": "Ganbarion",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "One Piece - Pirates' Carnival (USA)",
-      "manufacturer": "h.a.n.d. Inc.",
+      "developer": "h.a.n.d. Inc.",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Onimusha Blade Warriors (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Pride FC - Fighting Championships (USA)",
-      "manufacturer": "Anchor",
+      "developer": "Anchor",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Saint Seiya - The Hades (Europe)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Saint Seiya - The Sanctuary (Europe)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Samurai Shodown Anthology (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2009,
       "tags": ["fighting"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Samurai Shodown V (Europe)",
-      "manufacturer": "SNK",
+      "developer": "SNK",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Shaman King - Power of Spirit (USA)",
-      "manufacturer": "WinkySoft",
+      "developer": "WinkySoft",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "SoulCalibur II (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "SoulCalibur III (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Spectral vs Generation (Europe)",
-      "manufacturer": "Idea Factory",
+      "developer": "Idea Factory",
       "year": 2007,
       "tags": ["fighting"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Street Fighter Alpha Anthology (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Street Fighter Anniversary Collection (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "Street Fighter EX3 (USA)",
-      "manufacturer": "Arika",
+      "developer": "Arika",
       "year": 2000,
       "tags": ["fighting"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Super Dragon Ball Z (USA)",
-      "manufacturer": "Crafts & Meister",
+      "developer": "Crafts & Meister",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "SVC Chaos - SNK vs. Capcom (Europe)",
-      "manufacturer": "Playmore",
+      "developer": "Playmore",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Sword of the Samurai (Europe)",
-      "manufacturer": "Genki",
+      "developer": "Genki",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Teenage Mutant Ninja Turtles - Mutant Melee (Europe)",
-      "manufacturer": "Konami Computer Entertainment Hawaii",
+      "developer": "Konami Computer Entertainment Hawaii",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Tekken 4 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Tekken 5 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Tekken Tag Tournament (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2000,
       "tags": ["fighting"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Tom & Jerry in War of the Whiskers (USA)",
-      "manufacturer": "VIS Entertainment",
+      "developer": "VIS Entertainment",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "UFC - Sudden Impact (USA)",
-      "manufacturer": "Opus",
+      "developer": "Opus",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "Ultimate Fighting Championship - Throwdown (USA)",
-      "manufacturer": "Opus",
+      "developer": "Opus",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Virtua Fighter 4 (USA)",
-      "manufacturer": "Sega AM2",
+      "developer": "Sega AM2",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Virtua Fighter 4 - Evolution (USA)",
-      "manufacturer": "Sega",
+      "developer": "Sega",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "War of the Monsters (USA)",
-      "manufacturer": "Incognito Inc.",
+      "developer": "Incognito Inc.",
       "year": 2003,
       "tags": ["fighting"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "World Heroes Anthology (USA)",
-      "manufacturer": "SNK Playmore",
+      "developer": "SNK Playmore",
       "year": 2008,
       "tags": "Fighting",,
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "X-Men - Next Dimension (USA)",
-      "manufacturer": "Paradox Development",
+      "developer": "Paradox Development",
       "year": 2002,
       "tags": ["fighting"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Xena - Warrior Princess (Europe)",
-      "manufacturer": "Blast! Entertainment Ltd",
+      "developer": "Blast! Entertainment Ltd",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "Yu Yu Hakusho - Dark Tournament (USA)",
-      "manufacturer": "Digital Fiction",
+      "developer": "Digital Fiction",
       "year": 2004,
       "tags": ["fighting"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "Zatch Bell! Mamodo Battles (USA)",
-      "manufacturer": "Eighting",
+      "developer": "Eighting",
       "year": 2005,
       "tags": ["fighting"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "Zatch Bell! Mamodo Fury (USA)",
-      "manufacturer": "Mechanic Arms",
+      "developer": "Mechanic Arms",
       "year": 2006,
       "tags": ["fighting"],
       "picture": [],

@@ -2,7 +2,7 @@
   "olympic": [
     {
       "name": "Athens 2004 (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2004,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "ESPN International Track & Field (USA)",
-      "manufacturer": "Konami Computer Entertainment Osaka",
+      "developer": "Konami Computer Entertainment Osaka",
       "year": 2000,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "ESPN International Winter Sports 2002 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "RTL Winter Games 2007 (Germany)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2006,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Salt Lake 2002 (USA)",
-      "manufacturer": "Attention To Detail",
+      "developer": "Attention To Detail",
       "year": 2002,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Summer Athletics - The Ultimate Challenge (USA)",
-      "manufacturer": "49Games",
+      "developer": "49Games",
       "year": 2008,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Torino 2006 - The Official Video Game of the XX Olympic Winter Games (USA)",
-      "manufacturer": "49Games",
+      "developer": "49Games",
       "year": 2006,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Winter Sports (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2006,
       "tags": ["sports", "olympic"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Winter Sports 2008 - The Ultimate Challenge (USA)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2007,
       "tags": ["sports", "olympic"],
       "picture": [],

@@ -2,7 +2,7 @@
   "boardgame": [
     {
       "name": "Board Games Gallery (10 Games) (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2005,
       "tags": ["board"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Chess Challenger (Europe)",
-      "manufacturer": "Play It!",
+      "developer": "Play It!",
       "year": 2004,
       "tags": ["board"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Chessmaster (USA)",
-      "manufacturer": "Ubisoft Romania",
+      "developer": "Ubisoft Romania",
       "year": 2003,
       "tags": ["board"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Culdcept (USA)",
-      "manufacturer": "NEC Interchannel",
+      "developer": "NEC Interchannel",
       "year": 2003,
       "tags": ["board"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Family Board Games (Europe)",
-      "manufacturer": "Mere Mortals",
+      "developer": "Mere Mortals",
       "year": 2006,
       "tags": ["board"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Hasbro Family Game Night (USA)",
-      "manufacturer": "EA Bright Light",
+      "developer": "EA Bright Light",
       "year": 2008,
       "tags": ["board"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Jumanji (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2006,
       "tags": ["board"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Junior Board Games (Europe)",
-      "manufacturer": "Mere Mortals",
+      "developer": "Mere Mortals",
       "year": 2004,
       "tags": ["board"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Master Chess (Europe)",
-      "manufacturer": "Yuki",
+      "developer": "Yuki",
       "year": 2004,
       "tags": ["board"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Monopoly (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2008,
       "tags": ["board"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Scrabble - 2003 Edition (Europe)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2003,
       "tags": ["board"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Trivial Pursuit (USA)",
-      "manufacturer": "EA Bright Light",
+      "developer": "EA Bright Light",
       "year": 2009,
       "tags": ["board"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Trivial Pursuit Unhinged (USA)",
-      "manufacturer": "Artech Studios",
+      "developer": "Artech Studios",
       "year": 2004,
       "tags": ["board"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Twenty 2 Party (Europe)",
-      "manufacturer": "Japan Art Media (JAM)",
+      "developer": "Japan Art Media (JAM)",
       "year": 2005,
       "tags": ["board"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Ultimate Board Game Collection (USA)",
-      "manufacturer": "Jack of All Games",
+      "developer": "Jack of All Games",
       "year": 2006,
       "tags": ["board"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Ultimate Casino (Europe)",
-      "manufacturer": "505 Game Street",
+      "developer": "505 Game Street",
       "year": 2004,
       "tags": ["board"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Ultimate Mind Games (Europe)",
-      "manufacturer": "Yuki",
+      "developer": "Yuki",
       "year": 2004,
       "tags": ["board"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "War Chess (Europe)",
-      "manufacturer": "XS Games",
+      "developer": "XS Games",
       "year": 2005,
       "tags": ["board"],
       "picture": [],

@@ -2,7 +2,7 @@
   "sim": [
     {
       "name": "Aero Elite - Combat Academy (USA)",
-      "manufacturer": "Sega AM2",
+      "developer": "Sega AM2",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Air Ranger - Rescue Helicopter (Europe)",
-      "manufacturer": "Garden",
+      "developer": "Garden",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "AirForce Delta Strike (USA)",
-      "manufacturer": "KCE Studios",
+      "developer": "KCE Studios",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Armored Core - Last Raven (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Armored Core - Nexus (USA) (Disc 1)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Armored Core - Nexus (USA) (Disc 2)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Armored Core - Nine Breaker (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Armored Core 2 (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2000,
       "tags": ["sim"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Armored Core 2 - Another Age (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Armored Core 3 (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Battlestar Galactica (USA)",
-      "manufacturer": "Warthog",
+      "developer": "Warthog",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "City Crisis (USA)",
-      "manufacturer": "Syscom",
+      "developer": "Syscom",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Dr. Dolittle (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Dropship - United Peace Force (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Energy Airforce (Europe)",
-      "manufacturer": "Taito Corporation",
+      "developer": "Taito Corporation",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Energy Airforce aimStrike! (Europe)",
-      "manufacturer": "505 Game Street",
+      "developer": "505 Game Street",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Fire Blade (USA)",
-      "manufacturer": "Kuju Entertainment",
+      "developer": "Kuju Entertainment",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Go Go Copter - Remote Control Helicopter (Europe)",
-      "manufacturer": "Empire Interactive",
+      "developer": "Empire Interactive",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Guerrilla Strike (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Gungriffon Blaze (USA)",
-      "manufacturer": "Game Arts",
+      "developer": "Game Arts",
       "year": 2000,
       "tags": ["sim"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Heatseeker (USA)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2007,
       "tags": ["sim"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Heroes of the Pacific (USA)",
-      "manufacturer": "IR Gurus",
+      "developer": "IR Gurus",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Iron Aces 2 - Birds of Prey (Europe)",
-      "manufacturer": "Opera House",
+      "developer": "Opera House",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Lethal Skies Elite Pilot - Team SW (USA)",
-      "manufacturer": "Bit Town",
+      "developer": "Bit Town",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Lethal Skies II (USA)",
-      "manufacturer": "Asmik Ace Entertainment, Inc",
+      "developer": "Asmik Ace Entertainment, Inc",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Mobile Suit Gundam - Encounters in Space (USA)",
-      "manufacturer": "Bandai",
+      "developer": "Bandai",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Mobile Suit Gundam - Federation vs. Zeon (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Mobile Suit Gundam - Journey to Jaburo (USA)",
-      "manufacturer": "Bandai",
+      "developer": "Bandai",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Mobile Suit Gundam - Zeonic Front (USA)",
-      "manufacturer": "Sunrise Interactive",
+      "developer": "Sunrise Interactive",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Naval Ops - Commander (USA)",
-      "manufacturer": "Micro Cabin",
+      "developer": "Micro Cabin",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Naval Ops - Warship Gunner (USA)",
-      "manufacturer": "Micro Cabin",
+      "developer": "Micro Cabin",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Operation Air Assault (Europe)",
-      "manufacturer": "InterActive Vision Games",
+      "developer": "InterActive Vision Games",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Operation Air Assault 2 (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2007,
       "tags": ["sim"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Pacific Warriors II - Dogfight (Europe)",
-      "manufacturer": "InterActive Vision Games",
+      "developer": "InterActive Vision Games",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Panzer Elite Action - Fields of Glory (Europe)",
-      "manufacturer": "ZootFly",
+      "developer": "ZootFly",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Panzer Front Ausf.B (Europe)",
-      "manufacturer": "Enterbrain",
+      "developer": "Enterbrain",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Radio Helicopter (Europe)",
-      "manufacturer": "Tomcat System",
+      "developer": "Tomcat System",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Radio Helicopter II (Europe)",
-      "manufacturer": "Aqua Systems",
+      "developer": "Aqua Systems",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "RC Sports - Copter Challenge (Europe)",
-      "manufacturer": "Xicat Interactive",
+      "developer": "Xicat Interactive",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Rebel Raiders - Operation Nighthawk (USA)",
-      "manufacturer": "Kando Games",
+      "developer": "Kando Games",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Red Baron (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Robot Alchemic Drive (USA)",
-      "manufacturer": "Sandlot",
+      "developer": "Sandlot",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "S.L.A.I. - Steel Lancer Arena International (USA)",
-      "manufacturer": "Genki",
+      "developer": "Genki",
       "year": 2005,
       "tags": ["sim"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Secret Weapons Over Normandy (USA)",
-      "manufacturer": "Totally Games",
+      "developer": "Totally Games",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Silent Line - Armored Core (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Sky Odyssey (USA)",
-      "manufacturer": "CAProduction",
+      "developer": "CAProduction",
       "year": 2000,
       "tags": ["sim"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Space War Attack (Europe)",
-      "manufacturer": "Bit Town",
+      "developer": "Bit Town",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Star Trek - Encounters (USA)",
-      "manufacturer": "4J Studios",
+      "developer": "4J Studios",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Star Trek - Shattered Universe (USA)",
-      "manufacturer": "Starsphere Interactive",
+      "developer": "Starsphere Interactive",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Star Wars - Jedi Starfighter (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Star Wars - Starfighter (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Steam Express (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["sim"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Sub Rebellion (USA)",
-      "manufacturer": "Racjin",
+      "developer": "Racjin",
       "year": 2002,
       "tags": ["sim"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Tank Elite (Europe)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2004,
       "tags": ["sim"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Thunderstrike - Operation Phoenix (USA)",
-      "manufacturer": "Core Design Ltd.",
+      "developer": "Core Design Ltd.",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Top Gun (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2007,
       "tags": ["sim"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Top Gun - Combat Zones (USA)",
-      "manufacturer": "Titus Software",
+      "developer": "Titus Software",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Urban Constructor (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2008,
       "tags": ["sim"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Warship Gunner 2 (USA)",
-      "manufacturer": "Micro Cabin",
+      "developer": "Micro Cabin",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "WWI - Aces of the Sky (Europe)",
-      "manufacturer": "Naps Team",
+      "developer": "Naps Team",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "WWII - Battle Over Europe (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2007,
       "tags": ["sim"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "WWII - Battle Over The Pacific (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2006,
       "tags": ["sim"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Zone of the Enders (USA)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2001,
       "tags": ["sim"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Zone of the Enders - The 2nd Runner (USA)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2003,
       "tags": ["sim"],
       "picture": [],

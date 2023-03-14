@@ -2,7 +2,7 @@
   "platform": [
     {
       "name": "Agent Hugo (Europe)",
-      "manufacturer": "ITE Media",
+      "developer": "ITE Media",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Agent Hugo - Hula Holiday (Europe)",
-      "manufacturer": "Attractive Games",
+      "developer": "Attractive Games",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Agent Hugo - Lemoon Twist (Europe)",
-      "manufacturer": "Coyote Console",
+      "developer": "Coyote Console",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Agent Hugo - RoboRumble (Europe)",
-      "manufacturer": "ITE Media",
+      "developer": "ITE Media",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "American Tail, An (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Animaniacs - The Great Edgar Hunt (Europe)",
-      "manufacturer": "Warthog",
+      "developer": "Warthog",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ant Bully, The (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Anubis II (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Ape Escape 2 (USA)",
-      "manufacturer": "SCE Japan Studio",
+      "developer": "SCE Japan Studio",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Ape Escape 3 (USA)",
-      "manufacturer": "SCE Japan Studio",
+      "developer": "SCE Japan Studio",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Asterix & Obelix XXL2 - Mission - Las Vegum (Europe)",
-      "manufacturer": "Etranges Libellules",
+      "developer": "Etranges Libellules",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Asterix at the Olympic Games (Europe)",
-      "manufacturer": "Etranges Libellules",
+      "developer": "Etranges Libellules",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Azur & Asmar (Europe)",
-      "manufacturer": "Wizarbox",
+      "developer": "Wizarbox",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Bionicle (USA)",
-      "manufacturer": "Argonaut Games",
+      "developer": "Argonaut Games",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Brave - The Search for Spirit Dancer (USA)",
-      "manufacturer": "VIS Entertainment",
+      "developer": "VIS Entertainment",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "CID The Dummy (USA)",
-      "manufacturer": "Twelve Games",
+      "developer": "Twelve Games",
       "year": 2009,
       "tags": ["platform"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Cocoto Platform Jumper (Europe)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Crash - Mind Over Mutant (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Crash Bandicoot - The Wrath of Cortex (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Crash Twinsanity (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Disney's Chicken Little (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Disney's Donald Duck - Goin' Quackers (USA)",
-      "manufacturer": "Disney Interactive Studios",
+      "developer": "Disney Interactive Studios",
       "year": 2000,
       "tags": ["platform"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Disney's Kim Possible - What's the Switch (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Disney's Stitch - Experiment 626 (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Disney's The Haunted Mansion (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure (USA)",
-      "manufacturer": "Phoenix Games Studio",
+      "developer": "Phoenix Games Studio",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Dora the Explorer - Dora Saves the Snow Princess (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Dr. Muto (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Dragon's Lair 3D (Europe)",
-      "manufacturer": "Dragonstone",
+      "developer": "Dragonstone",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Ed, Edd n Eddy - The Mis-Edventures (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "El Tigre - The Adventures of Manny Rivera (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Evil Twin - Cyprien's Chronicles (Europe)",
-      "manufacturer": "In Utero",
+      "developer": "In Utero",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Fairly OddParents! Shadow Showdown, The (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Flushed Away (USA)",
-      "manufacturer": "Monkey Bar Games",
+      "developer": "Monkey Bar Games",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Frogger - Ancient Shadow (USA)",
-      "manufacturer": "Hudson Soft",
+      "developer": "Hudson Soft",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Frogger - The Great Quest (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Frogger Beyond (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Frogger's Adventures - The Rescue (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Futurama (USA)",
-      "manufacturer": "UDS",
+      "developer": "UDS",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Garfield - Saving Arlene (Europe)",
-      "manufacturer": "EKO Software",
+      "developer": "EKO Software",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Garfield 2 (Europe)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "George of the Jungle and the Search for the Secret (USA)",
-      "manufacturer": "Crave",
+      "developer": "Crave",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Haven - Call of the King (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Heracles - Battle With The Gods (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Hugo - Magic In The Troll Woods (Europe)",
-      "manufacturer": "Attractive Games",
+      "developer": "Attractive Games",
       "year": 2009,
       "tags": ["platform"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "I-Ninja (USA)",
-      "manufacturer": "Argonaut Games",
+      "developer": "Argonaut Games",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Ice Age 2 - The Meltdown (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Impossible Mission (Europe)",
-      "manufacturer": "System 3",
+      "developer": "System 3",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Incredibles, The - Rise of the Underminer (USA)",
-      "manufacturer": "Heavy Iron Studios",
+      "developer": "Heavy Iron Studios",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Inspector Gadget - Mad Robots Invasion (Europe)",
-      "manufacturer": "Silmarils",
+      "developer": "Silmarils",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Iron Chef (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Jak 3 (USA)",
-      "manufacturer": "Naughty Dog",
+      "developer": "Naughty Dog",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Jak and Daxter - The Lost Frontier (USA)",
-      "manufacturer": "High Impact Games",
+      "developer": "High Impact Games",
       "year": 2009,
       "tags": ["platform"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Jak and Daxter - The Precursor Legacy (USA)",
-      "manufacturer": "Naughty Dog",
+      "developer": "Naughty Dog",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Jak II (USA)",
-      "manufacturer": "Naughty Dog",
+      "developer": "Naughty Dog",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "James Pond - Codename Robocod (Europe)",
-      "manufacturer": "Gameware Development",
+      "developer": "Gameware Development",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Jimmy Neutron Boy Genius (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Kao the Kangaroo Round 2 (USA)",
-      "manufacturer": "Tate Interactive",
+      "developer": "Tate Interactive",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "Klonoa 2 - Lunatea's Veil (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Kung Fu Panda (USA)",
-      "manufacturer": "Xpec",
+      "developer": "Xpec",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Legend of Spyro, The - A New Beginning (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Legend of Spyro, The - Dawn of the Dragon (USA)",
-      "manufacturer": "Etranges Libellules",
+      "developer": "Etranges Libellules",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Legend of Spyro, The - The Eternal Night (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Lemony Snicket's A Series of Unfortunate Events (USA)",
-      "manufacturer": "Adrenium",
+      "developer": "Adrenium",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Looney Tunes - Back in Action (USA)",
-      "manufacturer": "Warthog",
+      "developer": "Warthog",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Madagascar (USA)",
-      "manufacturer": "Toys for Bob",
+      "developer": "Toys for Bob",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Malice (USA)",
-      "manufacturer": "Argonaut Games",
+      "developer": "Argonaut Games",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Maximo - Ghosts to Glory (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Maximo vs Army of Zin (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Mega Man X7 (USA)",
-      "manufacturer": "Valuewave Co.,Ltd.",
+      "developer": "Valuewave Co.,Ltd.",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "Mega Man X8 (USA)",
-      "manufacturer": "Valuewave Co.,Ltd.",
+      "developer": "Valuewave Co.,Ltd.",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Mr. Bean (Europe)",
-      "manufacturer": "Beyond Reality",
+      "developer": "Beyond Reality",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Myth Makers - Trixie in Toyland (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Nicktoons - Attack of the Toybots (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "Open Season (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Over the Hedge (USA)",
-      "manufacturer": "Edge of Reality",
+      "developer": "Edge of Reality",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "Pac-Man World 2 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Pac-Man World 3 (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Piglet's Big Game (USA)",
-      "manufacturer": "Doki Denki",
+      "developer": "Doki Denki",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Pitfall - The Lost Expedition (USA)",
-      "manufacturer": "Edge of Reality",
+      "developer": "Edge of Reality",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Portal Runner (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Psychonauts (USA)",
-      "manufacturer": "BudCat",
+      "developer": "BudCat",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Ratatouille (USA)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Ratchet & Clank (USA)",
-      "manufacturer": "Insomniac Games",
+      "developer": "Insomniac Games",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "Ratchet & Clank - Going Commando (USA)",
-      "manufacturer": "Insomniac Games",
+      "developer": "Insomniac Games",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Ratchet & Clank - Up Your Arsenal (USA)",
-      "manufacturer": "Insomniac Games",
+      "developer": "Insomniac Games",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Rayman 2 - Revolution (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2001,
       "tags": ["platform"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "Rayman 3 - Hoodlum Havoc (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "Rayman Raving Rabbids (USA)",
-      "manufacturer": "Ubisoft Montpellier",
+      "developer": "Ubisoft Montpellier",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "Rock'N'Roll Adventures (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Rocket Power - Beach Bandits (USA)",
-      "manufacturer": "Evolution Games",
+      "developer": "Evolution Games",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "Ruff Trigger - The Vanocore Conspiracy (USA)",
-      "manufacturer": "Playstos Entertainment",
+      "developer": "Playstos Entertainment",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "Rugrats - Royal Ransom (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "Samurai Jack - The Shadow of Aku (USA)",
-      "manufacturer": "Adrenium",
+      "developer": "Adrenium",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -857,7 +857,7 @@
     },
     {
       "name": "Scaler (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -866,7 +866,7 @@
     },
     {
       "name": "Scooby-Doo! and the Spooky Swamp (USA)",
-      "manufacturer": "Torus Games",
+      "developer": "Torus Games",
       "year": 2010,
       "tags": ["platform"],
       "picture": [],
@@ -875,7 +875,7 @@
     },
     {
       "name": "Scooby-Doo! Night of 100 Frights (USA)",
-      "manufacturer": "Heavy Iron Studios",
+      "developer": "Heavy Iron Studios",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -884,7 +884,7 @@
     },
     {
       "name": "Scooby-Doo! Unmasked (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -893,7 +893,7 @@
     },
     {
       "name": "Secret Agent Clank (USA)",
-      "manufacturer": "Sanzaru Games",
+      "developer": "Sanzaru Games",
       "year": 2009,
       "tags": ["platform"],
       "picture": [],
@@ -902,7 +902,7 @@
     },
     {
       "name": "Shadow the Hedgehog (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -911,7 +911,7 @@
     },
     {
       "name": "Shark Tale (USA)",
-      "manufacturer": "Edge of Reality",
+      "developer": "Edge of Reality",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -920,7 +920,7 @@
     },
     {
       "name": "Shrek 2 (USA)",
-      "manufacturer": "Luxoflux, Inc.",
+      "developer": "Luxoflux, Inc.",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -929,7 +929,7 @@
     },
     {
       "name": "Simpsons Game, The (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -938,7 +938,7 @@
     },
     {
       "name": "Sitting Ducks (USA)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -947,7 +947,7 @@
     },
     {
       "name": "Sly 2 - Band of Thieves (USA)",
-      "manufacturer": "Sucker Punch",
+      "developer": "Sucker Punch",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -956,7 +956,7 @@
     },
     {
       "name": "Sly 3 - Honor Among Thieves (USA)",
-      "manufacturer": "Sucker Punch",
+      "developer": "Sucker Punch",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -965,7 +965,7 @@
     },
     {
       "name": "Sly Cooper and the Thievius Raccoonus (USA)",
-      "manufacturer": "Sucker Punch",
+      "developer": "Sucker Punch",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -974,7 +974,7 @@
     },
     {
       "name": "Sonic Heroes (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -983,7 +983,7 @@
     },
     {
       "name": "Space Chimps (USA)",
-      "manufacturer": "Red Tribe",
+      "developer": "Red Tribe",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -992,7 +992,7 @@
     },
     {
       "name": "Spider-Man 3 (USA)",
-      "manufacturer": "Vicarious Visions",
+      "developer": "Vicarious Visions",
       "year": 2007,
       "tags": ["platform"],
       "picture": [],
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "SpongeBob SquarePants - Battle for Bikini Bottom (USA)",
-      "manufacturer": "Heavy Iron Studios",
+      "developer": "Heavy Iron Studios",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "SpongeBob SquarePants - Creature from the Krusty Krab (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "SpongeBob SquarePants - Revenge of the Flying Dutchman (USA)",
-      "manufacturer": "Big Sky Software",
+      "developer": "Big Sky Software",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "SpongeBob SquarePants Movie, The (USA)",
-      "manufacturer": "Heavy Iron Studios",
+      "developer": "Heavy Iron Studios",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "Spy vs. Spy (Europe)",
-      "manufacturer": "WayForward",
+      "developer": "WayForward",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "Spyro - A Hero's Tail (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "Spyro - Enter the Dragonfly (USA)",
-      "manufacturer": "Check Six Games",
+      "developer": "Check Six Games",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "Stuart Little 3 - Big Photo Adventure (USA)",
-      "manufacturer": "Magenta Software",
+      "developer": "Magenta Software",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -1073,7 +1073,7 @@
     },
     {
       "name": "Super Farm (Europe)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "Super Monkey Ball Adventure (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -1091,7 +1091,7 @@
     },
     {
       "name": "Tak - The Great Juju Challenge (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -1100,7 +1100,7 @@
     },
     {
       "name": "Tak 2 - The Staff of Dreams (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -1109,7 +1109,7 @@
     },
     {
       "name": "Tak and the Power of Juju (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -1118,7 +1118,7 @@
     },
     {
       "name": "Tale of Despereaux, The (USA)",
-      "manufacturer": "Brash Entertainment",
+      "developer": "Brash Entertainment",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -1127,7 +1127,7 @@
     },
     {
       "name": "Taz Wanted (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -1136,7 +1136,7 @@
     },
     {
       "name": "Tokobot Plus - Mysteries of the Karakuri (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2006,
       "tags": ["platform"],
       "picture": [],
@@ -1145,7 +1145,7 @@
     },
     {
       "name": "Ty the Tasmanian Tiger (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "Ty the Tasmanian Tiger 2 - Bush Rescue (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2004,
       "tags": ["platform"],
       "picture": [],
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2005,
       "tags": ["platform"],
       "picture": [],
@@ -1172,7 +1172,7 @@
     },
     {
       "name": "Vexx (USA)",
-      "manufacturer": "Acclaim Studios Austin",
+      "developer": "Acclaim Studios Austin",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -1181,7 +1181,7 @@
     },
     {
       "name": "WALL-E (USA)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2008,
       "tags": ["platform"],
       "picture": [],
@@ -1190,7 +1190,7 @@
     },
     {
       "name": "Wallace & Gromit in Project Zoo (USA)",
-      "manufacturer": "Frontier Developments",
+      "developer": "Frontier Developments",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -1199,7 +1199,7 @@
     },
     {
       "name": "Whiplash (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2003,
       "tags": ["platform"],
       "picture": [],
@@ -1208,7 +1208,7 @@
     },
     {
       "name": "Woody Woodpecker - Escape from Buzz Buzzard Park (USA)",
-      "manufacturer": "EKO Software",
+      "developer": "EKO Software",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],
@@ -1217,7 +1217,7 @@
     },
     {
       "name": "Zapper (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2002,
       "tags": ["platform"],
       "picture": [],

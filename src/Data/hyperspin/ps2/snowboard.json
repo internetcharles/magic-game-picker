@@ -2,7 +2,7 @@
   "snowboard": [
     {
       "name": "Cool Boarders 2001 (USA)",
-      "manufacturer": "Idol Minds",
+      "developer": "Idol Minds",
       "year": 2001,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Dark Summit (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2001,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "ESPN Winter X - Games Snowboarding (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2000,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "ESPN Winter X - Games Snowboarding 2002 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Evolution Snowboarding (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Jonny Moseley Mad Trix (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2001,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "RTL Ski Jumping 2003 (Germany)",
-      "manufacturer": "RTL",
+      "developer": "RTL",
       "year": 2003,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Shaun Palmer's Pro Snowboarder (USA)",
-      "manufacturer": "Dearsoft",
+      "developer": "Dearsoft",
       "year": 2001,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Shaun White Snowboarding (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2008,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Sky Surfer (Europe)",
-      "manufacturer": "Toka",
+      "developer": "Toka",
       "year": 2001,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Snow Rider (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Snowboard Racer 2 (Europe)",
-      "manufacturer": "Atelier Double",
+      "developer": "Atelier Double",
       "year": 2003,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "SSX (USA)",
-      "manufacturer": "EA Sports Big",
+      "developer": "EA Sports Big",
       "year": 2000,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "SSX 3 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2003,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "SSX On Tour (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2005,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "SSX Tricky (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2001,
       "tags": ["sports", "snowboard", "XTREME", "fake", "winter"],
       "picture": [],

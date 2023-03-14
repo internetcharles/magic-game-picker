@@ -2,7 +2,7 @@
   "minigames": [
     {
       "name": "Dynamite 100 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["mini"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Que pasa Neng! El videojuego (Spain)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["mini"],
       "picture": [],

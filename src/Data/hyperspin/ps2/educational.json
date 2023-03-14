@@ -2,7 +2,7 @@
   "educational": [
     {
       "name": "Clever Kids - Dino Land (Europe)",
-      "manufacturer": "Gamerholix",
+      "developer": "Gamerholix",
       "year": 2007,
       "tags": ["educational"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Clever Kids - Pony World (Europe)",
-      "manufacturer": "Gamerholix",
+      "developer": "Gamerholix",
       "year": 2007,
       "tags": ["educational"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Countryside Bears (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["educational"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Dalmatians 3 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["educational"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Dinosaur Adventure (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["educational"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Dora the Explorer - Dora Saves the Crystal Kingdom (USA)",
-      "manufacturer": "Take - Two Interactive",
+      "developer": "Take - Two Interactive",
       "year": 2009,
       "tags": ["educational"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Franklin - A Birthday Surprise (USA)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2006,
       "tags": ["educational"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Konami Kids Playground - Alphabet Circus (USA)",
-      "manufacturer": "ImaginEngine",
+      "developer": "ImaginEngine",
       "year": 2007,
       "tags": ["educational"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Konami Kids Playground - Dinosaurs - Shapes & Colors (USA)",
-      "manufacturer": "ImaginEngine",
+      "developer": "ImaginEngine",
       "year": 2007,
       "tags": ["educational"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Konami Kids Playground - Frogger Hop, Skip & Jumpin' Fun (USA)",
-      "manufacturer": "ImaginEngine",
+      "developer": "ImaginEngine",
       "year": 2007,
       "tags": ["educational"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Konami Kids Playground - Toy Pals Fun with Numbers (USA)",
-      "manufacturer": "ImaginEngine",
+      "developer": "ImaginEngine",
       "year": 2007,
       "tags": ["educational"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Ni Hao, Kai-Lan - Super Game Day (USA)",
-      "manufacturer": "Take - Two Interactive",
+      "developer": "Take - Two Interactive",
       "year": 2009,
       "tags": ["educational"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Noddy and the Magic Book (Europe)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2006,
       "tags": ["educational"],
       "picture": [],

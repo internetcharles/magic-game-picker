@@ -2,7 +2,7 @@
   "skateboard": [
     {
       "name": "Aggressive Inline (USA)",
-      "manufacturer": "Z - Axis, Ltd.",
+      "developer": "Z - Axis, Ltd.",
       "year": 2002,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Disney's Extreme Skate Adventure (USA)",
-      "manufacturer": "Toys for Bob",
+      "developer": "Toys for Bob",
       "year": 2003,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "ESPN X Games Skateboarding (USA)",
-      "manufacturer": "KCEO",
+      "developer": "KCEO",
       "year": 2001,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Evolution Skateboarding (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Simpsons Skateboarding, The (USA)",
-      "manufacturer": "The Code Monkeys",
+      "developer": "The Code Monkeys",
       "year": 2002,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Skate Attack (Europe)",
-      "manufacturer": "Play It",
+      "developer": "Play It",
       "year": 2007,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Skateboard Madness Xtreme Edition (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Tony Hawk's American Wasteland (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2005,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Tony Hawk's Downhill Jam (USA)",
-      "manufacturer": "SuperVillain Studios",
+      "developer": "SuperVillain Studios",
       "year": 2007,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Tony Hawk's Pro Skater 3 (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2001,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Tony Hawk's Pro Skater 4 (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2002,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Tony Hawk's Project 8 (USA)",
-      "manufacturer": "Shaba Games",
+      "developer": "Shaba Games",
       "year": 2006,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Tony Hawk's Proving Ground (USA)",
-      "manufacturer": "Page 44 Studios",
+      "developer": "Page 44 Studios",
       "year": 2007,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Tony Hawk's Underground (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2003,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Tony Hawk's Underground 2 (USA)",
-      "manufacturer": "Neversoft Entertainment",
+      "developer": "Neversoft Entertainment",
       "year": 2004,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Yanya Caballista - City Skater (USA)",
-      "manufacturer": "Cave",
+      "developer": "Cave",
       "year": 2001,
       "tags": ["sports", "skateboard", "XTREME", "fake"],
       "picture": [],

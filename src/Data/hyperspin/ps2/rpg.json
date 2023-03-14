@@ -2,7 +2,7 @@
   "rpg": [
     {
       "name": "Ar tonelico - Melody of Elemia (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Ar tonelico II - Melody of Metafalica (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2009,
       "tags": ["rpg"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Arc the Lad - End of Darkness (USA)",
-      "manufacturer": "Cattle Call",
+      "developer": "Cattle Call",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Arc the Lad - Twilight of the Spirits (USA)",
-      "manufacturer": "Cattle Call",
+      "developer": "Cattle Call",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Atelier Iris - Eternal Mana (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Atelier Iris 2 - The Azoth of Destiny (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Atelier Iris 3 - Grand Phantasm (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Baldur's Gate - Dark Alliance (USA)",
-      "manufacturer": "Snowblind Studios",
+      "developer": "Snowblind Studios",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Baldur's Gate - Dark Alliance II (USA)",
-      "manufacturer": "Black Isle Studios",
+      "developer": "Black Isle Studios",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Bard's Tale, The (USA)",
-      "manufacturer": "InXile Entertainment",
+      "developer": "InXile Entertainment",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Baroque (USA)",
-      "manufacturer": "Sting",
+      "developer": "Sting",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Breath of Fire - Dragon Quarter (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Champions - Return to Arms (USA)",
-      "manufacturer": "Snowblind Studios",
+      "developer": "Snowblind Studios",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Champions of Norrath (USA)",
-      "manufacturer": "Snowblind Studios",
+      "developer": "Snowblind Studios",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Colosseum - Road to Freedom (USA)",
-      "manufacturer": "Goshow",
+      "developer": "Goshow",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Dark Angel - Vampire Apocalypse (USA)",
-      "manufacturer": "Metro3D",
+      "developer": "Metro3D",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Dark Cloud (USA)",
-      "manufacturer": "Level 5",
+      "developer": "Level 5",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Dark Cloud 2 (USA)",
-      "manufacturer": "Level 5",
+      "developer": "Level 5",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Digimon World 4 (USA)",
-      "manufacturer": "Bandai",
+      "developer": "Bandai",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Digimon World Data Squad (USA)",
-      "manufacturer": "Bec",
+      "developer": "Bec",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Dokapon Kingdom (USA)",
-      "manufacturer": "Sting",
+      "developer": "Sting",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Dot Hack G.U. Vol. 1 - Rebirth (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Dot Hack G.U. Vol. 2 - Reminisce (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Dot Hack G.U. Vol. 3 - Redemption (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Dot Hack Part 1 - Infection (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Dot Hack Part 2 - Mutation (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Dot Hack Part 3 - Outbreak (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Dot Hack Part 4 - Quarantine (USA)",
-      "manufacturer": "CyberConnect2",
+      "developer": "CyberConnect2",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Dragon Quest VIII - Journey of the Cursed King (USA)",
-      "manufacturer": "Level 5",
+      "developer": "Level 5",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Drakengard (USA)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Drakengard 2 (USA)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Dual Hearts (USA)",
-      "manufacturer": "Matrix Software",
+      "developer": "Matrix Software",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Ephemeral Fantasia (USA)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Eternal Quest (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Eternal Ring (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2000,
       "tags": ["rpg"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Evergrace (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2000,
       "tags": ["rpg"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "EverQuest Online Adventures (USA)",
-      "manufacturer": "Sony Online Entertainment",
+      "developer": "Sony Online Entertainment",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "EverQuest Online Adventures - Frontiers (USA)",
-      "manufacturer": "Sony Online Entertainment",
+      "developer": "Sony Online Entertainment",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Falling Stars (USA)",
-      "manufacturer": "Ivolgamus",
+      "developer": "Ivolgamus",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Fallout - Brotherhood of Steel (USA)",
-      "manufacturer": "Interplay",
+      "developer": "Interplay",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Final Fantasy X (USA)",
-      "manufacturer": "SquareSoft",
+      "developer": "SquareSoft",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Final Fantasy X-2 (USA)",
-      "manufacturer": "SquareSoft",
+      "developer": "SquareSoft",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Final Fantasy XI (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Final Fantasy XI - Chains of Promathia (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Final Fantasy XI - Treasures of Aht Urhgan (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Final Fantasy XI - Wings of the Goddess (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Final Fantasy XII (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Forever Kingdom (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Fullmetal Alchemist 2 - Curse of the Crimson Elixir (USA)",
-      "manufacturer": "Racjin",
+      "developer": "Racjin",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Fullmetal Alchemist and the Broken Angel (USA)",
-      "manufacturer": "Racjin",
+      "developer": "Racjin",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Gauntlet - Seven Sorrows (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Graffiti Kingdom (USA)",
-      "manufacturer": "Taito Corporation",
+      "developer": "Taito Corporation",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Grandia II (USA)",
-      "manufacturer": "Game Arts",
+      "developer": "Game Arts",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Grandia III (USA) (Disc 1)",
-      "manufacturer": "Game Arts",
+      "developer": "Game Arts",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Grandia III (USA) (Disc 2)",
-      "manufacturer": "Game Arts",
+      "developer": "Game Arts",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Grandia Xtreme (USA)",
-      "manufacturer": "Game Arts",
+      "developer": "Game Arts",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Growlanser - Heritage of War (USA)",
-      "manufacturer": "Career Soft",
+      "developer": "Career Soft",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Growlanser Generations (USA) (Disc 1)",
-      "manufacturer": "Career Soft",
+      "developer": "Career Soft",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Growlanser Generations (USA) (Disc 2)",
-      "manufacturer": "Career Soft",
+      "developer": "Career Soft",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "Heroes of Might and Magic - Quest for the Dragon Bone Staff (USA)",
-      "manufacturer": "New World Computing",
+      "developer": "New World Computing",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Inuyasha - The Secret of the Cursed Mask (USA)",
-      "manufacturer": "Kamui",
+      "developer": "Kamui",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Jade Cocoon 2 (USA)",
-      "manufacturer": "Genki",
+      "developer": "Genki",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Justice League Heroes (USA)",
-      "manufacturer": "Snowblind Studios",
+      "developer": "Snowblind Studios",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "King's Field - The Ancient City (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Kingdom Hearts (USA)",
-      "manufacturer": "SquareSoft",
+      "developer": "SquareSoft",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Kingdom Hearts II (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Kingdom Hearts Re-Chain of Memories (USA)",
-      "manufacturer": "Jupiter Corporation",
+      "developer": "Jupiter Corporation",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Legaia 2 - Duel Saga (USA)",
-      "manufacturer": "Prokion",
+      "developer": "Prokion",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Legend of Alon D'ar, The (USA)",
-      "manufacturer": "Stormfront Studios",
+      "developer": "Stormfront Studios",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Lord of the Rings, The - The Third Age (USA)",
-      "manufacturer": "EA Games",
+      "developer": "EA Games",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Magic Pengel - The Quest for Color (USA)",
-      "manufacturer": "Taito Corporation",
+      "developer": "Taito Corporation",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "Magna Carta - Tears of Blood (USA)",
-      "manufacturer": "SoftMax",
+      "developer": "SoftMax",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Makai Kingdom - Chronicles of the Sacred Tome (USA)",
-      "manufacturer": "Nippon Ichi Software",
+      "developer": "Nippon Ichi Software",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Mana Khemia - Alchemists of Al-Revis (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Mana Khemia 2 - Fall of Alchemy (USA)",
-      "manufacturer": "Gust",
+      "developer": "Gust",
       "year": 2009,
       "tags": ["rpg"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "Marvel - Ultimate Alliance (USA)",
-      "manufacturer": "Raven Software",
+      "developer": "Raven Software",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Marvel - Ultimate Alliance 2 (USA)",
-      "manufacturer": "n - Space",
+      "developer": "n - Space",
       "year": 2009,
       "tags": ["rpg"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "Mega Man X - Command Mission (USA)",
-      "manufacturer": "Valuewave Co.,Ltd.",
+      "developer": "Valuewave Co.,Ltd.",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Metal Saga (USA)",
-      "manufacturer": "Crea - Tech",
+      "developer": "Crea - Tech",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Monster Lab (USA)",
-      "manufacturer": "Backbone Entertainment",
+      "developer": "Backbone Entertainment",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "MS Saga - A New Dawn (USA)",
-      "manufacturer": "Bandai",
+      "developer": "Bandai",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Musashi - Samurai Legend (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Nightmare of Druaga, The - Fushigino Dungeon (USA)",
-      "manufacturer": "Arika",
+      "developer": "Arika",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Odin Sphere (USA)",
-      "manufacturer": "Vanilla Ware",
+      "developer": "Vanilla Ware",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Okage - Shadow King (USA)",
-      "manufacturer": "Zener Works",
+      "developer": "Zener Works",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "Orphen - Scion of Sorcery (USA)",
-      "manufacturer": "Shade",
+      "developer": "Shade",
       "year": 2000,
       "tags": ["rpg"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Phantasy Star Universe (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Phantasy Star Universe - Ambition of the Illuminus (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "Radiata Stories (USA)",
-      "manufacturer": "Tri - Ace",
+      "developer": "Tri - Ace",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "Rogue Galaxy (USA)",
-      "manufacturer": "Level 5",
+      "developer": "Level 5",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "Romancing SaGa (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "RPG Maker 3 (USA)",
-      "manufacturer": "Runtime",
+      "developer": "Runtime",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "RPG Maker II (USA)",
-      "manufacturer": "Kuusou Kagaku",
+      "developer": "Kuusou Kagaku",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "Shadow Hearts (USA)",
-      "manufacturer": "Sacnoth",
+      "developer": "Sacnoth",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "Shadow Hearts - Covenant (USA) (Disc 1)",
-      "manufacturer": "Nautilus",
+      "developer": "Nautilus",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -857,7 +857,7 @@
     },
     {
       "name": "Shadow Hearts - Covenant (USA) (Disc 2)",
-      "manufacturer": "Nautilus",
+      "developer": "Nautilus",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -866,7 +866,7 @@
     },
     {
       "name": "Shadow Hearts - From the New World (USA)",
-      "manufacturer": "Nautilus",
+      "developer": "Nautilus",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -875,7 +875,7 @@
     },
     {
       "name": "Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -884,7 +884,7 @@
     },
     {
       "name": "Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2009,
       "tags": ["rpg"],
       "picture": [],
@@ -893,7 +893,7 @@
     },
     {
       "name": "Shin Megami Tensei - Digital Devil Saga (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -902,7 +902,7 @@
     },
     {
       "name": "Shin Megami Tensei - Digital Devil Saga 2 (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -911,7 +911,7 @@
     },
     {
       "name": "Shin Megami Tensei - Nocturne (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -920,7 +920,7 @@
     },
     {
       "name": "Shin Megami Tensei - Persona 3 (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -929,7 +929,7 @@
     },
     {
       "name": "Shin Megami Tensei - Persona 3 FES (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -938,7 +938,7 @@
     },
     {
       "name": "Shin Megami Tensei - Persona 4 (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2008,
       "tags": ["rpg"],
       "picture": [],
@@ -947,7 +947,7 @@
     },
     {
       "name": "Shining Force EXA (USA)",
-      "manufacturer": "Neverland",
+      "developer": "Neverland",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -956,7 +956,7 @@
     },
     {
       "name": "Shining Force Neo (USA)",
-      "manufacturer": "Neverland",
+      "developer": "Neverland",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -965,7 +965,7 @@
     },
     {
       "name": "Shining Tears (USA)",
-      "manufacturer": "Nex Entertainment",
+      "developer": "Nex Entertainment",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -974,7 +974,7 @@
     },
     {
       "name": "Star Ocean - Till the End of Time (USA) (Disc 1)",
-      "manufacturer": "Tri - Ace",
+      "developer": "Tri - Ace",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -983,7 +983,7 @@
     },
     {
       "name": "Star Ocean - Till the End of Time (USA) (Disc 2)",
-      "manufacturer": "Tri - Ace",
+      "developer": "Tri - Ace",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -992,7 +992,7 @@
     },
     {
       "name": "Steambot Chronicles (USA)",
-      "manufacturer": "Irem",
+      "developer": "Irem",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "Suikoden III (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "Suikoden IV (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "Suikoden V (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "Summoner (USA)",
-      "manufacturer": "Volition Inc.",
+      "developer": "Volition Inc.",
       "year": 2000,
       "tags": ["rpg"],
       "picture": [],
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "Summoner 2 (USA)",
-      "manufacturer": "Volition Inc.",
+      "developer": "Volition Inc.",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "Tales of Legendia (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "Tales of the Abyss (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "Tsugunai - Atonement (USA)",
-      "manufacturer": "Cattle Call",
+      "developer": "Cattle Call",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -1073,7 +1073,7 @@
     },
     {
       "name": "Unlimited Saga (USA)",
-      "manufacturer": "SquareSoft",
+      "developer": "SquareSoft",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "Valkyrie Profile 2 - Silmeria (USA)",
-      "manufacturer": "Tri - Ace",
+      "developer": "Tri - Ace",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1091,7 +1091,7 @@
     },
     {
       "name": "Virtua Quest (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -1100,7 +1100,7 @@
     },
     {
       "name": "Wild Arms 3 (USA)",
-      "manufacturer": "SCEA",
+      "developer": "SCEA",
       "year": 2002,
       "tags": ["rpg"],
       "picture": [],
@@ -1109,7 +1109,7 @@
     },
     {
       "name": "Wild Arms 4 (USA)",
-      "manufacturer": "Media Vision",
+      "developer": "Media Vision",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1118,7 +1118,7 @@
     },
     {
       "name": "Wild Arms 5 (USA)",
-      "manufacturer": "Media Vision",
+      "developer": "Media Vision",
       "year": 2007,
       "tags": ["rpg"],
       "picture": [],
@@ -1127,7 +1127,7 @@
     },
     {
       "name": "Wild Arms Alter Code-F (USA)",
-      "manufacturer": "Media Vision",
+      "developer": "Media Vision",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -1136,7 +1136,7 @@
     },
     {
       "name": "Wizardry - Tale of the Forsaken Land (USA)",
-      "manufacturer": "Racjin",
+      "developer": "Racjin",
       "year": 2001,
       "tags": ["rpg"],
       "picture": [],
@@ -1145,7 +1145,7 @@
     },
     {
       "name": "X-Men Legends (USA)",
-      "manufacturer": "Raven Software",
+      "developer": "Raven Software",
       "year": 2004,
       "tags": ["rpg"],
       "picture": [],
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "X-Men Legends II - Rise of Apocalypse (USA)",
-      "manufacturer": "Raven Software",
+      "developer": "Raven Software",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Xenosaga Episode I - Der Wille zur Macht (USA)",
-      "manufacturer": "Monolith Soft",
+      "developer": "Monolith Soft",
       "year": 2003,
       "tags": ["rpg"],
       "picture": [],
@@ -1172,7 +1172,7 @@
     },
     {
       "name": "Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 1)",
-      "manufacturer": "Monolith Soft",
+      "developer": "Monolith Soft",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -1181,7 +1181,7 @@
     },
     {
       "name": "Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2)",
-      "manufacturer": "Monolith Soft",
+      "developer": "Monolith Soft",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],
@@ -1190,7 +1190,7 @@
     },
     {
       "name": "Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1)",
-      "manufacturer": "Monolith Soft",
+      "developer": "Monolith Soft",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1199,7 +1199,7 @@
     },
     {
       "name": "Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2)",
-      "manufacturer": "Monolith Soft",
+      "developer": "Monolith Soft",
       "year": 2006,
       "tags": ["rpg"],
       "picture": [],
@@ -1208,7 +1208,7 @@
     },
     {
       "name": "Ys - The Ark of Napishtim (USA)",
-      "manufacturer": "Falcom",
+      "developer": "Falcom",
       "year": 2005,
       "tags": ["rpg"],
       "picture": [],

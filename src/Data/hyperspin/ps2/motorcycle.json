@@ -2,7 +2,7 @@
   "motorcycle": [
     {
       "name": "American Chopper (USA)",
-      "manufacturer": "Creat Studios",
+      "developer": "Creat Studios",
       "year": 2004,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "American Chopper 2 - Full Throttle (USA)",
-      "manufacturer": "Creat Studios",
+      "developer": "Creat Studios",
       "year": 2005,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Crescent Suzuki Racing - Superbikes and Super Sidecars (Europe)",
-      "manufacturer": "Kuju Entertainment",
+      "developer": "Kuju Entertainment",
       "year": 2004,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Crusty Demons (Europe)",
-      "manufacturer": "Climax Group",
+      "developer": "Climax Group",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Freestyle Metal X (USA)",
-      "manufacturer": "Deibus Studios",
+      "developer": "Deibus Studios",
       "year": 2003,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Hannspree Ten Kate Honda SBK (USA)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2007,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Harley-Davidson Motorcycles - Race to the Rally (USA)",
-      "manufacturer": "FUN Labs",
+      "developer": "FUN Labs",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Hawk Kawasaki Racing (Europe)",
-      "manufacturer": "Infusion Games",
+      "developer": "Infusion Games",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Jacked (Europe)",
-      "manufacturer": "Sproing Interactive Media",
+      "developer": "Sproing Interactive Media",
       "year": 2003,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Jeremy McGrath Supercross World (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2001,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Moto X Maniac (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Motocross Mania 3 (USA)",
-      "manufacturer": "Deibus Studios",
+      "developer": "Deibus Studios",
       "year": 2005,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "MotoGP (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2000,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "MotoGP 07 (USA)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2007,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "MotoGP 08 (USA)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2008,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "MotoGP 2 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2002,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "MotoGP 3 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2003,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "MotoGP 4 (USA)",
-      "manufacturer": "Namco Bandai Games",
+      "developer": "Namco Bandai Games",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Motorbike King (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2004,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "MTX Mototrax (USA)",
-      "manufacturer": "Left Field Productions",
+      "developer": "Left Field Productions",
       "year": 2004,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "MX 2002 featuring Ricky Carmichael (USA)",
-      "manufacturer": "Pacific Coast Power & Light",
+      "developer": "Pacific Coast Power & Light",
       "year": 2001,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "MX Rider (USA)",
-      "manufacturer": "Paradigm Entertainment",
+      "developer": "Paradigm Entertainment",
       "year": 2001,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "MX Superfly (USA)",
-      "manufacturer": "Pacific Coast Power & Light",
+      "developer": "Pacific Coast Power & Light",
       "year": 2002,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "MX Unleashed (USA)",
-      "manufacturer": "Rainbow Studios",
+      "developer": "Rainbow Studios",
       "year": 2004,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "MX World Tour Featuring Jamie Little (USA)",
-      "manufacturer": "Impulse Games",
+      "developer": "Impulse Games",
       "year": 2005,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Nitrobike (USA)",
-      "manufacturer": "Left Field Productions",
+      "developer": "Left Field Productions",
       "year": 2008,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Pro Biker 2 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Riding Spirits (USA)",
-      "manufacturer": "Spike",
+      "developer": "Spike",
       "year": 2002,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Riding Spirits II (Europe)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "SBK - Superbike World Championship (USA)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2008,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "SBK-09 - Superbike World Championship (Europe)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2009,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Speed Kings (USA)",
-      "manufacturer": "Climax Group",
+      "developer": "Climax Group",
       "year": 2003,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Super-Bikes - Riding Challenge (Europe)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Superbike GP (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Suzuki Super-Bikes II - Riding Challenge (USA)",
-      "manufacturer": "Milestone S.r.l",
+      "developer": "Milestone S.r.l",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Suzuki TT Superbikes - Real Road Racing (USA)",
-      "manufacturer": "Jester Interactive",
+      "developer": "Jester Interactive",
       "year": 2005,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Suzuki TT Superbikes - Real Road Racing Championship (USA)",
-      "manufacturer": "Jester Interactive",
+      "developer": "Jester Interactive",
       "year": 2009,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Tourist Trophy - The Real Riding Simulator (USA)",
-      "manufacturer": "Polyphony Digital",
+      "developer": "Polyphony Digital",
       "year": 2006,
       "tags": ["sports", "motorcycle"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "TT Superbikes Legends (Europe)",
-      "manufacturer": "Jester Interactive",
+      "developer": "Jester Interactive",
       "year": 2008,
       "tags": ["sports", "motorcycle"],
       "picture": [],

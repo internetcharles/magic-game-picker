@@ -2,7 +2,7 @@
   "basketball": [
     {
       "name": "AND 1 Streetball (USA)",
-      "manufacturer": "Black Ops Entertainment",
+      "developer": "Black Ops Entertainment",
       "year": 2006,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Backyard Basketball (USA)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Backyard Sports - Basketball 2007 (USA)",
-      "manufacturer": "Game Brains",
+      "developer": "Game Brains",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Basketball Xciting (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "College Hoops 2K6 (USA)",
-      "manufacturer": "2K Sports",
+      "developer": "2K Sports",
       "year": 2005,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "College Hoops 2K7 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2006,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "College Hoops 2K8 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "ESPN College Hoops (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "ESPN College Hoops 2K5 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "ESPN NBA 2K5 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "ESPN NBA 2Night (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "ESPN NBA 2Night 2002 (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "ESPN NBA Basketball (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Junior Sports Basketball (Europe)",
-      "manufacturer": "Humongous Entertainment",
+      "developer": "Humongous Entertainment",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Kidz Sports Basketball (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "NBA 06 (USA)",
-      "manufacturer": "SCEA Sports Studio",
+      "developer": "SCEA Sports Studio",
       "year": 2005,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "NBA 07 (USA)",
-      "manufacturer": "SCEA",
+      "developer": "SCEA",
       "year": 2006,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "NBA 08 (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "NBA 09 The Inside (USA)",
-      "manufacturer": "SCEA San Diego Studios",
+      "developer": "SCEA San Diego Studios",
       "year": 2008,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "NBA 2K10 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2009,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "NBA 2K11 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2010,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "NBA 2K12 (USA)",
-      "manufacturer": "Virtuos",
+      "developer": "Virtuos",
       "year": 2011,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "NBA 2K2 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "NBA 2K3 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "NBA 2K6 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2005,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "NBA 2K7 (USA)",
-      "manufacturer": "2K Sports",
+      "developer": "2K Sports",
       "year": 2006,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "NBA 2K8 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "NBA 2K9 (USA)",
-      "manufacturer": "Visual Concepts",
+      "developer": "Visual Concepts",
       "year": 2008,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "NBA Ballers (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "NBA Ballers - Phenom (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2006,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "NBA Hoopz (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "NBA Jam (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "NBA Live 06 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2005,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "NBA Live 07 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2006,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "NBA Live 08 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "NBA Live 09 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2008,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "NBA Live 2001 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "NBA Live 2002 (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "NBA Live 2003 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "NBA Live 2004 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "NBA Live 2005 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "NBA ShootOut 2001 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "NBA ShootOut 2003 (USA)",
-      "manufacturer": "SCEA",
+      "developer": "SCEA",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "NBA ShootOut 2004 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "NBA Starting Five (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "NBA Street (USA)",
-      "manufacturer": "NuFX",
+      "developer": "NuFX",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "NBA Street V3 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2005,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "NBA Street Vol. 2 (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "NCAA Basketball 09 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2008,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "NCAA College Basketball 2K3 (USA)",
-      "manufacturer": "Kush Games",
+      "developer": "Kush Games",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "NCAA Final Four 2001 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2000,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "NCAA Final Four 2002 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2001,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "NCAA Final Four 2003 (USA)",
-      "manufacturer": "Killer Game",
+      "developer": "Killer Game",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "NCAA Final Four 2004 (USA)",
-      "manufacturer": "989 Sports",
+      "developer": "989 Sports",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "NCAA March Madness 06 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2005,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "NCAA March Madness 07 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "NCAA March Madness 08 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2007,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "NCAA March Madness 2002 (USA)",
-      "manufacturer": "NuFX",
+      "developer": "NuFX",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "NCAA March Madness 2003 (USA)",
-      "manufacturer": "NuFX",
+      "developer": "NuFX",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "NCAA March Madness 2004 (USA)",
-      "manufacturer": "NuFX",
+      "developer": "NuFX",
       "year": 2003,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "NCAA March Madness 2005 (USA)",
-      "manufacturer": "EA Canada",
+      "developer": "EA Canada",
       "year": 2004,
       "tags": ["sports", "basketball"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Street Hoops (USA)",
-      "manufacturer": "Black Ops Entertainment",
+      "developer": "Black Ops Entertainment",
       "year": 2002,
       "tags": ["sports", "basketball"],
       "picture": [],

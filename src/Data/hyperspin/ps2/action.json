@@ -2,7 +2,7 @@
   "action": [
     {
       "name": "007 - From Russia with Love (USA)",
-      "manufacturer": "EA Redwood Shores",
+      "developer": "EA Redwood Shores",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "24 - The Game (USA)",
-      "manufacturer": "SCE Studio Cambridge",
+      "developer": "SCE Studio Cambridge",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "50 Cent - Bulletproof (USA)",
-      "manufacturer": "Genuine Games",
+      "developer": "Genuine Games",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Ace Lightning (Europe)",
-      "manufacturer": "BBC Multimedia",
+      "developer": "BBC Multimedia",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Adiboo and the Energy Thieves (Europe)",
-      "manufacturer": "Coktel Vision",
+      "developer": "Coktel Vision",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Aeon Flux (USA)",
-      "manufacturer": "Terminal Reality",
+      "developer": "Terminal Reality",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Alias (USA)",
-      "manufacturer": "Acclaim Studios Cheltenham",
+      "developer": "Acclaim Studios Cheltenham",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Aliens in the Attic (USA)",
-      "manufacturer": "Revistronic",
+      "developer": "Revistronic",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Aqua Teen Hunger Force - Zombie Ninja Pro-Am (USA)",
-      "manufacturer": "Creat Studios",
+      "developer": "Creat Studios",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Assault Suits Valken (Europe)",
-      "manufacturer": "Psikyo",
+      "developer": "Psikyo",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Astro Boy (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Astro Boy - The Video Game (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Avatar - The Last Airbender (USA)",
-      "manufacturer": "THQ Australia",
+      "developer": "THQ Australia",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Avatar - The Last Airbender - Into the Inferno (USA)",
-      "manufacturer": "THQ Australia",
+      "developer": "THQ Australia",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Avatar - The Last Airbender - The Burning Earth (USA)",
-      "manufacturer": "THQ Australia",
+      "developer": "THQ Australia",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Bakugan - Battle Brawlers (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Barbie in The 12 Dancing Princesses (USA)",
-      "manufacturer": "Blue Monkey Studios",
+      "developer": "Blue Monkey Studios",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Barnyard (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Batman - Vengeance (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Bee Movie Game (USA)",
-      "manufacturer": "Beenox",
+      "developer": "Beenox",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Ben 10 - Alien Force (USA)",
-      "manufacturer": "Monkey Bar Games",
+      "developer": "Monkey Bar Games",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Ben 10 Alien Force - Vilgax Attacks (USA)",
-      "manufacturer": "Papaya Studios",
+      "developer": "Papaya Studios",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Ben 10 Ultimate Alien - Cosmic Destruction (USA)",
-      "manufacturer": "Papaya Studios",
+      "developer": "Papaya Studios",
       "year": 2010,
       "tags": ["action"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Beverly Hills Cop (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Bionicle Heroes (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Blade II (USA)",
-      "manufacturer": "Mucky Foot Productions",
+      "developer": "Mucky Foot Productions",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Blood Omen 2 - The Legacy of Kain Series (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Blood Will Tell - Tezuka Osamu's Dororo (USA)",
-      "manufacturer": "Sega",
+      "developer": "Sega",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Bob the Builder - Festival of Fun (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Bob the Builder Eye Toy (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Bratz - Girlz Really Rock (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Buccaneer (Europe)",
-      "manufacturer": "Essential Games",
+      "developer": "Essential Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Bully (USA)",
-      "manufacturer": "Rockstar Vancouver",
+      "developer": "Rockstar Vancouver",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Bust-A-Bloc (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Cartoon Kingdom (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Casper and The Ghostly Trio (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Castlevania - Curse of Darkness (USA)",
-      "manufacturer": "konami",
+      "developer": "konami",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Castlevania - Lament of Innocence (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Castleween (Europe)",
-      "manufacturer": "Kalisto",
+      "developer": "Kalisto",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Catwoman (USA)",
-      "manufacturer": "Argonaut Games",
+      "developer": "Argonaut Games",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Chaos Legion (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Charlotte's Web (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Code Lyoko - Quest for Infinity (USA)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "Cold Fear (USA)",
-      "manufacturer": "Darkworks",
+      "developer": "Darkworks",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Combat Ace (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Conan (Europe)",
-      "manufacturer": "Cauldron Ltd.",
+      "developer": "Cauldron Ltd.",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Constantine (USA)",
-      "manufacturer": "Bits Studios",
+      "developer": "Bits Studios",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Covert Command (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Crash of the Titans (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Crazy Chicken X (Europe)",
-      "manufacturer": "Sproing Interactive Media",
+      "developer": "Sproing Interactive Media",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Curse - The Eye of Isis (Europe)",
-      "manufacturer": "Asylum Entertainment",
+      "developer": "Asylum Entertainment",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "Cy Girls (USA) (Disc 1)",
-      "manufacturer": "Asylum Entertainment",
+      "developer": "Asylum Entertainment",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "Cy Girls (USA) (Disc 2)",
-      "manufacturer": "Asylum Entertainment",
+      "developer": "Asylum Entertainment",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Da Vinci Code, The (USA)",
-      "manufacturer": "Double Helix Games",
+      "developer": "Double Helix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Dawn of Mana (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Dead Eye Jim (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "Deadly Strike (Europe)",
-      "manufacturer": "Psyworks Co. Ltd.",
+      "developer": "Psyworks Co. Ltd.",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Deep Water (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Demolition Girl (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "Desi Adda - Games of India (India)",
-      "manufacturer": "Gameshastra Inc.",
+      "developer": "Gameshastra Inc.",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Despicable Me (USA)",
-      "manufacturer": "Monkey Bar Games",
+      "developer": "Monkey Bar Games",
       "year": 2010,
       "tags": ["action"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Destroy All Humans! (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Destroy All Humans! 2 (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Deus Ex - The Conspiracy (USA)",
-      "manufacturer": "Ion Storm",
+      "developer": "Ion Storm",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Dirge of Cerberus - Final Fantasy VII (USA)",
-      "manufacturer": "Square Enix",
+      "developer": "Square Enix",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Disney G-Force (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Disney Move (Europe)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Disney's Meet the Robinsons (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Disney's Peter Pan - The Legend of Never-Land (Europe)",
-      "manufacturer": "Disney Interactive Studios",
+      "developer": "Disney Interactive Studios",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Disney's Tarzan Untamed (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Disney's Treasure Planet (USA)",
-      "manufacturer": "Bizarre Creations",
+      "developer": "Bizarre Creations",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "DNA - Dark Native Apostle (Europe)",
-      "manufacturer": "Hudson",
+      "developer": "Hudson",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Donkey Xote (Europe)",
-      "manufacturer": "Virgin Play",
+      "developer": "Virgin Play",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Dora the Explorer - Dora Saves the Mermaids (USA)",
-      "manufacturer": "Take - Two Interactive",
+      "developer": "Take - Two Interactive",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Dr. Seuss' The Cat in the Hat (USA)",
-      "manufacturer": "Magenta Software",
+      "developer": "Magenta Software",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "Enter the Matrix (USA)",
-      "manufacturer": "Shiny Entertainment",
+      "developer": "Shiny Entertainment",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Extermination (USA)",
-      "manufacturer": "Deep Space",
+      "developer": "Deep Space",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "Extreme Sprint 3010 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "EyeToy - Operation Spy (USA)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "EyeToy Play - PomPom Party (Europe)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Fairly OddParents! Breakin' Da Rules, The (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "Fantastic Four - Rise of the Silver Surfer (USA)",
-      "manufacturer": "7 Studios",
+      "developer": "7 Studios",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Fatal Frame (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Fatal Frame II - Crimson Butterfly (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Fatal Frame III - The Tormented (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "FightBox (Europe)",
-      "manufacturer": "Gamezlab",
+      "developer": "Gamezlab",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Fighting Angels (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Fighting Fury (Europe)",
-      "manufacturer": "Tomy Corporation",
+      "developer": "Tomy Corporation",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "Final Armada (Europe)",
-      "manufacturer": "I - Imagine",
+      "developer": "I - Imagine",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "Finny the Fish & the Seven Waters (USA)",
-      "manufacturer": "SCEI",
+      "developer": "SCEI",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "Fire Heroes (Europe)",
-      "manufacturer": "Spike",
+      "developer": "Spike",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Firefighter F.D. 18 (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "Forbidden Siren 2 (Europe)",
-      "manufacturer": "SCE Japan Studio",
+      "developer": "SCE Japan Studio",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "Frank Herbert's Dune (Europe)",
-      "manufacturer": "WideScreen Games",
+      "developer": "WideScreen Games",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "G.I. Joe - The Rise of Cobra (USA)",
-      "manufacturer": "Double Helix Games",
+      "developer": "Double Helix Games",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -857,7 +857,7 @@
     },
     {
       "name": "Galerians - Ash (USA)",
-      "manufacturer": "Polygon Magic",
+      "developer": "Polygon Magic",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -866,7 +866,7 @@
     },
     {
       "name": "Garfield (Europe)",
-      "manufacturer": "The Code Monkeys",
+      "developer": "The Code Monkeys",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -875,7 +875,7 @@
     },
     {
       "name": "Garfield - Lasagna World Tour (USA)",
-      "manufacturer": "EKO Software",
+      "developer": "EKO Software",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -884,7 +884,7 @@
     },
     {
       "name": "Gecko Blaster (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -893,7 +893,7 @@
     },
     {
       "name": "Genji - Dawn of the Samurai (USA)",
-      "manufacturer": "Game Republic",
+      "developer": "Game Republic",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -902,7 +902,7 @@
     },
     {
       "name": "Getaway - Black Monday, The (USA)",
-      "manufacturer": "SCEE London Studio",
+      "developer": "SCEE London Studio",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -911,7 +911,7 @@
     },
     {
       "name": "Getaway, The (USA)",
-      "manufacturer": "Team Soho",
+      "developer": "Team Soho",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -920,7 +920,7 @@
     },
     {
       "name": "Ghost Rider (USA)",
-      "manufacturer": "Climax Group",
+      "developer": "Climax Group",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -929,7 +929,7 @@
     },
     {
       "name": "Ghost Vibration (Europe)",
-      "manufacturer": "Artoon",
+      "developer": "Artoon",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -938,7 +938,7 @@
     },
     {
       "name": "Ghostbusters - The Video Game (USA)",
-      "manufacturer": "War Drum Studios",
+      "developer": "War Drum Studios",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -947,7 +947,7 @@
     },
     {
       "name": "Ghosthunter (USA)",
-      "manufacturer": "SCE Studio Cambridge",
+      "developer": "SCE Studio Cambridge",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -956,7 +956,7 @@
     },
     {
       "name": "Go, Diego, Go! Great Dinosaur Rescue (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -965,7 +965,7 @@
     },
     {
       "name": "Go, Diego, Go! Safari Rescue (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -974,7 +974,7 @@
     },
     {
       "name": "God of War (USA)",
-      "manufacturer": "SCE Santa Monica",
+      "developer": "SCE Santa Monica",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -983,7 +983,7 @@
     },
     {
       "name": "God of War II (USA)",
-      "manufacturer": "SCE Santa Monica",
+      "developer": "SCE Santa Monica",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -992,7 +992,7 @@
     },
     {
       "name": "Godfather, The (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "Godzilla Unleashed (USA)",
-      "manufacturer": "Pipeworks Software, Inc.",
+      "developer": "Pipeworks Software, Inc.",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "Golden Compass, The (USA)",
-      "manufacturer": "Shiny Entertainment",
+      "developer": "Shiny Entertainment",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "Grand Theft Auto - Liberty City Stories (USA)",
-      "manufacturer": "Rockstar Leeds",
+      "developer": "Rockstar Leeds",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "Grand Theft Auto - San Andreas (USA)",
-      "manufacturer": "Rockstar North",
+      "developer": "Rockstar North",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "Grand Theft Auto - Vice City (USA)",
-      "manufacturer": "Rockstar North",
+      "developer": "Rockstar North",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "Grand Theft Auto - Vice City Stories (USA)",
-      "manufacturer": "Rockstar Leeds",
+      "developer": "Rockstar Leeds",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "Grand Theft Auto III (USA)",
-      "manufacturer": "DMA Design",
+      "developer": "DMA Design",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "Great Escape, The (USA)",
-      "manufacturer": "Pivotal Games",
+      "developer": "Pivotal Games",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1073,7 +1073,7 @@
     },
     {
       "name": "Gregory Horror Show (Europe)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "Gumball 3000 (Europe)",
-      "manufacturer": "SCi",
+      "developer": "SCi",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1091,7 +1091,7 @@
     },
     {
       "name": "Hamster Heroes (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1100,7 +1100,7 @@
     },
     {
       "name": "Hannah Montana - Spotlight World Tour (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1109,7 +1109,7 @@
     },
     {
       "name": "Hanuman - Boy Warrior (India)",
-      "manufacturer": "Aurona Technologies",
+      "developer": "Aurona Technologies",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -1118,7 +1118,7 @@
     },
     {
       "name": "Hard Knock High (Europe)",
-      "manufacturer": "Opus",
+      "developer": "Opus",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1127,7 +1127,7 @@
     },
     {
       "name": "Harry Potter and the Chamber of Secrets (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1136,7 +1136,7 @@
     },
     {
       "name": "Harry Potter and the Goblet of Fire (USA)",
-      "manufacturer": "Electronic Arts",
+      "developer": "Electronic Arts",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1145,7 +1145,7 @@
     },
     {
       "name": "Harry Potter and the Half-Blood Prince (USA)",
-      "manufacturer": "EA Bright Light",
+      "developer": "EA Bright Light",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "Harry Potter and the Order of the Phoenix (USA)",
-      "manufacturer": "EA Games",
+      "developer": "EA Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Harry Potter and the Prisoner of Azkaban (USA)",
-      "manufacturer": "EA Games",
+      "developer": "EA Games",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1172,7 +1172,7 @@
     },
     {
       "name": "Harry Potter and the Sorcerer's Stone (USA)",
-      "manufacturer": "Warthog",
+      "developer": "Warthog",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1181,7 +1181,7 @@
     },
     {
       "name": "Headhunter (USA)",
-      "manufacturer": "Amuze",
+      "developer": "Amuze",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1190,7 +1190,7 @@
     },
     {
       "name": "Headhunter - Redemption (USA)",
-      "manufacturer": "Amuze",
+      "developer": "Amuze",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1199,7 +1199,7 @@
     },
     {
       "name": "Hello Kitty - Roller Rescue (Europe)",
-      "manufacturer": "Xplosiv",
+      "developer": "Xplosiv",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1208,7 +1208,7 @@
     },
     {
       "name": "Hitman - Blood Money (USA)",
-      "manufacturer": "Io Interactive",
+      "developer": "Io Interactive",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1217,7 +1217,7 @@
     },
     {
       "name": "Hitman 2 - Silent Assassin (USA)",
-      "manufacturer": "Io Interactive",
+      "developer": "Io Interactive",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1226,7 +1226,7 @@
     },
     {
       "name": "Hobbit, The (USA)",
-      "manufacturer": "Inevitable Entertainment",
+      "developer": "Inevitable Entertainment",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1235,7 +1235,7 @@
     },
     {
       "name": "Home Alone (Europe)",
-      "manufacturer": "Blast! Entertainment Ltd",
+      "developer": "Blast! Entertainment Ltd",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1244,7 +1244,7 @@
     },
     {
       "name": "Hoppie (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1253,7 +1253,7 @@
     },
     {
       "name": "Ice Age - Dawn of the Dinosaurs (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -1262,7 +1262,7 @@
     },
     {
       "name": "Incredible Hulk, The (USA)",
-      "manufacturer": "Edge of Reality",
+      "developer": "Edge of Reality",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1271,7 +1271,7 @@
     },
     {
       "name": "Incredible Hulk, The - Ultimate Destruction (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1280,7 +1280,7 @@
     },
     {
       "name": "Incredibles, The (USA)",
-      "manufacturer": "Heavy Iron Studios",
+      "developer": "Heavy Iron Studios",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1289,7 +1289,7 @@
     },
     {
       "name": "Indiana Jones and the Emperor's Tomb (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1298,7 +1298,7 @@
     },
     {
       "name": "Indiana Jones and the Staff of Kings (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -1307,7 +1307,7 @@
     },
     {
       "name": "Iron Man (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1316,7 +1316,7 @@
     },
     {
       "name": "Iron Sea (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1325,7 +1325,7 @@
     },
     {
       "name": "Island Xtreme Stunts (USA)",
-      "manufacturer": "Silicon Dreams",
+      "developer": "Silicon Dreams",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1334,7 +1334,7 @@
     },
     {
       "name": "Jackass the Game (USA)",
-      "manufacturer": "Sidhe Interactive",
+      "developer": "Sidhe Interactive",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1343,7 +1343,7 @@
     },
     {
       "name": "Jackie Chan Adventures (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1352,7 +1352,7 @@
     },
     {
       "name": "Jaws Unleashed (USA)",
-      "manufacturer": "Appaloosa Interactive",
+      "developer": "Appaloosa Interactive",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1361,7 +1361,7 @@
     },
     {
       "name": "Jimmy Neutron - Jet Fusion (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1370,7 +1370,7 @@
     },
     {
       "name": "Johnny Bravo - Date-O-Rama! (Europe)",
-      "manufacturer": "EM Studios",
+      "developer": "EM Studios",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1379,7 +1379,7 @@
     },
     {
       "name": "Jumper - Griffin's Story (USA)",
-      "manufacturer": "Collision Studios",
+      "developer": "Collision Studios",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1388,7 +1388,7 @@
     },
     {
       "name": "Jurassic - The Hunted (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -1397,7 +1397,7 @@
     },
     {
       "name": "Just Cause (USA)",
-      "manufacturer": "Avalanche Studios",
+      "developer": "Avalanche Studios",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1406,7 +1406,7 @@
     },
     {
       "name": "Kaan - Barbarian's Blade (Europe)",
-      "manufacturer": "EKO Software",
+      "developer": "EKO Software",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1415,7 +1415,7 @@
     },
     {
       "name": "Katamari Damacy (USA)",
-      "manufacturer": "Now Production",
+      "developer": "Now Production",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1424,7 +1424,7 @@
     },
     {
       "name": "Killer7 (USA)",
-      "manufacturer": "Grasshopper Manufacture",
+      "developer": "Grasshopper Manufacture",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1433,7 +1433,7 @@
     },
     {
       "name": "King Arthur (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1442,7 +1442,7 @@
     },
     {
       "name": "Knights of the Temple - Infernal Crusade (Europe)",
-      "manufacturer": "Starbreeze",
+      "developer": "Starbreeze",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1451,7 +1451,7 @@
     },
     {
       "name": "Knights of the Temple II (Europe)",
-      "manufacturer": "Cauldron Ltd.",
+      "developer": "Cauldron Ltd.",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1460,7 +1460,7 @@
     },
     {
       "name": "Kuon (USA)",
-      "manufacturer": "From Software",
+      "developer": "From Software",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1469,7 +1469,7 @@
     },
     {
       "name": "Kya - Dark Lineage (USA)",
-      "manufacturer": "Eden Studios",
+      "developer": "Eden Studios",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1478,7 +1478,7 @@
     },
     {
       "name": "Lara Croft Tomb Raider - The Angel of Darkness (USA)",
-      "manufacturer": "Core Design Ltd.",
+      "developer": "Core Design Ltd.",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1487,7 +1487,7 @@
     },
     {
       "name": "Largo Winch - Empire Under Threat (Europe)",
-      "manufacturer": "Ubisoft Paris",
+      "developer": "Ubisoft Paris",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1496,7 +1496,7 @@
     },
     {
       "name": "Lassie (Europe)",
-      "manufacturer": "EM Studios Limited",
+      "developer": "EM Studios Limited",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1505,7 +1505,7 @@
     },
     {
       "name": "Le Avventure di Lupin III - Lupin la Morte, Zenigata l'Amore (Italy)",
-      "manufacturer": "Nex Entertainment",
+      "developer": "Nex Entertainment",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1514,7 +1514,7 @@
     },
     {
       "name": "Legacy of Kain - Defiance (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1523,7 +1523,7 @@
     },
     {
       "name": "Legend of Camelot (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1532,7 +1532,7 @@
     },
     {
       "name": "Legend of Herkules (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1541,7 +1541,7 @@
     },
     {
       "name": "Legend of Kay (USA)",
-      "manufacturer": "Neon Studios",
+      "developer": "Neon Studios",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1550,7 +1550,7 @@
     },
     {
       "name": "LEGO Batman - The Videogame (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1559,7 +1559,7 @@
     },
     {
       "name": "LEGO Star Wars - The Video Game (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1568,7 +1568,7 @@
     },
     {
       "name": "LEGO Star Wars II - The Original Trilogy (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1577,7 +1577,7 @@
     },
     {
       "name": "Life Line (USA)",
-      "manufacturer": "SCEJ",
+      "developer": "SCEJ",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1586,7 +1586,7 @@
     },
     {
       "name": "Looney Tunes - Acme Arsenal (USA)",
-      "manufacturer": "Red Tribe",
+      "developer": "Red Tribe",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1595,7 +1595,7 @@
     },
     {
       "name": "Lord of the Rings, The - Aragorn's Quest (USA)",
-      "manufacturer": "TT Fusion",
+      "developer": "TT Fusion",
       "year": 2010,
       "tags": ["action"],
       "picture": [],
@@ -1604,7 +1604,7 @@
     },
     {
       "name": "Lord of the Rings, The - The Fellowship of the Ring (USA)",
-      "manufacturer": "Surreal Software",
+      "developer": "Surreal Software",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1613,7 +1613,7 @@
     },
     {
       "name": "Lupin the 3rd - Treasure of the Sorcerer King (USA)",
-      "manufacturer": "Banpresto",
+      "developer": "Banpresto",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1622,7 +1622,7 @@
     },
     {
       "name": "Madagascar - Escape 2 Africa (USA)",
-      "manufacturer": "Toys for Bob",
+      "developer": "Toys for Bob",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1631,7 +1631,7 @@
     },
     {
       "name": "Made Man - Confessions of the Family Blood (USA)",
-      "manufacturer": "Silverback Studios",
+      "developer": "Silverback Studios",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1640,7 +1640,7 @@
     },
     {
       "name": "Mafia (USA)",
-      "manufacturer": "Illusion Softworks",
+      "developer": "Illusion Softworks",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1649,7 +1649,7 @@
     },
     {
       "name": "Maken Shao - Demon Sword (Europe)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1658,7 +1658,7 @@
     },
     {
       "name": "Mambo (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1667,7 +1667,7 @@
     },
     {
       "name": "Manhunt (USA)",
-      "manufacturer": "Rockstar North",
+      "developer": "Rockstar North",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1676,7 +1676,7 @@
     },
     {
       "name": "Manhunt 2 (USA)",
-      "manufacturer": "Rockstar London",
+      "developer": "Rockstar London",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1685,7 +1685,7 @@
     },
     {
       "name": "Marc Ecko's Getting Up - Contents Under Pressure (USA)",
-      "manufacturer": "Double Helix Games",
+      "developer": "Double Helix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1694,7 +1694,7 @@
     },
     {
       "name": "Masters of the Universe - He-Man - Defender of Grayskull (Europe)",
-      "manufacturer": "Savage Entertainment",
+      "developer": "Savage Entertainment",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1703,7 +1703,7 @@
     },
     {
       "name": "Matrix, The - Path of Neo (USA)",
-      "manufacturer": "Shiny Entertainment",
+      "developer": "Shiny Entertainment",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1712,7 +1712,7 @@
     },
     {
       "name": "MaXXed Out Racing - Nitro (Europe)",
-      "manufacturer": "D3Publisher",
+      "developer": "D3Publisher",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1721,7 +1721,7 @@
     },
     {
       "name": "Maze Action (Europe)",
-      "manufacturer": "Agetec Inc.",
+      "developer": "Agetec Inc.",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1730,7 +1730,7 @@
     },
     {
       "name": "McFarlane's Evil Prophecy (USA)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1739,7 +1739,7 @@
     },
     {
       "name": "Mercenaries - Playground of Destruction (USA)",
-      "manufacturer": "Pandemic Studios",
+      "developer": "Pandemic Studios",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1748,7 +1748,7 @@
     },
     {
       "name": "Mercenaries 2 - World in Flames (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1757,7 +1757,7 @@
     },
     {
       "name": "Metal Gear Solid 2 - Sons of Liberty (USA)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -1766,7 +1766,7 @@
     },
     {
       "name": "Metal Gear Solid 2 - Substance (USA)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1775,7 +1775,7 @@
     },
     {
       "name": "Metal Gear Solid 3 - Snake Eater (USA)",
-      "manufacturer": "KCEJ",
+      "developer": "KCEJ",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1784,7 +1784,7 @@
     },
     {
       "name": "Metal Gear Solid 3 - Subsistence (USA) (Disc 1)",
-      "manufacturer": "Aspect",
+      "developer": "Aspect",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1793,7 +1793,7 @@
     },
     {
       "name": "Metal Gear Solid 3 - Subsistence (USA) (Disc 2)",
-      "manufacturer": "Aspect",
+      "developer": "Aspect",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1802,7 +1802,7 @@
     },
     {
       "name": "Metal Gear Solid 3 - Subsistence (USA) (Disc 3)",
-      "manufacturer": "Aspect",
+      "developer": "Aspect",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1811,7 +1811,7 @@
     },
     {
       "name": "Mighty Mulan (Europe)",
-      "manufacturer": "The Code Monkeys",
+      "developer": "The Code Monkeys",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1820,7 +1820,7 @@
     },
     {
       "name": "Mission Impossible - Operation Surma (USA)",
-      "manufacturer": "Paradigm Entertainment",
+      "developer": "Paradigm Entertainment",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1829,7 +1829,7 @@
     },
     {
       "name": "Monster Hunter (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1838,7 +1838,7 @@
     },
     {
       "name": "Monster Jam (USA)",
-      "manufacturer": "Torus Games",
+      "developer": "Torus Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1847,7 +1847,7 @@
     },
     {
       "name": "Monsters vs. Aliens (USA)",
-      "manufacturer": "Beenox",
+      "developer": "Beenox",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -1856,7 +1856,7 @@
     },
     {
       "name": "Monsters, Inc. (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -1865,7 +1865,7 @@
     },
     {
       "name": "Mouse Police, The (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1874,7 +1874,7 @@
     },
     {
       "name": "Mummy Returns, The (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -1883,7 +1883,7 @@
     },
     {
       "name": "Mummy, The - The Animated Series (Europe)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -1892,7 +1892,7 @@
     },
     {
       "name": "Mummy, The - Tomb of the Dragon Emperor (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1901,7 +1901,7 @@
     },
     {
       "name": "Muppets Party Cruise (USA)",
-      "manufacturer": "Mass Media",
+      "developer": "Mass Media",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -1910,7 +1910,7 @@
     },
     {
       "name": "Myth Makers - Orbs of Doom (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1919,7 +1919,7 @@
     },
     {
       "name": "NanoBreaker (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1928,7 +1928,7 @@
     },
     {
       "name": "NARC (USA)",
-      "manufacturer": "Point of View",
+      "developer": "Point of View",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1937,7 +1937,7 @@
     },
     {
       "name": "Naruto - Uzumaki Chronicles (USA)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1946,7 +1946,7 @@
     },
     {
       "name": "Naruto - Uzumaki Chronicles 2 (USA)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -1955,7 +1955,7 @@
     },
     {
       "name": "Nicktoons - Battle for Volcano Island (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1964,7 +1964,7 @@
     },
     {
       "name": "Obscure (USA)",
-      "manufacturer": "Hydravision",
+      "developer": "Hydravision",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -1973,7 +1973,7 @@
     },
     {
       "name": "Obscure - The Aftermath (USA)",
-      "manufacturer": "Hydravision",
+      "developer": "Hydravision",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -1982,7 +1982,7 @@
     },
     {
       "name": "Onimusha - Dawn of Dreams (USA) (Disc 1)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -1991,7 +1991,7 @@
     },
     {
       "name": "Onimusha - Dawn of Dreams (USA) (Disc 2)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2000,7 +2000,7 @@
     },
     {
       "name": "Onimusha - Warlords (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2009,7 +2009,7 @@
     },
     {
       "name": "Onimusha 2 - Samurai's Destiny (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2018,7 +2018,7 @@
     },
     {
       "name": "Onimusha 3 - Demon Siege (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2027,7 +2027,7 @@
     },
     {
       "name": "Peter Jackson's King Kong - The Official Game of the Movie (USA)",
-      "manufacturer": "Ubisoft Montpellier",
+      "developer": "Ubisoft Montpellier",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2036,7 +2036,7 @@
     },
     {
       "name": "Peter Pan (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2045,7 +2045,7 @@
     },
     {
       "name": "Pilot Down - Behind Enemy Lines (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2054,7 +2054,7 @@
     },
     {
       "name": "Pirates - Legend of the Black Buccaneer (USA)",
-      "manufacturer": "WideScreen Games",
+      "developer": "WideScreen Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2063,7 +2063,7 @@
     },
     {
       "name": "Pirates - The Legend of Black Kat (USA)",
-      "manufacturer": "Westwood Studios",
+      "developer": "Westwood Studios",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2072,7 +2072,7 @@
     },
     {
       "name": "Pirates of the Caribbean - At World's End (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2081,7 +2081,7 @@
     },
     {
       "name": "Pirates of the Caribbean - The Legend of Jack Sparrow (USA)",
-      "manufacturer": "7 Studios",
+      "developer": "7 Studios",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2090,7 +2090,7 @@
     },
     {
       "name": "Police Chase Down (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2099,7 +2099,7 @@
     },
     {
       "name": "Postman Pat (Europe)",
-      "manufacturer": "The Code Monkeys",
+      "developer": "The Code Monkeys",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2108,7 +2108,7 @@
     },
     {
       "name": "Power Rangers - Super Legends - 15th Anniversary (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2117,7 +2117,7 @@
     },
     {
       "name": "Power Rangers Dino Thunder (USA)",
-      "manufacturer": "Pacific Coast Power & Light",
+      "developer": "Pacific Coast Power & Light",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2126,7 +2126,7 @@
     },
     {
       "name": "Powerpuff Girls, The - Relish Rampage (USA)",
-      "manufacturer": "VIS Entertainment",
+      "developer": "VIS Entertainment",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2135,7 +2135,7 @@
     },
     {
       "name": "Predator - Concrete Jungle (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2144,7 +2144,7 @@
     },
     {
       "name": "Primal (USA)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2153,7 +2153,7 @@
     },
     {
       "name": "Prince of Persia - The Sands of Time (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2162,7 +2162,7 @@
     },
     {
       "name": "Prince of Persia - The Two Thrones (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2171,7 +2171,7 @@
     },
     {
       "name": "Prince of Persia - Warrior Within (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2180,7 +2180,7 @@
     },
     {
       "name": "Prisoner of War (Europe)",
-      "manufacturer": "Wide Games",
+      "developer": "Wide Games",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2189,7 +2189,7 @@
     },
     {
       "name": "Project Eden (USA)",
-      "manufacturer": "Core Design Ltd.",
+      "developer": "Core Design Ltd.",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2198,7 +2198,7 @@
     },
     {
       "name": "Project Minerva Professional (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2207,7 +2207,7 @@
     },
     {
       "name": "Pryzm - Chapter One - The Dark Unicorn (USA)",
-      "manufacturer": "Digital Illusions",
+      "developer": "Digital Illusions",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2216,7 +2216,7 @@
     },
     {
       "name": "RA.ONE - The Game (India)",
-      "manufacturer": "Trine",
+      "developer": "Trine",
       "year": 2011,
       "tags": ["action"],
       "picture": [],
@@ -2225,7 +2225,7 @@
     },
     {
       "name": "Raging Blades (Europe)",
-      "manufacturer": "Pacific Century Cyber Works",
+      "developer": "Pacific Century Cyber Works",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2234,7 +2234,7 @@
     },
     {
       "name": "Rampage - Total Destruction (USA)",
-      "manufacturer": "Pipeworks Software, Inc.",
+      "developer": "Pipeworks Software, Inc.",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2243,7 +2243,7 @@
     },
     {
       "name": "Realm of the Dead (Europe)",
-      "manufacturer": "Neverland",
+      "developer": "Neverland",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2252,7 +2252,7 @@
     },
     {
       "name": "Red Ninja - End of Honor (USA)",
-      "manufacturer": "Opus",
+      "developer": "Opus",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2261,7 +2261,7 @@
     },
     {
       "name": "Red Star, The (USA)",
-      "manufacturer": "XS Games",
+      "developer": "XS Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2270,7 +2270,7 @@
     },
     {
       "name": "Reservoir Dogs (USA)",
-      "manufacturer": "Volatile Games",
+      "developer": "Volatile Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2279,7 +2279,7 @@
     },
     {
       "name": "Resident Evil 4 (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2288,7 +2288,7 @@
     },
     {
       "name": "Resident Evil Code - Veronica X (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2297,7 +2297,7 @@
     },
     {
       "name": "Resident Evil Outbreak (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2306,7 +2306,7 @@
     },
     {
       "name": "Resident Evil Outbreak File #2 (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2315,7 +2315,7 @@
     },
     {
       "name": "Resident Evil Survivor 2 - Code - Veronica (Europe)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2324,7 +2324,7 @@
     },
     {
       "name": "RLH - Run Like Hell (USA)",
-      "manufacturer": "Digital Mayhem",
+      "developer": "Digital Mayhem",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2333,7 +2333,7 @@
     },
     {
       "name": "Robin Hood - The Siege 2 (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2342,7 +2342,7 @@
     },
     {
       "name": "Robot Wars - Arenas of Destruction (Europe)",
-      "manufacturer": "Gamezlab",
+      "developer": "Gamezlab",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2351,7 +2351,7 @@
     },
     {
       "name": "Robots (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2360,7 +2360,7 @@
     },
     {
       "name": "Rogue Ops (USA)",
-      "manufacturer": "Bits Studios",
+      "developer": "Bits Studios",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2369,7 +2369,7 @@
     },
     {
       "name": "Rule of Rose (USA)",
-      "manufacturer": "Atlus Co.",
+      "developer": "Atlus Co.",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2378,7 +2378,7 @@
     },
     {
       "name": "Rygar - The Legendary Adventure (USA)",
-      "manufacturer": "Tecmo",
+      "developer": "Tecmo",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2387,7 +2387,7 @@
     },
     {
       "name": "Samurai Western (USA)",
-      "manufacturer": "Acquire",
+      "developer": "Acquire",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2396,7 +2396,7 @@
     },
     {
       "name": "Scarface - The World Is Yours (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2405,7 +2405,7 @@
     },
     {
       "name": "Scooby-Doo! Mystery Mayhem (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2414,7 +2414,7 @@
     },
     {
       "name": "Sea World - Shamu's Deep Sea Adventures (USA)",
-      "manufacturer": "Sand Grain Studios",
+      "developer": "Sand Grain Studios",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2423,7 +2423,7 @@
     },
     {
       "name": "Search & Destroy (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2432,7 +2432,7 @@
     },
     {
       "name": "Second Sight (USA)",
-      "manufacturer": "Free Radical Design",
+      "developer": "Free Radical Design",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2441,7 +2441,7 @@
     },
     {
       "name": "Secret Saturdays, The - Beasts of the 5th Sun (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -2450,7 +2450,7 @@
     },
     {
       "name": "Shadow Man - 2econd Coming (USA)",
-      "manufacturer": "Acclaim",
+      "developer": "Acclaim",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2459,7 +2459,7 @@
     },
     {
       "name": "Shadow of Rome (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2468,7 +2468,7 @@
     },
     {
       "name": "Shadow of Zorro, The (Europe)",
-      "manufacturer": "In Utero",
+      "developer": "In Utero",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2477,7 +2477,7 @@
     },
     {
       "name": "Shifters (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2486,7 +2486,7 @@
     },
     {
       "name": "Shinobido - Way of the Ninja (Europe)",
-      "manufacturer": "Acquire",
+      "developer": "Acquire",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2495,7 +2495,7 @@
     },
     {
       "name": "Shrek Smash n' Crash Racing (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2504,7 +2504,7 @@
     },
     {
       "name": "Shrek the Third (USA)",
-      "manufacturer": "Amaze Entertainment",
+      "developer": "Amaze Entertainment",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2513,7 +2513,7 @@
     },
     {
       "name": "Silent Hill - Origins (USA)",
-      "manufacturer": "Climax Group",
+      "developer": "Climax Group",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2522,7 +2522,7 @@
     },
     {
       "name": "Silent Hill - Shattered Memories (USA)",
-      "manufacturer": "Climax Group",
+      "developer": "Climax Group",
       "year": 2010,
       "tags": ["action"],
       "picture": [],
@@ -2531,7 +2531,7 @@
     },
     {
       "name": "Silent Hill 2 (Greatest Hits) (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2540,7 +2540,7 @@
     },
     {
       "name": "Silent Hill 2 (USA)",
-      "cloneof": "Silent Hill 2 (Greatest Hits) (USA)",      "manufacturer": "KCET",
+      "cloneof": "Silent Hill 2 (Greatest Hits) (USA)",      "developer": "KCET",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2549,7 +2549,7 @@
     },
     {
       "name": "Silent Hill 3 (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2558,7 +2558,7 @@
     },
     {
       "name": "Silent Hill 4 - The Room (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2567,7 +2567,7 @@
     },
     {
       "name": "Siren (USA)",
-      "manufacturer": "SCE Japan Studio",
+      "developer": "SCE Japan Studio",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2576,7 +2576,7 @@
     },
     {
       "name": "Skyscraper (Europe)",
-      "manufacturer": "Atomic Planet Entertainment",
+      "developer": "Atomic Planet Entertainment",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2585,7 +2585,7 @@
     },
     {
       "name": "Sniper Assault (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2594,7 +2594,7 @@
     },
     {
       "name": "Son of the Lion King (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2603,7 +2603,7 @@
     },
     {
       "name": "Sonic Unleashed (USA)",
-      "manufacturer": "Sonic Team",
+      "developer": "Sonic Team",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2612,7 +2612,7 @@
     },
     {
       "name": "Sopranos, The - Road to Respect (USA)",
-      "manufacturer": "7 Studios",
+      "developer": "7 Studios",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2621,7 +2621,7 @@
     },
     {
       "name": "Soul Reaver 2 (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2630,7 +2630,7 @@
     },
     {
       "name": "Space Rebellion (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2639,7 +2639,7 @@
     },
     {
       "name": "Spartan - Total Warrior (USA)",
-      "manufacturer": "Creative Assembly",
+      "developer": "Creative Assembly",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2648,7 +2648,7 @@
     },
     {
       "name": "Spawn - Armageddon (USA)",
-      "manufacturer": "Point of View",
+      "developer": "Point of View",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2657,7 +2657,7 @@
     },
     {
       "name": "Special Forces (Europe)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2666,7 +2666,7 @@
     },
     {
       "name": "Sphinx and the Cursed Mummy (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2675,7 +2675,7 @@
     },
     {
       "name": "Spider-Man - Friend or Foe (USA)",
-      "manufacturer": "Next Level Games",
+      "developer": "Next Level Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2684,7 +2684,7 @@
     },
     {
       "name": "Spider-Man - The Movie (USA)",
-      "manufacturer": "Treyarch",
+      "developer": "Treyarch",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2693,7 +2693,7 @@
     },
     {
       "name": "Spider-Man 2 (USA)",
-      "manufacturer": "Treyarch",
+      "developer": "Treyarch",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2702,7 +2702,7 @@
     },
     {
       "name": "SpongeBob SquarePants featuring Nicktoons - Globs of Doom (USA)",
-      "manufacturer": "Incinerator Games",
+      "developer": "Incinerator Games",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2711,7 +2711,7 @@
     },
     {
       "name": "SpongeBob's Atlantis SquarePantis (USA)",
-      "manufacturer": "THQ",
+      "developer": "THQ",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2720,7 +2720,7 @@
     },
     {
       "name": "Spy Fiction (USA)",
-      "manufacturer": "Access Games",
+      "developer": "Access Games",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2729,7 +2729,7 @@
     },
     {
       "name": "Star Wars - The Force Unleashed (USA)",
-      "manufacturer": "Krome Studios",
+      "developer": "Krome Studios",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2738,7 +2738,7 @@
     },
     {
       "name": "Star Wars Episode III - Revenge of the Sith (USA)",
-      "manufacturer": "Double Helix Games",
+      "developer": "Double Helix Games",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2747,7 +2747,7 @@
     },
     {
       "name": "Star Wars The Clone Wars - Republic Heroes (USA)",
-      "manufacturer": "LucasArts",
+      "developer": "LucasArts",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -2756,7 +2756,7 @@
     },
     {
       "name": "Stolen (USA)",
-      "manufacturer": "Blue 52",
+      "developer": "Blue 52",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2765,7 +2765,7 @@
     },
     {
       "name": "Strawberry Shortcake - The Sweet Dreams Game (USA)",
-      "manufacturer": "EKO Software",
+      "developer": "EKO Software",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2774,7 +2774,7 @@
     },
     {
       "name": "Street Warrior (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2783,7 +2783,7 @@
     },
     {
       "name": "Stretch Panic (USA)",
-      "manufacturer": "Treasure",
+      "developer": "Treasure",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -2792,7 +2792,7 @@
     },
     {
       "name": "Suffering, The (USA)",
-      "manufacturer": "Surreal Software",
+      "developer": "Surreal Software",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2801,7 +2801,7 @@
     },
     {
       "name": "Suffering, The - Ties That Bind (USA)",
-      "manufacturer": "Surreal Software",
+      "developer": "Surreal Software",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2810,7 +2810,7 @@
     },
     {
       "name": "Superman - Shadow of Apokolips (USA)",
-      "manufacturer": "Atari",
+      "developer": "Atari",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2819,7 +2819,7 @@
     },
     {
       "name": "Swashbucklers - Blue vs. Grey (USA)",
-      "manufacturer": "Akella",
+      "developer": "Akella",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2828,7 +2828,7 @@
     },
     {
       "name": "SWAT Siege (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2837,7 +2837,7 @@
     },
     {
       "name": "Swords of Destiny (Europe)",
-      "manufacturer": "Artoon",
+      "developer": "Artoon",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2846,7 +2846,7 @@
     },
     {
       "name": "Tak and the Guardians of Gross (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -2855,7 +2855,7 @@
     },
     {
       "name": "TD Overdrive (Europe)",
-      "manufacturer": "Pitbull Syndicate",
+      "developer": "Pitbull Syndicate",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2864,7 +2864,7 @@
     },
     {
       "name": "Teen Titans (USA)",
-      "manufacturer": "Artificial Mind and Movement",
+      "developer": "Artificial Mind and Movement",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2873,7 +2873,7 @@
     },
     {
       "name": "Tenchu - Fatal Shadows (USA)",
-      "manufacturer": "K2 LLC",
+      "developer": "K2 LLC",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2882,7 +2882,7 @@
     },
     {
       "name": "Tenchu - Wrath of Heaven (USA)",
-      "manufacturer": "K2 LLC",
+      "developer": "K2 LLC",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2891,7 +2891,7 @@
     },
     {
       "name": "Terminator 3 - Rise of the Machines (USA)",
-      "manufacturer": "Black Ops Entertainment",
+      "developer": "Black Ops Entertainment",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2900,7 +2900,7 @@
     },
     {
       "name": "Terminator, The - Dawn of Fate (USA)",
-      "manufacturer": "Paradigm Entertainment",
+      "developer": "Paradigm Entertainment",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2909,7 +2909,7 @@
     },
     {
       "name": "Thing, The (USA)",
-      "manufacturer": "Computer Artworks",
+      "developer": "Computer Artworks",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -2918,7 +2918,7 @@
     },
     {
       "name": "Thunderbirds (Europe)",
-      "manufacturer": "Pukka Games",
+      "developer": "Pukka Games",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2927,7 +2927,7 @@
     },
     {
       "name": "Tim Burton's The Nightmare Before Christmas - Oogie's Revenge (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2936,7 +2936,7 @@
     },
     {
       "name": "Tom Clancy's Splinter Cell (USA)",
-      "manufacturer": "Ubisoft Shanghai",
+      "developer": "Ubisoft Shanghai",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -2945,7 +2945,7 @@
     },
     {
       "name": "Tom Clancy's Splinter Cell - Chaos Theory (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -2954,7 +2954,7 @@
     },
     {
       "name": "Tom Clancy's Splinter Cell - Double Agent (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2963,7 +2963,7 @@
     },
     {
       "name": "Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)",
-      "manufacturer": "Ubisoft Shanghai",
+      "developer": "Ubisoft Shanghai",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -2972,7 +2972,7 @@
     },
     {
       "name": "Tomb Raider - Anniversary (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -2981,7 +2981,7 @@
     },
     {
       "name": "Tomb Raider - Legend (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -2990,7 +2990,7 @@
     },
     {
       "name": "Tomb Raider - Underworld (USA)",
-      "manufacturer": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
       "year": 2009,
       "tags": ["action"],
       "picture": [],
@@ -2999,7 +2999,7 @@
     },
     {
       "name": "Torrente 3 - The Protector (Europe)",
-      "manufacturer": "Virtual Toys",
+      "developer": "Virtual Toys",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -3008,7 +3008,7 @@
     },
     {
       "name": "Toy Story 3 (USA)",
-      "manufacturer": "Asobo Studio",
+      "developer": "Asobo Studio",
       "year": 2010,
       "tags": ["action"],
       "picture": [],
@@ -3017,7 +3017,7 @@
     },
     {
       "name": "Toys Room, The (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -3026,7 +3026,7 @@
     },
     {
       "name": "Transformers - The Game (USA)",
-      "manufacturer": "Traveller's Tales",
+      "developer": "Traveller's Tales",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -3035,7 +3035,7 @@
     },
     {
       "name": "Trapt (USA)",
-      "manufacturer": "Paon Corporation",
+      "developer": "Paon Corporation",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -3044,7 +3044,7 @@
     },
     {
       "name": "True Crime - New York City (USA)",
-      "manufacturer": "Luxoflux, Inc.",
+      "developer": "Luxoflux, Inc.",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -3053,7 +3053,7 @@
     },
     {
       "name": "True Crime - Streets of LA (USA)",
-      "manufacturer": "Luxoflux, Inc.",
+      "developer": "Luxoflux, Inc.",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -3062,7 +3062,7 @@
     },
     {
       "name": "Under the Skin (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -3071,7 +3071,7 @@
     },
     {
       "name": "V.I.P. (Europe)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -3080,7 +3080,7 @@
     },
     {
       "name": "Wallace & Gromit - Curse of the Were-Rabbit (USA)",
-      "manufacturer": "Frontier Developments",
+      "developer": "Frontier Developments",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -3089,7 +3089,7 @@
     },
     {
       "name": "Warriors of Might and Magic (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2001,
       "tags": ["action"],
       "picture": [],
@@ -3098,7 +3098,7 @@
     },
     {
       "name": "Way of the Samurai (USA)",
-      "manufacturer": "Acquire",
+      "developer": "Acquire",
       "year": 2002,
       "tags": ["action"],
       "picture": [],
@@ -3107,7 +3107,7 @@
     },
     {
       "name": "Way of the Samurai 2 (USA)",
-      "manufacturer": "Acquire",
+      "developer": "Acquire",
       "year": 2004,
       "tags": ["action"],
       "picture": [],
@@ -3116,7 +3116,7 @@
     },
     {
       "name": "We Love Katamari (USA)",
-      "manufacturer": "Now Production",
+      "developer": "Now Production",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -3125,7 +3125,7 @@
     },
     {
       "name": "WWII - Soldier (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2005,
       "tags": ["action"],
       "picture": [],
@@ -3134,7 +3134,7 @@
     },
     {
       "name": "WWII - Tank Battles (Europe)",
-      "manufacturer": "InterActive Vision Games",
+      "developer": "InterActive Vision Games",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -3143,7 +3143,7 @@
     },
     {
       "name": "X2 - Wolverine's Revenge (USA)",
-      "manufacturer": "GenePool",
+      "developer": "GenePool",
       "year": 2003,
       "tags": ["action"],
       "picture": [],
@@ -3152,7 +3152,7 @@
     },
     {
       "name": "Yakuza (USA)",
-      "manufacturer": "Amusement Vision",
+      "developer": "Amusement Vision",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -3161,7 +3161,7 @@
     },
     {
       "name": "Yakuza 2 (USA)",
-      "manufacturer": "Amusement Vision",
+      "developer": "Amusement Vision",
       "year": 2008,
       "tags": ["action"],
       "picture": [],
@@ -3170,7 +3170,7 @@
     },
     {
       "name": "Zombie Attack (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2006,
       "tags": ["action"],
       "picture": [],
@@ -3179,7 +3179,7 @@
     },
     {
       "name": "Zombie Hunters (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2007,
       "tags": ["action"],
       "picture": [],
@@ -3188,7 +3188,7 @@
     },
     {
       "name": "Zombie Virus (Europe)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2007,
       "tags": ["action"],
       "picture": [],

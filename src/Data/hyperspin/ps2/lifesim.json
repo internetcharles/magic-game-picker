@@ -2,7 +2,7 @@
   "lifesim": [
     {
       "name": "7 Sins (Europe)",
-      "manufacturer": "Monte Cristo Multimedia",
+      "developer": "Monte Cristo Multimedia",
       "year": 2005,
       "tags": ["life"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Bratz - Rock Angelz (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2005,
       "tags": ["life"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Bratz - The Movie (USA)",
-      "manufacturer": "Blitz Games",
+      "developer": "Blitz Games",
       "year": 2007,
       "tags": ["life"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Girl Zone (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2005,
       "tags": ["life"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Horsez (USA)",
-      "manufacturer": "MTO",
+      "developer": "MTO",
       "year": 2006,
       "tags": ["life"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Petz - Catz 2 (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2007,
       "tags": ["life"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Petz - Dogz 2 (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2007,
       "tags": ["life"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Petz - Horsez 2 (USA)",
-      "manufacturer": "Phoenix Games Studio",
+      "developer": "Phoenix Games Studio",
       "year": 2007,
       "tags": ["life"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Sims 2, The (USA)",
-      "manufacturer": "Maxis",
+      "developer": "Maxis",
       "year": 2005,
       "tags": ["life"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Sims 2, The - Castaway (USA)",
-      "manufacturer": "EA Redwood Shores",
+      "developer": "EA Redwood Shores",
       "year": 2007,
       "tags": ["life"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Sims 2, The - Pets (USA)",
-      "manufacturer": "Maxis",
+      "developer": "Maxis",
       "year": 2006,
       "tags": ["life"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Sims, The (USA)",
-      "manufacturer": "Edge of Reality",
+      "developer": "Edge of Reality",
       "year": 2003,
       "tags": ["life"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Sims, The - Bustin' Out (USA)",
-      "manufacturer": "Maxis",
+      "developer": "Maxis",
       "year": 2003,
       "tags": ["life"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Urbz, The - Sims in the City (USA)",
-      "manufacturer": "Maxis",
+      "developer": "Maxis",
       "year": 2004,
       "tags": ["life"],
       "picture": [],

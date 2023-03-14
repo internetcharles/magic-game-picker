@@ -2,7 +2,7 @@
   "quiz": [
     {
       "name": "Alan Hansen's Sports Challenge (Europe)",
-      "manufacturer": "The Code Monkeys",
+      "developer": "The Code Monkeys",
       "year": 2007,
       "tags": ["quiz"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Bible Game, The (USA)",
-      "manufacturer": "Crave",
+      "developer": "Crave",
       "year": 2005,
       "tags": ["quiz"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Buzz! Brain of Oz (Australia)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["quiz"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Buzz! Brain of the UK (UK)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2009,
       "tags": ["quiz"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Buzz! Junior - Dino Den (Europe)",
-      "manufacturer": "Cohort Studios",
+      "developer": "Cohort Studios",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Buzz! Junior - Jungle Party (USA)",
-      "manufacturer": "Magenta Software",
+      "developer": "Magenta Software",
       "year": 2007,
       "tags": ["quiz"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Buzz! Junior - RoboJam (USA)",
-      "manufacturer": "Cohort Studios",
+      "developer": "Cohort Studios",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Buzz! Pop Quiz (Europe)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Buzz! The BIG Quiz (Europe)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2006,
       "tags": ["quiz"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Buzz! The Hollywood Quiz (USA)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Buzz! The Maha Quiz (India)",
-      "manufacturer": "SCEE",
+      "developer": "SCEE",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Buzz! The Mega Quiz (USA)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2007,
       "tags": ["quiz"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Buzz! The Music Quiz (Europe)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2005,
       "tags": ["quiz"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Buzz! The Schools Quiz (Europe)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Buzz! The Sports Quiz (Europe)",
-      "manufacturer": "Relentless Software",
+      "developer": "Relentless Software",
       "year": 2006,
       "tags": ["quiz"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Cheggers Party Quiz (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2007,
       "tags": ["quiz"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Disney TH!NK Fast (USA)",
-      "manufacturer": "Magenta Software",
+      "developer": "Magenta Software",
       "year": 2008,
       "tags": ["quiz"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Friends - The One with All the Trivia (USA)",
-      "manufacturer": "Artech Studios",
+      "developer": "Artech Studios",
       "year": 2005,
       "tags": ["quiz"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Great British Football Quiz, The (Europe)",
-      "manufacturer": "Liquid Games",
+      "developer": "Liquid Games",
       "year": 2005,
       "tags": ["quiz"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Telly Addicts (Europe)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2007,
       "tags": ["quiz"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Ultimate Music Quiz, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2005,
       "tags": ["quiz"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Ultimate Sports Quiz, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2006,
       "tags": ["quiz"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Ultimate Trivia Quiz, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2006,
       "tags": ["quiz"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Ultimate TV & Film Quiz, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2005,
       "tags": ["quiz"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Ultimate World Cup Quiz, The (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2006,
       "tags": ["quiz"],
       "picture": [],

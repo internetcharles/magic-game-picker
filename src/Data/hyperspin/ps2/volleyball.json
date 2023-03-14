@@ -2,7 +2,7 @@
   "volleyball": [
     {
       "name": "Outlaw Volleyball Remixed (USA)",
-      "manufacturer": "Hypnotix",
+      "developer": "Hypnotix",
       "year": 2005,
       "tags": ["sports", "volleyball", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Power Volleyball (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2007,
       "tags": ["sports", "volleyball", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Summer Heat Beach Volleyball (USA)",
-      "manufacturer": "Acclaim Studios Cheltenham",
+      "developer": "Acclaim Studios Cheltenham",
       "year": 2003,
       "tags": ["sports", "volleyball", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Volleyball Challenge (Europe)",
-      "manufacturer": "505 Game Street",
+      "developer": "505 Game Street",
       "year": 2004,
       "tags": ["sports", "volleyball", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Volleyball Xciting (Europe)",
-      "manufacturer": "Agetec Inc.",
+      "developer": "Agetec Inc.",
       "year": 2004,
       "tags": ["sports", "volleyball", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Women's Volleyball Championship (USA)",
-      "manufacturer": "Spike",
+      "developer": "Spike",
       "year": 2008,
       "tags": ["sports", "volleyball", "fake"],
       "picture": [],

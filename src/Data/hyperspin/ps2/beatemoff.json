@@ -2,7 +2,7 @@
   "beatemoff": [
     {
       "name": "All Star Fighters (Europe)",
-      "manufacturer": "D3",
+      "developer": "D3",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Altered Beast (Europe)",
-      "manufacturer": "Wow Entertainment",
+      "developer": "Wow Entertainment",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Asterix & Obelix - Kick Buttix (USA)",
-      "manufacturer": "Etranges Libellules",
+      "developer": "Etranges Libellules",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Batman - Rise of Sin Tzu (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Batman Begins (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Battle Assault 3 featuring Gundam Seed (USA)",
-      "manufacturer": "Natsume",
+      "developer": "Natsume",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "BCV - Battle Construction Vehicles (Europe)",
-      "manufacturer": "Artdink",
+      "developer": "Artdink",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Beat Down - Fists of Vengeance (USA)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Ben 10 - Protector of Earth (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "BloodRayne (USA)",
-      "manufacturer": "Terminal Reality",
+      "developer": "Terminal Reality",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "BloodRayne 2 (USA)",
-      "manufacturer": "Terminal Reality",
+      "developer": "Terminal Reality",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bouncer, The (USA)",
-      "manufacturer": "DreamFactory",
+      "developer": "DreamFactory",
       "year": 2001,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Buffy the Vampire Slayer - Chaos Bleeds (USA)",
-      "manufacturer": "Eurocom Entertainment Software",
+      "developer": "Eurocom Entertainment Software",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Bujingai - The Forsaken City (USA)",
-      "manufacturer": "Taito Corporation",
+      "developer": "Taito Corporation",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Chandragupta - Warrior Prince (India)",
-      "manufacturer": "Immersive Games",
+      "developer": "Immersive Games",
       "year": 2009,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Charlie's Angels (Europe)",
-      "manufacturer": "Neko Entertainment",
+      "developer": "Neko Entertainment",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Code of the Samurai (Europe)",
-      "manufacturer": "RED Entertainment",
+      "developer": "RED Entertainment",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Crime Life - Gang Wars (Europe)",
-      "manufacturer": "Hothouse Creations",
+      "developer": "Hothouse Creations",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Crimson Sea 2 (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Crimson Tears (USA)",
-      "manufacturer": "DreamFactory",
+      "developer": "DreamFactory",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Crouching Tiger, Hidden Dragon (USA)",
-      "manufacturer": "Light Weight",
+      "developer": "Light Weight",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Death by Degrees (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Demon Chaos (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Devil Kings (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Devil May Cry (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2001,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Devil May Cry 2 (USA) (Disc 1)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Devil May Cry 2 (USA) (Disc 2)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Devil May Cry 3 - Dante's Awakening (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Devil May Cry 3 - Dante's Awakening - Special Edition (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Disney's PK - Out of the Shadows (USA)",
-      "manufacturer": "Ubisoft",
+      "developer": "Ubisoft",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Dragon Ball Z - Sagas (USA)",
-      "manufacturer": "Avalanche Software",
+      "developer": "Avalanche Software",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -281,7 +281,7 @@
     },
     {
       "name": "Dragon Sisters (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -290,7 +290,7 @@
     },
     {
       "name": "Dynasty Warriors - Gundam 2 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2009,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -299,7 +299,7 @@
     },
     {
       "name": "Dynasty Warriors 2 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2000,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -308,7 +308,7 @@
     },
     {
       "name": "Dynasty Warriors 3 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2001,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -317,7 +317,7 @@
     },
     {
       "name": "Dynasty Warriors 3 - Xtreme Legends (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -326,7 +326,7 @@
     },
     {
       "name": "Dynasty Warriors 4 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -335,7 +335,7 @@
     },
     {
       "name": "Dynasty Warriors 4 - Empires (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -344,7 +344,7 @@
     },
     {
       "name": "Dynasty Warriors 4 - Xtreme Legends (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -353,7 +353,7 @@
     },
     {
       "name": "Dynasty Warriors 5 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -362,7 +362,7 @@
     },
     {
       "name": "Dynasty Warriors 5 - Empires (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -371,7 +371,7 @@
     },
     {
       "name": "Dynasty Warriors 5 - Xtreme Legends (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -380,7 +380,7 @@
     },
     {
       "name": "Dynasty Warriors 6 (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2008,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -389,7 +389,7 @@
     },
     {
       "name": "EOE - Eve of Extinction (USA)",
-      "manufacturer": "Yuke's",
+      "developer": "Yuke's",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -398,7 +398,7 @@
     },
     {
       "name": "Evil Dead - A Fistful of Boomstick (USA)",
-      "manufacturer": "VIS Entertainment",
+      "developer": "VIS Entertainment",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -407,7 +407,7 @@
     },
     {
       "name": "Evil Dead - Regeneration (USA)",
-      "manufacturer": "Cranky Pants Games",
+      "developer": "Cranky Pants Games",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Fantastic 4 (USA)",
-      "manufacturer": "7 Studios",
+      "developer": "7 Studios",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -425,7 +425,7 @@
     },
     {
       "name": "Final Fight - Streetwise (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -434,7 +434,7 @@
     },
     {
       "name": "Forgotten Realms - Demon Stone (USA)",
-      "manufacturer": "Stormfront Studios",
+      "developer": "Stormfront Studios",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -443,7 +443,7 @@
     },
     {
       "name": "Gauntlet - Dark Legacy (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2001,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -452,7 +452,7 @@
     },
     {
       "name": "Gladiator - Sword of Vengeance (USA)",
-      "manufacturer": "Acclaim Studios Manchester",
+      "developer": "Acclaim Studios Manchester",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -461,7 +461,7 @@
     },
     {
       "name": "God Hand (USA)",
-      "manufacturer": "Clover Studio",
+      "developer": "Clover Studio",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -470,7 +470,7 @@
     },
     {
       "name": "GoDai - Elemental Force (USA)",
-      "manufacturer": "3DO",
+      "developer": "3DO",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -479,7 +479,7 @@
     },
     {
       "name": "Grim Adventures of Billy & Mandy, The (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -488,7 +488,7 @@
     },
     {
       "name": "Hulk (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -497,7 +497,7 @@
     },
     {
       "name": "Hunter - The Reckoning Wayward (USA)",
-      "manufacturer": "High Voltage Software",
+      "developer": "High Voltage Software",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -506,7 +506,7 @@
     },
     {
       "name": "James Cameron's Dark Angel (USA)",
-      "manufacturer": "Radical Entertainment",
+      "developer": "Radical Entertainment",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -515,7 +515,7 @@
     },
     {
       "name": "Lord of the Rings, The - The Return of the King (USA)",
-      "manufacturer": "EA Games",
+      "developer": "EA Games",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -524,7 +524,7 @@
     },
     {
       "name": "Lord of the Rings, The - The Two Towers (USA)",
-      "manufacturer": "Stormfront Studios",
+      "developer": "Stormfront Studios",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -533,7 +533,7 @@
     },
     {
       "name": "Mark of Kri, The (USA)",
-      "manufacturer": "SCEA",
+      "developer": "SCEA",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -542,7 +542,7 @@
     },
     {
       "name": "Marvel Super Hero Squad (USA)",
-      "manufacturer": "Blue Tongue Entertainment",
+      "developer": "Blue Tongue Entertainment",
       "year": 2009,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -551,7 +551,7 @@
     },
     {
       "name": "Mortal Kombat - Shaolin Monks (USA)",
-      "manufacturer": "Midway Studios - Los Angeles",
+      "developer": "Midway Studios - Los Angeles",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -560,7 +560,7 @@
     },
     {
       "name": "Mystic Heroes (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -569,7 +569,7 @@
     },
     {
       "name": "Nightshade (USA)",
-      "manufacturer": "Overworks",
+      "developer": "Overworks",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -578,7 +578,7 @@
     },
     {
       "name": "Ninjabread Man (Europe)",
-      "manufacturer": "Data Design Interactive",
+      "developer": "Data Design Interactive",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -587,7 +587,7 @@
     },
     {
       "name": "Oni (USA)",
-      "manufacturer": "Rockstar Toronto",
+      "developer": "Rockstar Toronto",
       "year": 2001,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -596,7 +596,7 @@
     },
     {
       "name": "Rise of the Kasai (USA)",
-      "manufacturer": "BottleRocket Entertainment",
+      "developer": "BottleRocket Entertainment",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -605,7 +605,7 @@
     },
     {
       "name": "Rise to Honor (USA)",
-      "manufacturer": "SCE Foster City Studio",
+      "developer": "SCE Foster City Studio",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -614,7 +614,7 @@
     },
     {
       "name": "Samurai Champloo - Sidetracked (USA)",
-      "manufacturer": "Grasshopper Manufacture",
+      "developer": "Grasshopper Manufacture",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -623,7 +623,7 @@
     },
     {
       "name": "Samurai Warriors (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -632,7 +632,7 @@
     },
     {
       "name": "Samurai Warriors - Xtreme Legends (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -641,7 +641,7 @@
     },
     {
       "name": "Samurai Warriors 2 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -650,7 +650,7 @@
     },
     {
       "name": "Samurai Warriors 2 - Empires (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -659,7 +659,7 @@
     },
     {
       "name": "Samurai Warriors 2 - Xtreme Legends (USA)",
-      "manufacturer": "Koei",
+      "developer": "Koei",
       "year": 2008,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -668,7 +668,7 @@
     },
     {
       "name": "Scorpion King, The - Rise of the Akkadian (USA)",
-      "manufacturer": "VU Games",
+      "developer": "VU Games",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -677,7 +677,7 @@
     },
     {
       "name": "Seven Samurai 20XX (USA)",
-      "manufacturer": "Dimps Corporation",
+      "developer": "Dimps Corporation",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -686,7 +686,7 @@
     },
     {
       "name": "Shinobi (USA)",
-      "manufacturer": "Overworks",
+      "developer": "Overworks",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -695,7 +695,7 @@
     },
     {
       "name": "Shogun's Blade (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -704,7 +704,7 @@
     },
     {
       "name": "Shrek SuperSlam (USA)",
-      "manufacturer": "Shaba Games",
+      "developer": "Shaba Games",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -713,7 +713,7 @@
     },
     {
       "name": "Spider-Man - Web of Shadows (USA)",
-      "manufacturer": "Activision",
+      "developer": "Activision",
       "year": 2008,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -722,7 +722,7 @@
     },
     {
       "name": "Splatter Master (Europe)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -731,7 +731,7 @@
     },
     {
       "name": "State of Emergency (USA)",
-      "manufacturer": "VIS Entertainment",
+      "developer": "VIS Entertainment",
       "year": 2002,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -740,7 +740,7 @@
     },
     {
       "name": "Street Boyz (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -749,7 +749,7 @@
     },
     {
       "name": "Superman Returns (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -758,7 +758,7 @@
     },
     {
       "name": "Sword of Etheria, The (Europe)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -767,7 +767,7 @@
     },
     {
       "name": "Teenage Mutant Ninja Turtles (USA)",
-      "manufacturer": "KCE Studios",
+      "developer": "KCE Studios",
       "year": 2003,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -776,7 +776,7 @@
     },
     {
       "name": "Teenage Mutant Ninja Turtles - Smash-Up (USA)",
-      "manufacturer": "Game Arts",
+      "developer": "Game Arts",
       "year": 2009,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -785,7 +785,7 @@
     },
     {
       "name": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)",
-      "manufacturer": "KCE Studios",
+      "developer": "KCE Studios",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -794,7 +794,7 @@
     },
     {
       "name": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA)",
-      "manufacturer": "KCE Studios",
+      "developer": "KCE Studios",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -803,7 +803,7 @@
     },
     {
       "name": "TMNT (USA)",
-      "manufacturer": "Ubisoft Montreal",
+      "developer": "Ubisoft Montreal",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -812,7 +812,7 @@
     },
     {
       "name": "Ultimate Spider-Man (USA)",
-      "manufacturer": "Treyarch",
+      "developer": "Treyarch",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Urban Reign (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -830,7 +830,7 @@
     },
     {
       "name": "Viewtiful Joe (USA)",
-      "manufacturer": "Clover Studio",
+      "developer": "Clover Studio",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -839,7 +839,7 @@
     },
     {
       "name": "Viewtiful Joe 2 (USA)",
-      "manufacturer": "Clover Studio",
+      "developer": "Clover Studio",
       "year": 2004,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -848,7 +848,7 @@
     },
     {
       "name": "Warriors Orochi (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -857,7 +857,7 @@
     },
     {
       "name": "Warriors Orochi 2 (USA)",
-      "manufacturer": "Omega Force",
+      "developer": "Omega Force",
       "year": 2008,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -866,7 +866,7 @@
     },
     {
       "name": "Warriors, The (USA)",
-      "manufacturer": "Rockstar Toronto",
+      "developer": "Rockstar Toronto",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -875,7 +875,7 @@
     },
     {
       "name": "X-Men - The Official Game (USA)",
-      "manufacturer": "Z - Axis, Ltd.",
+      "developer": "Z - Axis, Ltd.",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -884,7 +884,7 @@
     },
     {
       "name": "X-Men Origins - Wolverine (USA)",
-      "manufacturer": "Amaze Entertainment",
+      "developer": "Amaze Entertainment",
       "year": 2009,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -893,7 +893,7 @@
     },
     {
       "name": "Xiaolin Showdown (USA)",
-      "manufacturer": "BottleRocket Entertainment",
+      "developer": "BottleRocket Entertainment",
       "year": 2006,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -902,7 +902,7 @@
     },
     {
       "name": "Yakuza Fury (Europe)",
-      "manufacturer": "Vingt - et - un Systems",
+      "developer": "Vingt - et - un Systems",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -911,7 +911,7 @@
     },
     {
       "name": "Zombie Hunters 2 (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2007,
       "tags": ["beat-em-off"],
       "picture": [],
@@ -920,7 +920,7 @@
     },
     {
       "name": "Zombie Zone (Europe)",
-      "manufacturer": "Tamsoft",
+      "developer": "Tamsoft",
       "year": 2005,
       "tags": ["beat-em-off"],
       "picture": [],

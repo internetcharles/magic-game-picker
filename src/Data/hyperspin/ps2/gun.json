@@ -2,7 +2,7 @@
   "gun": [
     {
       "name": "Dino Stalker (USA)",
-      "manufacturer": "Capcom",
+      "developer": "Capcom",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Endgame (USA)",
-      "manufacturer": "Cunning Developments",
+      "developer": "Cunning Developments",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Guncom 2 (Europe)",
-      "manufacturer": "Play It",
+      "developer": "Play It",
       "year": 2004,
       "tags": ["gun"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Gunfighter II - Revenge of Jesse James (Europe)",
-      "manufacturer": "Rebellion",
+      "developer": "Rebellion",
       "year": 2003,
       "tags": ["gun"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Ninja Assault (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "NRA Gun Club (USA)",
-      "manufacturer": "Jarhead Games",
+      "developer": "Jarhead Games",
       "year": 2006,
       "tags": ["gun"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Police 24-7 (Europe)",
-      "manufacturer": "Konami",
+      "developer": "Konami",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Resident Evil - Dead Aim (USA)",
-      "manufacturer": "Cavia Inc.",
+      "developer": "Cavia Inc.",
       "year": 2003,
       "tags": ["gun"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Rez (USA)",
-      "manufacturer": "UGA",
+      "developer": "UGA",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Silent Scope (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2000,
       "tags": ["gun"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Silent Scope 2 - Dark Silhouette (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2001,
       "tags": ["gun"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Silent Scope 3 (USA)",
-      "manufacturer": "KCET",
+      "developer": "KCET",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "Sniper 2, The (Europe)",
-      "manufacturer": "Best Media",
+      "developer": "Best Media",
       "year": 2004,
       "tags": ["gun"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Time Crisis - Crisis Zone (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2004,
       "tags": ["gun"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Time Crisis 3 (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2003,
       "tags": ["gun"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "Time Crisis II (USA)",
-      "manufacturer": "Namco",
+      "developer": "Namco",
       "year": 2001,
       "tags": ["gun"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Vampire Night (USA)",
-      "manufacturer": "Wow Entertainment",
+      "developer": "Wow Entertainment",
       "year": 2001,
       "tags": ["gun"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Virtua Cop - Elite Edition (Europe)",
-      "manufacturer": "Sega AM2",
+      "developer": "Sega AM2",
       "year": 2002,
       "tags": ["gun"],
       "picture": [],

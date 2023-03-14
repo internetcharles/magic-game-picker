@@ -2,7 +2,7 @@
   "golf": [
     {
       "name": "Crazy Golf (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2005,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Crazy Golf - World Tour (Europe)",
-      "manufacturer": "Phoenix Games",
+      "developer": "Phoenix Games",
       "year": 2005,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Disney Golf (USA)",
-      "manufacturer": "T&E Soft",
+      "developer": "T&E Soft",
       "year": 2002,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Eagle Eye Golf (USA)",
-      "manufacturer": "Telenet Japan",
+      "developer": "Telenet Japan",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Go Go Golf (Europe)",
-      "manufacturer": "Midas Interactive Entertainment",
+      "developer": "Midas Interactive Entertainment",
       "year": 2002,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Hot Shots Golf 3 (USA)",
-      "manufacturer": "Clap Hanz",
+      "developer": "Clap Hanz",
       "year": 2002,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Hot Shots Golf Fore! (USA)",
-      "manufacturer": "Clap Hanz",
+      "developer": "Clap Hanz",
       "year": 2004,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "International Golf Pro (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2004,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -74,7 +74,7 @@
     },
     {
       "name": "King of Clubs (Europe)",
-      "manufacturer": "Oxygen Interactive",
+      "developer": "Oxygen Interactive",
       "year": 2007,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -83,7 +83,7 @@
     },
     {
       "name": "Leaderboard Golf (Europe)",
-      "manufacturer": "Aqua Pacific",
+      "developer": "Aqua Pacific",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "Mr. Golf (Europe)",
-      "manufacturer": "Artdink",
+      "developer": "Artdink",
       "year": 2003,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -101,7 +101,7 @@
     },
     {
       "name": "Outlaw Golf 2 (USA)",
-      "manufacturer": "Hypnotix",
+      "developer": "Hypnotix",
       "year": 2004,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -110,7 +110,7 @@
     },
     {
       "name": "ProStroke Golf - World Tour 2007 (USA)",
-      "manufacturer": "Gusto Games",
+      "developer": "Gusto Games",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Real World Golf (USA)",
-      "manufacturer": "Mad Catz",
+      "developer": "Mad Catz",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -128,7 +128,7 @@
     },
     {
       "name": "Real World Golf 2007 (Europe)",
-      "manufacturer": "In2Games",
+      "developer": "In2Games",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -137,7 +137,7 @@
     },
     {
       "name": "RealPlay Golf (Europe)",
-      "manufacturer": "In2Games",
+      "developer": "In2Games",
       "year": 2007,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Ribbit King (USA) (Disc 1)",
-      "manufacturer": null,
+      "developer": null,
       "year": 2004,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -155,7 +155,7 @@
     },
     {
       "name": "Ribbit King (USA) (Disc 2)",
-      "manufacturer": null,
+      "developer": null,
       "year": 2004,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -164,7 +164,7 @@
     },
     {
       "name": "Street Golfer (Europe)",
-      "manufacturer": "Polygon Magic",
+      "developer": "Polygon Magic",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Swing Away Golf (USA)",
-      "manufacturer": "T&E Soft",
+      "developer": "T&E Soft",
       "year": 2000,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -182,7 +182,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 06 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2005,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -191,7 +191,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 07 (USA)",
-      "manufacturer": "EA Redwood Shores",
+      "developer": "EA Redwood Shores",
       "year": 2006,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -200,7 +200,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 08 (USA)",
-      "manufacturer": "EA Salt Lake",
+      "developer": "EA Salt Lake",
       "year": 2007,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -209,7 +209,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 09 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2008,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -218,7 +218,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 10 (USA)",
-      "manufacturer": "EA Tiburon",
+      "developer": "EA Tiburon",
       "year": 2009,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -227,7 +227,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 2001 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2002,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -236,7 +236,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 2002 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2002,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -245,7 +245,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 2003 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2002,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -254,7 +254,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 2004 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2003,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -263,7 +263,7 @@
     },
     {
       "name": "Tiger Woods PGA Tour 2005 (USA)",
-      "manufacturer": "EA Sports",
+      "developer": "EA Sports",
       "year": 2004,
       "tags": ["sports", "golf", "fake"],
       "picture": [],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Toy Golf Extreme (Europe)",
-      "manufacturer": "Zoo Digital Publishing",
+      "developer": "Zoo Digital Publishing",
       "year": 2008,
       "tags": ["sports", "golf", "fake"],
       "picture": [],

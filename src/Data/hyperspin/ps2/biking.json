@@ -2,7 +2,7 @@
   "biking": [
     {
       "name": "BMX XXX (USA)",
-      "manufacturer": "Z - Axis, Ltd.",
+      "developer": "Z - Axis, Ltd.",
       "year": 2002,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -11,7 +11,7 @@
     },
     {
       "name": "Dave Mirra Freestyle BMX 2 (USA)",
-      "manufacturer": "Z - Axis, Ltd.",
+      "developer": "Z - Axis, Ltd.",
       "year": 2001,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -20,7 +20,7 @@
     },
     {
       "name": "Freekstyle (USA)",
-      "manufacturer": "Page 44 Studios",
+      "developer": "Page 44 Studios",
       "year": 2002,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Gravity Games Bike - Street Vert Dirt (USA)",
-      "manufacturer": "Midway",
+      "developer": "Midway",
       "year": 2002,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "Le Tour de France - Centenary Edition (Europe)",
-      "manufacturer": "DC Studios",
+      "developer": "DC Studios",
       "year": 2003,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -47,7 +47,7 @@
     },
     {
       "name": "Mat Hoffman's Pro BMX 2 (USA)",
-      "manufacturer": "Rainbow Studios",
+      "developer": "Rainbow Studios",
       "year": 2002,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Mountain Bike Adrenaline (USA)",
-      "manufacturer": "Fresh 3D",
+      "developer": "Fresh 3D",
       "year": 2007,
       "tags": ["sports", "biking"],
       "picture": [],
@@ -65,7 +65,7 @@
     },
     {
       "name": "Whirl Tour (USA)",
-      "manufacturer": "Papaya Studios",
+      "developer": "Papaya Studios",
       "year": 2002,
       "tags": ["sports", "biking"],
       "picture": [],
