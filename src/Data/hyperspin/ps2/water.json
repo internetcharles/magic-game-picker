@@ -1,0 +1,31 @@
+{  
+  "water": [
+    {
+      "name": "Arctic Thunder (USA)",
+      "manufacturer": "Inland Productions",
+      "year": 2001,
+      "tags": ["water", "racing"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Splashdown (USA)",
+      "manufacturer": "Rainbow Studios",
+      "year": 2001,
+      "tags": ["water"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Splashdown - Rides Gone Wild (USA)",
+      "manufacturer": "Rainbow Studios",
+      "year": 2003,
+      "tags": ["water"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    }
+  ]
+}

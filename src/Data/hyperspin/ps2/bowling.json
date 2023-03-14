@@ -1,0 +1,67 @@
+{  
+  "bowling": [
+    {
+      "name": "10 Pin - Champions Alley (Europe)",
+      "manufacturer": "Atomic Planet",
+      "year": 2005,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "AMF Xtreme Bowling (USA)",
+      "manufacturer": "Mud Duck Productions",
+      "year": 2006,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Arcade USA (Europe)",
+      "manufacturer": "Phoenix Games",
+      "year": 2006,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Black Market Bowling (Europe)",
+      "manufacturer": "Tantalus Interactive",
+      "year": 2005,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Bowling Xciting (Europe)",
+      "manufacturer": "Tamsoft",
+      "year": 2004,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Brunswick Pro Bowling (USA)",
+      "manufacturer": "Point of View",
+      "year": 2007,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Strike Force Bowling (USA)",
+      "manufacturer": "Lab Rats Games",
+      "year": 2004,
+      "tags": ["sport", "bowling"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    }
+  ]
+}

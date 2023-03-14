@@ -1,0 +1,67 @@
+{  
+  "cardbattle": [
+    {
+      "name": "Duel Masters (USA)",
+      "manufacturer": "High Voltage Software",
+      "year": 2004,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Top Trumps - Doctor Who (Europe)",
+      "manufacturer": "Rockpool Games",
+      "year": 2008,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Top Trumps Adventures Vol. 1 - Horror & Predators (Europe)",
+      "manufacturer": "Ubisoft",
+      "year": 2007,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Top Trumps Adventures Vol. 2 - Dogs & Dinosaurs (Europe)",
+      "manufacturer": "Ironstone Partners",
+      "year": 2007,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Yu-Gi-Oh! Capsule Monster Coliseum (USA)",
+      "manufacturer": "WinkySoft",
+      "year": 2004,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Yu-Gi-Oh! GX - The Beginning of Destiny (USA)",
+      "manufacturer": "Konami",
+      "year": 2008,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Yu-Gi-Oh! The Duelists of the Roses (USA)",
+      "manufacturer": "Konami",
+      "year": 2003,
+      "tags": ["cardbattle"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    }
+  ]
+}

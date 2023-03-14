@@ -1,0 +1,58 @@
+{
+  "surf": [
+    {
+      "name": "G-Force (2006) (Europe)",
+      "manufacturer": "Phoenix Games",
+      "year": 2006,
+      "tags": ["sports", "surf", "XTREME", "fake"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Kelly Slater's Pro Surfer (USA)",
+      "manufacturer": "Treyarch",
+      "year": 2002,
+      "tags": ["sports", "surf", "XTREME", "fake"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Sunny Garcia Surfing (USA)",
+      "manufacturer": "Krome Studios",
+      "year": 2001,
+      "tags": ["sports", "surf", "XTREME", "fake"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Surf's Up (USA)",
+      "manufacturer": "Ubisoft Montreal",
+      "year": 2007,
+      "tags": ["sports", "surf", "XTREME", "fake"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "Surfing H3O (USA)",
+      "manufacturer": "Opus",
+      "year": 2000,
+      "tags": ["sports", "surf", "XTREME", "fake"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    },
+    {
+      "name": "TransWorld Surf (USA)",
+      "manufacturer": "Rockstar San Diego",
+      "year": 2002,
+      "tags": ["sports", "surf", "XTREME", "fake"],
+      "picture": [],
+      "challenge": [],
+      "dl-id": "",
+    }
+  ]
+}
