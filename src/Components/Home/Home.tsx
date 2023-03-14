@@ -1,38 +1,14 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 /* eslint-disable react/no-unknown-property */
 import React, { useEffect, useState } from 'react'
-import { Genre, GENRES } from '../../Constants/genres'
-import { Game } from '../../Interfaces/GameInterface'
+import { Game, GenreList } from '../../Interfaces/GameInterface'
 import './Styles/Home.scss'
 
 interface Props {
-  data: {
-    Adventure: Game[]
-    Arcade: Game[]
-    'Board Game': Game[]
-    Fighting: Game[]
-    'Hack and Slash/Beat em up': Game[]
-    Music: Game[]
-    'No Genre': Game[]
-    Pinball: Game[]
-    Platform: Game[]
-    'Point and Click': Game[]
-    Puzzle: Game[]
-    'Quiz/Trivia': Game[]
-    Racing: Game[]
-    'Real Time Strategy': Game[]
-    RPG: Game[]
-    Shooter: Game[]
-    Simulator: Game[]
-    Sport: Game[]
-    Strategy: Game[]
-    Tactical: Game[]
-    'Turn Based Strategy': Game[]
-    'Visual Novel': Game[]
-  }
+  genreData: GenreList
 }
 
-const Home: React.FC<Props> = ({ data }) => {
+const Home: React.FC<Props> = ({ genreData }) => {
   const [randomGames, setRandomGames] = useState<Game[]>([])
   const [genresForVoting, setGenresForVoting] = useState<string[]>([])
   const [chosenGenre, setChosenGenre] = useState<string>('')
@@ -43,7 +19,7 @@ const Home: React.FC<Props> = ({ data }) => {
 
   const getThreeRandomGenres = () => {
     const chosenGenres: string[] = []
-    const keys = Object.keys(GENRES)
+    const keys = Object.keys(genreData)
     while (chosenGenres.length < 3) {
       const randomProperty = () => {
         const r = Math.floor(keys.length * Math.random()) + 1
@@ -59,7 +35,7 @@ const Home: React.FC<Props> = ({ data }) => {
   }
 
   const getRandomGames = (key: string) => {
-    const gameList = data[key as keyof Genre]
+    const gameList: any = genreData[key as keyof Genre].name
     const randomArray: Game[] = []
     while (randomArray.length < 3) {
       const r = Math.floor(Math.random() * gameList.length)
@@ -75,7 +51,7 @@ const Home: React.FC<Props> = ({ data }) => {
     <div className='home-container'>
       <div className='home-item-container'>
         {genresForVoting.map((genre) => (
-          <button key={genre} onClick={() => setChosenGenre(GENRES[genre as keyof Genre])}>
+          <button key={genre} onClick={() => setChosenGenre(genreData[genre as keyof Genre].name)}>
             {genre}
           </button>
         ))}

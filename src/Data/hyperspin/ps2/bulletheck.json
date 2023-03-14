@@ -1,5 +1,5 @@
 {
-  "shoot": [
+  "bulletheck": [
     {
       "name": "1945 I & II The Arcade Games (Europe)",
       "developer": "Takara",
@@ -7,7 +7,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Castle Shikigami 2 (USA)",
@@ -16,7 +16,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Dragon Blaze (Europe)",
@@ -25,7 +25,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gigawing Generations (Europe)",
@@ -34,7 +34,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gradius III and IV (USA)",
@@ -43,7 +43,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gradius V (USA)",
@@ -52,7 +52,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gunbird Special Edition (Europe)",
@@ -61,7 +61,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Homura (Europe)",
@@ -70,9 +70,9 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
-    
+
     {
       "name": "Mobile Light Force 2 (USA)",
       "developer": "Alfa System",
@@ -80,7 +80,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Ocean Commander (Europe)",
@@ -89,7 +89,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "One Piece - Round the Land! (Europe)",
@@ -98,7 +98,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Psyvariar - Complete Edition (Europe)",
@@ -107,7 +107,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "R-Type Final (USA)",
@@ -116,7 +116,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Raiden III (USA)",
@@ -125,7 +125,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Samurai Aces (Europe)",
@@ -134,7 +134,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Shadow of Ganymede (Europe)",
@@ -143,7 +143,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Silpheed - The Lost Planet (USA)",
@@ -152,7 +152,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Sol Divide (Europe)",
@@ -161,7 +161,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Steel Dragon EX (Europe)",
@@ -170,7 +170,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Tengai (Europe)",
@@ -179,7 +179,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "XII Stag (Europe)",
@@ -188,7 +188,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Xyanide - Resurrection (Europe)",
@@ -197,7 +197,7 @@
       "tags": "Shoot-'Em-Up",
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

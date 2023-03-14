@@ -1,5 +1,5 @@
-{ 
- "gameshow": [
+{
+  "gameshow": [
     {
       "name": "Are You Smarter Than a 5th Grader - Make the Grade (USA)",
       "developer": "THQ",
@@ -7,7 +7,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Family Feud (USA)",
@@ -16,7 +16,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Germany's Next Topmodel 2009 (Germany)",
@@ -25,7 +25,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Guy Game, The (USA)",
@@ -34,7 +34,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Jeopardy! (USA)",
@@ -43,7 +43,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Weakest Link, The (Europe)",
@@ -52,7 +52,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Wheel of Fortune (USA)",
@@ -61,7 +61,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Who Wants to Be a Millionaire - 2nd Edition (Europe)",
@@ -70,7 +70,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Who Wants to Be a Millionaire - Party Edition (Europe)",
@@ -79,7 +79,7 @@
       "tags": ["gameshow"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

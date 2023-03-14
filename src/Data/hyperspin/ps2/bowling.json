@@ -1,4 +1,4 @@
-{  
+{
   "bowling": [
     {
       "name": "10 Pin - Champions Alley (Europe)",
@@ -7,7 +7,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "AMF Xtreme Bowling (USA)",
@@ -16,7 +16,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Arcade USA (Europe)",
@@ -25,7 +25,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Black Market Bowling (Europe)",
@@ -34,7 +34,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Bowling Xciting (Europe)",
@@ -43,7 +43,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Brunswick Pro Bowling (USA)",
@@ -52,7 +52,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Strike Force Bowling (USA)",
@@ -61,7 +61,7 @@
       "tags": ["sport", "bowling"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }
