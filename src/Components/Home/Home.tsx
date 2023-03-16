@@ -13,10 +13,6 @@ const Home: React.FC<Props> = ({ genreData }) => {
   const [genresForVoting, setGenresForVoting] = useState<GenreList>([])
   const [chosenGenre, setChosenGenre] = useState<Game[] | undefined>([])
 
-  useEffect(() => {
-    getThreeRandomGenres()
-  }, [])
-
   const getThreeRandomGenres = () => {
     const chosenGenres: GenreList = []
     while (chosenGenres.length < 3) {
@@ -33,7 +29,7 @@ const Home: React.FC<Props> = ({ genreData }) => {
 
   const getRandomGames = () => {
     const randomGames: Game[] = []
-    while (randomGames.length < 3) {
+    while (randomGames.length < 5) {
       const item = chosenGenre![Math.floor(Math.random() * chosenGenre!.length)]
       if (!randomGames.includes(item)) randomGames.push(item)
     }
@@ -42,6 +38,9 @@ const Home: React.FC<Props> = ({ genreData }) => {
 
   return (
     <div className='home-container'>
+      <button className='home-genre-select-button' onClick={() => getThreeRandomGenres()}>
+        PICK THREE GENRES
+      </button>
       <div className='home-item-container'>
         {genresForVoting.length > 0 &&
           genresForVoting.map((genre) => (
