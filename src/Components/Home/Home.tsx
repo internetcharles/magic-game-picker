@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 /* eslint-disable react/no-unknown-property */
 import React, { useEffect, useState } from 'react'
-import { Game, GenreList } from '../../Interfaces/GameInterface'
+import { Game, GenreList, Genre } from '../../Interfaces/GameInterface'
 import './Styles/Home.scss'
 
 interface Props {
@@ -10,54 +10,48 @@ interface Props {
 
 const Home: React.FC<Props> = ({ genreData }) => {
   const [randomGames, setRandomGames] = useState<Game[]>([])
-  const [genresForVoting, setGenresForVoting] = useState<string[]>([])
-  const [chosenGenre, setChosenGenre] = useState<string>('')
+  const [genresForVoting, setGenresForVoting] = useState<GenreList>([])
+  const [chosenGenre, setChosenGenre] = useState<Game[] | undefined>([])
 
   useEffect(() => {
     getThreeRandomGenres()
   }, [])
 
   const getThreeRandomGenres = () => {
-    const chosenGenres: string[] = []
-    const keys = Object.keys(genreData)
+    const chosenGenres: GenreList = []
     while (chosenGenres.length < 3) {
       const randomProperty = () => {
-        const r = Math.floor(keys.length * Math.random()) + 1
-        const randomKey = keys[r]
-        return randomKey
+        const item = genreData[Math.floor(Math.random() * genreData.length)]
+        return item
       }
-      const newGenre = randomProperty()
-      if (!chosenGenres.includes(newGenre)) {
-        chosenGenres.push(newGenre)
-      }
+      const genreItem = randomProperty()
+      console.log(genreItem)
+      if (!chosenGenres?.includes(genreItem)) chosenGenres.push(genreItem)
     }
     setGenresForVoting(chosenGenres)
   }
 
-  const getRandomGames = (key: string) => {
-    const gameList: any = genreData[key as keyof Genre].name
-    const randomArray: Game[] = []
-    while (randomArray.length < 3) {
-      const r = Math.floor(Math.random() * gameList.length)
-      if (!randomArray.includes(gameList[r])) {
-        randomArray.push(gameList[r])
-      }
+  const getRandomGames = () => {
+    const randomGames: Game[] = []
+    while (randomGames.length < 3) {
+      const item = chosenGenre![Math.floor(Math.random() * chosenGenre!.length)]
+      if (!randomGames.includes(item)) randomGames.push(item)
     }
-    console.log(randomArray)
-    setRandomGames(randomArray)
+    setRandomGames(randomGames)
   }
 
   return (
     <div className='home-container'>
       <div className='home-item-container'>
-        {genresForVoting.map((genre) => (
-          <button key={genre} onClick={() => setChosenGenre(genreData[genre as keyof Genre].name)}>
-            {genre}
-          </button>
-        ))}
+        {genresForVoting.length > 0 &&
+          genresForVoting.map((genre) => (
+            <button key={genre.key} onClick={() => setChosenGenre(genre.data![genre.key])}>
+              {genre.name}
+            </button>
+          ))}
       </div>
       <div className='home-button-container'>
-        <button onClick={() => getRandomGames(chosenGenre)}>Randomize</button>
+        <button onClick={() => getRandomGames()}>Randomize</button>
       </div>
       <div>
         {randomGames.length > 0 &&

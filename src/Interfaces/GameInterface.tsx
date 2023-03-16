@@ -1,3 +1,5 @@
+import { type } from 'os'
+
 export interface Game {
   name?: string
   developer?: string
@@ -8,11 +10,12 @@ export interface Game {
   'dl-id'?: string
 }
 
-export interface GenreList {
-  [key: string]: {
-    name?: string
-    data?: {
-      [key: string]: Game[]
-    }
+export interface Genre {
+  name?: string
+  data?: {
+    [key: string]: Game[]
   }
+  key: string
 }
+
+export type GenreList = Genre[]
