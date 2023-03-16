@@ -67,6 +67,14 @@ const Home: React.FC<Props> = ({ genreData }) => {
     setVoteArray(nextVoteArray)
   }
 
+  const reset = () => {
+    setRandomGames([])
+    setGenresForVoting([])
+    setChosenGenre([])
+    setVoteArray([])
+    setWinner(null)
+  }
+
   const determineWinner = () => {
     const sortedVoteArray = [...voteArray].sort((a, b) => {
       return b.count - a.count
@@ -121,6 +129,7 @@ const Home: React.FC<Props> = ({ genreData }) => {
         )}
       </div>
       <div>{winner && <div>{winner.name}</div>}</div>
+      <div>{winner && <button onClick={reset}>RESET</button>}</div>
     </div>
   )
 }

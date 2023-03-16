@@ -115,11 +115,6 @@ export const genreData: GenreList = [
     key: 'lifesim',
   },
   {
-    data: minigamesData,
-    name: 'Minigames',
-    key: 'minigames',
-  },
-  {
     data: miscData,
     name: 'Misc',
     key: 'misc',
