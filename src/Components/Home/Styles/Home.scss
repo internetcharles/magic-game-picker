@@ -8,4 +8,45 @@
 .home-header {
   font-weight: bolder;
   font-size: 50pt;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
+.home-options-header {
+  font-size: 50pt;
+}
+
+.home-options-container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 50;
+  left: 50;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.home-inner-container {
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-genre-select-button {
+  background-color: aquamarine;
+  width: 300px;
+  height: 150px;
+}
+
+.home-genre-pick-button {
+  background-color: aquamarine;
+  width: 300px;
+  height: 150px;
 }
