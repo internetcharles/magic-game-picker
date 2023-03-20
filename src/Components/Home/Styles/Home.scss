@@ -45,8 +45,35 @@
   height: 150px;
 }
 
-.home-genre-pick-button {
+.home-genre-pick {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: aquamarine;
   width: 300px;
   height: 150px;
+}
+
+.home-genre-pick-button {
+  background-color: aquamarine;
+  width: 200px;
+  height: 75px;
+}
+
+.home-game-item-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.home-game-item {
+  width: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid black;
+  text-align: center;
 }

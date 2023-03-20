@@ -1,8 +1,10 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 /* eslint-disable react/no-unknown-property */
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Game, GenreList } from '../../Interfaces/GameInterface'
 import { CountObject } from '../../Interfaces/VoteInterface'
+import GameObject from './Game/GameObject'
+import GenreObject from './Genre/GenreObject'
 import './Styles/Home.scss'
 
 interface Props {
@@ -14,10 +16,15 @@ const Home: React.FC<Props> = ({ genreData }) => {
   const [randomGames, setRandomGames] = useState<Game[]>([])
   const [genresForVoting, setGenresForVoting] = useState<GenreList>([])
   const [chosenGenre, setChosenGenre] = useState<Game[]>([])
-  const [genreSelected, setGenreSelected] = useState<boolean>(false)
   const [voteArray, setVoteArray] = useState<CountObject[]>([])
   const [winner, setWinner] = useState<CountObject | null>(null)
   const [showOptions, setShowOptions] = useState<boolean>(false)
+
+  useEffect(() => {
+    if (chosenGenre.length > 0) {
+      getRandomGames()
+    }
+  }, [chosenGenre])
 
   const validateNumberInput = (e: React.FormEvent<HTMLInputElement>) => {
     const target = e.target as HTMLInputElement
@@ -45,7 +52,6 @@ const Home: React.FC<Props> = ({ genreData }) => {
 
   const selectGenre = (selectedGenre: Game[]) => {
     setChosenGenre(selectedGenre)
-    setGenreSelected(true)
   }
 
   const getRandomGames = () => {
@@ -76,7 +82,6 @@ const Home: React.FC<Props> = ({ genreData }) => {
     setGenresForVoting([])
     setChosenGenre([])
     setVoteArray([])
-    setGenreSelected(false)
     setWinner(null)
   }
 
@@ -99,30 +104,21 @@ const Home: React.FC<Props> = ({ genreData }) => {
         <div className='home-item-container'>
           {genresForVoting.length > 0 &&
             chosenGenre.length === 0 &&
-            genresForVoting.map((genre) => (
-              <button
-                className='home-genre-pick-button'
-                key={genre.key}
-                onClick={() => selectGenre(genre.data![genre.key])}
-              >
-                {genre.name}
-              </button>
+            genresForVoting.map((genre, idx) => (
+              <GenreObject key={idx} genre={genre} idx={idx} selectGenre={selectGenre} />
             ))}
         </div>
-        {chosenGenre.length > 0 && randomGames.length === 0 && (
-          <div className='home-button-container'>
-            <button onClick={() => getRandomGames()}>Generate Random Games</button>
-          </div>
-        )}
-        <div>
+        <div className='home-game-item-container'>
           {randomGames.length > 0 &&
             !winner &&
             randomGames.map((game, idx) => (
-              <>
-                <div key={game.name}>{game.name}</div>
-                <button onClick={() => addVote(idx)}>VOTE</button>
-                <div>VOTE COUNT: {voteArray[idx].count}</div>
-              </>
+              <GameObject
+                key={game.name}
+                game={game}
+                idx={idx}
+                voteArray={voteArray}
+                addVote={addVote}
+              />
             ))}
         </div>
         <div>
