@@ -1,5 +1,3 @@
-import { type } from 'os'
-
 export interface Game {
   name?: string
   developer?: string
@@ -8,14 +6,5 @@ export interface Game {
   picture?: string[]
   challenge?: string[]
   'dl-id'?: string
+  cloneof?: string
 }
-
-export interface Genre {
-  name?: string
-  data?: {
-    [key: string]: Game[]
-  }
-  key: string
-}
-
-export type GenreList = Genre[]

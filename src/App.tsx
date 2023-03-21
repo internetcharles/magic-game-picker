@@ -1,11 +1,31 @@
 import './App.css'
-import Home from './Components/Home/Home'
-import { genreData } from './Constants/genres'
+import { MemoryRouter, Outlet, Route, Routes } from 'react-router-dom'
+// import Home from './Components/Home/Home'
+import Start from './Components/Start/Start'
+import SystemSelect from './Components/Select/SystemSelect'
+import GenreScreen from './Components/Genre/GenreScreen'
+
+function BasicLayout(): JSX.Element {
+  return (
+    <div className='desktop'>
+      <Outlet />
+    </div>
+  )
+}
 
 function App() {
   return (
     <div className='App'>
-      <Home genreData={genreData} />
+      <MemoryRouter>
+        <Routes>
+          <Route path='/' element={<BasicLayout />}>
+            <Route index path='/' element={<Start />} />
+            <Route path='/system-select' element={<SystemSelect />} />
+            <Route path='/genre-screen' element={<GenreScreen />} />
+            {/* <Route path='/home' element={<Home />} /> */}
+          </Route>
+        </Routes>
+      </MemoryRouter>
     </div>
   )
 }

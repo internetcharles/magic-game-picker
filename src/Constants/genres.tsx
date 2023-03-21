@@ -30,167 +30,181 @@ import sportsData from '../Data/hyperspin/ps2/sports.json'
 import strategyData from '../Data/hyperspin/ps2/strategy.json'
 import waterData from '../Data/hyperspin/ps2/water.json'
 import wrestlingData from '../Data/hyperspin/ps2/wrestling.json'
-import { GenreList } from '../Interfaces/GameInterface'
+import { Game } from '../Interfaces/GameInterface'
 
-export const genreData: GenreList = [
-  {
-    data: actionData,
-    name: 'Action',
-    key: 'action',
-  },
-  {
-    data: adventureData,
-    name: 'Adventure',
-    key: 'adventure',
-  },
-  {
-    data: beatEmUpData,
-    name: 'Beat Em Up',
-    key: 'beatemup',
-  },
-  {
-    data: boardGameData,
-    name: 'Board Game',
-    key: 'boardgame',
-  },
-  {
-    data: bulletHeckData,
-    name: 'Bullet Heck',
-    key: 'bulletheck',
-  },
-  {
-    data: cardBattleData,
-    name: 'Card Battle',
-    key: 'cardbattle',
-  },
-  {
-    data: casinoData,
-    name: 'Casino',
-    key: 'casino',
-  },
-  {
-    data: drivingData,
-    name: 'Driving',
-    key: 'driving',
-  },
-  {
-    data: educationalData,
-    name: 'Educational',
-    key: 'educational',
-  },
-  {
-    data: fightingData,
-    name: 'Fighting',
-    key: 'fighting',
-  },
-  {
-    data: flyingData,
-    name: 'Flying',
-    key: 'flying',
-  },
-  {
-    data: gameShowData,
-    name: 'Game Show',
-    key: 'gameshow',
-  },
-  {
-    data: gunData,
-    name: 'Gun',
-    key: 'gun',
-  },
-  {
-    data: horseRacingData,
-    name: 'Horse Racing',
-    key: 'horseracing',
-  },
-  {
-    data: huntingData,
-    name: 'Hunting',
-    key: 'hunting',
-  },
-  {
-    data: lifeSimData,
-    name: 'Life Sim',
-    key: 'lifesim',
-  },
-  {
-    data: miscData,
-    name: 'Misc',
-    key: 'misc',
-  },
-  {
-    data: partyData,
-    name: 'Party',
-    key: 'party',
-  },
-  {
-    data: pinballData,
-    name: 'Pinball',
-    key: 'pinball',
-  },
-  {
-    data: platformData,
-    name: 'Platform',
-    key: 'platform',
-  },
-  {
-    data: puzzleData,
-    name: 'Puzzle',
-    key: 'puzzle',
-  },
-  {
-    data: quizData,
-    name: 'Quiz',
-    key: 'quiz',
-  },
-  {
-    data: retroData,
-    name: 'Retro',
-    key: 'retro',
-  },
-  {
-    data: rhythmData,
-    name: 'Rhythm',
-    key: 'rhythm',
-  },
-  {
-    data: RPGData,
-    name: 'RPG',
-    key: 'rpg',
-  },
-  {
-    data: shootEmUpData,
-    name: 'Shoot Em Up',
-    key: 'shootemup',
-  },
-  {
-    data: shooterData,
-    name: 'Shooter',
-    key: 'shooter',
-  },
-  {
-    data: simData,
-    name: 'Sim',
-    key: 'sim',
-  },
-  {
-    data: sportsData,
-    name: 'Sports',
-    key: 'sports',
-  },
-  {
-    data: strategyData,
-    name: 'Strategy',
-    key: 'strategy',
-  },
-  {
-    data: waterData,
-    name: 'Water',
-    key: 'water',
-  },
-  {
-    data: wrestlingData,
-    name: 'Wrestling',
-    key: 'wrestling',
-  },
-]
+export interface GameData {
+  [key: string]: GenreItem[]
+}
+
+export interface GenreItem {
+  data?: {
+    [genreKey: string]: Game[]
+  }
+  name?: string
+  key?: string
+}
+
+export const gameData: GameData = {
+  ps2: [
+    {
+      data: actionData,
+      name: 'Action',
+      key: 'action',
+    },
+    {
+      data: adventureData,
+      name: 'Adventure',
+      key: 'adventure',
+    },
+    {
+      data: beatEmUpData,
+      name: 'Beat Em Up',
+      key: 'beatemup',
+    },
+    {
+      data: boardGameData,
+      name: 'Board Game',
+      key: 'boardgame',
+    },
+    {
+      data: bulletHeckData,
+      name: 'Bullet Heck',
+      key: 'bulletheck',
+    },
+    {
+      data: cardBattleData,
+      name: 'Card Battle',
+      key: 'cardbattle',
+    },
+    {
+      data: casinoData,
+      name: 'Casino',
+      key: 'casino',
+    },
+    {
+      data: drivingData,
+      name: 'Driving',
+      key: 'driving',
+    },
+    {
+      data: educationalData,
+      name: 'Educational',
+      key: 'educational',
+    },
+    {
+      data: fightingData,
+      name: 'Fighting',
+      key: 'fighting',
+    },
+    {
+      data: flyingData,
+      name: 'Flying',
+      key: 'flying',
+    },
+    {
+      data: gameShowData,
+      name: 'Game Show',
+      key: 'gameshow',
+    },
+    {
+      data: gunData,
+      name: 'Gun',
+      key: 'gun',
+    },
+    {
+      data: horseRacingData,
+      name: 'Horse Racing',
+      key: 'horseracing',
+    },
+    {
+      data: huntingData,
+      name: 'Hunting',
+      key: 'hunting',
+    },
+    {
+      data: lifeSimData,
+      name: 'Life Sim',
+      key: 'lifesim',
+    },
+    {
+      data: miscData,
+      name: 'Misc',
+      key: 'misc',
+    },
+    {
+      data: partyData,
+      name: 'Party',
+      key: 'party',
+    },
+    {
+      data: pinballData,
+      name: 'Pinball',
+      key: 'pinball',
+    },
+    {
+      data: platformData,
+      name: 'Platform',
+      key: 'platform',
+    },
+    {
+      data: puzzleData,
+      name: 'Puzzle',
+      key: 'puzzle',
+    },
+    {
+      data: quizData,
+      name: 'Quiz',
+      key: 'quiz',
+    },
+    {
+      data: retroData,
+      name: 'Retro',
+      key: 'retro',
+    },
+    {
+      data: rhythmData,
+      name: 'Rhythm',
+      key: 'rhythm',
+    },
+    {
+      data: RPGData,
+      name: 'RPG',
+      key: 'rpg',
+    },
+    {
+      data: shootEmUpData,
+      name: 'Shoot Em Up',
+      key: 'shootemup',
+    },
+    {
+      data: shooterData,
+      name: 'Shooter',
+      key: 'shooter',
+    },
+    {
+      data: simData,
+      name: 'Sim',
+      key: 'sim',
+    },
+    {
+      data: sportsData,
+      name: 'Sports',
+      key: 'sports',
+    },
+    {
+      data: strategyData,
+      name: 'Strategy',
+      key: 'strategy',
+    },
+    {
+      data: waterData,
+      name: 'Water',
+      key: 'water',
+    },
+    {
+      data: wrestlingData,
+      name: 'Wrestling',
+      key: 'wrestling',
+    },
+  ],
+}
