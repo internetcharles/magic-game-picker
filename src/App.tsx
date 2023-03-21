@@ -4,6 +4,7 @@ import { MemoryRouter, Outlet, Route, Routes } from 'react-router-dom'
 import Start from './Components/Start/Start'
 import SystemSelect from './Components/Select/SystemSelect'
 import GenreScreen from './Components/Genre/GenreScreen'
+import GameSelect from './Components/GameSelect/GameSelect'
 
 function BasicLayout(): JSX.Element {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route index path='/' element={<Start />} />
             <Route path='/system-select' element={<SystemSelect />} />
             <Route path='/genre-screen' element={<GenreScreen />} />
+            <Route path='/game-screen' element={<GameSelect />} />
             {/* <Route path='/home' element={<Home />} /> */}
           </Route>
         </Routes>

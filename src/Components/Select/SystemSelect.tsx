@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { consoles } from '../../Constants/consoles'
-import { gameData } from '../../Constants/genres'
+import { staticGameData } from '../../Constants/genres'
 import { useAppDispatch } from '../../Redux/hooks'
 import { setGameData } from '../../Redux/Reducers/gameDataSlice'
 import MiniButton from '../Home/Global/MiniButton'
@@ -15,7 +15,7 @@ const SystemSelect: React.FC = () => {
 
   const handleSystemSubmitPress = () => {
     if (selectedSystem !== '') {
-      dispatch(setGameData({ consoleData: gameData[selectedSystem] }))
+      dispatch(setGameData({ consoleData: staticGameData[selectedSystem] }))
       navigate('/genre-screen')
     }
   }

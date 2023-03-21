@@ -44,7 +44,7 @@ export interface GenreItem {
   key?: string
 }
 
-export const gameData: GameData = {
+export const staticGameData: GameData = {
   ps2: [
     {
       data: actionData,
