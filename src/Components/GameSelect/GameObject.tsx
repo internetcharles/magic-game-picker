@@ -5,11 +5,12 @@ import './Styles/GameObject.scss'
 interface Props {
   game: Game
   idx: number
+  handleGamePress: () => void
 }
 
-const GameObject: React.FC<Props> = ({ game, idx }) => {
+const GameObject: React.FC<Props> = ({ game, idx, handleGamePress }) => {
   return (
-    <div className='game-container'>
+    <div onClick={() => handleGamePress()} className='game-container'>
       <div className='game-name'>{game.name}</div>
       <div className='game-vote'>!vote{idx}</div>
     </div>

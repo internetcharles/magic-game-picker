@@ -5,6 +5,7 @@ import Start from './Components/Start/Start'
 import SystemSelect from './Components/Select/SystemSelect'
 import GenreScreen from './Components/Genre/GenreScreen'
 import GameSelect from './Components/GameSelect/GameSelect'
+import WinnerScreen from './Components/GameSelect/WinnerScreen'
 
 function BasicLayout(): JSX.Element {
   return (
@@ -24,6 +25,7 @@ function App() {
             <Route path='/system-select' element={<SystemSelect />} />
             <Route path='/genre-screen' element={<GenreScreen />} />
             <Route path='/game-screen' element={<GameSelect />} />
+            <Route path='/winner-screen' element={<WinnerScreen />} />
             {/* <Route path='/home' element={<Home />} /> */}
           </Route>
         </Routes>
