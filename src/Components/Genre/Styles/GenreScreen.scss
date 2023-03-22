@@ -1,0 +1,59 @@
+.genre-screen-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(211, 211, 211);
+  font-family: 'Sysfont';
+}
+
+.genre-screen-item-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  padding-top: 8%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 8%;
+  outline: 5px solid darkgrey;
+}
+
+.genre-screen-timer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.genre-screen-timer-header {
+  font-size: 25pt;
+  margin-bottom: 2%;
+}
+
+.genre-screen-timer-number {
+  font-size: 70pt;
+}
+
+.genre-screen-winner-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(211, 211, 211);
+}
+
+.genre-screen-winner-header {
+  font-family: 'Sysfont';
+  font-size: 16pt;
+  margin-bottom: 5%;
+}
+
+.genre-screen-winner-genre {
+  font-family: 'Sysfont';
+  font-size: 30pt;
+  margin-bottom: 16%;
+}

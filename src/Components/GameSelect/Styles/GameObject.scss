@@ -1,0 +1,20 @@
+.game-container {
+  width: 30%;
+  height: 20%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  display: flex;
+  font-family: 'Sysfont';
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-name {
+  font-size: 30pt;
+}
+
+.game-vote {
+  font-size: 20pt;
+}

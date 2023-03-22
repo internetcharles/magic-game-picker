@@ -1,0 +1,18 @@
+.genre-item-container {
+  width: 250px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Sysfont';
+  justify-content: center;
+  align-items: center;
+}
+
+.genre-item-name {
+  font-size: 30pt;
+  margin-bottom: 10%;
+}
+
+.genre-item-vote-header {
+  font-size: 14pt;
+}

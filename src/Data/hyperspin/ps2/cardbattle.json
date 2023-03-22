@@ -1,4 +1,4 @@
-{  
+{
   "cardbattle": [
     {
       "name": "Duel Masters (USA)",
@@ -7,7 +7,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Top Trumps - Doctor Who (Europe)",
@@ -16,7 +16,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Top Trumps Adventures Vol. 1 - Horror & Predators (Europe)",
@@ -25,7 +25,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Top Trumps Adventures Vol. 2 - Dogs & Dinosaurs (Europe)",
@@ -34,7 +34,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Yu-Gi-Oh! Capsule Monster Coliseum (USA)",
@@ -43,7 +43,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Yu-Gi-Oh! GX - The Beginning of Destiny (USA)",
@@ -52,7 +52,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Yu-Gi-Oh! The Duelists of the Roses (USA)",
@@ -61,7 +61,7 @@
       "tags": ["cardbattle"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

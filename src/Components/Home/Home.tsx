@@ -1,93 +1,154 @@
+/* eslint-disable @typescript-eslint/no-empty-interface */
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 /* eslint-disable react/no-unknown-property */
 import React, { useEffect, useState } from 'react'
-import { Genre, GENRES } from '../../Constants/genres'
-import { Game } from '../../Interfaces/GameInterface'
-import './Styles/Home.scss'
+// import { genreData } from '../../Constants/genres'
+// import { Game, GenreList } from '../../Interfaces/GameInterface'
+// import { CountObject } from '../../Interfaces/VoteInterface'
+// import GameObject from './Game/GameObject'
+// import GenreObject from './Genre/GenreObject'
+// import Window from './Global/Window'
+// import './Styles/Home.scss'
 
-interface Props {
-  data: {
-    Adventure: Game[]
-    Arcade: Game[]
-    'Board Game': Game[]
-    Fighting: Game[]
-    'Hack and Slash/Beat em up': Game[]
-    Music: Game[]
-    'No Genre': Game[]
-    Pinball: Game[]
-    Platform: Game[]
-    'Point and Click': Game[]
-    Puzzle: Game[]
-    'Quiz/Trivia': Game[]
-    Racing: Game[]
-    'Real Time Strategy': Game[]
-    RPG: Game[]
-    Shooter: Game[]
-    Simulator: Game[]
-    Sport: Game[]
-    Strategy: Game[]
-    Tactical: Game[]
-    'Turn Based Strategy': Game[]
-    'Visual Novel': Game[]
-  }
-}
+interface Props {}
 
-const Home: React.FC<Props> = ({ data }) => {
-  const [randomGames, setRandomGames] = useState<Game[]>([])
-  const [genresForVoting, setGenresForVoting] = useState<string[]>([])
-  const [chosenGenre, setChosenGenre] = useState<string>('')
+const Home: React.FC<Props> = () => {
+  // const [gamesToVoteOn, setGamesToVoteOn] = useState<number>(5)
+  // const [randomGames, setRandomGames] = useState<Game[]>([])
+  // const [genresForVoting, setGenresForVoting] = useState<GenreList>([])
+  // const [chosenGenre, setChosenGenre] = useState<Game[]>([])
+  // const [voteArray, setVoteArray] = useState<CountObject[]>([])
+  // const [winner, setWinner] = useState<CountObject | null>(null)
+  // const [showOptions, setShowOptions] = useState<boolean>(false)
 
-  useEffect(() => {
-    getThreeRandomGenres()
-  }, [])
+  // useEffect(() => {
+  //   if (chosenGenre.length > 0) {
+  //     getRandomGames()
+  //   }
+  // }, [chosenGenre])
 
-  const getThreeRandomGenres = () => {
-    const chosenGenres: string[] = []
-    const keys = Object.keys(GENRES)
-    while (chosenGenres.length < 3) {
-      const randomProperty = () => {
-        const r = Math.floor(keys.length * Math.random()) + 1
-        const randomKey = keys[r]
-        return randomKey
-      }
-      const newGenre = randomProperty()
-      if (!chosenGenres.includes(newGenre)) {
-        chosenGenres.push(newGenre)
-      }
-    }
-    setGenresForVoting(chosenGenres)
-  }
+  // const validateNumberInput = (e: React.FormEvent<HTMLInputElement>) => {
+  //   const target = e.target as HTMLInputElement
+  //   if (target.value == '') {
+  //     setGamesToVoteOn(0)
+  //   } else if (parseInt(target.value) > 10) {
+  //     setGamesToVoteOn(10)
+  //   } else {
+  //     setGamesToVoteOn((v) => (target.validity.valid ? parseInt(target.value) : v))
+  //   }
+  // }
 
-  const getRandomGames = (key: string) => {
-    const gameList = data[key as keyof Genre]
-    const randomArray: Game[] = []
-    while (randomArray.length < 3) {
-      const r = Math.floor(Math.random() * gameList.length)
-      if (!randomArray.includes(gameList[r])) {
-        randomArray.push(gameList[r])
-      }
-    }
-    console.log(randomArray)
-    setRandomGames(randomArray)
-  }
+  // const getThreeRandomGenres = () => {
+  //   const chosenGenres: GenreList = []
+  //   while (chosenGenres.length < 3) {
+  //     const randomProperty = () => {
+  //       const item = genreData[Math.floor(Math.random() * genreData.length)]
+  //       return item
+  //     }
+  //     const genreItem = randomProperty()
+  //     if (!chosenGenres?.includes(genreItem)) chosenGenres.push(genreItem)
+  //   }
+  //   setGenresForVoting(chosenGenres)
+  // }
+
+  // const selectGenre = (selectedGenre: Game[]) => {
+  //   setChosenGenre(selectedGenre)
+  // }
+
+  // const getRandomGames = () => {
+  //   const randomGames: Game[] = []
+  //   while (randomGames.length < gamesToVoteOn) {
+  //     const item = chosenGenre![Math.floor(Math.random() * chosenGenre!.length)]
+  //     if (!randomGames.includes(item) && item.name !== undefined) {
+  //       voteArray.push({ idx: chosenGenre.length, count: 0, name: item.name })
+  //       randomGames.push(item)
+  //     }
+  //   }
+  //   setRandomGames(randomGames)
+  // }
+
+  // const addVote = (gameNumber: number) => {
+  //   const nextVoteArray = voteArray.map((obj, idx) => {
+  //     if (gameNumber === idx) {
+  //       return { idx: gameNumber, count: obj.count + 1, name: obj.name }
+  //     } else {
+  //       return obj
+  //     }
+  //   })
+  //   setVoteArray(nextVoteArray)
+  // }
+
+  // const reset = () => {
+  //   setRandomGames([])
+  //   setGenresForVoting([])
+  //   setChosenGenre([])
+  //   setVoteArray([])
+  //   setWinner(null)
+  // }
+
+  // const determineWinner = () => {
+  //   const sortedVoteArray = [...voteArray].sort((a, b) => {
+  //     return b.count - a.count
+  //   })
+  //   setWinner(sortedVoteArray[0])
+  // }
 
   return (
-    <div className='home-container'>
-      <div className='home-item-container'>
-        {genresForVoting.map((genre) => (
-          <button key={genre} onClick={() => setChosenGenre(GENRES[genre as keyof Genre])}>
-            {genre}
-          </button>
-        ))}
-      </div>
-      <div className='home-button-container'>
-        <button onClick={() => getRandomGames(chosenGenre)}>Randomize</button>
-      </div>
-      <div>
-        {randomGames.length > 0 &&
-          randomGames.map((game) => <div key={game.name}>{game.name}</div>)}
-      </div>
-    </div>
+    <div>Hello</div>
+    // <Window size='medium-window' label='MAGIC GAME PICKER'>
+    //   <div className='home-container'>
+    //     <div className='home-inner-container'>
+    //       {genresForVoting.length === 0 && chosenGenre.length === 0 && (
+    //         <button className='home-genre-select-button' onClick={() => getThreeRandomGenres()}>
+    //           PICK THREE GENRES
+    //         </button>
+    //       )}
+    //       <div className='home-item-container'>
+    //         {genresForVoting.length > 0 &&
+    //           chosenGenre.length === 0 &&
+    //           genresForVoting.map((genre, idx) => (
+    //             <GenreObject key={idx} genre={genre} idx={idx} selectGenre={selectGenre} />
+    //           ))}
+    //       </div>
+    //       <div className='home-game-item-container'>
+    //         {randomGames.length > 0 &&
+    //           !winner &&
+    //           randomGames.map((game, idx) => (
+    //             <GameObject
+    //               key={game.name}
+    //               game={game}
+    //               idx={idx}
+    //               voteArray={voteArray}
+    //               addVote={addVote}
+    //             />
+    //           ))}
+    //       </div>
+    //       <div>
+    //         {randomGames.length > 0 && !winner && (
+    //           <button onClick={() => determineWinner()}>Determine Winner</button>
+    //         )}
+    //       </div>
+    //       <div>{winner && <div>{winner.name}</div>}</div>
+    //       <div>{winner && <button onClick={reset}>RESET</button>}</div>
+    //       <div>
+    //         <button onClick={() => setShowOptions(!showOptions)}>OPTIONS</button>
+    //       </div>
+    //       {showOptions && (
+    //         <div className='home-options-container'>
+    //           <div className='home-options-header'>OPTIONS</div>
+    //           <div>No. of Games (Max 10)</div>
+    //           <input
+    //             type='text'
+    //             pattern='[0-9]*'
+    //             value={gamesToVoteOn}
+    //             onChange={(e) => validateNumberInput(e)}
+    //           />
+    //           <button onClick={() => setShowOptions(false)}>CLOSE</button>
+    //         </div>
+    //       )}
+    //     </div>
+    //   </div>
+    // </Window>
   )
 }
 

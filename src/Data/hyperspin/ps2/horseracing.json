@@ -1,4 +1,4 @@
-{  
+{
   "horseracing": [
     {
       "name": "Barbie Horse Adventures - Riding Camp (USA)",
@@ -7,7 +7,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Breeders' Cup - World Thoroughbred Championships (USA)",
@@ -16,7 +16,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Frankie Dettori Racing (Europe)",
@@ -25,7 +25,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "G1 Jockey (Europe)",
@@ -34,7 +34,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "G1 Jockey 3 (USA)",
@@ -43,7 +43,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "G1 Jockey 4 (Europe)",
@@ -52,7 +52,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gallop Racer 2001 (USA)",
@@ -61,7 +61,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gallop Racer 2003 - A New Breed (USA)",
@@ -70,7 +70,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gallop Racer 2004 (USA)",
@@ -79,7 +79,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gallop Racer 2006 (USA)",
@@ -88,7 +88,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Lucinda Green's Equestrian Challenge (USA)",
@@ -97,7 +97,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "My Horse & Me 2 (Europe)",
@@ -106,7 +106,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Riding Star (USA)",
@@ -115,7 +115,7 @@
       "tags": ["sports", "horse", "fake"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

@@ -1,4 +1,4 @@
-{  
+{
   "pinball": [
     {
       "name": "Akira Psycho Ball (Europe)",
@@ -7,7 +7,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Flipnic - Ultimate Pinball (USA)",
@@ -16,7 +16,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gottlieb Pinball Classics (Europe)",
@@ -25,7 +25,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Pinball (Europe)",
@@ -34,7 +34,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Pinball Fun (Europe)",
@@ -43,7 +43,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Pinball Hall of Fame - The Gottlieb Collection (USA)",
@@ -52,7 +52,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Pinball Hall of Fame - The Williams Collection (USA)",
@@ -61,7 +61,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Powershot Pinball (Europe)",
@@ -70,7 +70,7 @@
       "tags": ["pinball"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }
