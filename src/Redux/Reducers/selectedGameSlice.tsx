@@ -8,14 +8,17 @@ export interface SelectedGameState {
 
 const initialState: SelectedGameState = {
   selectedGameData: {
-    name: undefined,
-    developer: undefined,
-    year: undefined,
+    cover: '',
+    description: [],
+    developer: [],
+    'moby-id': '',
+    'moby-link': '',
+    name: '',
+    publisher: [],
+    release: '',
+    screenshots: [],
     tags: [],
-    picture: [],
-    challenge: [],
-    'dl-id': undefined,
-    cloneof: undefined,
+    trivia: [],
   },
 }
 

@@ -1,3 +1,5 @@
+import { Genre } from './GenreInterface'
+
 export interface Game {
   cover?: string
   description?: string[]
@@ -18,4 +20,8 @@ export interface GameList {
 
 export interface GameByTagList {
   [key: string]: Game[]
+}
+
+export interface GameData {
+  [key: string]: Genre[]
 }

@@ -1,15 +1,17 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
-import { GenreItem } from '../../Constants/genres'
+import { Genre } from '../../Interfaces/GenreInterface'
 import { RootState } from '../store'
 
 export interface GameDataState {
-  consoleData: GenreItem[]
+  consoleData: Genre[]
 }
 
 const initialState: GameDataState = {
   consoleData: [
     {
-      data: undefined,
+      data: {
+        slug: [],
+      },
       name: 'None',
       key: 'none',
     },

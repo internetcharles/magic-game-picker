@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { fullGameList } from '../../Constants/genres'
+import { Game } from '../../Interfaces/GameInterface'
 import { Genre } from '../../Interfaces/GenreInterface'
 import { useAppDispatch, useAppSelector } from '../../Redux/hooks'
 import { setGenreGames } from '../../Redux/Reducers/genreGamesSlice'
@@ -19,7 +21,7 @@ const GenreScreen: React.FC = () => {
 
   useEffect(() => {
     const genreMap = gameData.consoleData.map((genre) => {
-      return { name: genre.name, key: genre.key }
+      return { name: genre.name, key: genre.key, data: genre.data }
     })
     console.log(gameData)
     setGenreList(genreMap)
@@ -65,11 +67,19 @@ const GenreScreen: React.FC = () => {
         }
       })
 
-      if (selectedGenreGames !== undefined && selectedGenreGames.data !== undefined) {
+      if (
+        selectedGenreGames !== undefined &&
+        selectedGenreGames.data !== undefined &&
+        gameData.consoleData !== undefined
+      ) {
+        const gameArray: Game[] = []
+        selectedGenreGames.data.slug.forEach((name) => {
+          gameArray.push(fullGameList[name])
+        })
+
         dispatch(
           setGenreGames({
-            genreGames:
-              selectedGenreGames.data[selectedGenre.key as keyof typeof selectedGenreGames.data],
+            genreGames: gameArray,
           }),
         )
       }
