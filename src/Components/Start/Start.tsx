@@ -1,5 +1,6 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { gamesByTag } from '../../Constants/genres'
 import MiniButton from '../Home/Global/MiniButton'
 import Window from '../Home/Global/Window'
 import './Styles/Start.scss'
@@ -10,6 +11,10 @@ const Start: React.FC = () => {
   const navigateToSystemSelect = () => {
     navigate('system-select')
   }
+
+  useEffect(() => {
+    console.log(gamesByTag())
+  }, [])
 
   return (
     <Window size='small-window' label='MAGIC GAME PICKER'>
