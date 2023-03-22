@@ -1,4 +1,4 @@
-{  
+{
   "flying": [
     {
       "name": "Ace Combat 04 - Shattered Skies (USA)",
@@ -7,7 +7,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Ace Combat 5 - The Unsung War (USA)",
@@ -16,7 +16,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Ace Combat Zero - The Belkan War (USA)",
@@ -25,7 +25,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Aces of War (Europe)",
@@ -34,7 +34,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Air Raid 3 (Europe)",
@@ -43,7 +43,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Hugo Cannon Cruise (Europe)",
@@ -52,7 +52,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Snoopy vs. the Red Baron (USA)",
@@ -61,7 +61,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "They Came from the Skies (Europe)",
@@ -70,7 +70,7 @@
       "tags": ["flying"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

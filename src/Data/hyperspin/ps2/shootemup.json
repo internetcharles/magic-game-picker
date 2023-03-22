@@ -1,58 +1,58 @@
-{  
-  "shootemoff": [
+{
+  "shootemup": [
     {
       "name": "Alien Hominid (USA)",
       "developer": "The Behemoth",
       "year": 2004,
-      "tags": ["shootemoff"],
+      "tags": ["shootemup"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Contra - Shattered Soldier (USA)",
       "developer": "KCET",
       "year": 2002,
-      "tags": ["shootemoff"],
+      "tags": ["shootemup"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Heavenly Guardian (USA)",
       "developer": "Starfish",
       "year": 2008,
-      "tags": ["shootemoff"],
+      "tags": ["shootemup"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Metal Slug 3 (Europe)",
       "developer": "SNK",
       "year": 2004,
-      "tags": ["shootemoff"],
+      "tags": ["shootemup"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Metal Slug 4 & 5 (USA) (Disc 1)",
       "developer": "BrezzaSoft",
       "year": 2005,
-      "tags": ["shootemoff"],
+      "tags": ["shootemup"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Space Invaders - Invasion Day (Europe)",
       "developer": "Sammy Studios",
       "year": 2003,
-      "tags": ["shootemoff"],
+      "tags": ["shootemup"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
-}  
+}

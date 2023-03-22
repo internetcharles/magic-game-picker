@@ -1,0 +1,18 @@
+.start-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(237, 237, 237);
+  font-family: 'Sysfont';
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.start-header {
+  font-size: 30pt;
+}
+
+.start-description {
+  text-align: center;
+}

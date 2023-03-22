@@ -1,203 +1,202 @@
 {
-  "shoot": [
+  "bulletheck": [
     {
       "name": "1945 I & II The Arcade Games (Europe)",
       "developer": "Takara",
       "year": 2004,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Castle Shikigami 2 (USA)",
       "developer": "Alfa System",
       "year": 2004,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Dragon Blaze (Europe)",
       "developer": "Psikyo",
       "year": 2006,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gigawing Generations (Europe)",
       "developer": "Takumi Corporation",
       "year": 2006,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gradius III and IV (USA)",
       "developer": "KCET",
       "year": 2000,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gradius V (USA)",
       "developer": "Treasure",
       "year": 2004,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Gunbird Special Edition (Europe)",
       "developer": "Psikyo",
       "year": 2005,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Homura (Europe)",
       "developer": "Skonec",
       "year": 2006,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
-    
     {
       "name": "Mobile Light Force 2 (USA)",
       "developer": "Alfa System",
       "year": 2003,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Ocean Commander (Europe)",
       "developer": "Phoenix Games",
       "year": 2007,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "One Piece - Round the Land! (Europe)",
       "developer": "Bandai",
       "year": 2004,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Psyvariar - Complete Edition (Europe)",
       "developer": "Skonec",
       "year": 2002,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "R-Type Final (USA)",
       "developer": "Irem",
       "year": 2004,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Raiden III (USA)",
       "developer": "Moss",
       "year": 2007,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Samurai Aces (Europe)",
       "developer": "Psikyo",
       "year": 2006,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Shadow of Ganymede (Europe)",
       "developer": "Mere Mortals",
       "year": 2005,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Silpheed - The Lost Planet (USA)",
       "developer": "Treasure",
       "year": 2001,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Sol Divide (Europe)",
       "developer": "Psikyo",
       "year": 2006,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Steel Dragon EX (Europe)",
       "developer": "Warashi",
       "year": 2005,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Tengai (Europe)",
       "developer": "Psikyo",
       "year": 2006,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "XII Stag (Europe)",
       "developer": "Triangle Service",
       "year": 2004,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Xyanide - Resurrection (Europe)",
       "developer": "Playlogic",
       "year": 2007,
-      "tags": "Shoot-'Em-Up",
+      "tags": ["Shoot-'Em-Up"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

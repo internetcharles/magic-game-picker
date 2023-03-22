@@ -1,4 +1,4 @@
-{  
+{
   "water": [
     {
       "name": "Arctic Thunder (USA)",
@@ -7,7 +7,7 @@
       "tags": ["water", "racing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Splashdown (USA)",
@@ -16,7 +16,7 @@
       "tags": ["water"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Splashdown - Rides Gone Wild (USA)",
@@ -25,7 +25,7 @@
       "tags": ["water"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

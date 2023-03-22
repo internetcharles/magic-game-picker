@@ -1,4 +1,4 @@
-{  
+{
   "minigames": [
     {
       "name": "Dynamite 100 (Europe)",
@@ -7,7 +7,7 @@
       "tags": ["mini"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Que pasa Neng! El videojuego (Spain)",
@@ -16,7 +16,7 @@
       "tags": ["mini"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

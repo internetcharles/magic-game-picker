@@ -1,4 +1,4 @@
-{  
+{
   "boxing": [
     {
       "name": "Black & Bruised (USA)",
@@ -7,7 +7,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Boxing Champions (Europe)",
@@ -16,7 +16,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Fight Night 2004 (USA)",
@@ -25,7 +25,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Fight Night Round 2 (USA)",
@@ -34,7 +34,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Fight Night Round 3 (USA)",
@@ -43,7 +43,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Heartbeat Boxing (Europe)",
@@ -52,7 +52,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "K-1 World Grand Prix (USA)",
@@ -61,7 +61,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "K.O. King (Europe)",
@@ -70,7 +70,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Knockout Kings 2001 (USA)",
@@ -79,7 +79,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Knockout Kings 2002 (USA)",
@@ -88,7 +88,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Mike Tyson Heavyweight Boxing (USA)",
@@ -97,7 +97,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Ready 2 Rumble Boxing - Round 2 (USA)",
@@ -106,7 +106,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Rocky (USA)",
@@ -115,7 +115,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Rocky - Legends (USA)",
@@ -124,7 +124,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Victorious Boxers - Ippo's Road to Glory (USA)",
@@ -133,7 +133,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     },
     {
       "name": "Victorious Boxers 2 - Fighting Spirit (USA)",
@@ -142,7 +142,7 @@
       "tags": ["sports", "boxing"],
       "picture": [],
       "challenge": [],
-      "dl-id": "",
+      "dl-id": ""
     }
   ]
 }

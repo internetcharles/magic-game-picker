@@ -1,0 +1,37 @@
+.console-select-container {
+  background-color: rgb(237, 237, 237);
+  font-family: 'Sysfont';
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.console-select-header {
+  margin-bottom: 4%;
+}
+
+.console-select-header-options-container {
+  margin-left: 5%;
+}
+
+.console-select-label-item {
+  margin-left: 10px;
+}
+
+.console-select-options-container {
+  display: flex;
+}
+
+.console-select-coming-soon {
+  font-size: 16pt;
+  text-align: center;
+}
+
+.console-select-submit-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5%;
+}
