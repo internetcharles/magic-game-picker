@@ -12,10 +12,8 @@ const GameSelect: React.FC = () => {
   const dispatch = useAppDispatch()
   const navigate = useNavigate()
 
-  const gameData = useAppSelector((state) => state.genreGamesData)
+  const { randomGames } = useAppSelector((state) => state.randomGamesData)
 
-  const [numberOfGamesToVoteOn, setNumberOfGamesToVoteOn] = useState<number>(5)
-  const [randomGames, setRandomGames] = useState<Game[]>([])
   const [selectedGame, setSelectedGame] = useState<Game>({
     cover: undefined,
     description: [],
@@ -31,27 +29,11 @@ const GameSelect: React.FC = () => {
   })
 
   useEffect(() => {
-    getRandomGames()
-  }, [])
-
-  useEffect(() => {
     if (selectedGame.name !== undefined) {
       dispatch(setSelectedGameData({ selectedGameData: selectedGame }))
       navigate('/winner-screen')
     }
   }, [selectedGame])
-
-  const getRandomGames = () => {
-    const randomGames: Game[] = []
-    while (randomGames.length < numberOfGamesToVoteOn) {
-      const item = gameData.genreGames![Math.floor(Math.random() * gameData!.genreGames.length)]
-      if (!randomGames.includes(item) && item.name !== undefined) {
-        randomGames.push(item)
-      }
-    }
-    setRandomGames(randomGames)
-    console.log(randomGames)
-  }
 
   const selectGame = (game: Game) => {
     setSelectedGame(game)

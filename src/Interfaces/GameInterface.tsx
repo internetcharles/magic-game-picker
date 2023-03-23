@@ -3,7 +3,7 @@ import { Genre } from './GenreInterface'
 export interface Game {
   cover?: string
   description?: string[]
-  developer?: number[]
+  developer?: string[]
   'moby-id'?: string
   'moby-link'?: string
   name?: string

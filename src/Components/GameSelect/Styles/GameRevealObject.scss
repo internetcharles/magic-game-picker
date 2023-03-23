@@ -1,0 +1,53 @@
+.game-reveal-container {
+  background-color: darkgrey;
+  height: 100%;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Sysfont';
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.game-reveal-name {
+  font-size: 35pt;
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+.game-reveal-description-container {
+  margin-top: 3%;
+  background-color: white;
+  border: 3px solid rgb(111, 111, 111);
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.game-reveal-image-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 3%;
+}
+
+.game-reveal-image {
+  width: 300px;
+  height: 200px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.game-reveal-description {
+  margin-bottom: 2%;
+}
+
+.game-reveal-button-container {
+  margin-top: 3%;
+}

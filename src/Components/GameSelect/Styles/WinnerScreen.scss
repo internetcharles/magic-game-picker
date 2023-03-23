@@ -1,9 +1,16 @@
 .winner-screen-container {
   height: 100%;
   width: 100%;
-  background-color: white;
+  background-color: darkgrey;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  font-family: 'Sysfont';
+  flex-wrap: wrap;
+}
+
+.winner-screen-title {
+  font-size: 50pt;
+  margin-bottom: 10%;
 }

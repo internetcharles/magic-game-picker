@@ -1,6 +1,6 @@
 .genre-item-container {
   width: 250px;
-  height: 120px;
+  height: 200px;
   display: flex;
   flex-direction: column;
   font-family: 'Sysfont';
@@ -9,10 +9,7 @@
 }
 
 .genre-item-name {
-  font-size: 30pt;
+  font-size: 25pt;
   margin-bottom: 10%;
-}
-
-.genre-item-vote-header {
-  font-size: 14pt;
+  text-align: center;
 }

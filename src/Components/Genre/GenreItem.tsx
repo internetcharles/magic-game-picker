@@ -1,4 +1,5 @@
 import React from 'react'
+import MiniButton from '../Home/Global/MiniButton'
 import './Styles/GenreItem.scss'
 
 interface Props {
@@ -9,9 +10,9 @@ interface Props {
 
 const GenreItem: React.FC<Props> = ({ name, idx, handleButtonPress }) => {
   return (
-    <div onClick={handleButtonPress} className='genre-item-container'>
+    <div className='genre-item-container'>
       <div className='genre-item-name'>{name}</div>
-      <div className='genre-item-vote-header'>!vote{idx}</div>
+      <MiniButton label='SELECT' icon='' handleButtonPress={handleButtonPress} />
     </div>
   )
 }

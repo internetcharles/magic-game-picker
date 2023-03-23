@@ -52,17 +52,20 @@ const GenreScreen: React.FC = () => {
       if (!chosenGenres?.includes(genreItem)) chosenGenres.push(genreItem)
     }
     setGenresForVoting(chosenGenres)
+    console.log(chosenGenres)
   }
 
   const selectGenre = (chosenGenre: Genre) => {
+    console.log(chosenGenre)
     setSelectedGenre(chosenGenre)
   }
 
   const revealWinner = () => {
     setWinnerRevealed(true)
     if (selectedGenre !== null && selectedGenre.key !== undefined) {
+      console.log('SELECTED GENRE', selectedGenre)
       const selectedGenreGames = gameData.consoleData.find((game) => {
-        if (selectedGenre.key !== undefined && game.key === selectedGenre.key && game.data) {
+        if (selectedGenre.key !== undefined && game.name === selectedGenre.name && game.data) {
           return game.data[selectedGenre.key as keyof typeof game.data]
         }
       })
@@ -76,7 +79,7 @@ const GenreScreen: React.FC = () => {
         selectedGenreGames.data.slug.forEach((name) => {
           gameArray.push(fullGameList[name])
         })
-
+        console.log('GENRE GAMES', selectedGenreGames)
         dispatch(
           setGenreGames({
             genreGames: gameArray,
@@ -85,7 +88,7 @@ const GenreScreen: React.FC = () => {
       }
     }
     setTimeout(() => {
-      navigate('/game-screen')
+      navigate('/game-reveal')
     }, 5000)
   }
 
@@ -114,8 +117,7 @@ const GenreScreen: React.FC = () => {
             ))}
         </div>
         <div className='genre-screen-timer-container'>
-          <div className='genre-screen-timer-header'>TIMER</div>
-          <div className='genre-screen-timer-number'>60</div>
+          <div className='genre-screen-timer-header'>CHOOSE NOW!</div>
         </div>
       </div>
     </Window>

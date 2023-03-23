@@ -2,6 +2,7 @@ import { configureStore } from '@reduxjs/toolkit'
 import { gameDataSlice } from './Reducers/gameDataSlice'
 import { genreGamesSlice } from './Reducers/genreGamesSlice'
 import { genreSlice } from './Reducers/genreSlice'
+import { randomGamesSlice } from './Reducers/randomGamesSlice'
 import { selectedGameDataSlice } from './Reducers/selectedGameSlice'
 
 export const store = configureStore({
@@ -10,6 +11,7 @@ export const store = configureStore({
     genreData: genreSlice.reducer,
     genreGamesData: genreGamesSlice.reducer,
     selectedGameData: selectedGameDataSlice.reducer,
+    randomGamesData: randomGamesSlice.reducer,
   },
 })
 

@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import { Game } from '../../Interfaces/GameInterface'
+import MiniButton from '../Home/Global/MiniButton'
 import './Styles/GameObject.scss'
 
 interface Props {
@@ -16,9 +17,9 @@ const GameObject: React.FC<Props> = ({ game, idx, handleGamePress }) => {
   })
 
   return (
-    <div onClick={() => handleGamePress()} className='game-container'>
+    <div className='game-container'>
       <div className='game-name'>{game.name}</div>
-      <div className='game-vote'>!vote{idx}</div>
+      <MiniButton label='SELECT' icon='' handleButtonPress={() => handleGamePress()} />
     </div>
   )
 }
