@@ -17,14 +17,14 @@ const GameSelect: React.FC = () => {
   const [numberOfGamesToVoteOn, setNumberOfGamesToVoteOn] = useState<number>(5)
   const [randomGames, setRandomGames] = useState<Game[]>([])
   const [selectedGame, setSelectedGame] = useState<Game>({
-    cover: '',
+    cover: undefined,
     description: [],
     developer: [],
-    'moby-id': '',
-    'moby-link': '',
-    name: '',
+    'moby-id': undefined,
+    'moby-link': undefined,
+    name: undefined,
     publisher: [],
-    release: '',
+    release: undefined,
     screenshots: [],
     tags: [],
     trivia: [],
@@ -50,6 +50,7 @@ const GameSelect: React.FC = () => {
       }
     }
     setRandomGames(randomGames)
+    console.log(randomGames)
   }
 
   const selectGame = (game: Game) => {
